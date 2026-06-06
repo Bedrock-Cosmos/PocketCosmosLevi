@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
+      "Contents": [
+        {
+          "Id": "7e939005-fc6e-4235-a0ae-58225995a6b4",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BlockOfDiamond_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Liefubledo",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "40e2265d-8423-441a-8030-860216b297fd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

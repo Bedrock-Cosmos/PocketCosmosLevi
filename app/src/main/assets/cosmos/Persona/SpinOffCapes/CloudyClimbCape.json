@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cac8a80c-dfd5-4056-9af0-3bb549a9e8d3",
+      "Contents": [
+        {
+          "Id": "71e24d98-b9e8-4539-bf9a-1646dc58f88d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/CloudyClimbCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "371b2b70-b2f9-4b2b-b4f6-7dfda684df4f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

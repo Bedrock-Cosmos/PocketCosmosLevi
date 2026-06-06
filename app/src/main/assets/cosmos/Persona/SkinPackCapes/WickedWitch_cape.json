@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d6a699e7-34cc-420b-90d6-b91b1982a1ec",
+      "Contents": [
+        {
+          "Id": "89974215-86bc-40a5-b8f8-0b955cb1548b",
+          "Url": "https://capes.bedrock-cosmos.app/zips/WickedWitch_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f5e722e9-83c5-4af3-87a1-c1454db6d8c1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

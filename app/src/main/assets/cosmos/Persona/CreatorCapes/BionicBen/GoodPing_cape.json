@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9616be9d-eca6-4d5d-aae7-fce58530a9f5",
+      "Contents": [
+        {
+          "Id": "faa83b76-ef7e-48d6-a0a6-720848e4a114",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GoodPing_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1ee7c325-5383-49e7-9846-df6561b9362a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

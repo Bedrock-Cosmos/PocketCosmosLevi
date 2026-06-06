@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ae58c408-f09e-45c0-8dc5-e24ce9459997",
+      "Contents": [
+        {
+          "Id": "9e54f93b-9365-45e8-b191-048b836a1b16",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Bacon_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8d2486b9-486c-4c13-8b4c-011d7108ea1c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

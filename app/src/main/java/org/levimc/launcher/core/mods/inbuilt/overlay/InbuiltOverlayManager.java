@@ -35,6 +35,7 @@ public class InbuiltOverlayManager {
     private String selectedDisplayModId;
     private HudEditorSelectionListener hudEditorSelectionListener;
     private boolean hudEditorMode = false;
+    private HttpInterceptorOverlay httpInterceptorOverlay;
     private int baseY = 150;
     private static final int SPACING = 70;
     private static final int START_X = 50;
@@ -69,6 +70,7 @@ public class InbuiltOverlayManager {
         modActiveStates.put(ModIds.CPS_DISPLAY, false);
         modActiveStates.put(ModIds.SNAPLOOK, false);
         modActiveStates.put(ModIds.VIRTUAL_CURSOR, false);
+        modActiveStates.put(ModIds.HTTP_INTERCEPTOR, true);
 
         modPositionMap.put(ModIds.QUICK_DROP, nextY + SPACING);
         modPositionMap.put(ModIds.CAMERA_PERSPECTIVE, nextY + SPACING * 2);
@@ -201,6 +203,12 @@ public class InbuiltOverlayManager {
                 cursorOverlay.show(savedX, savedY);
                 overlays.add(cursorOverlay);
                 modOverlayMap.put(modId, cursorOverlay);
+                break;
+            case ModIds.HTTP_INTERCEPTOR:
+                if (httpInterceptorOverlay == null) {
+                    httpInterceptorOverlay = new HttpInterceptorOverlay(activity);
+                    httpInterceptorOverlay.show(0, 0);
+                }
                 break;
         }
     }
@@ -399,6 +407,10 @@ public class InbuiltOverlayManager {
         if (hudOverlay != null) {
             hudOverlay.hide();
             hudOverlay = null;
+        }
+        if (httpInterceptorOverlay != null) {
+            httpInterceptorOverlay.hide();
+            httpInterceptorOverlay = null;
         }
         instance = null;
     }

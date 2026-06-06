@@ -1,0 +1,94 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6"
+          }
+        ],
+        "Title": {
+          "NEUTRAL": "Mario Mash-Up",
+          "neutral": "Mario Mash-Up"
+        },
+        "Description": {
+          "NEUTRAL": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!",
+          "neutral": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["title.bedrockvanilla"],
+        "Tags": [
+          "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+          "47ca6989-81db-404b-a9f1-f3391258b8a2",
+          "mashup",
+          "has_skinpack",
+          "survival_spawn_world",
+          "genre.survival",
+          "subgenre.open_world",
+          "playercount.1-4",
+          "1P"
+        ],
+        "CreationDate": "2025-10-26T00:00:00Z",
+        "LastModifiedDate": "2025-10-26T00:00:00Z",
+        "Images": [
+          {
+            "Id": "62e8bc6f-43d1-4f85-8b2f-6057b36def49",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://bedrock-cosmos.app/thumbnails/MarioMashUp.jpeg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+            "Amount": 1
+          }
+        ],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+          "originalCreatorId": "2535448579972708",
+          "price": -1,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+              "version": "1.1.6"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+          "hardwareMemoryTier": 0
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
