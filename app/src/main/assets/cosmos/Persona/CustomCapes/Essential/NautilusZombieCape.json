@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "49b293c9-c0b7-4100-a760-17d213e9417e",
+      "Contents": [
+        {
+          "Id": "d04e2614-03c5-4173-98d9-4077018f6a18",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/NautilusZombieCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Essential",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c00b714d-3209-46a5-8dc3-a01b978a4790",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

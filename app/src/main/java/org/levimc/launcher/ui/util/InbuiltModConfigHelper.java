@@ -40,6 +40,7 @@ public class InbuiltModConfigHelper {
             case ModIds.CPS_DISPLAY -> R.drawable.ic_cps;
             case ModIds.SNAPLOOK -> R.drawable.ic_snaplook_disabled;
             case ModIds.VIRTUAL_CURSOR -> R.drawable.ic_virtual_cursor;
+            case ModIds.HTTP_INTERCEPTOR -> R.drawable.ic_cosmos;
             default -> R.drawable.ic_settings;
         };
     }

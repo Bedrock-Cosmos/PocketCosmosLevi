@@ -33,6 +33,8 @@ public class InbuiltModManager {
     private static final int DEFAULT_OVERLAY_OPACITY = 100;
     private static final int DEFAULT_ZOOM_LEVEL = 50;
     private static final int DEFAULT_CURSOR_SENSITIVITY = 120;
+    private static final String KEY_COSMOS = "cosmos";
+    private static final String KEY_NEWS_COSMOS = "cosmos_news";
 
     private static volatile InbuiltModManager instance;
     private final SharedPreferences prefs;
@@ -40,7 +42,15 @@ public class InbuiltModManager {
 
     private InbuiltModManager(Context context) {
         prefs = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE);
-        addedMods = new HashSet<>(prefs.getStringSet(KEY_ADDED_MODS, new HashSet<>()));
+        Set<String> saved = prefs.getStringSet(KEY_ADDED_MODS, null);
+        if (saved == null) {
+            // First launch, enable HTTP_INTERCEPTOR by default
+            addedMods = new HashSet<>();
+            addedMods.add(ModIds.HTTP_INTERCEPTOR);
+            savePrefs();
+        } else {
+            addedMods = new HashSet<>(saved);
+        }
     }
 
     public static InbuiltModManager getInstance(Context context) {
@@ -56,36 +66,43 @@ public class InbuiltModManager {
 
     public List<InbuiltMod> getAllMods(Context context) {
         List<InbuiltMod> mods = new ArrayList<>();
-        mods.add(new InbuiltMod(ModIds.QUICK_DROP, 
-            context.getString(R.string.inbuilt_mod_quick_drop),
-            context.getString(R.string.inbuilt_mod_quick_drop_desc), false, addedMods.contains(ModIds.QUICK_DROP)));
+        mods.add(new InbuiltMod(
+                ModIds.HTTP_INTERCEPTOR,
+                context.getString(R.string.inbuilt_mod_http_interceptor),
+                context.getString(R.string.inbuilt_mod_http_interceptor_desc),
+                false,
+                addedMods.contains(ModIds.HTTP_INTERCEPTOR)
+        ));
+        mods.add(new InbuiltMod(ModIds.QUICK_DROP,
+                context.getString(R.string.inbuilt_mod_quick_drop),
+                context.getString(R.string.inbuilt_mod_quick_drop_desc), false, addedMods.contains(ModIds.QUICK_DROP)));
         mods.add(new InbuiltMod(ModIds.CAMERA_PERSPECTIVE,
-            context.getString(R.string.inbuilt_mod_camera),
-            context.getString(R.string.inbuilt_mod_camera_desc), false, addedMods.contains(ModIds.CAMERA_PERSPECTIVE)));
+                context.getString(R.string.inbuilt_mod_camera),
+                context.getString(R.string.inbuilt_mod_camera_desc), false, addedMods.contains(ModIds.CAMERA_PERSPECTIVE)));
         mods.add(new InbuiltMod(ModIds.TOGGLE_HUD,
-            context.getString(R.string.inbuilt_mod_hud),
-            context.getString(R.string.inbuilt_mod_hud_desc), false, addedMods.contains(ModIds.TOGGLE_HUD)));
+                context.getString(R.string.inbuilt_mod_hud),
+                context.getString(R.string.inbuilt_mod_hud_desc), false, addedMods.contains(ModIds.TOGGLE_HUD)));
         mods.add(new InbuiltMod(ModIds.AUTO_SPRINT,
-            context.getString(R.string.inbuilt_mod_autosprint),
-            context.getString(R.string.inbuilt_mod_autosprint_desc), true, addedMods.contains(ModIds.AUTO_SPRINT)));
+                context.getString(R.string.inbuilt_mod_autosprint),
+                context.getString(R.string.inbuilt_mod_autosprint_desc), true, addedMods.contains(ModIds.AUTO_SPRINT)));
         mods.add(new InbuiltMod(ModIds.CHICK_PET,
-            context.getString(R.string.inbuilt_mod_chick_pet),
-            context.getString(R.string.inbuilt_mod_chick_pet_desc), false, addedMods.contains(ModIds.CHICK_PET)));
+                context.getString(R.string.inbuilt_mod_chick_pet),
+                context.getString(R.string.inbuilt_mod_chick_pet_desc), false, addedMods.contains(ModIds.CHICK_PET)));
         mods.add(new InbuiltMod(ModIds.ZOOM,
-            context.getString(R.string.inbuilt_mod_zoom),
-            context.getString(R.string.inbuilt_mod_zoom_desc), false, addedMods.contains(ModIds.ZOOM)));
+                context.getString(R.string.inbuilt_mod_zoom),
+                context.getString(R.string.inbuilt_mod_zoom_desc), false, addedMods.contains(ModIds.ZOOM)));
         mods.add(new InbuiltMod(ModIds.FPS_DISPLAY,
-            context.getString(R.string.inbuilt_mod_fps_display),
-            context.getString(R.string.inbuilt_mod_fps_display_desc), false, addedMods.contains(ModIds.FPS_DISPLAY)));
+                context.getString(R.string.inbuilt_mod_fps_display),
+                context.getString(R.string.inbuilt_mod_fps_display_desc), false, addedMods.contains(ModIds.FPS_DISPLAY)));
         mods.add(new InbuiltMod(ModIds.CPS_DISPLAY,
-            context.getString(R.string.inbuilt_mod_cps_display),
-            context.getString(R.string.inbuilt_mod_cps_display_desc), false, addedMods.contains(ModIds.CPS_DISPLAY)));
+                context.getString(R.string.inbuilt_mod_cps_display),
+                context.getString(R.string.inbuilt_mod_cps_display_desc), false, addedMods.contains(ModIds.CPS_DISPLAY)));
         mods.add(new InbuiltMod(ModIds.SNAPLOOK,
-            context.getString(R.string.inbuilt_mod_snaplook),
-            context.getString(R.string.inbuilt_mod_snaplook_desc), false, addedMods.contains(ModIds.SNAPLOOK)));
+                context.getString(R.string.inbuilt_mod_snaplook),
+                context.getString(R.string.inbuilt_mod_snaplook_desc), false, addedMods.contains(ModIds.SNAPLOOK)));
         mods.add(new InbuiltMod(ModIds.VIRTUAL_CURSOR,
-            context.getString(R.string.inbuilt_mod_virtual_cursor),
-            context.getString(R.string.inbuilt_mod_virtual_cursor_desc), false, addedMods.contains(ModIds.VIRTUAL_CURSOR)));
+                context.getString(R.string.inbuilt_mod_virtual_cursor),
+                context.getString(R.string.inbuilt_mod_virtual_cursor_desc), false, addedMods.contains(ModIds.VIRTUAL_CURSOR)));
         return mods;
     }
 
@@ -123,6 +140,16 @@ public class InbuiltModManager {
 
     public boolean isModAdded(String modId) {
         return addedMods.contains(modId);
+    }
+
+    public boolean isCosmosEnabled(){
+        return prefs.getBoolean(KEY_COSMOS, true);
+    }
+
+    public boolean isNewsEnabled() { return prefs.getBoolean(KEY_NEWS_COSMOS, true); }
+
+    public void setNews(boolean enabled) {
+        prefs.edit().putBoolean(KEY_NEWS_COSMOS, enabled).apply();
     }
 
     public int getAutoSprintKeybind() {

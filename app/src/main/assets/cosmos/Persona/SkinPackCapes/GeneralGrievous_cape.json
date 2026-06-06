@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "75d5497d-4ab9-4e43-924e-108500285082",
+      "Contents": [
+        {
+          "Id": "505a1518-b793-42e5-a414-34b19f95c943",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GeneralGrievous_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Star Wars Prequel Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c0970fd8-575e-4e11-831e-6ee9dc466752",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
