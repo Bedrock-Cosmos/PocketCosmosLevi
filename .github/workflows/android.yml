@@ -11,6 +11,9 @@ on:
       - "**"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   validate:
     runs-on: ubuntu-latest
