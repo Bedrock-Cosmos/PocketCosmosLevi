@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "34213a3e-5747-4d86-a8cd-bb131dbc0bf6",
+      "Contents": [
+        {
+          "Id": "73c4303d-7246-4db6-a124-3fc4537e2bd9",
+          "Url": "https://capes.bedrock-cosmos.app/zips/FairySackgirl_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "LittleBigPlanet™ Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ba9f5497-cf10-44a6-bb9b-11914004a209",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

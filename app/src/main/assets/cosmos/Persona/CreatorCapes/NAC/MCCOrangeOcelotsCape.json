@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cc2cd21c-407f-4bc5-858e-adcc7f4bb6db",
+      "Contents": [
+        {
+          "Id": "3e7ddbf4-c99c-48c9-9a55-8665a9bcd2ef",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCOrangeOcelotsCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "22e33fb2-0620-4872-b3b0-ad7a956a1f33",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "controlId": "SkinPackList",
+  "components": [
+    {
+      "text": {
+        "value": "Bedrock Cosmos Skins",
+        "style": {
+          "highlightColor": [],
+          "alignment": "Left",
+          "textColor": [1, 1, 1],
+          "font": "MinecraftTen",
+          "showBackground": false,
+          "showOutline": false,
+          "indent": 0,
+          "buttonWidth": 0,
+          "color": [],
+          "offerControlIdType": "None",
+          "outlineColor": []
+        },
+        "replacements": []
+      },
+      "type": "headerComp",
+      "$type": "HeaderComponent"
+    },
+    {
+      "isOwned": false,
+      "type": "skinPackListComp",
+      "$type": "SkinPackListComponent"
+    },
+    {
+      "type": "dispPreviewPieceComp",
+      "$type": "DisplayPreviewedPieceOfferComponent"
+    },
+    {
+      "items": [
+        {
+          "id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+          "contentType": "MarketplaceDurableCatalog_V1.2",
+          "title": "Mario Mash-Up",
+          "creatorName": "Minecraft",
+          "thumbnail": {
+            "tag": "Thumbnail",
+            "type": "Thumbnail",
+            "url": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg",
+            "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg"
+          },
+          "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+          "linksToInfo": {
+            "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+            "linkType": "pageId",
+            "displayType": "store_layout.store_data_driven_screen",
+            "navigateInPlace": false
+          },
+          "statistics": {
+            "skins": 40,
+            "worlds": 1,
+            "textures": 1,
+            "behaviors": 0,
+            "addOns": 0
+          },
+          "ownership": "Purchased",
+          "packType": "MashUp",
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+              "version": "1.1.5"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+          "startDate": "2026-01-11T18:00:00Z",
+          "namedLinksToInfoMap": {
+            "dr.expanded_skins": {
+              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "navigateInPlace": false
+            },
+            "dr.see_in_store": {
+              "linksTo": "ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "navigateInPlace": false
+            }
+          }
+        }
+        // ,
+        // {
+        //   "id": "61c7a786-d7ad-49e0-a710-817121cd9795",
+        //   "contentType": "MarketplaceDurableCatalog_V1.2",
+        //   "title": "Actions & Stuff 1.9.1",
+        //   "creatorName": "Oreville Studios",
+        //   "statistics": { "skins": 20, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+        //   "ownership": "NotOwned",
+        //   "packType": "SkinPack",
+        //   "packIdentity": [{ "type": "skinpack", "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a", "version": "3.1.26" }],
+        //   "namedLinksToInfoMap": {
+        //     "dr.expanded_skins": {
+        //       "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_61c7a786-d7ad-49e0-a710-817121cd9795",
+        //       "linkType": "pageId",
+        //       "displayType": "store_layout.skin_selector_screen",
+        //       "navigateInPlace": false
+        //     },
+        //     "dr.see_in_store": {
+        //       "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
+        //       "linkType": "pageId",
+        //       "displayType": "store_layout.store_data_driven_screen",
+        //       "navigateInPlace": false
+        //     }
+        //   }
+        // },
+        // {
+        //   "id": "59639b6d-4535-4002-87c5-3b604be19353",
+        //   "contentType": "MarketplaceDurableCatalog_V1.2",
+        //   "title": "1st Birthday Skin Pack",
+        //   "creatorName": "Minecraft",
+        //   "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+        //   "linksToInfo": {
+        //     "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+        //     "linkType": "pageId",
+        //     "displayType": "store_layout.store_data_driven_screen",
+        //     "navigateInPlace": false
+        //   },
+        //   "statistics": {
+        //     "skins": 22,
+        //     "worlds": 0,
+        //     "textures": 0,
+        //     "behaviors": 0,
+        //     "addOns": 0
+        //   },
+        //   "ownership": "Purchased",
+        //   "packType": "SkinPack",
+        //   "packIdentity": [
+        //     {
+        //       "type": "skinpack",
+        //       "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+        //       "version": "3.1.26"
+        //     }
+        //   ]
+        // }
+      ],
+      "totalItems": 1,
+      "linksTo": "MultiItemPage_Inventory",
+      "linksToInfo": {
+        "linksTo": "MultiItemPage_Inventory",
+        "linkType": "marketplace_inventory",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "customStoreRowConfiguration": {
+        "seeAllVisible": false,
+        "maxOffers": 1,
+        "arrowsVisible": false,
+        "visibleOffersPerRow": 0
+      },
+      "type": "itemListComp",
+      "$type": "ItemListComponent"
+    }
+  ],
+  "telemetryId": "dr.classic_skins.custom_skin_section_title"
+}

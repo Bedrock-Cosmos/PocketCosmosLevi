@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cd3790a2-2497-41d3-93f2-15cedb4fc4f0",
+      "Contents": [
+        {
+          "Id": "e371fd66-6dff-49de-b909-5a541ecbbb33",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Perseus_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9d3434fb-96f7-4dfb-8fe2-c3c6c82a8354",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

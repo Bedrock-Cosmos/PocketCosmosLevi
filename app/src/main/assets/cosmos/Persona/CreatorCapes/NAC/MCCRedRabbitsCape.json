@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "02885b68-3289-4e06-afe5-205a88d372e2",
+      "Contents": [
+        {
+          "Id": "40195d49-b48d-4eee-ba15-47ab19afed52",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCRedRabbitsCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "37f68b29-8bee-4535-a88b-f7879d504616",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

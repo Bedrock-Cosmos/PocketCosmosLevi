@@ -1,0 +1,194 @@
+{
+  "result": {
+    "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "pageId": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Doctor Who Skins Volume I'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Doctor Who Skins Volume I",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "price": {
+                    "listPrice": -1,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 57,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "Purchased",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                      "version": "1.0.6"
+                    }
+                  ],
+                  "tags": [],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2018-07-31T18:07:15.234Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth, Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros.\r\n\r\nBedrock Cosmos Note: Special thanks to Mwam for providing us with the original skin pack files.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://discord.com/vanityurl/dotcom/steakpants/flour/flower/index11.html"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                  "version": "1.0.6"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Doctor Who Skins Volume I: %s",
+                "text": {
+                  "value": "Doctor Who Skins Volume I: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

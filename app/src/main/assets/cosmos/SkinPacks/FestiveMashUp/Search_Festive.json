@@ -1,0 +1,75 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Festive Mash-Up",
+          "neutral": "Festive Mash-Up"
+        },
+        "Description": {
+          "NEUTRAL": "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!",
+          "neutral": "Celebrate the Festive period with this wintery Mash-up Pack containing a Festive style Texture Pack, Skin Pack, new music and a Festive world!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["xboxone.store"],
+        "Tags": [
+          "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+          "d44ba892-7378-4fcd-a3f1-72de53675d24",
+          "skinpack"
+        ],
+        "CreationDate": "2025-10-27T10:00:00Z",
+        "LastModifiedDate": "2025-10-27T10:00:00Z",
+        "Images": [
+          {
+            "Id": "2211bea0-8a75-4150-a548-9ccaa2f9f246",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://bedrock-cosmos.app/thumbnails/FestiveLegacy.jpeg"
+          }
+        ],
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+          "originalCreatorId": "2535448579972708",
+          "price": -1,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

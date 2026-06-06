@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "69022d1e-3714-4801-b601-96c688f8c465",
+      "Contents": [
+        {
+          "Id": "4954b842-21a4-41f0-b3a7-dd1f2444e5c2",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Poseidon_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b7281317-cf7f-4a4d-ae0a-5c7b627d2a06",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

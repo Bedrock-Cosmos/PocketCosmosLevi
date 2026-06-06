@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "479fe5d3-8304-427a-8286-1440017a8a88",
+      "Contents": [
+        {
+          "Id": "43a24ec8-8288-46ae-9a9f-b0170756c439",
+          "Url": "https://capes.bedrock-cosmos.app/zips/ScrollsChamp_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "91424e59-ae9d-44f5-b950-ff429d3fa5fd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

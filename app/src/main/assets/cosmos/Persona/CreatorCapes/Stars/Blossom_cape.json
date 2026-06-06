@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b8657da9-d315-462f-9c0f-0dbb00fc208f",
+      "Contents": [
+        {
+          "Id": "54705284-0103-4bb7-9668-3109dca25d01",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Blossom_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Stars",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6b0caa79-8a04-4f85-ad11-14e67d5a1916",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Summer of Arcade Skin Pack",
+          "neutral": "Summer of Arcade Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "Customize your character with this selection of stunning skins celebrating the great games in the Summer of Arcade 2012 promotion; Tony Hawk's Pro Skater HD, Wreckateer, Deadlight, Hybrid, Dust: An Elysian Tail.",
+          "neutral": "Customize your character with this selection of stunning skins celebrating the great games in the Summer of Arcade 2012 promotion; Tony Hawk's Pro Skater HD, Wreckateer, Deadlight, Hybrid, Dust: An Elysian Tail."
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+          "5fe3e01c-609b-497e-b17e-342b83281369",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-03-01T06:09:45Z",
+        "LastModifiedDate": "2026-03-01T06:09:45Z",
+        "DisplayProperties": {
+          "creatorName": "MinecraftHidden",
+          "offerId": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "5fe3e01c-609b-497e-b17e-342b83281369",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

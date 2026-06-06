@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0c77040a-abb6-4938-963d-5a8e9872c85c",
+      "Contents": [
+        {
+          "Id": "778acf48-34f8-4a7e-b0db-e95fbf5ee7f3",
+          "Url": "https://cdn.bedrockcosmos.app/uss/70777/EarthSkin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.10",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "70777aa6-5949-4529-947f-2fcdbc94c3cb",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

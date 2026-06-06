@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a0ca27b0-3e20-4740-b42b-79354f0b4158",
+      "Contents": [
+        {
+          "Id": "badc7939-ee1f-4dfd-9ef5-3ab55929f7b5",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Hephaestus_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "75acd8f7-91a2-408c-a1a5-e8cb7ef974c7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "result": {
+    "id": "a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+    "pageId": "ItemDetail_a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For '4th Birthday Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "4th Birthday Skin Pack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3e7257e1-c31c-477b-88c3-af3d75840a0a/4thBirthday_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3e7257e1-c31c-477b-88c3-af3d75840a0a/4thBirthday_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.5,
+                    "totalCount": 6346
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 20,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "659b5fdb-3260-47ff-9aeb-41818d74acdd",
+                      "version": "3.11.26"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3e7257e1-c31c-477b-88c3-af3d75840a0a/4thBirthday_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3e7257e1-c31c-477b-88c3-af3d75840a0a/4thBirthday_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/81b54c03-4bd4-4ebd-bf86-6c2f235a4431/SkinPack_4thBirthday.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Dress up for the party with this new, free skin pack and celebrate together the 4th Minecraft birthday!",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/81b54c03-4bd4-4ebd-bf86-6c2f235a4431/SkinPack_4thBirthday.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "659b5fdb-3260-47ff-9aeb-41818d74acdd",
+                  "version": "3.11.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "4th Birthday Skin Pack: %s",
+                "text": {
+                  "value": "4th Birthday Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 6346,
+                  "count5Star": 5047,
+                  "count4Star": 510,
+                  "count3Star": 314,
+                  "count2Star": 112,
+                  "count1Star": 363,
+                  "id": "a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "80%",
+                    "percentage4Star": "8%",
+                    "percentage3Star": "5%",
+                    "percentage2Star": "2%",
+                    "percentage1Star": "6%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

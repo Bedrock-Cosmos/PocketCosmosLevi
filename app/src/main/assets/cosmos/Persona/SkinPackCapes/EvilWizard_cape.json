@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "24b6e7e9-3d7b-4b11-9b16-c31ddcc86c6d",
+      "Contents": [
+        {
+          "Id": "dcb8b6e1-3911-4ee6-921c-14b39d1dfabb",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EvilWizard_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9162ace0-a67b-401c-821b-51cb599db4a2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

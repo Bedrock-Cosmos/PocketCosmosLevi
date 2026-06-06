@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b224c73e-80cd-4874-a4a2-b31e6e1b1f55",
+      "Contents": [
+        {
+          "Id": "cf82e2e8-e67a-4cfc-a7e3-d73713d74267",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TheHive_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "floormint",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8f75269e-87b6-4d57-b196-673195e1e141",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

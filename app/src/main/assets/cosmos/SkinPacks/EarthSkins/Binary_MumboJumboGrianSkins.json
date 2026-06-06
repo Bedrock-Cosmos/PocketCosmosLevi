@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "01d22780-c8c6-421d-a5cf-c615a398c480",
+      "Contents": [
+        {
+          "Id": "791adaf3-b6df-4938-9617-9cfe92d61999",
+          "Url": "https://cdn.bedrockcosmos.app/uss/ac391/PrivateMumboJumboAndGrianSkins.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.13.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "ac3914ce-f321-4b13-89bf-5a74990242c8",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "dedd7dce-a317-4786-930f-9c2357d25d82",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Detective Conan Skin Pack",
+          "neutral": "Detective Conan Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "A cubic Bedrock Edition port of the Detective Conan collaboration from Minecraft China Edition!",
+          "neutral": "A cubic Bedrock Edition port of the Detective Conan collaboration from Minecraft China Edition!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "dedd7dce-a317-4786-930f-9c2357d25d82",
+          "a7952402-135e-4f5d-abea-5b738904e2c4",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-14T18:49:56Z",
+        "LastModifiedDate": "2026-04-14T18:49:56Z",
+        "DisplayProperties": {
+          "creatorName": "ZeroMISTER JA",
+          "offerId": "dedd7dce-a317-4786-930f-9c2357d25d82",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "a7952402-135e-4f5d-abea-5b738904e2c4",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

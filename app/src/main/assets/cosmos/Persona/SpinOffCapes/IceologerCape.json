@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1a20c9bd-838b-4dad-b1b0-4e93a66b5fad",
+      "Contents": [
+        {
+          "Id": "1aac1ef7-efc7-4c23-9019-15e49ebe8cfb",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/IceologerCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ded51bbe-889a-4d63-9cb6-fe3745d226f0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

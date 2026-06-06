@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ecb7f519-cd5c-4ec3-8ceb-4c01873c68b1",
+      "Contents": [
+        {
+          "Id": "90512558-ac39-4e30-bb44-3f37a28ce49e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/CraftingTableCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d2dde4e1-777a-49e3-b613-58f609e990a7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

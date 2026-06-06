@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4ca17959-173d-4ae0-ae15-d114ac23bb02",
+      "Contents": [
+        {
+          "Id": "d2f28881-7480-49b4-9c54-e7f6064838cb",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Microsoft_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Dexeo",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8980f130-5315-473b-b87d-0e12f0268a98",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

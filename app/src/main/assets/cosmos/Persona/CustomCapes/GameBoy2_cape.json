@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9d17ba55-cc4a-4e7e-aa41-83fa39e36ac9",
+      "Contents": [
+        {
+          "Id": "991fb21f-a0d7-471d-a557-ba5c90185e32",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GameBoy2_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Temple of Thoom",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dc72fa4d-22f5-458f-bb50-cc74f1011e37",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

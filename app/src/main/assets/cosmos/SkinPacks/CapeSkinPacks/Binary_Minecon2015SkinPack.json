@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+      "Contents": [
+        {
+          "Id": "a3f382b3-c684-4f1c-8759-dedb83853e21",
+          "Url": "https://cdn.bedrockcosmos.app/uss/42ae6/Minecon2015SkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

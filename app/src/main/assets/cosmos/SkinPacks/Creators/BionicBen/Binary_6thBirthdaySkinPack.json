@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+      "Contents": [
+        {
+          "Id": "342df268-636d-4f2b-a971-8350eb4fc440",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/342df/6thBirthdaySkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

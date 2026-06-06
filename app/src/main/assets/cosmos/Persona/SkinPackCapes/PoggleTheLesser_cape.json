@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "670f3827-b260-47a7-96e5-96b1fe02ce77",
+      "Contents": [
+        {
+          "Id": "6b844c89-59d9-4caa-9143-1a5b76909d37",
+          "Url": "https://capes.bedrock-cosmos.app/zips/PoggleTheLesser_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Star Wars Prequel Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "656e8b58-d5f1-41be-93c4-63d994ad02ef",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

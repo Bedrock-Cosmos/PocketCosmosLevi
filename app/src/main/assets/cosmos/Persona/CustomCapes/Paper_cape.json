@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8d59e86b-138c-4308-8ccc-7f1f26695b03",
+      "Contents": [
+        {
+          "Id": "1dec37a8-eb6d-4d9b-bd6c-1a7402603804",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Paper_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "RanchyCeaser",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7f5f6dd2-6d4a-4c49-bfb0-7be0abc48c7b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

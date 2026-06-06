@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "aeecb6a5-37a2-4ffd-a654-507faacac4db",
+      "Contents": [
+        {
+          "Id": "9852a421-ffe2-4d53-ba09-4a3986edea60",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TheThirdDoctor_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Doctor Who Skins Volume II",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3cc3f562-5a2d-4347-aa46-9aa92cea9c11",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

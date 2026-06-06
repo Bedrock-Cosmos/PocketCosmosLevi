@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2766095f-b2c0-4237-911f-e18a30fb0928",
+      "Contents": [
+        {
+          "Id": "a4f9a363-2f7c-4957-868c-2ce848a09688",
+          "Url": "https://cdn.bedrockcosmos.app/uss/083c0/MarvelAvengersSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "083c0c90-cd38-46ad-a473-881f2a7cc069",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

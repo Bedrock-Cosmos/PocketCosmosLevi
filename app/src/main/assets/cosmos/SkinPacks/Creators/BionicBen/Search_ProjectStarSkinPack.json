@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Project Star Skin Pack",
+          "neutral": "Project Star Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "A skin pack previously made for the Project Star Launcher. This pack contains Steve and Alex in Project Star attire and 11 uniquely-colored capes!",
+          "neutral": "A skin pack previously made for the Project Star Launcher. This pack contains Steve and Alex in Project Star attire and 11 uniquely-colored capes!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+          "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-02-28T19:13:18Z",
+        "LastModifiedDate": "2026-02-28T19:13:18Z",
+        "DisplayProperties": {
+          "creatorName": "BionicBen",
+          "offerId": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

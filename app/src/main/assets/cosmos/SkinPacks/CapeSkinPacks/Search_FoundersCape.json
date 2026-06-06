@@ -1,0 +1,178 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "b3b50166-5612-4ff1-8f03-9af0b01cb4da",
+        "Type": "bundle",
+        "AlternateIds": [],
+        "Title": {
+          "en-US": "Founder's Cape",
+          "NEUTRAL": "Founder's Cape",
+          "neutral": "Founder's Cape"
+        },
+        "Description": {
+          "en-US": "Secure your Character Creator Founder’s Cape early by downloading this skin pack. By downloading you will automatically receive your cape when it launches later this fall.",
+          "NEUTRAL": "Secure your Character Creator Founder’s Cape early by downloading this skin pack. By downloading you will automatically receive your cape when it launches later this fall.",
+          "neutral": "Secure your Character Creator Founder’s Cape early by downloading this skin pack. By downloading you will automatically receive your cape when it launches later this fall."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": [
+              "Exploration",
+              "Cape",
+              "Character Customization",
+              "Survival"
+            ]
+          },
+          "NEUTRAL": {
+            "Values": [
+              "Exploration",
+              "Cape",
+              "Character Customization",
+              "Survival"
+            ]
+          },
+          "neutral": {
+            "Values": [
+              "Exploration",
+              "Cape",
+              "Character Customization",
+              "Survival"
+            ]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "skinpack",
+          "has_skinpack",
+          "1P",
+          "4972c4c7-6eac-4e4c-b2d0-822b590b6fa7",
+          "b3b50166-5612-4ff1-8f03-9af0b01cb4da",
+          "tag.exploration",
+          "tag.cape",
+          "tag.character_customization",
+          "genre.survival",
+          "hidden_offer"
+        ],
+        "CreationDate": "2019-09-27T05:52:34.995Z",
+        "LastModifiedDate": "2024-10-17T23:32:45.055Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "9df08182-1412-43f4-b3a4-e198e95b3683",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/9df08182-1412-43f4-b3a4-e198e95b3683/FoundersPack_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "3d708c22-05fd-436b-8c4b-c08c51ab4eef",
+            "Amount": 1
+          },
+          {
+            "Id": "ae5d26f9-3b31-4d27-b0be-0343b4f740d3",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.7,
+          "TotalCount": 168909,
+          "Count5Star": 144473,
+          "Count4Star": 9556,
+          "Count3Star": 5437,
+          "Count2Star": 2118,
+          "Count1Star": 7325
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "originalCreatorId": "2535448579972708",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "4972c4c7-6eac-4e4c-b2d0-822b590b6fa7",
+              "version": "3.11.26"
+            },
+            {
+              "type": "persona_piece",
+              "uuid": "1b99b77c-3caa-4aaa-8f79-f79f053e586f",
+              "version": "1.0.1"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

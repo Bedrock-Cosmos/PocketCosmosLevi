@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1472a239-f11c-4462-a302-59bc9df01a8b",
+      "Contents": [
+        {
+          "Id": "23a60f01-4372-49fa-abd7-46000f51dbc8",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Scythe_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9ef4cea7-c477-48e2-85d8-c5834d5f2696",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

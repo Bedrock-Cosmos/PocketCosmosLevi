@@ -1,0 +1,238 @@
+{
+  "result": {
+    "id": "d1e7ecae-b422-40a2-8037-cf24571f901c",
+    "pageId": "ItemDetail_d1e7ecae-b422-40a2-8037-cf24571f901c",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Skin Pack 1 - Classic'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "d1e7ecae-b422-40a2-8037-cf24571f901c",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Skin Pack 1 - Classic",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.5,
+                    "totalCount": 33851
+                  },
+                  "price": {
+                    "listPrice": -1,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 44,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "f73518e4-10b6-4eaa-a088-7b246483694e",
+                      "version": "3.20.2026"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2018-01-30T18:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/2a3ad8be-3347-4460-b0ea-442d6f01754d/SkinPack_1.zip"
+                  }
+                ],
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Customize your character with this selection of stunning skins!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://cdn.bedrockcosmos.app/uss/f7351/SkinPack1Classic.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "f73518e4-10b6-4eaa-a088-7b246483694e",
+                  "version": "3.20.2026"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Skin Pack 1 - Classic: %s",
+                "text": {
+                  "value": "Skin Pack 1 - Classic: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 33851,
+                  "count5Star": 26466,
+                  "count4Star": 2679,
+                  "count3Star": 1673,
+                  "count2Star": 674,
+                  "count1Star": 2359,
+                  "id": "d1e7ecae-b422-40a2-8037-cf24571f901c",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "78%",
+                    "percentage4Star": "8%",
+                    "percentage3Star": "5%",
+                    "percentage2Star": "2%",
+                    "percentage1Star": "7%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

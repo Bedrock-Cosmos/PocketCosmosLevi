@@ -1,0 +1,201 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "40fbf08d-390d-480c-9213-afb3886915eb",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "af36d596-d63a-40c4-87fc-1fbbcf76c279"
+          }
+        ],
+        "Title": {
+          "en-US": "Skin Pack 2",
+          "NEUTRAL": "Skin Pack 2",
+          "neutral": "Skin Pack 2"
+        },
+        "Description": {
+          "en-US": "A dedicated version of Skin Pack 2, featuring exclusive characters along with others from the Classic version.\r\nOnly available for Minecraft on PlayStation®4.",
+          "NEUTRAL": "A dedicated version of Skin Pack 2, featuring exclusive characters along with others from the Classic version.\r\nOnly available for Minecraft on PlayStation®4.",
+          "neutral": "A dedicated version of Skin Pack 2, featuring exclusive characters along with others from the Classic version.\r\nOnly available for Minecraft on PlayStation®4."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Old School", "Retro"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Old School", "Retro"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Old School", "Retro"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["b.store", "title.bedrockvanilla"],
+        "Tags": [
+          "40fbf08d-390d-480c-9213-afb3886915eb",
+          "d78aa7a2-9680-417c-97da-01c9cfbf0c4b",
+          "skinpack",
+          "has_skinpack",
+          "genre.survival",
+          "tag.skin",
+          "tag.old_school",
+          "tag.retro",
+          "1P"
+        ],
+        "CreationDate": "2019-10-29T18:54:28.944Z",
+        "LastModifiedDate": "2025-05-02T20:12:44.949Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "6d9cfbe1-bdd2-4e80-ad43-a4cea44a6b1d",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/6d9cfbe1-bdd2-4e80-ad43-a4cea44a6b1d/SkinPack2Sony_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "e4ae0bea-99f5-4c32-aabd-fafa0fd560d8",
+            "Amount": 1
+          }
+        ],
+        "Price": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 490
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 490
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "PriceOptions": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 490
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 490
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 5037,
+          "Count5Star": 4112,
+          "Count4Star": 377,
+          "Count3Star": 173,
+          "Count2Star": 55,
+          "Count1Star": 320
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "af36d596-d63a-40c4-87fc-1fbbcf76c279",
+          "originalCreatorId": "2535448579972708",
+          "price": 490,
+          "purchasable": true,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "d78aa7a2-9680-417c-97da-01c9cfbf0c4b",
+              "version": "3.20.2026"
+            }
+          ],
+          "skinPack": {
+            "count": 43
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

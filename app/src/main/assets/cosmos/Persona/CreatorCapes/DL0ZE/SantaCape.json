@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "974c4527-a242-4349-a237-24d1be65ef6a",
+      "Contents": [
+        {
+          "Id": "840e5eca-46dc-482b-b536-f84949ddfcff",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/SantaCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ae53a7bc-4cf8-4700-bbc5-73570ad1ef0d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

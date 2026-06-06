@@ -1,0 +1,269 @@
+{
+  "result": {
+    "id": "b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+    "pageId": "ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Marvel Spider-Man Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Marvel Spider-Man Skin Pack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d2766dd7-c7e9-4836-99f2-ca87eac688cb/MC__SpiderMan_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d2766dd7-c7e9-4836-99f2-ca87eac688cb/MC__SpiderMan_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.5,
+                    "totalCount": 435
+                  },
+                  "price": {
+                    "listPrice": -1,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 35,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "Purchased",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "8eba8968-4ad4-446c-8717-36c38cae0edb",
+                      "version": "3.11.26"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.action",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.action",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "genre.action"
+                    },
+                    {
+                      "linksTo": "Tag_tag.skin",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.skin",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.skin"
+                    },
+                    {
+                      "linksTo": "Tag_tag.superhero",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.superhero",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.superhero"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d2766dd7-c7e9-4836-99f2-ca87eac688cb/MC__SpiderMan_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d2766dd7-c7e9-4836-99f2-ca87eac688cb/MC__SpiderMan_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d93bdfa0-ba2d-402d-9760-b87e8206dc5e/SkinPack_MarvelSpiderMan.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Look out! Here comes the Spider-Man Skin Pack! Featuring an assortment of 35 friends and foes straight from the saga of your favorite Wall-Crawler, this pack is sure to amaze. Catch it now!",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d93bdfa0-ba2d-402d-9760-b87e8206dc5e/SkinPack_MarvelSpiderMan.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "8eba8968-4ad4-446c-8717-36c38cae0edb",
+                  "version": "3.11.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Marvel Spider-Man Skin Pack: %s",
+                "text": {
+                  "value": "Marvel Spider-Man Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 435,
+                  "count5Star": 362,
+                  "count4Star": 12,
+                  "count3Star": 13,
+                  "count2Star": 4,
+                  "count1Star": 44,
+                  "id": "b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+                  "ownership": "Purchased",
+                  "ratingPercentages": {
+                    "percentage5Star": "83%",
+                    "percentage4Star": "3%",
+                    "percentage3Star": "3%",
+                    "percentage2Star": "1%",
+                    "percentage1Star": "10%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

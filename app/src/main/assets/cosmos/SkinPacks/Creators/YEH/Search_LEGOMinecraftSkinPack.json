@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "LEGO(R) Minecraft(TM) Skin Pack",
+          "neutral": "LEGO(R) Minecraft(TM) Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "This skin pack contains over 100 player and mob skins from the official LEGO(R) Minecraft(TM) sets! These skins are also modeled to look just like the original LEGO(R) minifigures!",
+          "neutral": "This skin pack contains over 100 player and mob skins from the official LEGO(R) Minecraft(TM) sets! These skins are also modeled to look just like the original LEGO(R) minifigures!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+          "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-05-19T04:16:15Z",
+        "LastModifiedDate": "2026-05-19T04:16:15Z",
+        "DisplayProperties": {
+          "creatorName": "YEH",
+          "offerId": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
