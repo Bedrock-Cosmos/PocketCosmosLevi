@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "87f6a791-179c-4849-aeab-fb8b370ce203",
+      "Contents": [
+        {
+          "Id": "45d15706-3ddd-493e-80b1-e16a17019a5e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/PinkyBuflooms_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "LittleBigPlanet™ Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "21b54b70-1ca2-475a-8cdb-cec6346dd6a5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

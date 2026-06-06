@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Black Hole Skin Pack",
+          "neutral": "Black Hole Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "-",
+          "neutral": "-"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+          "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-14T18:49:56Z",
+        "LastModifiedDate": "2026-04-14T18:49:56Z",
+        "DisplayProperties": {
+          "creatorName": "ZeroMISTER JA",
+          "offerId": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

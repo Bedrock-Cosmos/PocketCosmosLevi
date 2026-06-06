@@ -1,0 +1,627 @@
+{
+  "result": {
+    "id": "9645f327-f301-4f89-a91e-2c23b3cda735",
+    "pageId": "MultiItemPage_9645f327-f301-4f89-a91e-2c23b3cda735",
+    "addToRecentlyViewed": false,
+    "pageName": "ViewAllCsbPacks",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "editorialtool.localization.mycontent",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ScreenshotsHeroBladeRow",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "c636cb46-e01c-4a59-9cc1-9e6b5fb1ab1c",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Creator Hub",
+                    "description": "",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg"
+                    },
+                    "rating": { "average": 0.0, "totalCount": 1000 },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_CreatorHub",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_CreatorHub",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                    "statistics": {
+                      "skins": 1,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "0",
+                        "version": "0"
+                      }
+                    ],
+                    "tags": [],
+                    "videoUrl": "",
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/Exports.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Exports.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/YEH.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEH.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/Placeholder-3.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Placeholder-3.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "publicChangelog": "",
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  }
+                ],
+                "totalItems": 5,
+                "linksTo": "MultiItemPage_CreatorHub",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CreatorHub",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "customStoreRowConfiguration": {
+                  "seeAllVisible": true,
+                  "maxOffers": 4,
+                  "arrowsVisible": true,
+                  "visibleOffersPerRow": 0
+                },
+                "type": "itemListComp",
+                "$type": "ItemListComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "View free packs made by Bedrock Cosmos creators!",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ScreenshotsHeroBladeRow",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "16370ce9-56ed-483f-b0b5-ee853cc51b14",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Legacy Vault",
+                    "description": "",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2cb9d7f6-6b3d-445e-a323-d28522959a95/Skinpack_2ndBirthday_Sony_thumbnail_800x450.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2cb9d7f6-6b3d-445e-a323-d28522959a95/Skinpack_2ndBirthday_Sony_thumbnail_800x450.jpg?width=800&height=450"
+                    },
+                    "rating": { "average": 0.0, "totalCount": 1000 },
+                    "price": {
+                      "listPrice": 2460,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_LegacyVault",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_LegacyVault",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                    "statistics": {
+                      "skins": 200,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "0",
+                        "version": "0"
+                      }
+                    ],
+                    "tags": [],
+                    "videoUrl": "",
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2cb9d7f6-6b3d-445e-a323-d28522959a95/Skinpack_2ndBirthday_Sony_thumbnail_800x450.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2cb9d7f6-6b3d-445e-a323-d28522959a95/Skinpack_2ndBirthday_Sony_thumbnail_800x450.jpg?width=800&height=450"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/f219076e-dac1-4367-aaf3-eaad0987e927/MINECON2016_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/f219076e-dac1-4367-aaf3-eaad0987e927/MINECON2016_Thumbnail_0.jpg?width=800&height=450"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg?width=800&height=450"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/70371f70-cad7-47b4-a217-3c44bedc727a/EarthSkin_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/70371f70-cad7-47b4-a217-3c44bedc727a/EarthSkin_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "publicChangelog": "",
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  }
+                ],
+                "totalItems": 5,
+                "linksTo": "MultiItemPage_LegacyVault",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_LegacyVault",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "customStoreRowConfiguration": {
+                  "seeAllVisible": true,
+                  "maxOffers": 4,
+                  "arrowsVisible": true,
+                  "visibleOffersPerRow": 0
+                },
+                "type": "itemListComp",
+                "$type": "ItemListComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Enter the Legacy Vault to view a collection of Minecraft's hidden packs, as well as recreations of packs that were not previously ported to Bedrock Edition!",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ScreenshotsHeroBladeRow",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "470b2a4f-e587-4877-a006-64242b690085",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Minecraft Restored (Experimental)",
+                    "description": "",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg"
+                    },
+                    "rating": { "average": 0.0, "totalCount": 1000 },
+                    "price": {
+                      "listPrice": 3940,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_MinecraftRestored",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_MinecraftRestored",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftHidden",
+                    "statistics": {
+                      "skins": 7,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "0",
+                        "version": "0"
+                      }
+                    ],
+                    "tags": [],
+                    "videoUrl": "",
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "publicChangelog": "",
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  }
+                ],
+                "totalItems": 5,
+                "linksTo": "MultiItemPage_MinecraftRestored",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_MinecraftRestored",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "customStoreRowConfiguration": {
+                  "seeAllVisible": true,
+                  "maxOffers": 4,
+                  "arrowsVisible": true,
+                  "visibleOffersPerRow": 0
+                },
+                "type": "itemListComp",
+                "$type": "ItemListComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Minecraft Restored adds several removed features back to marketplace items, such as Skins and Capes! All Minecraft Restored packs will overwrite their original corresponding pack versions.\nThis section of Bedrock Cosmos is also Experimental and subject to change.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          } //,
+          // {
+          //   "controlId": "ScreenshotsHeroBladeRow",
+          //   "components": [
+          //     {
+          //       "items": [
+          //         {
+          //           "id": "2557aa8a-9ea7-4add-8cbe-3d9bf785e671",
+          //           "contentType": "MarketplaceDurableCatalog_V1.2",
+          //           "title": "[ Hidden DLC ]",
+          //           "creatorName": "Multiple Creators",
+          //           "price": {
+          //             "listPrice": 0,
+          //             "realmsInfo": { "inRealmsPlus": true },
+          //             "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+          //             "virtualCurrencyType": "Minecoin"
+          //           },
+          //           "linksTo": "MultiItemPage_HiddenDLC",
+          //           "linksToInfo": {
+          //             "linksTo": "MultiItemPage_HiddenDLC",
+          //             "linkType": "pageId",
+          //             "displayType": "store_layout.store_data_driven_screen",
+          //             "navigateInPlace": false
+          //           },
+          //           "ownership": "NotOwned",
+          //           "packType": "Realms",
+          //           "images": [
+          //             {
+          //               "tag": "Thumbnail",
+          //               "type": "Thumbnail",
+          //               "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg",
+          //               "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg"
+          //             },
+          //             {
+          //               "tag": "screenshot",
+          //               "type": "Screenshot",
+          //               "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg",
+          //               "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg"
+          //             },
+          //             {
+          //               "tag": "screenshot",
+          //               "type": "Screenshot",
+          //               "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg",
+          //               "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg"
+          //             },
+          //             {
+          //               "tag": "screenshot",
+          //               "type": "Screenshot",
+          //               "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg",
+          //               "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg"
+          //             },
+          //             {
+          //               "tag": "screenshot",
+          //               "type": "Screenshot",
+          //               "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg",
+          //               "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg"
+          //             }
+          //           ],
+          //           "startDate": "2026-02-02T12:00:00Z"
+          //         }
+          //       ],
+          //       "type": "itemListComp",
+          //       "$type": "ItemListComponent"
+          //     }
+          //   ]
+          // }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

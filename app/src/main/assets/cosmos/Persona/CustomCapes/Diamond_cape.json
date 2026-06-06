@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4a23b41a-508b-49b8-b9d3-8b165337332e",
+      "Contents": [
+        {
+          "Id": "bc8acc1f-1e09-4e0e-899d-64ff523cc9b3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Diamond_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "JakeMCPE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8ae6aa2a-6592-474e-a721-4c265b2dc96d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

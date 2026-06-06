@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "603d6be1-7745-4ad8-8af3-908ad017500f",
+      "Contents": [
+        {
+          "Id": "aed620be-727f-43b4-8dde-0292f89365cd",
+          "Url": "https://cdn.bedrockcosmos.app/uss/e4d58/3rdBirthdaySkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "e4d586b5-ab6f-4fd5-82d5-6158a755e012",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

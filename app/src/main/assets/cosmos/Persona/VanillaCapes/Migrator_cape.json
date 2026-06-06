@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "94e81811-ed4e-4d97-a2f0-a9e5d2f1b320",
+      "Contents": [
+        {
+          "Id": "0bd847b5-2946-4048-8c53-593240b275c6",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Migrator_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b8e4dbd1-2875-407e-a397-4eb1977e8f4b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

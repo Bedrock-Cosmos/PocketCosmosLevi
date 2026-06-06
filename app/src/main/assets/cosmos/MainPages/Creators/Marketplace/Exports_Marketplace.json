@@ -1,0 +1,610 @@
+{
+  "result": {
+    "pageId": "Exports_Marketplace",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " Exports's Marketplace Packs",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Discord: discord.gg/XthtJC7S4Y\n YouTube: youtube.com/@exportscosmetics\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "22688cde-3822-4bd8-9638-625713ba4dfd",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 1",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this first skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics1_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics1_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Matching Cosmetics 1",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=jDdXPw8ehZY",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-02-27T21:47:48Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 2",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this second skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics2_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics2_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_a045e0ba-b58e-44d5-b463-e8968f28ae99",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_a045e0ba-b58e-44d5-b463-e8968f28ae99",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!Exports_Marketplace",
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics2_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics2_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=cgrhwL2inRw",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 3",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this third skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics3_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics3_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!Exports_Marketplace",
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "0484ef22-b675-4468-b58d-699890b377b1",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics3_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics3_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=ZmeyYheOC_k",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 4",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this fourth skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics4_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics4_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!Exports_Marketplace",
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "2291990c-6b7a-42d8-ad13-c1b490b9e1f6",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics4_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics4_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=eL5Sg009y0c",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "a2a191a7-ad0d-4802-a990-975538c7489f",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 5",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this fifth skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics5_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics5_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_a2a191a7-ad0d-4802-a990-975538c7489f",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_a2a191a7-ad0d-4802-a990-975538c7489f",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!Exports_Marketplace",
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "1ea3fef7-eea7-4413-ac90-13e053ea4cea",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics5_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics5_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=5QzSKjJZYdY",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 6",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this sixth skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics6_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics6_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!Exports_Marketplace",
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "ff1018de-be33-4ce9-a131-f94d0c2abb2e",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics6_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics6_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=f7fROv6DC9Q",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "dfc5ace1-fd1c-414c-8b1f-ec34e1bf7ba8",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 7",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this seventh skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics7_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics7_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_dfc5ace1-fd1c-414c-8b1f-ec34e1bf7ba8",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_dfc5ace1-fd1c-414c-8b1f-ec34e1bf7ba8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!Exports_Marketplace",
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "b6733994-4772-41a1-9dfb-c445d24048c7",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics7_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics7_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=HAq6dFby9vg",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Matching Cosmetics 8",
+                    "description": "Express yourself in-game with a friend or partner using the 30 skins in this eighth skin pack!",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!Exports_Marketplace",
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "cd99e175-5498-4edf-8bb2-ab29cbfc00b9",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=mb1r-t64Fjw",
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  }
+                ],
+                "totalItems": 8,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}
