@@ -1,0 +1,161 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "d1e7ecae-b422-40a2-8037-cf24571f901c",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "3df39646-58ce-4781-a34c-c0ef6822a24b"
+          }
+        ],
+        "Title": {
+          "en-US": "Skin Pack 1 - Classic",
+          "NEUTRAL": "Skin Pack 1 - Classic",
+          "neutral": "Skin Pack 1 - Classic"
+        },
+        "Description": {
+          "en-US": "Customize your character with this selection of stunning skins!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
+          "NEUTRAL": "Customize your character with this selection of stunning skins!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
+          "neutral": "Customize your character with this selection of stunning skins!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "d1e7ecae-b422-40a2-8037-cf24571f901c",
+          "f73518e4-10b6-4eaa-a088-7b246483694e",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.survival",
+          "tag.skin",
+          "tag.classic",
+          "tag.old_school",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:54:50.815Z",
+        "LastModifiedDate": "2024-10-15T19:37:02.698Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "5450d128-ca64-4113-b348-ec85d7dc3207",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5450d128-ca64-4113-b348-ec85d7dc3207/1_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "56a43aae-6a67-4d8d-a86e-425a5a2b2f2c",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.5,
+          "TotalCount": 33851,
+          "Count5Star": 26466,
+          "Count4Star": 2679,
+          "Count3Star": 1673,
+          "Count2Star": 674,
+          "Count1Star": 2359
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "3df39646-58ce-4781-a34c-c0ef6822a24b",
+          "originalCreatorId": "2535448579972708",
+          "price": 490,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "f73518e4-10b6-4eaa-a088-7b246483694e",
+              "version": "3.20.2026"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

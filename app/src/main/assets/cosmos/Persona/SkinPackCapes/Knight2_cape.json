@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9f775505-639e-4a97-bb31-9c3208cf497f",
+      "Contents": [
+        {
+          "Id": "00068673-39b8-4f15-b120-9111890baae3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Knight2_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Skin Pack 4",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "17272d14-85c8-4710-b9aa-3c4f05b83f79",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

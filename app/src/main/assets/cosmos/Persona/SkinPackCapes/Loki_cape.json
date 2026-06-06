@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b7817050-11a8-431f-ad0f-78bfad184939",
+      "Contents": [
+        {
+          "Id": "4275a55d-2686-4c89-bca7-d3c772c709db",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Loki_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Avengers Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fa36aaae-32b0-49b0-92f2-59c340f13e29",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

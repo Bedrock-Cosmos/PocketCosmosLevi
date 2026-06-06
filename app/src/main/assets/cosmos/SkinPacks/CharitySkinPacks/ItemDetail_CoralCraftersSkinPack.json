@@ -1,0 +1,238 @@
+{
+  "result": {
+    "id": "29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+    "pageId": "ItemDetail_29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Coral Crafters Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Coral Crafters Skin Pack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6c3dc9f3-bf52-48f0-bd25-ff868e330867/CoralCrafters_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6c3dc9f3-bf52-48f0-bd25-ff868e330867/CoralCrafters_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.6,
+                    "totalCount": 3932
+                  },
+                  "price": {
+                    "listPrice": -1,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 8,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "Purchased",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "6c37b8c1-ff20-4bf6-a20c-5045aa2d3f57",
+                      "version": "3.11.26"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6c3dc9f3-bf52-48f0-bd25-ff868e330867/CoralCrafters_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6c3dc9f3-bf52-48f0-bd25-ff868e330867/CoralCrafters_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2018-06-08T17:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6f35813d-e4d5-4717-b735-0e51c40ef04f/SkinPack_CoralCrafters.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "A selection of sea-worthy skins to celebrate the Update Aquatic! Explore the oceans as a dolphin or turtle, or opt for a statue skin – covered in kelp or coral! Take a deep dive with the Ocean Explorer, Coral Diver and more! Net proceeds will go to support The Nature Conservancy’s efforts to protect and restore coral reefs, learn more at https://aka.ms/coralcrafters.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6f35813d-e4d5-4717-b735-0e51c40ef04f/SkinPack_CoralCrafters.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "6c37b8c1-ff20-4bf6-a20c-5045aa2d3f57",
+                  "version": "3.11.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Coral Crafters Skin Pack: %s",
+                "text": {
+                  "value": "Coral Crafters Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.6,
+                  "totalCount": 3932,
+                  "count5Star": 3264,
+                  "count4Star": 287,
+                  "count3Star": 118,
+                  "count2Star": 52,
+                  "count1Star": 211,
+                  "id": "29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+                  "ownership": "Purchased",
+                  "ratingPercentages": {
+                    "percentage5Star": "83%",
+                    "percentage4Star": "7%",
+                    "percentage3Star": "3%",
+                    "percentage2Star": "1%",
+                    "percentage1Star": "5%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

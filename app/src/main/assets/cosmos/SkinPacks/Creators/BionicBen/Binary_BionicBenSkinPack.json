@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+      "Contents": [
+        {
+          "Id": "248868b1-e260-4434-b56b-b41a48f57b91",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/24886/BionicBenSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+            "version": "1.0.2"
+          }
+        ]
+      }
+    }
+  }
+}

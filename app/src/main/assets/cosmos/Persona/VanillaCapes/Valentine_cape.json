@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "791e2aaf-62a5-4647-8ff7-478fab1177f7",
+      "Contents": [
+        {
+          "Id": "17d53330-32bb-456d-9f14-66b4c724e613",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Valentine_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1ff89a25-6c68-406f-b5d6-77a4e8ef5bbc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
