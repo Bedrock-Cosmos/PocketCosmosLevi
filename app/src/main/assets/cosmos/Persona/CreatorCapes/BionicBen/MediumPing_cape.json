@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "77fc588f-be6f-4def-8ab6-26ac46901897",
+      "Contents": [
+        {
+          "Id": "3aefd6a3-34ab-4d3a-9685-e665a23da1c1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MediumPing_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a03288f1-26d7-4f21-9ca5-5529b3a86935",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

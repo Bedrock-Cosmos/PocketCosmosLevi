@@ -650,4 +650,11 @@
 
     <string name="unsupported_version_title">Unsupported Version</string>
     <string name="unsupported_version_msg">This launcher does not support Minecraft versions older than 1.21.80.</string>
+    <!-- Cosmos related -->
+    <string name="inbuilt_mod_http_interceptor" translatable="false">Cosmos injector</string>
+    <string name="inbuilt_mod_http_interceptor_desc" translatable="false">Intercept HTTP requests and inject items</string>
+    <string name="cosmos" translatable="false">Cosmos</string>
+    <string name="cosmos_version" translatable="false">\u0020%s</string>
+    <string name="mc_version" translatable="false">Minecraft v26.10+</string>
+
 </resources>

@@ -1,0 +1,353 @@
+{
+  "result": {
+    "id": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "pageId": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For '1st Birthday Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "editorialtool.localization.mycontent",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "1st Birthday Skin Pack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.7,
+                    "totalCount": 524364
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 22,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "Purchased",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+                      "version": "3.1.26"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.survival",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.survival",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "genre.survival"
+                    },
+                    {
+                      "linksTo": "Tag_tag.skin",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.skin",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.skin"
+                    },
+                    {
+                      "linksTo": "Tag_tag.festival",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.festival",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.festival"
+                    },
+                    {
+                      "linksTo": "Tag_tag.limited",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.limited",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.limited"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "binaries": [
+                  {
+                    "url": "https://cdn.bedrockcosmos.app/uss/20253/1stBirthday.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Join the Minecraft party now!",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://cdn.bedrockcosmos.app/uss/20253/1stBirthday.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+                  "version": "3.1.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "1st Birthday Skin Pack: %s",
+                "text": {
+                  "value": "1st Birthday Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.7,
+                  "totalCount": 524364,
+                  "count5Star": 461054,
+                  "count4Star": 28387,
+                  "count3Star": 12450,
+                  "count2Star": 5171,
+                  "count1Star": 17302,
+                  "id": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                  "ownership": "Purchased",
+                  "ratingPercentages": {
+                    "percentage5Star": "88%%",
+                    "percentage4Star": "6%%",
+                    "percentage3Star": "2%%",
+                    "percentage2Star": "1%%",
+                    "percentage1Star": "3%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

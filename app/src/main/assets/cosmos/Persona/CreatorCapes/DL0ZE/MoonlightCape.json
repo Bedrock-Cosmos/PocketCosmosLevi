@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ea1fc944-c910-4eee-a745-f3e147ce5fac",
+      "Contents": [
+        {
+          "Id": "1b2e4977-585e-469e-afe7-329207053292",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/MoonlightCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "97111fa7-2e5e-48e7-8681-ccbe25dd6220",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
