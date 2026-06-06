@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "BionicBen Skin Pack",
+          "neutral": "BionicBen Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "A skin pack containing a variety of BionicBen's skins throughout his YouTube history - from holiday skins to the infamous mega skin!\r\n\r\nCreator's Note: The mega skins and skins with HD capes included in this skin pack may not work on featured servers.",
+          "neutral": "A skin pack containing a variety of BionicBen's skins throughout his YouTube history - from holiday skins to the infamous mega skin!\r\n\r\nCreator's Note: The mega skins and skins with HD capes included in this skin pack may not work on featured servers."
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+          "248868b1-e260-4434-b56b-b41a48f57b91",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-02-28T19:10:41Z",
+        "LastModifiedDate": "2026-02-28T19:10:41Z",
+        "DisplayProperties": {
+          "creatorName": "BionicBen",
+          "offerId": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+              "version": "1.0.2"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

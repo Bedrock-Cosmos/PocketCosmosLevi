@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e6856cbc-8e90-4dd2-b923-7731a42b20a5",
+      "Contents": [
+        {
+          "Id": "1a8c083c-4835-42ae-af8c-11bc3c6b5204",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Dracula_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fc9d897f-f0fa-4bd6-a78f-313b82d7b5c4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "result": {
+    "id": "2766095f-b2c0-4237-911f-e18a30fb0928",
+    "pageId": "ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Marvel Avengers Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "2766095f-b2c0-4237-911f-e18a30fb0928",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Marvel Avengers Skin Pack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.4,
+                    "totalCount": 107
+                  },
+                  "price": {
+                    "listPrice": -1,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 35,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "Purchased",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "083c0c90-cd38-46ad-a473-881f2a7cc069",
+                      "version": "3.11.26"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.action",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.action",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "genre.action"
+                    },
+                    {
+                      "linksTo": "Tag_tag.skin",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.skin",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.skin"
+                    },
+                    {
+                      "linksTo": "Tag_tag.superhero",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.superhero",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.superhero"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a4f9a363-2f7c-4957-868c-2ce848a09688/SkinPack_MarvelAvengers.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a4f9a363-2f7c-4957-868c-2ce848a09688/SkinPack_MarvelAvengers.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "083c0c90-cd38-46ad-a473-881f2a7cc069",
+                  "version": "3.11.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Marvel Avengers Skin Pack: %s",
+                "text": {
+                  "value": "Marvel Avengers Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.4,
+                  "totalCount": 107,
+                  "count5Star": 81,
+                  "count4Star": 9,
+                  "count3Star": 5,
+                  "count2Star": 3,
+                  "count1Star": 9,
+                  "id": "2766095f-b2c0-4237-911f-e18a30fb0928",
+                  "ownership": "Purchased",
+                  "ratingPercentages": {
+                    "percentage5Star": "76%",
+                    "percentage4Star": "8%",
+                    "percentage3Star": "5%",
+                    "percentage2Star": "3%",
+                    "percentage1Star": "8%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

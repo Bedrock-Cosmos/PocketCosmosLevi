@@ -1,0 +1,238 @@
+{
+  "result": {
+    "id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+    "pageId": "ItemDetail_7dae6bfe-e92b-403e-842e-d8d75e329644",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Minecon 2015 Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Minecon 2015 Skin Pack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.7,
+                    "totalCount": 3177
+                  },
+                  "price": {
+                    "listPrice": -1,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 8,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "Purchased",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+                      "version": "3.11.26"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a3f382b3-c684-4f1c-8759-dedb83853e21/SkinPack_Minecon2015.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Alex and Steve are ready for Minecon 2015! They’ve brought their complete Minecon cape collection with them and don’t they both look grand?",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/a3f382b3-c684-4f1c-8759-dedb83853e21/SkinPack_Minecon2015.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+                  "version": "3.11.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Minecon 2015 Skin Pack: %s",
+                "text": {
+                  "value": "Minecon 2015 Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.7,
+                  "totalCount": 3177,
+                  "count5Star": 2722,
+                  "count4Star": 156,
+                  "count3Star": 103,
+                  "count2Star": 42,
+                  "count1Star": 154,
+                  "id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+                  "ownership": "Purchased",
+                  "ratingPercentages": {
+                    "percentage5Star": "86%",
+                    "percentage4Star": "5%",
+                    "percentage3Star": "3%",
+                    "percentage2Star": "1%",
+                    "percentage1Star": "5%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

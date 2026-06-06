@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b178226d-1fe8-45bd-b2a2-b527be0f90cf",
+      "Contents": [
+        {
+          "Id": "0e578f65-dacc-4333-a427-c8933040abdc",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Stars_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Stars",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "463651ee-d90c-44e2-934e-d9382f905d20",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

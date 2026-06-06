@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "730f596e-9ceb-4467-9fc5-f5a0b98150e3",
+      "Contents": [
+        {
+          "Id": "49977dc2-0d4e-4f95-aa06-60f7db936eb5",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Wasp_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Avengers Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "27a7a04c-31c4-4332-8eca-4f4f1616a17b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

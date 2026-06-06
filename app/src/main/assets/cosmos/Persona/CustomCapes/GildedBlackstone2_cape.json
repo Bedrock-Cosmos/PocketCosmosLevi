@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cccba53e-503a-4e11-8847-7a6676059bff",
+      "Contents": [
+        {
+          "Id": "4f667fd0-3c6f-4b6e-bffa-9adb641935e4",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GildedBlackstone2_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Spyynz",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8583cbe0-58ee-4217-bf61-55808e32d6c4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

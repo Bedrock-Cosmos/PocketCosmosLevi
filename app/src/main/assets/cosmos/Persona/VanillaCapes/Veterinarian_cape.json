@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ef0ebb20-72bc-449c-9c2f-022f7aa33459",
+      "Contents": [
+        {
+          "Id": "890d1eb0-9a45-4a92-afc8-2dcafb2b8701",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Veterinarian_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "25779297-2f5f-4928-af26-6d49fca0d6bc",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

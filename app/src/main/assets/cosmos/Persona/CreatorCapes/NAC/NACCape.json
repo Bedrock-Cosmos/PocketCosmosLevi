@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "720e267e-ef85-4a29-a1b9-066a0c00901e",
+      "Contents": [
+        {
+          "Id": "c6bced46-53fa-427f-a680-0839332c7621",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/NACCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e2b788be-8ce7-49ec-ab23-45d2478fb220",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1046 @@
+{
+  "result": {
+    "id": "de8f53dd-639b-4180-9cd5-1b14124b2758",
+    "pageId": "DressingRoom_Outerwears",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "type": "personaOfferInteractionComp",
+                "$type": "PersonaOfferInteractionComponent"
+              },
+              {
+                "type": "appearanceInteractionComp",
+                "$type": "AppearanceInteractionComponent"
+              },
+              {
+                "type": "openColorPickerComp",
+                "$type": "OpenColorPickerComponent"
+              },
+              {
+                "type": "openExpandedAppearanceViewComp",
+                "$type": "OpenExpandedAppearanceViewComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_DressingRoomSearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.search.home",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "text": {
+                  "value": "Minecraft Dungeons Items",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": ["dr.categories.outerwear"]
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "items": [
+                  {
+                    "id": "19be5b17-d521-4d56-89c9-f95de21ecfed",
+                    "contentType": "PersonaDurable",
+                    "title": "Hungriest Mask",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b3a1b614-c3eb-48b0-ae7c-81e593e0b97a/monstrous_head_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/b3a1b614-c3eb-48b0-ae7c-81e593e0b97a/monstrous_head_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_bbb46473-8a75-41ac-aaa0-e4f78e54c133",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_bbb46473-8a75-41ac-aaa0-e4f78e54c133",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "dae5122a-a48e-4f7a-bb51-aee1409dd109",
+                        "version": "1.2.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b3a1b614-c3eb-48b0-ae7c-81e593e0b97a/monstrous_head_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/b3a1b614-c3eb-48b0-ae7c-81e593e0b97a/monstrous_head_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-25T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "5b6cd464-24a2-438d-9714-d7ce26836e3a",
+                    "contentType": "PersonaDurable",
+                    "title": "Hungriest Hands",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e6808cb0-2a7b-431f-bb93-36c70a89af78/monstrous_gloves_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/e6808cb0-2a7b-431f-bb93-36c70a89af78/monstrous_gloves_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_fedb4e6c-7e46-4338-bfd6-14682d851fca",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_fedb4e6c-7e46-4338-bfd6-14682d851fca",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_hand",
+                    "rarity": "rare",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "62f5844e-70f6-34cf-e748-563ba368155f",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e6808cb0-2a7b-431f-bb93-36c70a89af78/monstrous_gloves_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/e6808cb0-2a7b-431f-bb93-36c70a89af78/monstrous_gloves_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-25T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "a7b0d074-9913-485a-83bc-a6cf63ffadfc",
+                    "contentType": "PersonaDurable",
+                    "title": "Hungriest Feet",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e45873b4-9808-4e2e-bba0-dd1cb351d471/monstrous_feet_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/e45873b4-9808-4e2e-bba0-dd1cb351d471/monstrous_feet_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_74d12442-1ae5-4714-ac07-05ac97c974da",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_74d12442-1ae5-4714-ac07-05ac97c974da",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_feet",
+                    "rarity": "rare",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "a21d7c0c-5bef-9acc-f4af-af788b6e2d53",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e45873b4-9808-4e2e-bba0-dd1cb351d471/monstrous_feet_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/e45873b4-9808-4e2e-bba0-dd1cb351d471/monstrous_feet_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-25T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "3e1111c6-969e-4dc4-b0c7-cad40b09b949",
+                    "contentType": "PersonaDurable",
+                    "title": "Skull Cloak",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3d148b30-75d8-4025-97c8-82e39396a1c7/hood_ghost_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/3d148b30-75d8-4025-97c8-82e39396a1c7/hood_ghost_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_63fe10a7-e7dd-42fe-bc91-59da4744c346",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_63fe10a7-e7dd-42fe-bc91-59da4744c346",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "3edc8f53-7c2a-4932-94a7-912b0b99a987",
+                        "version": "1.2.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3d148b30-75d8-4025-97c8-82e39396a1c7/hood_ghost_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/3d148b30-75d8-4025-97c8-82e39396a1c7/hood_ghost_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-25T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "ddd813e7-6577-4278-bb15-5c1ca7ad0246",
+                    "contentType": "PersonaDurable",
+                    "title": "Skull Mask",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1d1454de-2e79-4ff1-894a-429b284a4d15/skull_mask_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1d1454de-2e79-4ff1-894a-429b284a4d15/skull_mask_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_e349c304-b19b-497b-9615-8361184b944d",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_e349c304-b19b-497b-9615-8361184b944d",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_face_accessory",
+                    "rarity": "rare",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "83cf0d2e-c37b-491e-8ebd-0c1f54359a2b",
+                        "version": "1.2.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1d1454de-2e79-4ff1-894a-429b284a4d15/skull_mask_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1d1454de-2e79-4ff1-894a-429b284a4d15/skull_mask_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-25T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "db5e01f4-6453-4bb3-aadf-2286f8b86f3d",
+                    "contentType": "PersonaDurable",
+                    "title": "Skull Boots",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/973a423d-917e-4747-8ae6-55e9d75910a4/ghost_boots_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/973a423d-917e-4747-8ae6-55e9d75910a4/ghost_boots_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_538d696a-ffe6-47e9-957a-304bf3d98f61",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_538d696a-ffe6-47e9-957a-304bf3d98f61",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_feet",
+                    "rarity": "common",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "0a62b77c-72c3-7766-16e5-bdd91df98594",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/973a423d-917e-4747-8ae6-55e9d75910a4/ghost_boots_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/973a423d-917e-4747-8ae6-55e9d75910a4/ghost_boots_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-25T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "e9c40874-bb58-4f4a-aeef-1d50bf013124",
+                    "contentType": "PersonaDurable",
+                    "title": "Cauldron Cover",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/fd2a83cc-3586-4523-ac45-ba027bee356e/spooky_cauldron_hat_thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/fd2a83cc-3586-4523-ac45-ba027bee356e/spooky_cauldron_hat_thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_7ea1eeea-24d7-4989-b3d8-c65c88c573ff",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7ea1eeea-24d7-4989-b3d8-c65c88c573ff",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_head",
+                    "rarity": "epic",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "7e9577bf-90e1-4579-b1c9-d116286b466e",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/fd2a83cc-3586-4523-ac45-ba027bee356e/spooky_cauldron_hat_thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/fd2a83cc-3586-4523-ac45-ba027bee356e/spooky_cauldron_hat_thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2021-10-19T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "fabf4b3b-82e7-4098-92be-464178be9b71",
+                    "contentType": "PersonaDurable",
+                    "title": "Cauldron Body",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2c4eafe7-a802-4ae9-ad2a-d9811b82e8fc/spooky_cauldron_Top_thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2c4eafe7-a802-4ae9-ad2a-d9811b82e8fc/spooky_cauldron_Top_thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_6668d7bd-2e0f-4d13-8bb5-52485f6efa47",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_6668d7bd-2e0f-4d13-8bb5-52485f6efa47",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_outerwear",
+                    "rarity": "rare",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "89183b0f-d7c6-f8f2-c87c-f12ba3bd1876",
+                        "version": "1.0.1"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2c4eafe7-a802-4ae9-ad2a-d9811b82e8fc/spooky_cauldron_Top_thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2c4eafe7-a802-4ae9-ad2a-d9811b82e8fc/spooky_cauldron_Top_thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2021-10-19T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "b2b7ace8-fa3d-4ca9-8b81-378aa23471d9",
+                    "contentType": "PersonaDurable",
+                    "title": "Gourdian Head",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d52473ab-776b-4a05-be46-241fd7e5d752/gourdian_pumpkin_thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/d52473ab-776b-4a05-be46-241fd7e5d752/gourdian_pumpkin_thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_d7c64726-706b-4f87-b465-64b1764dc57b",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_d7c64726-706b-4f87-b465-64b1764dc57b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_head",
+                    "rarity": "epic",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "43604b2d-eafa-4e6e-beb8-09644cb45b89",
+                        "version": "1.1.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d52473ab-776b-4a05-be46-241fd7e5d752/gourdian_pumpkin_thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/d52473ab-776b-4a05-be46-241fd7e5d752/gourdian_pumpkin_thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2021-10-12T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "dd81a836-673e-44a5-afdc-4571ace4df8f",
+                    "contentType": "PersonaDurable",
+                    "title": "Gourdian Gear",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/520b14c8-24b3-4d27-acb5-82fd08b0acbe/gourdian_armor_Thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/520b14c8-24b3-4d27-acb5-82fd08b0acbe/gourdian_armor_Thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_74969417-1fcb-4363-9e11-401c147c3e56",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_74969417-1fcb-4363-9e11-401c147c3e56",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_top",
+                    "rarity": "rare",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "af1b2d52-7491-48d6-15b4-239f4ae5161f",
+                        "version": "1.0.1"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/520b14c8-24b3-4d27-acb5-82fd08b0acbe/gourdian_armor_Thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/520b14c8-24b3-4d27-acb5-82fd08b0acbe/gourdian_armor_Thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2021-10-12T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "a9a8763d-6143-4577-b58d-03c379022655",
+                    "contentType": "PersonaDurable",
+                    "title": "Gourdian Pants",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/37674e2a-52e4-443d-bde0-2d8d256d858d/pants_gourdian_thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/37674e2a-52e4-443d-bde0-2d8d256d858d/pants_gourdian_thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_f3e65e7b-06d0-4eda-8eaa-0e1b1c355270",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_f3e65e7b-06d0-4eda-8eaa-0e1b1c355270",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_bottom",
+                    "rarity": "epic",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "3bce462f-fdd9-45fb-a3a7-bc83b01cbb92",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/37674e2a-52e4-443d-bde0-2d8d256d858d/pants_gourdian_thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/37674e2a-52e4-443d-bde0-2d8d256d858d/pants_gourdian_thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2021-10-12T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "1acd8bc0-6355-4649-a877-258230eface4",
+                    "contentType": "PersonaDurable",
+                    "title": "Gourdian's Gloves",
+                    "description": "§",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2d974b92-b9b7-42cc-8a11-7b9a369029bd/gourdian_gloves_thumbnail_0.png",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/2d974b92-b9b7-42cc-8a11-7b9a369029bd/gourdian_gloves_thumbnail_0.png?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_5b9e5f10-5ba2-4f52-9069-f3973fa40492",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_5b9e5f10-5ba2-4f52-9069-f3973fa40492",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "pieceType": "persona_hand",
+                    "rarity": "uncommon",
+                    "ownership": "NotOwned",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "b102e9cf-b0b4-47d9-a8f0-b40970d9a962",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2d974b92-b9b7-42cc-8a11-7b9a369029bd/gourdian_gloves_thumbnail_0.png",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/2d974b92-b9b7-42cc-8a11-7b9a369029bd/gourdian_gloves_thumbnail_0.png?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2021-10-12T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    },
+                    "hardwareMemoryTier": 0
+                  }
+                ],
+                "totalItems": 19,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              },
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
+            ],
+            "telemetryId": "Minecraft Dungeons Items"
+          },
+          {
+            "controlId": "VerticalLineDivider",
+            "components": [
+              {
+                "textureImage": {
+                  "type": "Unknown",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [0.70196, 0.8392, 0.8588, 0.2],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  }
+                },
+                "type": "textureComp",
+                "$type": "TextureComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

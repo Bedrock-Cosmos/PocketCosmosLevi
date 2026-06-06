@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8228887d-30bb-44b8-978a-22fc464ff037",
+      "Contents": [
+        {
+          "Id": "9c98382b-adc9-466b-957a-b61e7f4e4dd0",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EnchantingTable_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Allkatrez",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7e6bd216-9ae2-4af3-8a7f-60c0844d443d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

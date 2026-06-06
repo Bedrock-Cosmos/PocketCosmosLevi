@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c7f7b843-846c-49c8-bd55-06534e48deb2",
+      "Contents": [
+        {
+          "Id": "efcd2737-8c6b-4d08-86ed-863f1e96a58d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Nazir_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Dragonborn Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "033eed6c-dbd4-472a-b944-c85fb1ad0418",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

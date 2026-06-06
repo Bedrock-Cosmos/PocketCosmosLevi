@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d1bad1ac-11b3-47d6-bc5c-353d088ccaf3",
+      "Contents": [
+        {
+          "Id": "59eabc91-3998-46f2-8f6b-fd89ac6e4a1f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Mojang_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3c24e2cb-e12f-4eca-aa03-998cf96404fb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

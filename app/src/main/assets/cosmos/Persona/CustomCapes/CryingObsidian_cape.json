@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "45b6c356-0535-461d-a6cb-607af970ecb7",
+      "Contents": [
+        {
+          "Id": "4929272c-8144-4eda-baf0-9b84a24d554f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CryingObsidian_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Mantle",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6777cb90-f24a-4402-ae29-fb4c3b91e643",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

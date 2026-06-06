@@ -1,0 +1,151 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "c8837315-c917-42bc-b1db-1fa54a2decea"
+          }
+        ],
+        "Title": {
+          "en-US": "Marvel Spider-Man Skin Pack",
+          "NEUTRAL": "Marvel Spider-Man Skin Pack",
+          "neutral": "Marvel Spider-Man Skin Pack"
+        },
+        "Description": {
+          "en-US": "Look out! Here comes the Spider-Man Skin Pack! Featuring an assortment of 35 friends and foes straight from the saga of your favorite Wall-Crawler, this pack is sure to amaze. Catch it now!",
+          "NEUTRAL": "Look out! Here comes the Spider-Man Skin Pack! Featuring an assortment of 35 friends and foes straight from the saga of your favorite Wall-Crawler, this pack is sure to amaze. Catch it now!",
+          "neutral": "Look out! Here comes the Spider-Man Skin Pack! Featuring an assortment of 35 friends and foes straight from the saga of your favorite Wall-Crawler, this pack is sure to amaze. Catch it now!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Action", "Skin", "Superhero"]
+          },
+          "NEUTRAL": {
+            "Values": ["Action", "Skin", "Superhero"]
+          },
+          "neutral": {
+            "Values": ["Action", "Skin", "Superhero"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["xboxone.store", "title.bedrockvanilla"],
+        "Tags": [
+          "b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+          "8eba8968-4ad4-446c-8717-36c38cae0edb",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.action",
+          "tag.skin",
+          "tag.superhero",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:59:28.932Z",
+        "LastModifiedDate": "2024-10-18T10:55:00.831Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "d2766dd7-c7e9-4836-99f2-ca87eac688cb",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d2766dd7-c7e9-4836-99f2-ca87eac688cb/MC__SpiderMan_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "1213ed19-481b-4a20-b34d-1050f68c5276",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.5,
+          "TotalCount": 435,
+          "Count5Star": 362,
+          "Count4Star": 12,
+          "Count3Star": 13,
+          "Count2Star": 4,
+          "Count1Star": 44
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "c8837315-c917-42bc-b1db-1fa54a2decea",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "8eba8968-4ad4-446c-8717-36c38cae0edb",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 35
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

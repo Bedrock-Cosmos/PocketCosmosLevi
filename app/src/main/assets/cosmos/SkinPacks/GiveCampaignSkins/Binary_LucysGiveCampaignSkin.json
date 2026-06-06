@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+      "Contents": [
+        {
+          "Id": "f25a86c8-0f0d-403a-ac8a-85ee1c1638f9",
+          "Url": "https://cdn.bedrockcosmos.app/uss/a7657/LucysGiveCampaignSkin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.13.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "a7657028-94cf-4d70-a421-42b64c18ad27",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

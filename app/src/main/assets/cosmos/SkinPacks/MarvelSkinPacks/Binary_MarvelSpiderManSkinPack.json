@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+      "Contents": [
+        {
+          "Id": "d93bdfa0-ba2d-402d-9760-b87e8206dc5e",
+          "Url": "https://cdn.bedrockcosmos.app/uss/8eba8/MarvelSpiderManSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "8eba8968-4ad4-446c-8717-36c38cae0edb",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

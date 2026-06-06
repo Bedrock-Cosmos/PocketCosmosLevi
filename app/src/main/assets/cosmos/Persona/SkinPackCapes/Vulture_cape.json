@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "444b313f-e84d-4598-b68f-897aca55b51f",
+      "Contents": [
+        {
+          "Id": "56f199c8-98f9-4587-80f4-629a137fbf41",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Vulture_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Spider-Man Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a188ea68-c075-4ddb-825f-14046c26eeea",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

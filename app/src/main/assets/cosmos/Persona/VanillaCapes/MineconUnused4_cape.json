@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8c4f280e-aa41-41eb-b749-23c9729e2241",
+      "Contents": [
+        {
+          "Id": "17407bca-fca4-4331-a5c9-b08cc78bdf32",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MineconUnused4_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bae30e75-a7da-433f-a5cf-093da7296994",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

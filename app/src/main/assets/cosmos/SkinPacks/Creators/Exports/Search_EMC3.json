@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "EMC3",
+          "neutral": "EMC3"
+        },
+        "Description": {
+          "NEUTRAL": "Express yourself in game with a friend or partner using the 30 skins in this third skin pack!",
+          "neutral": "Express yourself in game with a friend or partner using the 30 skins in this third skin pack!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+          "0484ef22-b675-4468-b58d-699890b377b1",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-03-01T13:33:47Z",
+        "LastModifiedDate": "2026-03-01T13:33:47Z",
+        "DisplayProperties": {
+          "creatorName": "Exports",
+          "offerId": "2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "0484ef22-b675-4468-b58d-699890b377b1",
+              "version": "1.0.0"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=ZmeyYheOC_k"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

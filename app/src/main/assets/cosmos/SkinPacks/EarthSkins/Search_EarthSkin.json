@@ -1,0 +1,164 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "0c77040a-abb6-4938-963d-5a8e9872c85c",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "388ee70d-2b01-43ca-a2d5-e3589e6e8b33"
+          }
+        ],
+        "Title": {
+          "en-US": "Earth Skin",
+          "NEUTRAL": "Earth Skin",
+          "neutral": "Earth Skin"
+        },
+        "Description": {
+          "en-US": "Experience actual globetrotting by taking a walk in this excellent Earth skin! With cloud-coated shoulders, an Earthy torso, and rock-solid legs, this planetary pal is the perfect way to celebrate our upcoming game, Minecraft: Earth. Explore the Overworld AS the Overworld!",
+          "NEUTRAL": "Experience actual globetrotting by taking a walk in this excellent Earth skin! With cloud-coated shoulders, an Earthy torso, and rock-solid legs, this planetary pal is the perfect way to celebrate our upcoming game, Minecraft: Earth. Explore the Overworld AS the Overworld!",
+          "neutral": "Experience actual globetrotting by taking a walk in this excellent Earth skin! With cloud-coated shoulders, an Earthy torso, and rock-solid legs, this planetary pal is the perfect way to celebrate our upcoming game, Minecraft: Earth. Explore the Overworld AS the Overworld!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Creative", "Skin", "Planets", "Tree"]
+          },
+          "NEUTRAL": {
+            "Values": ["Creative", "Skin", "Planets", "Tree"]
+          },
+          "neutral": {
+            "Values": ["Creative", "Skin", "Planets", "Tree"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "0c77040a-abb6-4938-963d-5a8e9872c85c",
+          "70777aa6-5949-4529-947f-2fcdbc94c3cb",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.creative",
+          "tag.skin",
+          "tag.planets",
+          "tag.tree",
+          "1P"
+        ],
+        "CreationDate": "2019-05-13T16:21:40.682Z",
+        "LastModifiedDate": "2025-04-25T17:21:16.643Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "70371f70-cad7-47b4-a217-3c44bedc727a",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/70371f70-cad7-47b4-a217-3c44bedc727a/EarthSkin_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "2882bef9-7809-4b34-a9f7-b327262b1682",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.9,
+          "TotalCount": 17559,
+          "Count5Star": 17026,
+          "Count4Star": 328,
+          "Count3Star": 81,
+          "Count2Star": 18,
+          "Count1Star": 106
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "388ee70d-2b01-43ca-a2d5-e3589e6e8b33",
+          "originalCreatorId": "2535448579972708",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "70777aa6-5949-4529-947f-2fcdbc94c3cb",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 1
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
