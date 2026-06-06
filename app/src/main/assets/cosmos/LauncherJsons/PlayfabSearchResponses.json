@@ -1,0 +1,268 @@
+[
+  {
+    "uuid": "e823767b-7337-49da-aaef-de616d2c2c3a",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\Search_2ndBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\Search_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "uuid": "e4d586b5-ab6f-4fd5-82d5-6158a755e012",
+    "response": "SkinPacks\\3rdBirthdaySkinPack\\Search_3rdBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "659b5fdb-3260-47ff-9aeb-41818d74acdd",
+    "response": "SkinPacks\\4thBirthdaySkinPack\\Search_4thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "433cbba0-1c00-48e8-94ef-59cfc38da4ca",
+    "response": "SkinPacks\\5thBirthdaySkinPack\\Search_5thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "1f581bc6-11c0-4a77-b0fa-91b7ca2636a0",
+    "response": "SkinPacks\\BiomeSettlers\\Search_BiomeSettlers1.json"
+  },
+  {
+    "uuid": "d55a3dda-b482-4ff6-bf30-3d2ba9324c19",
+    "response": "SkinPacks\\BiomeSettlers\\Search_BiomeSettlers3.json"
+  },
+  {
+    "uuid": "6d6f40da-6b0a-47f1-a82a-b23721c6140b",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_BrodysGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "136fe27d-4eb3-4564-8c9b-b4130ffbdd3c",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_ClairesGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "6c37b8c1-ff20-4bf6-a20c-5045aa2d3f57",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_CoralCraftersSkinPack.json"
+  },
+  {
+    "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+    "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV1.json"
+  },
+  {
+    "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
+    "response": "SkinPacks\\DoctorWho\\Search_DoctorWhoV2.json"
+  },
+  {
+    "uuid": "70777aa6-5949-4529-947f-2fcdbc94c3cb",
+    "response": "SkinPacks\\EarthSkins\\Search_EarthSkin.json"
+  },
+  {
+    "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+    "response": "SkinPacks\\FestiveMashUp\\Search_Festive.json"
+  },
+  {
+    "uuid": "4972c4c7-6eac-4e4c-b2d0-822b590b6fa7",
+    "response": "SkinPacks\\CapeSkinPacks\\Search_FoundersCape.json"
+  },
+  {
+    "uuid": "91551b69-a8ab-447a-b0b6-693e9086eae3",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_HalloweenCharitySkinPack.json"
+  },
+  {
+    "uuid": "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_JoslynsGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4",
+    "response": "SkinPacks\\LegacySkinPack\\Search_LegacySkinPack.json"
+  },
+  {
+    "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\Search_LEGORMinecraftTMDragonSlayer.json"
+  },
+  {
+    "uuid": "a7657028-94cf-4d70-a421-42b64c18ad27",
+    "response": "SkinPacks\\GiveCampaignSkins\\Search_LucysGiveCampaignSkin.json"
+  },
+  {
+    "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
+    "response": "SkinPacks\\LittleBigPlanetMashUp\\Search_LittleBigPlanetMashup.json"
+  },
+  {
+    "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+    "response": "SkinPacks\\MarioMashUp\\Search_MarioMashUp.json"
+  },
+  {
+    "uuid": "083c0c90-cd38-46ad-a473-881f2a7cc069",
+    "response": "SkinPacks\\MarvelSkinPacks\\Search_MarvelAvengersSkinPack.json"
+  },
+  {
+    "uuid": "1d3e88a9-617c-45a8-83ba-b4abef5fda4e",
+    "response": "SkinPacks\\MarvelSkinPacks\\Search_MarvelGuardiansoftheGalaxySkinPack.json"
+  },
+  {
+    "uuid": "8eba8968-4ad4-446c-8717-36c38cae0edb",
+    "response": "SkinPacks\\MarvelSkinPacks\\Search_MarvelSpiderManSkinPack.json"
+  },
+  {
+    "uuid": "98500e08-627e-4f46-a4d3-705a01f6f110",
+    "response": "SkinPacks\\MightyMorphinPowerRangers\\Search_MightyMorphinPowerRangers.json"
+  },
+  {
+    "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+    "response": "SkinPacks\\CapeSkinPacks\\Search_Minecon2015SkinPack.json"
+  },
+  {
+    "uuid": "838bdb6b-bf30-42ca-a4d8-e35865fba8e2",
+    "response": "SkinPacks\\CapeSkinPacks\\Search_MINECON2016SkinPack.json"
+  },
+  {
+    "uuid": "ac3914ce-f321-4b13-89bf-5a74990242c8",
+    "response": "SkinPacks\\EarthSkins\\Search_MumboJumboGrianSkins.json"
+  },
+  {
+    "uuid": "a618ca05-77ba-4afb-bb9a-8fdb413219ab",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_PawsandClawsCosplayPack.json"
+  },
+  {
+    "uuid": "720ee1f3-dc46-4ffc-a390-8bb035e7be26",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack1.json"
+  },
+  {
+    "uuid": "f73518e4-10b6-4eaa-a088-7b246483694e",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack1Classic.json"
+  },
+  {
+    "uuid": "d78aa7a2-9680-417c-97da-01c9cfbf0c4b",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack2.json"
+  },
+  {
+    "uuid": "d53c598e-3ea8-48d5-80e2-3ae9fc08e527",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack2Classic.json"
+  },
+  {
+    "uuid": "640f444e-0d59-4d9a-9502-d64658a9b51b",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack3.json"
+  },
+  {
+    "uuid": "5371bde5-04bb-4195-8305-67dd24194f7b",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack3Classic.json"
+  },
+  {
+    "uuid": "55fa75f0-1635-485f-9586-1bdd0cb6a255",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack4.json"
+  },
+  {
+    "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack5.json"
+  },
+  {
+    "uuid": "0037a29f-876e-4709-8bb8-a388738e6f51",
+    "response": "SkinPacks\\SkinPack\\Search_SkinPack6.json"
+  },
+  {
+    "uuid": "93b450c2-910f-4915-894d-444dde7a3306",
+    "response": "SkinPacks\\StrangerThingsSkinPack\\Search_StrangerThingsSkinPack.json"
+  },
+  {
+    "uuid": "5fe3e01c-609b-497e-b17e-342b83281369",
+    "response": "SkinPacks\\CharitySkinPacks\\Search_SummerofArcadeSkinPack.json"
+  },
+  {
+    "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
+    "response": "SkinPacks\\TheSimpsonsSkinPack\\Search_TheSimpsonsSkinPack.json"
+  },
+  {
+    "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+    "response": "SkinPacks\\1stBirthdaySkinPack\\Search_1stBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\Search_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+    "response": "SkinPacks\\GreekMythologyMashUp\\Search_GreekMythologyMashUp.json"
+  },
+  // Creator Packs
+  {
+    "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
+    "response": "SkinPacks\\Creators\\BionicBen\\Search_6thBirthdaySkinPack.json"
+  },
+  {
+    "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+    "response": "SkinPacks\\Creators\\BionicBen\\Search_BionicBenSkinPack.json"
+  },
+  {
+    "uuid": "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
+    "response": "SkinPacks\\Creators\\BionicBen\\Search_Deadmau5SkinPack.json"
+  },
+  {
+    "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+    "response": "SkinPacks\\Creators\\BionicBen\\Search_ProjectStarSkinPack.json"
+  },
+  {
+    "uuid": "51bb5ca4-77b9-4e9d-8c90-992b61d94c0d",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC1.json"
+  },
+  {
+    "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC2.json"
+  },
+  {
+    "uuid": "0484ef22-b675-4468-b58d-699890b377b1",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC3.json"
+  },
+  {
+    "uuid": "2291990c-6b7a-42d8-ad13-c1b490b9e1f6",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC4.json"
+  },
+  {
+    "uuid": "1ea3fef7-eea7-4413-ac90-13e053ea4cea",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC5.json"
+  },
+  {
+    "uuid": "ff1018de-be33-4ce9-a131-f94d0c2abb2e",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC6.json"
+  },
+  {
+    "uuid": "b6733994-4772-41a1-9dfb-c445d24048c7",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC7.json"
+  },
+  {
+    "uuid": "cd99e175-5498-4edf-8bb2-ab29cbfc00b9",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC8.json"
+  },
+  {
+    "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+    "response": "SkinPacks\\Creators\\YEH\\Search_LEGOMinecraftSkinPack.json"
+  },
+  {
+    "uuid": "2f8d9fb8-c3c9-47d5-8460-e15da1a528fb",
+    "response": "SkinPacks\\Creators\\YEH\\Search_REPOSEMIBOTS.json"
+  },
+  {
+    "uuid": "73d78fb2-9cd7-43bb-8f60-899f654761e1",
+    "response": "SkinPacks\\Creators\\YEH\\Search_REPOSEMIBOTS5D.json"
+  },
+  {
+    "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_BlackHoleSkinPack.json"
+  },
+  {
+    "uuid": "a7952402-135e-4f5d-abea-5b738904e2c4",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_DetectiveConanSkinPack.json"
+  },
+  {
+    "uuid": "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_DoraemonSkinPack.json"
+  },
+  {
+    "uuid": "b53d0382-a1e0-4707-9dd2-92ccae001033",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_HotelTransylvaniaSkinPack.json"
+  },
+  {
+    "uuid": "863a125c-4fd6-413d-8f82-a3ab232e69ec",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Search_NeonGenesisEvangelionSkinPack.json"
+  },
+  // Cape Physics
+  {
+    "uuid": "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+    "response": "Other\\CapePhysics\\Search_CapePhysics.json"
+  }
+]

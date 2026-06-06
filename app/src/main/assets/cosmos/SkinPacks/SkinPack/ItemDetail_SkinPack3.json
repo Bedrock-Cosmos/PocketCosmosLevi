@@ -1,0 +1,274 @@
+{
+  "result": {
+    "id": "36b8bc1a-10a1-4405-adc1-c93086dcb317",
+    "pageId": "ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Skin Pack 3'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "36b8bc1a-10a1-4405-adc1-c93086dcb317",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Skin Pack 3",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.5,
+                    "totalCount": 3297
+                  },
+                  "price": {
+                    "listPrice": 490,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 45,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "640f444e-0d59-4d9a-9502-d64658a9b51b",
+                      "version": "3.20.2026"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/a49517f0-4671-44b4-86d1-61ae5c3d8956/SkinPack3Sony_MarketingScreenshot_1.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/a49517f0-4671-44b4-86d1-61ae5c3d8956/SkinPack3Sony_MarketingScreenshot_1.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/d2ecb8ed-802d-4a95-b29a-d7e8e40d5476/SkinPack3Sony_MarketingScreenshot_2.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/d2ecb8ed-802d-4a95-b29a-d7e8e40d5476/SkinPack3Sony_MarketingScreenshot_2.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/c551cc48-467b-4fee-a420-c1398904ea71/SkinPack3Sony_MarketingScreenshot_3.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/c551cc48-467b-4fee-a420-c1398904ea71/SkinPack3Sony_MarketingScreenshot_3.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/8c70cd7e-dd0b-421b-8e75-51f2fc9817f5/SkinPack3Sony_MarketingScreenshot_4.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/8c70cd7e-dd0b-421b-8e75-51f2fc9817f5/SkinPack3Sony_MarketingScreenshot_4.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/b478f4c0-1dc8-4a67-ba22-057ec64b1891/SkinPack3Sony_MarketingScreenshot_5.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/b478f4c0-1dc8-4a67-ba22-057ec64b1891/SkinPack3Sony_MarketingScreenshot_5.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "packicon",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/48cbe5a2-78f8-496d-afcd-3b1fefa35545/SkinPack3Sony_packicon_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/48cbe5a2-78f8-496d-afcd-3b1fefa35545/SkinPack3Sony_packicon_0.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2019-12-09T18:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/7e836672-4d95-4dc1-a08d-3c83e83fc24d/secondary.zip"
+                  }
+                ],
+                "price": {
+                  "listPrice": 490,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "A dedicated version of Skin Pack 3, featuring exclusive characters along with others from the Classic version.\r\nOnly available for Minecraft on PlayStation®4.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/7e836672-4d95-4dc1-a08d-3c83e83fc24d/secondary.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "640f444e-0d59-4d9a-9502-d64658a9b51b",
+                  "version": "3.20.2026"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Skin Pack 3: %s",
+                "text": {
+                  "value": "Skin Pack 3: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 3297,
+                  "count5Star": 2630,
+                  "count4Star": 250,
+                  "count3Star": 139,
+                  "count2Star": 34,
+                  "count1Star": 244,
+                  "id": "36b8bc1a-10a1-4405-adc1-c93086dcb317",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "80%",
+                    "percentage4Star": "8%",
+                    "percentage3Star": "4%",
+                    "percentage2Star": "1%",
+                    "percentage1Star": "7%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "efc102f0-3258-430e-adc4-c3d438c81889",
+      "Contents": [
+        {
+          "Id": "30c6efc2-d64f-41bb-8127-e9b15160aec6",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Mysterio_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Spider-Man Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "20b98f87-f955-405f-9693-cafce2a25008",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

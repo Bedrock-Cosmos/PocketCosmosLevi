@@ -1,0 +1,162 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "05103b4d-d4fc-4c80-a37f-332ee6ddbb7e"
+          }
+        ],
+        "Title": {
+          "en-US": "4th Birthday Skin Pack",
+          "NEUTRAL": "4th Birthday Skin Pack",
+          "neutral": "4th Birthday Skin Pack"
+        },
+        "Description": {
+          "en-US": "Dress up for the party with this new, free skin pack and celebrate together the 4th Minecraft birthday!",
+          "NEUTRAL": "Dress up for the party with this new, free skin pack and celebrate together the 4th Minecraft birthday!",
+          "neutral": "Dress up for the party with this new, free skin pack and celebrate together the 4th Minecraft birthday!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+          "659b5fdb-3260-47ff-9aeb-41818d74acdd",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.survival",
+          "tag.skin",
+          "tag.holiday",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:55:32.774Z",
+        "LastModifiedDate": "2023-08-10T05:16:19.666Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "3e7257e1-c31c-477b-88c3-af3d75840a0a",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3e7257e1-c31c-477b-88c3-af3d75840a0a/4thBirthday_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "01ab9849-4cdd-4ca5-8ff6-662d04f525ad",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.5,
+          "TotalCount": 6346,
+          "Count5Star": 5047,
+          "Count4Star": 510,
+          "Count3Star": 314,
+          "Count2Star": 112,
+          "Count1Star": 363
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "05103b4d-d4fc-4c80-a37f-332ee6ddbb7e",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "659b5fdb-3260-47ff-9aeb-41818d74acdd",
+              "version": "3.11.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "lastUpdated": "1.14.3"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

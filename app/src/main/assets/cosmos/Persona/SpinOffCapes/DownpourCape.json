@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1f0b25db-b7bc-4080-b345-394a3f18c977",
+      "Contents": [
+        {
+          "Id": "5ad982b5-aec8-4de1-80d5-ed3d8289a2e4",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/DownpourCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d6e8ac80-5610-4886-86c7-8fec3e3619f4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

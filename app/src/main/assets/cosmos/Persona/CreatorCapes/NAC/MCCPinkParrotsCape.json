@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bf37ce64-ce9a-441a-a8f6-2be5fa08c282",
+      "Contents": [
+        {
+          "Id": "656946d2-95c4-46a1-820a-603ee6511345",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCPinkParrotsCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8d89444c-fa62-4a2c-8206-42aaaa980ae1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

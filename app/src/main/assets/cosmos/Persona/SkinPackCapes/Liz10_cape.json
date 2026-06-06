@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1327c3a1-2457-4583-b9c9-f2f296542710",
+      "Contents": [
+        {
+          "Id": "2d8a17e9-5e8f-4650-bb2b-2b3dfb53221e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Liz10_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Doctor Who Skins Volume I",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f197f30e-dcff-4892-90cc-f16f6f47bb67",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

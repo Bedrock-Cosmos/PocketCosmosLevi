@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e9638da5-88db-4a0d-b682-912742e43895",
+      "Contents": [
+        {
+          "Id": "96b8dc5f-5950-49f1-b296-4e7bf88631fe",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MasAmedda_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Star Wars Prequel Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b58039c5-9589-4b3c-a7f1-71ec09e8e28e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

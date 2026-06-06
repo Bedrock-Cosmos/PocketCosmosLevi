@@ -1,0 +1,164 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "ea5746d0-2434-4a52-9026-7de28579f76b"
+          }
+        ],
+        "Title": {
+          "en-US": "2nd Birthday Skin Pack",
+          "NEUTRAL": "2nd Birthday Skin Pack",
+          "neutral": "2nd Birthday Skin Pack"
+        },
+        "Description": {
+          "en-US": "Minecraft is growing up, time to celebrate together our 2nd Birthday!",
+          "NEUTRAL": "Minecraft is growing up, time to celebrate together our 2nd Birthday!",
+          "neutral": "Minecraft is growing up, time to celebrate together our 2nd Birthday!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Party Based RPG", "Funny"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Party Based RPG", "Funny"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Party Based RPG", "Funny"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "nx.store",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+          "e823767b-7337-49da-aaef-de616d2c2c3a",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.survival",
+          "tag.skin",
+          "tag.party_based_rpg",
+          "tag.funny",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:55:11.162Z",
+        "LastModifiedDate": "2023-08-09T16:10:37.521Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "905ed25d-92af-4c1b-8059-a22f3553b26b",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "a8861471-10ae-4039-884d-b150a4980ff2",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.7,
+          "TotalCount": 26544,
+          "Count5Star": 23043,
+          "Count4Star": 1464,
+          "Count3Star": 804,
+          "Count2Star": 318,
+          "Count1Star": 915
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "ea5746d0-2434-4a52-9026-7de28579f76b",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "e823767b-7337-49da-aaef-de616d2c2c3a",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 25
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "lastUpdated": "1.14.30"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

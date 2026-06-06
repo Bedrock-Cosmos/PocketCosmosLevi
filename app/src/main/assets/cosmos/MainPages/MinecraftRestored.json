@@ -1,0 +1,986 @@
+{
+  "result": {
+    "pageId": "CreatorPage_master_player_account!MinecraftRestored",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "None",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "editorialtool.localization.mycontent",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " Minecraft's Restored Packs",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Adds back several removed features, such as Skins and Capes!\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "8674f54e-dcd3-4277-83d5-e3c758a7d92a",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "1st Birthday Skin Pack Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "54b73791-d33a-404a-971f-8dd7c69e942c",
+                        "version": "3.1.26"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "ac081ea0-e540-4e35-aab8-349909904dbc",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "2nd Birthday Skin Pack - 2015 Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "a2f3ec59-75a6-461c-8dad-05f5bf2d29d3",
+                        "version": "1.14.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/2ndBirthday-SonyRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "ab0161a5-f37d-4a4c-9723-ed8966391861",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Greek Mythology Mash-up Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 990,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "b3009983-9927-42e9-a5a1-1ab7a82de8c6",
+                        "version": "1.14.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "1ae848aa-d5c2-4c73-8671-3d6d43f6e776",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Legacy Skin Pack Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4",
+                        "version": "4.13.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegacySkinPackRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "afbbf5f0-875c-4627-a644-bc1dac1adbb1",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "LEGO(R) Minecraft(TM) Dragon Slayer Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/LegoDragonSlayerRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegoDragonSlayerRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_38fdf771-febb-4b6f-a162-c42850817d95",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_38fdf771-febb-4b6f-a162-c42850817d95",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+                        "version": "3.14.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/LegoDragonSlayerRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LegoDragonSlayerRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "b7098a87-3979-40f0-b71c-c7e31325fb01",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "LittleBigPlanet™ Mash-up Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 990,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "27880655-a80c-4110-8cbf-e0edadd23517",
+                        "version": "1.14.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "0b451487-51da-48e1-a7bb-bbf769f0e109",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Skin Pack 1 - Classic Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": -1,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_d1e7ecae-b422-40a2-8037-cf24571f901c",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_d1e7ecae-b422-40a2-8037-cf24571f901c",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "4bab3ca4-ff91-4546-8291-75c1eee892eb",
+                        "version": "3.20.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack1-ClassicRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "ecba1a47-02c2-40f4-aa56-e5c1dfaed6a1",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Skin Pack 2 Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack2-SonyRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack2-SonyRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 490,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "d78aa7a2-9680-417c-97da-01c9cfbf0c4b",
+                        "version": "3.20.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack2-SonyRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack2-SonyRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "6cd3e57a-ca8d-4f26-9f1a-3744a121c50f",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Skin Pack 2 - Classic Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 490,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "d53c598e-3ea8-48d5-80e2-3ae9fc08e527",
+                        "version": "3.14.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack2-ClassicRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "f9e8f181-c6f3-430c-abd9-385a084e3f2d",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Skin Pack 3 Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 490,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "11ba3596-51bc-4128-a2e8-9ca9e8aaad19",
+                        "version": "3.20.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack3-SonyRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "3f8a1576-f343-4b0c-a832-9fe5963518b2",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Skin Pack 3 - Classic Restored",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/SkinPack3-ClassicRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack3-ClassicRestored_thumbnail.jpg"
+                    },
+                    "price": {
+                      "listPrice": 490,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_297ef7fb-debf-40a5-aea7-4e7acf141c59",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_297ef7fb-debf-40a5-aea7-4e7acf141c59",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 25,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "57514036-df03-4590-aad3-81c6d7fd5b3c",
+                        "version": "3.20.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/SkinPack3-ClassicRestored_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SkinPack3-ClassicRestored_thumbnail.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  }
+                ],
+                "totalItems": 11,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " Other Restored Packs",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Adds back other lost features from various Marketplace packs and parts of Minecraft's history!\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "a9a8ff47-e878-44bc-ae9f-1579d8f07ecb",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Actions & Stuff Restored",
+                    "description": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
+                    "creatorName": "Bedrock Cosmos",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ActionsAndStuffRestored_thumbnail.jpg?width=800&height=450"
+                    },
+                    "rating": { "average": 4.9, "totalCount": 112233 },
+                    "price": {
+                      "listPrice": 1690,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_61c7a786-d7ad-49e0-a710-817121cd9795",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!MinecraftRestored",
+                    "statistics": {
+                      "skins": 21,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "EntitledByRealmsPlus",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a",
+                        "version": "1.14.2026"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2024-12-24T18:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  }
+                ],
+                "totalItems": 1,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

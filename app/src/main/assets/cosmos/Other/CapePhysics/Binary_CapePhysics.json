@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "be094038-1e9b-42ca-b849-7c6345f2be50",
+      "Contents": [
+        {
+          "Id": "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/7b5ca/CapePhysics.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "resourcebinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Xatalyst",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "resources",
+            "uuid": "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

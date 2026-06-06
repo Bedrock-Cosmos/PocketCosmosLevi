@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "acf80f4c-f232-4608-aecf-7e9807bb9d4e",
+      "Contents": [
+        {
+          "Id": "88bf6b8b-cc49-4198-b0ab-e3a4c9fbbf4d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCCyanCoyotesCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "12664480-30d5-48e1-bc53-433c2914f245",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

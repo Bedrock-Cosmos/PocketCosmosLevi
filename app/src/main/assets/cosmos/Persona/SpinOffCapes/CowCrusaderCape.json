@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cae14f00-efc1-4be9-afcf-513a125a8e91",
+      "Contents": [
+        {
+          "Id": "5b4fc9a5-635b-4213-8c41-90a3969be9cd",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/CowCrusaderCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "58dcdf0f-0699-4c49-a012-61291da0756a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "4ad937a2-bf33-4390-93e3-62198b58f9ff",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "3b1f5085-2590-4b4b-96ca-bde8040fee99"
+          }
+        ],
+        "Title": {
+          "en-US": "Mighty Morphin Power Rangers",
+          "NEUTRAL": "Mighty Morphin Power Rangers",
+          "neutral": "Mighty Morphin Power Rangers"
+        },
+        "Description": {
+          "en-US": "Assemble your Mighty Morphin Power Rangers team and Go Go!",
+          "NEUTRAL": "Assemble your Mighty Morphin Power Rangers team and Go Go!",
+          "neutral": "Assemble your Mighty Morphin Power Rangers team and Go Go!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Action", "Skin", "Superhero"]
+          },
+          "NEUTRAL": {
+            "Values": ["Action", "Skin", "Superhero"]
+          },
+          "neutral": {
+            "Values": ["Action", "Skin", "Superhero"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "4ad937a2-bf33-4390-93e3-62198b58f9ff",
+          "98500e08-627e-4f46-a4d3-705a01f6f110",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.action",
+          "tag.skin",
+          "tag.superhero",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:59:40.372Z",
+        "LastModifiedDate": "2024-11-27T23:05:16.46Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "fb481e6f-0173-4bdd-b4ff-7e49b163f904",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/fb481e6f-0173-4bdd-b4ff-7e49b163f904/MightyMorphinPowerRangers_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "a24ced99-5ed4-40ce-a20b-1179b876c36e",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 10734,
+          "Count5Star": 9124,
+          "Count4Star": 569,
+          "Count3Star": 296,
+          "Count2Star": 134,
+          "Count1Star": 611
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "3b1f5085-2590-4b4b-96ca-bde8040fee99",
+          "originalCreatorId": "2535448579972708",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "98500e08-627e-4f46-a4d3-705a01f6f110",
+              "version": "3.11.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

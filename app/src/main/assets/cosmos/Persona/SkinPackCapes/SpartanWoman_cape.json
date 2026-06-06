@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4af67132-64f7-486e-827f-a9afe35a3996",
+      "Contents": [
+        {
+          "Id": "3c6451cb-3f7d-4367-85c7-c73da2a48fbc",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SpartanWoman_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Battle & Beasts Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b5f0e60c-46ec-4b01-b4eb-38a7b0c47e70",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

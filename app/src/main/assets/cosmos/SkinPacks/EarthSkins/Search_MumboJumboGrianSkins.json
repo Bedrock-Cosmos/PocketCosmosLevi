@@ -1,0 +1,164 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "01d22780-c8c6-421d-a5cf-c615a398c480",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "927731b1-1710-4032-a9f1-abc4fcb5a713"
+          }
+        ],
+        "Title": {
+          "en-US": "Mumbo Jumbo & Grian Skins",
+          "NEUTRAL": "Mumbo Jumbo & Grian Skins",
+          "neutral": "Mumbo Jumbo & Grian Skins"
+        },
+        "Description": {
+          "en-US": "Private skin pack containing Mumbo Jumbo’s and Grian’s skins for use in their Minecraft Earth road trip video series, debuting at Minecon Live 2020. ",
+          "NEUTRAL": "Private skin pack containing Mumbo Jumbo’s and Grian’s skins for use in their Minecraft Earth road trip video series, debuting at Minecon Live 2020. ",
+          "neutral": "Private skin pack containing Mumbo Jumbo’s and Grian’s skins for use in their Minecraft Earth road trip video series, debuting at Minecon Live 2020. "
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Action", "Choose Your Own Adventure", "Movie Star"]
+          },
+          "NEUTRAL": {
+            "Values": ["Action", "Choose Your Own Adventure", "Movie Star"]
+          },
+          "neutral": {
+            "Values": ["Action", "Choose Your Own Adventure", "Movie Star"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "01d22780-c8c6-421d-a5cf-c615a398c480",
+          "ac3914ce-f321-4b13-89bf-5a74990242c8",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.action",
+          "tag.choose_your_own_adventure",
+          "tag.movie_star",
+          "1P"
+        ],
+        "CreationDate": "2020-08-17T23:40:54.817Z",
+        "LastModifiedDate": "2023-08-09T16:03:29.371Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "89252f64-c1b0-41dc-a538-94fa0c14fa1b",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/89252f64-c1b0-41dc-a538-94fa0c14fa1b/EarthSkin_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "7b1cb6fc-405e-4e35-a33f-1ee5b94564df",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.2,
+          "TotalCount": 268,
+          "Count5Star": 194,
+          "Count4Star": 20,
+          "Count3Star": 11,
+          "Count2Star": 6,
+          "Count1Star": 37
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "927731b1-1710-4032-a9f1-abc4fcb5a713",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "ac3914ce-f321-4b13-89bf-5a74990242c8",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 2
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

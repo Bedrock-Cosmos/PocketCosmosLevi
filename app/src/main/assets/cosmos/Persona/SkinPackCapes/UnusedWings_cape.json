@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "12fba8b3-ed4d-4e91-9eea-56d3e5f35cfe",
+      "Contents": [
+        {
+          "Id": "a4980c64-f04d-4fa3-97a7-7e1290836bbf",
+          "Url": "https://capes.bedrock-cosmos.app/zips/UnusedWings_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Star Wars Prequel Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "df497cd9-4537-42b2-bcc3-26a79246b972",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

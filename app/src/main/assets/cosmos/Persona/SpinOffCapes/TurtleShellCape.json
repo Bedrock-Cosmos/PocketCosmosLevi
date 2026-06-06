@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1a3f66b4-a66b-4a44-bb79-d795ca40bbf7",
+      "Contents": [
+        {
+          "Id": "1cd9bbb7-c2f7-4aae-81c8-ef83c3d3298a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/TurtleShellCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "aa48eb4b-390b-4ebe-8185-8bff1bd89e6a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

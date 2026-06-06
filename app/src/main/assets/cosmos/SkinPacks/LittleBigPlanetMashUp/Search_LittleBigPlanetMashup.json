@@ -1,0 +1,238 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "f1b75170-54d5-47d6-9e5f-7acc04bb159c"
+          }
+        ],
+        "Title": {
+          "NEUTRAL": "LittleBigPlanet™ Mash-up",
+          "neutral": "LittleBigPlanet™ Mash-up"
+        },
+        "Description": {
+          "NEUTRAL": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
+          "neutral": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4."
+        },
+        "Keywords": {
+          "NEUTRAL": {
+            "Values": [
+              "Exploration",
+              "Adventures",
+              "Cute",
+              "Surreal",
+              "Survival",
+              "Open World"
+            ]
+          },
+          "neutral": {
+            "Values": [
+              "Exploration",
+              "Adventures",
+              "Cute",
+              "Surreal",
+              "Survival",
+              "Open World"
+            ]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "b.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+          "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
+          "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
+          "1dde574b-2b4d-48e6-951e-d135093bcdc9",
+          "tag.exploration",
+          "tag.adventures",
+          "tag.cute",
+          "tag.surreal",
+          "1P",
+          "mashup",
+          "has_skinpack",
+          "survival_spawn_world",
+          "genre.survival",
+          "subgenre.open_world",
+          "playercount.1-4"
+        ],
+        "CreationDate": "2019-10-29T18:49:24.369Z",
+        "LastModifiedDate": "2026-03-31T15:17:33.379Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "aa76e7af-907e-4241-a198-594105c6d062",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "8bd9c53b-a1b8-4579-87a7-b41a0ce1b2d1",
+            "Amount": 1
+          },
+          {
+            "Id": "ff0b750d-8ab3-4397-8d9a-c057bca18fab",
+            "Amount": 1
+          },
+          {
+            "Id": "08840483-bde3-41a9-860d-44257e11e1d9",
+            "Amount": 1
+          }
+        ],
+        "Price": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 990
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 990
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "PriceOptions": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 990
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 990
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "Rating": {
+          "Average": 4.3,
+          "TotalCount": 18756,
+          "Count5Star": 13997,
+          "Count4Star": 1397,
+          "Count3Star": 862,
+          "Count2Star": 370,
+          "Count1Star": 2130
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "f1b75170-54d5-47d6-9e5f-7acc04bb159c",
+          "originalCreatorId": "2535448579972708",
+          "price": 990,
+          "purchasable": true,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
+              "version": "3.3.26"
+            },
+            {
+              "type": "resourcepack",
+              "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
+              "version": "1.0.75"
+            },
+            {
+              "type": "worldtemplate",
+              "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
+              "version": "1.0.75"
+            }
+          ],
+          "skinPack": {
+            "count": 38
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "hardwareMemoryTier": 0
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

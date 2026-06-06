@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b178525f-a466-43d4-b241-a8611bc7e66e",
+      "Contents": [
+        {
+          "Id": "0bb5ad0e-df04-4c43-a61a-c6a92676bb9a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Hades_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fcd1c934-0da4-4343-9c74-ac2382644627",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

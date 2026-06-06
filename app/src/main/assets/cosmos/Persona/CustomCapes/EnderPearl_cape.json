@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8d8508a7-4a2e-44d8-8e5d-76b61639955d",
+      "Contents": [
+        {
+          "Id": "bcca61d4-295a-41e4-a327-3837862bfc39",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EnderPearl_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "JakeMCPE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9fad0855-75c5-4a04-9aad-b5ef5a41e0b3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

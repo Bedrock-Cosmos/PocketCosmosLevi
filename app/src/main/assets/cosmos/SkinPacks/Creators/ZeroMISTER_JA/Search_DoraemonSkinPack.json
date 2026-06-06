@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Doraemon Skin Pack",
+          "neutral": "Doraemon Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "-",
+          "neutral": "-"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+          "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-14T18:49:56Z",
+        "LastModifiedDate": "2026-04-14T18:49:56Z",
+        "DisplayProperties": {
+          "creatorName": "ZeroMISTER JA",
+          "offerId": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

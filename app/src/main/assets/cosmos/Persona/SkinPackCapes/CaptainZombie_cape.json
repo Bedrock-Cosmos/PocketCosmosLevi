@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fe62dada-d163-4aa3-96e3-e75533ff4810",
+      "Contents": [
+        {
+          "Id": "3a3dea37-f4dd-48c6-9a00-1ea3d18c3f9c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CaptainZombie_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Charity Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b0263bf5-d91a-47ea-9ac0-190a272de0b5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

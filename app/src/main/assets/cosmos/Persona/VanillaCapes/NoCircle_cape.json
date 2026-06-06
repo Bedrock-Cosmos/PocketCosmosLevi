@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c3bfe7f1-cf67-4a04-aba3-e2fa066cf406",
+      "Contents": [
+        {
+          "Id": "5507706d-cbd9-4bc8-a25c-5e3ce1816489",
+          "Url": "https://capes.bedrock-cosmos.app/zips/NoCircle_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "58f1dc89-a283-457f-9475-783063178957",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

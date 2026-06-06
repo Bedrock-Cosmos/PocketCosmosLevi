@@ -1,0 +1,575 @@
+{
+  "result": {
+    "id": "32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+    "pageId": "ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Greek Mythology Mash-up'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Greek Mythology Mash-up",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg?width=800&height=450"
+                  },
+                  "rating": { "average": 4.4, "totalCount": 63859 },
+                  "price": {
+                    "listPrice": 990,
+                    "realmsInfo": { "inRealmsPlus": false },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": { "value": "Minecraft", "replacements": [] },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 39,
+                    "worlds": 1,
+                    "textures": 1,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "MashUp",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+                      "version": "3.3.26"
+                    },
+                    {
+                      "type": "resourcepack",
+                      "uuid": "98330b0a-2c79-4d30-b9c8-136098340edc",
+                      "version": "1.0.79"
+                    },
+                    {
+                      "type": "worldtemplate",
+                      "uuid": "e8ad3b41-ddd3-4247-907b-090419cdb7ca",
+                      "version": "1.0.79"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.survival",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.survival",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Survival"
+                    },
+                    {
+                      "linksTo": "Tag_subgenre.open_world",
+                      "linksToInfo": {
+                        "linksTo": "Tag_subgenre.open_world",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Open World"
+                    },
+                    {
+                      "linksTo": "Tag_playercount.SinglePlayer",
+                      "linksToInfo": {
+                        "linksTo": "Tag_playercount.SinglePlayer",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Single player"
+                    },
+                    {
+                      "linksTo": "Tag_playercount.Multiplayer",
+                      "linksToInfo": {
+                        "linksTo": "Tag_playercount.Multiplayer",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Multiplayer"
+                    },
+                    {
+                      "linksTo": "Tag_tag.exploration",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.exploration",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Exploration"
+                    },
+                    {
+                      "linksTo": "Tag_tag.historical",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.historical",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Historical"
+                    },
+                    {
+                      "linksTo": "Tag_tag.mythology",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.mythology",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Mythology"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/GreekMythologyRestored_thumbnail.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-03-30T05:07:28.263Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {},
+                  "hardwareMemoryTier": 0
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": 990,
+                  "realmsInfo": { "inRealmsPlus": false },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f066b5d3-bf21-4abe-9d5d-30541826a1c5/primary.zip"
+                  },
+                  {
+                    "url": "https://cdn.bedrockcosmos.app/uss/f2c9e/GreekMythology.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, or set sail for adventures across the sea. The world is your square oyster!",
+                "genres": [
+                  {
+                    "linksTo": "Tag_genre.survival",
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.survival",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Survival"
+                  }
+                ],
+                "subgenres": [
+                  {
+                    "linksTo": "Tag_subgenre.open_world",
+                    "linksToInfo": {
+                      "linksTo": "Tag_subgenre.open_world",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Open World"
+                  }
+                ],
+                "playerCount": "1-4",
+                "playerCounts": [
+                  {
+                    "linksTo": "Tag_playercount.SinglePlayer",
+                    "linksToInfo": {
+                      "linksTo": "Tag_playercount.SinglePlayer",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Single player"
+                  },
+                  {
+                    "linksTo": "Tag_playercount.Multiplayer",
+                    "linksToInfo": {
+                      "linksTo": "Tag_playercount.Multiplayer",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Multiplayer"
+                  }
+                ],
+                "tags": [
+                  {
+                    "linksTo": "Tag_tag.exploration",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.exploration",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Exploration"
+                  },
+                  {
+                    "linksTo": "Tag_tag.historical",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.historical",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Historical"
+                  },
+                  {
+                    "linksTo": "Tag_tag.mythology",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.mythology",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Mythology"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ],
+            "telemetryId": "store.mashup.description"
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://cdn.bedrockcosmos.app/uss/f2c9e/GreekMythology.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+                  "version": "3.3.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Greek Mythology Mash-up: %s",
+                "text": {
+                  "value": "Greek Mythology Mash-up: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ImageGallery",
+            "components": [
+              {
+                "images": [
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3c751c70-f284-4c3e-b637-063074c7296a/MCPE_Greek_Screenshot_1.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/3c751c70-f284-4c3e-b637-063074c7296a/MCPE_Greek_Screenshot_1.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/18bd7c7c-8c85-4590-8889-8a894eb22102/MCPE_Greek_Screenshot_2.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/18bd7c7c-8c85-4590-8889-8a894eb22102/MCPE_Greek_Screenshot_2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/21140e23-81e0-4ca0-a06d-0eb2beaeee2f/MCPE_Greek_Screenshot_3.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/21140e23-81e0-4ca0-a06d-0eb2beaeee2f/MCPE_Greek_Screenshot_3.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e23ed3fc-690e-4801-ae49-f545137256dd/MCPE_Greek_Screenshot_4.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/e23ed3fc-690e-4801-ae49-f545137256dd/MCPE_Greek_Screenshot_4.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4d047f5d-588c-4698-95c6-1a8f04357f4b/MCPE_Greek_Screenshot_5.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/4d047f5d-588c-4698-95c6-1a8f04357f4b/MCPE_Greek_Screenshot_5.jpg?width=800&height=450"
+                  }
+                ],
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Take a tour!",
+                "text": {
+                  "value": "Take a tour!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ],
+            "telemetryId": "Take a tour!"
+          },
+          {
+            "controlId": "WorldView",
+            "components": [
+              {
+                "panoramaUrl": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/054c1271-7b84-438f-a7aa-6239f82ae545/MCPE_Greek_panorama_0.jpg",
+                "panoramaImage": {
+                  "type": "Panorama",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/054c1271-7b84-438f-a7aa-6239f82ae545/MCPE_Greek_panorama_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/054c1271-7b84-438f-a7aa-6239f82ae545/MCPE_Greek_panorama_0.jpg?width=-1&height=450"
+                },
+                "type": "panoramaComp",
+                "$type": "PanoramaComponent"
+              },
+              {
+                "headerText": "Journey in a new world!",
+                "text": {
+                  "value": "Journey in a new world!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ],
+            "telemetryId": "Journey in a new world!"
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.4,
+                  "totalCount": 63859,
+                  "count5Star": 47459,
+                  "count4Star": 6263,
+                  "count3Star": 3212,
+                  "count2Star": 1162,
+                  "count1Star": 5763,
+                  "id": "32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "74%%",
+                    "percentage4Star": "10%%",
+                    "percentage3Star": "5%%",
+                    "percentage2Star": "2%%",
+                    "percentage1Star": "9%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}
