@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2de148de-3196-4dac-8e2a-a28e589da380",
+      "Contents": [
+        {
+          "Id": "13c05457-b8a4-4758-bf1d-f02da9d3b113",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/HeroCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "efb8e959-a115-44a4-9cc5-eaa999e10e81",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

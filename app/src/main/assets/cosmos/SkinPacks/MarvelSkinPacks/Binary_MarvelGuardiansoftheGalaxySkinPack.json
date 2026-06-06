@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1213b670-c82f-4e28-baf2-9f0d88954c9a",
+      "Contents": [
+        {
+          "Id": "d8209b3d-e7f5-412d-81df-0fc4bf97e896",
+          "Url": "https://cdn.bedrockcosmos.app/uss/1d3e8/MarvelGuardiansoftheGalaxySkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "1d3e88a9-617c-45a8-83ba-b4abef5fda4e",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

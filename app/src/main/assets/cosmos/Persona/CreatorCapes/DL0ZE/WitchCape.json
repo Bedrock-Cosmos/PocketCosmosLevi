@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a307660a-f491-4e95-8866-ac87dec0ee2e",
+      "Contents": [
+        {
+          "Id": "877b93f9-7f85-48f9-9ffc-c62aae87927b",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/WitchCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e229aa3e-8c26-4937-91d8-4c5639b4a29c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

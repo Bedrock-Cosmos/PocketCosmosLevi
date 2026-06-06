@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3a8a8a10-da0e-4622-962c-955c8e02385f",
+      "Contents": [
+        {
+          "Id": "8f19476c-a7ed-4dd0-82ec-1f15c5f57211",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BreezePurple_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Actions & Stuff",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1439f8b0-14b5-4dbe-8f6b-45d0f8168f2c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

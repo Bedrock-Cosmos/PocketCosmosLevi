@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "09f9b23e-8d9c-4ff5-8c11-9c5d3f405df0",
+      "Contents": [
+        {
+          "Id": "4994ab93-69e1-41c5-9b28-83b100ca33b1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EnderDragon_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "1st Birthday Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "57de006e-457a-47e9-a837-186a57d3ee4b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
