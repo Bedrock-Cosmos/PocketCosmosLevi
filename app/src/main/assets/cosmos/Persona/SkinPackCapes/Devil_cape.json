@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7240188f-2a70-47f5-9a90-cf59979068f8",
+      "Contents": [
+        {
+          "Id": "f29d6f5b-78df-4b54-908a-9355a1c9996c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Devil_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "795a848b-7e03-4306-8d44-c2a8f996d22f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

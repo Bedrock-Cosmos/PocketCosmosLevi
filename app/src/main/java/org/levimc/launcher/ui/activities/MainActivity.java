@@ -165,7 +165,7 @@ import okhttp3.OkHttpClient;
         closeLauncherRestartAfterFirstDraw();
         setupNavBar();
         setupManagersAndHandlers();
-        new GithubReleaseUpdater(this, "LiteLDev", "LeviLaunchroid", permissionResultLauncher).checkUpdateOnLaunch();
+        new GithubReleaseUpdater(this, "Bedrock-Cosmos", "PocketCosmosLevi", permissionResultLauncher).checkUpdateOnLaunch();
         showEulaIfNeeded();
         setupOnBackPressedCallback();
 
@@ -1100,11 +1100,12 @@ import okhttp3.OkHttpClient;
         startActivity(intent);
     }
 
-    private void initMiscellaneousSection() {
-        binding.miscCurseforgeRow.setOnClickListener(v -> startActivity(new Intent(this, CurseForgeActivity.class)));
-        binding.miscAccountsRow.setOnClickListener(v -> startActivity(new Intent(this, AccountsActivity.class)));
-        binding.miscQuickLaunchRow.setOnClickListener(v -> startActivity(new Intent(this, QuickLaunchActivity.class)));
-    }
+     private void initMiscellaneousSection() {
+         binding.miscCurseforgeRow.setOnClickListener(v -> startActivity(new Intent(this, CurseForgeActivity.class)));
+         binding.miscCosmosRow.setOnClickListener(v -> startActivity(new Intent(this, CosmosActivity.class)));
+         binding.miscAccountsRow.setOnClickListener(v -> startActivity(new Intent(this, AccountsActivity.class)));
+         binding.miscQuickLaunchRow.setOnClickListener(v -> startActivity(new Intent(this, QuickLaunchActivity.class)));
+     }
 
     private void openModsFullscreen() {
         Intent intent = new Intent(this, ModsFullscreenActivity.class);

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e02b1b6b-4474-4ce5-966b-a90569adb87b",
+      "Contents": [
+        {
+          "Id": "d5d3c630-a929-4fc8-815c-9786d3b70b84",
+          "Url": "https://capes.bedrock-cosmos.app/zips/HuntressWizard_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Adventure Time Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "50e2fd64-7867-418c-8777-3187e703b215",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
