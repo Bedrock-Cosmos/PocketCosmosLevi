@@ -1,0 +1,334 @@
+{
+  "result": {
+    "pageId": "Cosmos_Creator_Hub",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "None",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " Bedrock Cosmos Creators",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Want to upload your own content? Join our Discord server and apply to become a creator! discord.gg/HRG2NapegP\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "3636428b-80fb-4337-a104-dcb440ebfe94",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "",
+                    "creatorName": "BionicBen",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg"
+                    },
+                    "price": {
+                      "listPrice": -1,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_BionicBen_Marketplace",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_BionicBen_Marketplace",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!CreatorHub",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "None",
+                    "packIdentity": [],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBen.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "b82ad254-3fcb-4c7f-91c3-8d1595a16a00",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "",
+                    "creatorName": "Exports",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/Exports.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Exports.jpg"
+                    },
+                    "price": {
+                      "listPrice": -1,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_Exports_Marketplace",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_Exports_Marketplace",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!CreatorHub",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "None",
+                    "packIdentity": [],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/Exports.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Exports.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "6de24e71-41f6-42c2-b7da-7f164b1c5963",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "",
+                    "creatorName": "YEH",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/YEH.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEH.jpg"
+                    },
+                    "price": {
+                      "listPrice": -1,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_YEH_Marketplace",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_YEH_Marketplace",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!CreatorHub",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "None",
+                    "packIdentity": [],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/YEH.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEH.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-06T10:04:12Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "b3428707-b119-42e5-a853-47b1831b4539",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "",
+                    "creatorName": "ZeroMISTER JA",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg"
+                    },
+                    "price": {
+                      "listPrice": -1,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_ZeroMISTER_JA_Marketplace",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_ZeroMISTER_JA_Marketplace",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!CreatorHub",
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "None",
+                    "packIdentity": [],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ZeroMrJA.jpg"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-15T16:03:04Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  }
+                ],
+                "totalItems": 4,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

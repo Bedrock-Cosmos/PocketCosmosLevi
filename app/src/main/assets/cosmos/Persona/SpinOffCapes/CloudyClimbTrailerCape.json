@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d4e66f66-c47e-4020-8fdf-897432617d02",
+      "Contents": [
+        {
+          "Id": "8002f7a6-9f47-4962-a5ce-5c4de8c3b2dd",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/CloudyClimbTrailerCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "27f0c858-e165-4bc9-8598-142b26fe2010",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

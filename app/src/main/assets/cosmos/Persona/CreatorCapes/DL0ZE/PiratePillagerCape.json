@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2e428c54-eccd-4d71-a71a-3362533decfd",
+      "Contents": [
+        {
+          "Id": "2d0e8037-6b3c-4428-a09d-2077f87c5e12",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/PiratePillagerCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d550b6d6-f3c2-4fb0-977a-067f01ce9a9d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

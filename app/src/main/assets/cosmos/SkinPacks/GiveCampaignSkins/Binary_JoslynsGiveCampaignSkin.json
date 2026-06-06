@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e205acc9-2c5a-430f-8576-d87c5ba67db4",
+      "Contents": [
+        {
+          "Id": "7d369c64-cead-47fc-ab73-67db73032ad4",
+          "Url": "https://cdn.bedrockcosmos.app/uss/a9396/JoslynsGiveCampaignSkin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.13.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

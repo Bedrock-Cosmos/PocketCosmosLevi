@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f6303374-6ab5-4079-baa0-6200189aa6a2",
+      "Contents": [
+        {
+          "Id": "863a125c-4fd6-413d-8f82-a3ab232e69ec",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/863a1/NeonGenesisEvangelion.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "ZeroMISTER JA",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "863a125c-4fd6-413d-8f82-a3ab232e69ec",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

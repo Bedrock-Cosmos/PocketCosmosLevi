@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0d204940-7e98-4907-863c-1980f776659d",
+      "Contents": [
+        {
+          "Id": "0f0f6711-dd50-421c-a93d-4c1ea8181067",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/ElfCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "be1c7a6e-4827-4d8b-bdf3-3396b9af89c8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

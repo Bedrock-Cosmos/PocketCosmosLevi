@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7402ead0-ac59-4fd2-9f58-7e5b2d1ef412",
+      "Contents": [
+        {
+          "Id": "b2dd5a81-daa7-4f2f-a38e-64d8e2c741c1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Awesom_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "009fad7e-c10a-4ec9-a742-d6c15ca1daab",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

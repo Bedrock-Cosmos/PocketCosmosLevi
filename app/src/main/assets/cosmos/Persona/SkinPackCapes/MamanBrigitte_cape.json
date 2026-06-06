@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2cf7058d-7983-4391-b2d4-19e4bbb0a193",
+      "Contents": [
+        {
+          "Id": "7a0323a4-91ee-465a-a31d-f92a450382d9",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MamanBrigitte_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d51e0fef-3cec-4526-91e5-23be00572bca",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

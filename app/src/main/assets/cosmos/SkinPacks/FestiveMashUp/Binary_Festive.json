@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+      "Contents": [
+        {
+          "Id": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+          "Url": "https://cdn.bedrockcosmos.app/uss/d44ba/Festive.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "2535448579972708",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "d44ba892-7378-4fcd-a3f1-72de53675d24",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
