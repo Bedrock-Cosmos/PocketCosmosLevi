@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "a2a191a7-ad0d-4802-a990-975538c7489f",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Matching Cosmetics 5",
+          "neutral": "Matching Cosmetics 5"
+        },
+        "Description": {
+          "NEUTRAL": "Express yourself in game with a friend or partner using the 30 skins in this fifth skin pack!",
+          "neutral": "Express yourself in game with a friend or partner using the 30 skins in this fifth skin pack!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "a2a191a7-ad0d-4802-a990-975538c7489f",
+          "1ea3fef7-eea7-4413-ac90-13e053ea4cea",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-21T03:02:31Z",
+        "LastModifiedDate": "2026-04-21T03:02:31Z",
+        "DisplayProperties": {
+          "creatorName": "Exports",
+          "offerId": "a2a191a7-ad0d-4802-a990-975538c7489f",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "1ea3fef7-eea7-4413-ac90-13e053ea4cea",
+              "version": "1.0.0"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=5QzSKjJZYdY"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

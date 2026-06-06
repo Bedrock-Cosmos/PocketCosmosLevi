@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6c1ac305-7430-4313-8b90-7d6e0eb1af8e",
+      "Contents": [
+        {
+          "Id": "2e94725f-cb16-4cd1-ae03-dacff5f726c0",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GlassNew_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Liefubledo",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "21f0f2d2-e21f-4ead-8faf-7c2dc49b6a2f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

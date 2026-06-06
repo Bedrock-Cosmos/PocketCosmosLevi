@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "EMC2",
+          "neutral": "EMC2"
+        },
+        "Description": {
+          "NEUTRAL": "Express yourself in game with a friend or partner using the 30 skins in this second skin pack!",
+          "neutral": "Express yourself in game with a friend or partner using the 30 skins in this second skin pack!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+          "6d111aff-3c61-4e8c-a0b3-5da38332430c",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-03-01T13:34:48Z",
+        "LastModifiedDate": "2026-03-01T13:34:48Z",
+        "DisplayProperties": {
+          "creatorName": "Exports",
+          "offerId": "a045e0ba-b58e-44d5-b463-e8968f28ae99",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "6d111aff-3c61-4e8c-a0b3-5da38332430c",
+              "version": "1.0.0"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=cgrhwL2inRw"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

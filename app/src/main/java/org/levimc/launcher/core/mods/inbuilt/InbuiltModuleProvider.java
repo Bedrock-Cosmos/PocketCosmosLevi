@@ -72,6 +72,9 @@ public final class InbuiltModuleProvider {
         mods.add(create(activity, manager, overlayManager, ModIds.GYRO,
                 R.string.inbuilt_mod_gyro, R.string.inbuilt_mod_gyro_desc,
                 groupName));
+        mods.add(create(activity, manager, overlayManager, ModIds.HTTP_INTERCEPTOR,
+                R.string.inbuilt_mod_http_interceptor, R.string.inbuilt_mod_http_interceptor_desc,
+                groupName));
 
         return mods;
     }
