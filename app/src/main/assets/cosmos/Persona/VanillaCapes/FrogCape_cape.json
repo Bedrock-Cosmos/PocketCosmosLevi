@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "279f387d-4054-4859-856f-533c4839d508",
+      "Contents": [
+        {
+          "Id": "2a37bafe-bdf1-4e10-ace3-dbf110ef708d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/FrogCape_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1c03d90d-ef5f-4590-8e75-699676e772e3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

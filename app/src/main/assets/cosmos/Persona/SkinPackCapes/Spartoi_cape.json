@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e50c0b8f-c9a7-409e-8308-050e01ecf6a3",
+      "Contents": [
+        {
+          "Id": "cfd9e8d0-cb3a-4b4b-92d7-34098286b3ee",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Spartoi_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c2d6541f-0eaa-4359-bf9b-23c13adf7c41",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

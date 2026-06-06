@@ -1,0 +1,166 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "f60ed293-2f4c-46e5-92b3-922a95df2dd6",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "853b0946-31b5-4c8a-87a4-72bf7bf21da5"
+          }
+        ],
+        "Title": {
+          "en-US": "Stranger Things Skin Pack",
+          "NEUTRAL": "Stranger Things Skin Pack",
+          "neutral": "Stranger Things Skin Pack"
+        },
+        "Description": {
+          "en-US": "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost here… Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80's fashion choices.",
+          "NEUTRAL": "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost here… Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80's fashion choices.",
+          "neutral": "Something is coming, something hungry for blood. A shadow grows on the wall behind you, swallowing you in darkness. It is almost here… Boom! Stranger Things comes to Minecraft! Join Mike, Dustin, Lucas, Will, Eleven, Joyce, Hopper and many more as they survive monsters, adolescence and 80's fashion choices."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Horror", "Holiday"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Horror", "Holiday"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Horror", "Holiday"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "f60ed293-2f4c-46e5-92b3-922a95df2dd6",
+          "93b450c2-910f-4915-894d-444dde7a3306",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.survival",
+          "tag.skin",
+          "tag.horror",
+          "tag.holiday",
+          "video_trailer",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T21:02:25.003Z",
+        "LastModifiedDate": "2023-08-10T12:27:28.544Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "ce618cfc-b99d-4376-9bd6-a57030898356",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ce618cfc-b99d-4376-9bd6-a57030898356/StrangerThings_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "ad973453-8f09-48a2-bf95-6003b88e73fa",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.8,
+          "TotalCount": 25457,
+          "Count5Star": 22777,
+          "Count4Star": 1145,
+          "Count3Star": 432,
+          "Count2Star": 175,
+          "Count1Star": 928
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "853b0946-31b5-4c8a-87a4-72bf7bf21da5",
+          "originalCreatorId": "2535448579972708",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "93b450c2-910f-4915-894d-444dde7a3306",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 52
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "lastUpdated": "1.17.30",
+          "videoUrl": "https://www.youtube.com/watch?v=Vin5fjzjRww"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "EMC4",
+          "neutral": "EMC4"
+        },
+        "Description": {
+          "NEUTRAL": "Express yourself in game with a friend or partner using the 30 skins in this fourth skin pack!",
+          "neutral": "Express yourself in game with a friend or partner using the 30 skins in this fourth skin pack!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+          "2291990c-6b7a-42d8-ad13-c1b490b9e1f6",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-03-01T13:32:10Z",
+        "LastModifiedDate": "2026-03-01T13:32:10Z",
+        "DisplayProperties": {
+          "creatorName": "Exports",
+          "offerId": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "2291990c-6b7a-42d8-ad13-c1b490b9e1f6",
+              "version": "1.0.0"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=eL5Sg009y0c"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
