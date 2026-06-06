@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e758a2c9-d8e0-49f8-a6d7-d10667daf2d5",
+      "Contents": [
+        {
+          "Id": "105b6cae-6326-478b-9569-f0a0b89d102d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Translator_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7cf99cd2-db39-4b79-bb39-22dc6c474c28",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

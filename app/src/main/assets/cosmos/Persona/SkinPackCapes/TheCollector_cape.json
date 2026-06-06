@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3ac993e0-666d-41dc-a4c5-73a61aeaf4a7",
+      "Contents": [
+        {
+          "Id": "d0641540-b401-413f-bfbb-c74d1d04f2ed",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TheCollector_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "81afd016-e9ff-4d36-b170-43fd93b6aa3a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

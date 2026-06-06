@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "16a1b29c-736e-4f06-b343-adcfa5e1905f",
+      "Contents": [
+        {
+          "Id": "52fc1a5b-8997-4aeb-9639-4b32935157e2",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Athena_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "372b47ed-45aa-429f-a588-7a4031fe624f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

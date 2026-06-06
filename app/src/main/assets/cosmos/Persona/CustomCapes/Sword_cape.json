@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4b63517d-d430-4162-8eb4-74886973a92e",
+      "Contents": [
+        {
+          "Id": "8c2e546f-d348-482e-9881-ce9737927592",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Sword_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "JakeMCPE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c17dc244-d394-4972-b1de-521d68d78a69",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

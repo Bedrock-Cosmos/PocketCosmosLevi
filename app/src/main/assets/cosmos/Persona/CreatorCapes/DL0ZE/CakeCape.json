@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1bd4e3ce-fb7b-4842-b1a7-e20468061967",
+      "Contents": [
+        {
+          "Id": "20d8cb3d-3d74-4c1c-afca-80a947f1c5b6",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/CakeCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c8db717a-26dc-4578-8f20-607f03b7b9bd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

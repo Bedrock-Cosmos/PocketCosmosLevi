@@ -1,0 +1,155 @@
+{
+  "controlId": "CoinBundleRow",
+  "components": [
+    {
+      "items": [
+        {
+          "id": "94e1a1d2-2ef0-46b8-9ac7-b95e6ec1e920",
+          "contentType": "BundleOffer_V2.0",
+          "title": "",
+          "description": "View Bedrock Cosmos Packs",
+          "descriptionHeader": {
+            "value": "Bundle Header",
+            "replacements": []
+          },
+          "descriptionCoin": {
+            "value": "Coin Description",
+            "style": {
+              "highlightColor": [0.94, 0.81, 0.09, 1],
+              "alignment": "Center",
+              "textColor": [],
+              "font": "default",
+              "showBackground": false,
+              "showOutline": false,
+              "indent": 0,
+              "buttonWidth": 0,
+              "color": [],
+              "offerControlIdType": "None"
+            },
+            "replacements": []
+          },
+          "descriptionFooter": {
+            "value": "Description Footer",
+            "style": {
+              "highlightColor": [],
+              "alignment": "Center",
+              "textColor": [],
+              "font": "default",
+              "showBackground": false,
+              "showOutline": false,
+              "indent": 0,
+              "buttonWidth": 0,
+              "color": [],
+              "offerControlIdType": "None"
+            },
+            "replacements": []
+          },
+          "creatorName": "Minecraft",
+          "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+          "linksToInfo": {
+            "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+            "linkType": "pageId",
+            "displayType": "store_layout.store_data_driven_screen",
+            "screenTitle": {
+              "value": "Bedrock Cosmos Packs",
+              "replacements": []
+            },
+            "navigateInPlace": false
+          },
+          "creatorPage": "CreatorPage_master_player_account!BedrockCosmos",
+          "statistics": {
+            "skins": 1,
+            "worlds": 0,
+            "textures": 0,
+            "behaviors": 0,
+            "addOns": 0
+          },
+          "flags": [],
+          "ownership": "NotOwned",
+          "packType": "CoinBundle",
+          "packIdentity": [],
+          "tags": [],
+          "images": [
+            {
+              "type": "Slot1",
+              "url": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Nether_Portal_Icon.png",
+              "urlWithResolution": "https://raw.githubusercontent.com/Bedrock-Cosmos/Backend/main/Main/Thumbnails/Marketplace/Nether_Portal_Icon.png"
+            }
+          ],
+          "contents": [],
+          "playFabSku": "bundle.starterpack13",
+          "priceInfo": {
+            "text": {
+              "value": "",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Center",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0,
+                "buttonWidth": 0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            }
+          },
+          "platformRestricted": false,
+          "iconOverlay": [],
+          "descriptionLineByLine": [
+            {
+              "value": "         View Bedrock Cosmos Packs",
+              "style": {
+                "highlightColor": [0.94, 0.81, 0.09, 1],
+                "alignment": "Left",
+                "textColor": [0.93, 0.8, 0.09, 1],
+                "font": "MinecraftTen",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 60,
+                "buttonWidth": 0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            {
+              "value": "",
+              "replacements": []
+            },
+            {
+              "value": "",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Center",
+                "textColor": [],
+                "font": "default",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0,
+                "buttonWidth": 0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            }
+          ],
+          "startDate": "2020-01-01T12:00:00Z",
+          "subscription": [],
+          "thumbnailPreviewOnly": false,
+          "namedLinksToInfoMap": {},
+          "platformStoreSku": "111111111111"
+        }
+      ],
+      "totalItems": 1,
+      "type": "itemListComp",
+      "$type": "ItemListComponent"
+    },
+    {
+      "type": "platformCoinOfferComp",
+      "$type": "PlatformCoinOfferComponent"
+    }
+  ]
+}

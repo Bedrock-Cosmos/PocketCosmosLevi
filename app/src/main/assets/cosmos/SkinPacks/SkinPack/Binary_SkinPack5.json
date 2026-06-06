@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+      "Contents": [
+        {
+          "Id": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+          "Url": "https://cdn.bedrockcosmos.app/uss/cc59b/SkinPack5.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "2535448579972708",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

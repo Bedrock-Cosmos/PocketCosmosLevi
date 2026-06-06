@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "20b4d681-df67-420c-aff3-07673bb44d07",
+      "Contents": [
+        {
+          "Id": "349c67c5-83de-4db2-bbbe-e63ecbbc907c",
+          "Url": "https://cdn.bedrockcosmos.app/uss/838bd/MINECON2016SkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "838bdb6b-bf30-42ca-a4d8-e35865fba8e2",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}
