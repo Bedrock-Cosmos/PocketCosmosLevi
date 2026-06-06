@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "47fb8bcd-9db1-4262-b1ad-c1c6bafdeaac",
+      "Contents": [
+        {
+          "Id": "4bf29b4b-1618-48b6-82ee-5535488adbda",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/SinisterCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6acb12ab-16e7-4133-ac15-ea90b29d1a03",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

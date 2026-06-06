@@ -1,0 +1,358 @@
+{
+  "result": {
+    "pageId": "BionicBen_Marketplace",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " BionicBen's Marketplace Packs",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Discord: discord.gg/hBujWqu\n YouTube: youtube.com/@BionicBen1218\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "6th Birthday Skin Pack",
+                    "description": "A twist on Minecraft's 1st Birthday Skin Pack with 23 brand new skins to select from!\r\n\r\nCreator's Note: This pack was mostly made for fun (partially jokingly) back in 2021. I had not previously published it before, but now it is free to use in Bedrock Cosmos!",
+                    "creatorName": "BionicBen",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!BionicBen_Marketplace",
+                    "statistics": {
+                      "skins": 23,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/6thBirthdaySkinPack_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "BionicBen Skin Pack",
+                    "description": "A skin pack containing a variety of BionicBen's skins throughout his YouTube history - from holiday skins to the infamous mega skin!",
+                    "creatorName": "BionicBen",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!BionicBen_Marketplace",
+                    "statistics": {
+                      "skins": 24,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "248868b1-e260-4434-b56b-b41a48f57b91",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BionicBenSkinPack_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Deadmau5 Skin Pack",
+                    "description": "Party hard with 11 uniquely-colored deadmau5 skins, each with their own pair of exclusive ears from Minecraft Java Edition! Original blue and red deadmau5 skins made by deadmau5 and Mojang.",
+                    "creatorName": "BionicBen",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!BionicBen_Marketplace",
+                    "statistics": {
+                      "skins": 22,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Project Star Skin Pack",
+                    "description": "A skin pack previously made for the Project Star Launcher. This pack contains Steve and Alex in Project Star attire and 11 uniquely-colored capes!",
+                    "creatorName": "BionicBen",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "creatorPage": "CreatorPage_master_player_account!BionicBen_Marketplace",
+                    "statistics": {
+                      "skins": 22,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "minPerformanceTier": "LowTier",
+                    "tags": [],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg",
+                        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ProjectStarSkinPack_thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2020-01-01T12:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  }
+                ],
+                "totalItems": 4,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

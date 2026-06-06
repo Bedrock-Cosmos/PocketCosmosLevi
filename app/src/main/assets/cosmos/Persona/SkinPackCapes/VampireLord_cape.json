@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "265937c0-d99d-449d-8c1e-244b5ea1571e",
+      "Contents": [
+        {
+          "Id": "ed7de7ab-ebf7-41d3-961b-e2049a439bf6",
+          "Url": "https://capes.bedrock-cosmos.app/zips/VampireLord_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Dragonborn Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "091da699-c78f-45c8-b168-e20911bda334",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

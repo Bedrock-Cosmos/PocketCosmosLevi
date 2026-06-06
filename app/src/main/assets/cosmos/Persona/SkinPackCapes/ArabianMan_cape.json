@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d30cca64-fa61-4a36-9b00-c5f30690ffec",
+      "Contents": [
+        {
+          "Id": "1e84f9c0-e3ca-4314-b03a-235dbe194690",
+          "Url": "https://capes.bedrock-cosmos.app/zips/ArabianMan_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Battle & Beasts 2 Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dd273c2b-ced5-487e-be8e-db1bcfe249b8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

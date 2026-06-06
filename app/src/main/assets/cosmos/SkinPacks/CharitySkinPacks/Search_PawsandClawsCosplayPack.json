@@ -1,0 +1,161 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "0d8ce926-257f-4297-b585-05d1f88e782a",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "5a2efa45-6d0b-4068-852a-77578c2255c5"
+          }
+        ],
+        "Title": {
+          "en-US": "Paws and Claws Cosplay Pack",
+          "NEUTRAL": "Paws and Claws Cosplay Pack",
+          "neutral": "Paws and Claws Cosplay Pack"
+        },
+        "Description": {
+          "en-US": "Wish you looked more like a sneezing panda? How about as swish as a Siamese cat? Paws your game and give yourself an unfurgettable makeover with these cat and panda skins, with 62.5% of the sales going to WWF and their amazing work protecting panda habitats and other vulnerable species. Purrrfect! Learn more at https://aka.ms/WWF.",
+          "NEUTRAL": "Wish you looked more like a sneezing panda? How about as swish as a Siamese cat? Paws your game and give yourself an unfurgettable makeover with these cat and panda skins, with 62.5% of the sales going to WWF and their amazing work protecting panda habitats and other vulnerable species. Purrrfect! Learn more at https://aka.ms/WWF.",
+          "neutral": "Wish you looked more like a sneezing panda? How about as swish as a Siamese cat? Paws your game and give yourself an unfurgettable makeover with these cat and panda skins, with 62.5% of the sales going to WWF and their amazing work protecting panda habitats and other vulnerable species. Purrrfect! Learn more at https://aka.ms/WWF."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "0d8ce926-257f-4297-b585-05d1f88e782a",
+          "a618ca05-77ba-4afb-bb9a-8fdb413219ab",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "1P"
+        ],
+        "CreationDate": "2018-12-11T23:52:55.918Z",
+        "LastModifiedDate": "2023-07-29T20:26:04.069Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "fa3d4886-12d4-49f9-922b-4dcc9240dc43",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/fa3d4886-12d4-49f9-922b-4dcc9240dc43/thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "f943bc86-f993-4b6b-87af-7851050db0cb",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.5,
+          "TotalCount": 1336,
+          "Count5Star": 1088,
+          "Count4Star": 93,
+          "Count3Star": 47,
+          "Count2Star": 17,
+          "Count1Star": 91
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "5a2efa45-6d0b-4068-852a-77578c2255c5",
+          "originalCreatorId": "2535448579972708",
+          "price": 490,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "a618ca05-77ba-4afb-bb9a-8fdb413219ab",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 16
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

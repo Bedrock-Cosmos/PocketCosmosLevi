@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "70783911-e090-4ada-a750-96405f0f7924",
+      "Contents": [
+        {
+          "Id": "7f005c60-6223-497b-9805-5fbe5dca312a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/cheapsh0t_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a0dd8cfc-6db1-4dbe-9e90-cd6558b42922",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

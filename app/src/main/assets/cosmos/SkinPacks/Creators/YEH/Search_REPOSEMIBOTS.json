@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "R.E.P.O SEMIBOTS",
+          "neutral": "R.E.P.O SEMIBOTS"
+        },
+        "Description": {
+          "NEUTRAL": "Enjoy this cool R.E.P.O skin pack with 75 Semibots of different sizes and colors!",
+          "neutral": "Enjoy this cool R.E.P.O skin pack with 75 Semibots of different sizes and colors!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+          "2f8d9fb8-c3c9-47d5-8460-e15da1a528fb",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-06T10:04:12Z",
+        "LastModifiedDate": "2026-04-06T10:04:12Z",
+        "DisplayProperties": {
+          "creatorName": "YEH",
+          "offerId": "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "2f8d9fb8-c3c9-47d5-8460-e15da1a528fb",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

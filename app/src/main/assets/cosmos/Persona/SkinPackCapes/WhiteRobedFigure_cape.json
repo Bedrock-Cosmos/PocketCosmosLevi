@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "df15593e-30c2-470f-8559-afc6aebd3dd0",
+      "Contents": [
+        {
+          "Id": "012e9566-0a05-495e-8cc5-a3279932ec75",
+          "Url": "https://capes.bedrock-cosmos.app/zips/WhiteRobedFigure_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Skin Pack 2",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "645f2030-af28-4681-9588-9b3ebee025d3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

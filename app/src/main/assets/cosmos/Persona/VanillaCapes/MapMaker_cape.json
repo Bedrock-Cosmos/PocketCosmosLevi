@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5cd90c25-9006-418e-8552-2122869fe214",
+      "Contents": [
+        {
+          "Id": "050aa906-3a3e-4326-a5cc-d8002b3125f3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MapMaker_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f51317cd-6917-4be8-9c31-79a56b5bb504",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

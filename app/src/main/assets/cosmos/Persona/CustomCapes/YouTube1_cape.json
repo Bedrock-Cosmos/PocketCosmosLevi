@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "380043d3-41a4-4f07-b682-03449244d0e8",
+      "Contents": [
+        {
+          "Id": "060888d3-e1ce-48e6-b8f8-d4bf2c6036f5",
+          "Url": "https://capes.bedrock-cosmos.app/zips/YouTube1_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "ItsOasis",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "2449991a-b9aa-411e-84aa-a4280e8803d8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

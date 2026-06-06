@@ -1,0 +1,180 @@
+{
+  "rows": [
+    {
+      "controlId": "LightDropdown",
+      "components": [
+        {
+          "text": {
+            "value": "Bedrock Cosmos",
+            "replacements": []
+          },
+          "type": "headerComp",
+          "$type": "HeaderComponent"
+        },
+        {
+          "textureImage": {
+            "type": "Texture",
+            "localPath": "textures/ui/subcategory_icons/body"
+          },
+          "textureFilterType": "InUserPackages",
+          "type": "textureComp",
+          "$type": "TextureComponent"
+        },
+        {
+          "isExpanded": false,
+          "dropdownId": 2,
+          "type": "dropdownComp",
+          "$type": "DropdownComponent"
+        }
+      ]
+    },
+    {
+      "controlId": "DarkRedirectButton",
+      "components": [
+        {
+          "text": {
+            "value": "Creeper Crunch Cereal Items",
+            "replacements": []
+          },
+          "type": "headerComp",
+          "$type": "HeaderComponent"
+        },
+        {
+          "textureImage": {
+            "type": "Texture",
+            "localPath": "textures/ui/promo_creeper"
+          },
+          "textureFilterType": "InUserPackages",
+          "type": "textureComp",
+          "$type": "TextureComponent"
+        },
+        {
+          "dropdownId": 2,
+          "type": "dropdownOptionComp",
+          "$type": "DropdownOptionComponent"
+        },
+        {
+          "linksTo": {
+            "linksTo": "DressingRoom_CreeperCrunchCereal",
+            "linkType": "internal",
+            "displayType": "store_layout.character_creator_screen",
+            "navigateInPlace": false
+          },
+          "type": "redirectButtonComp",
+          "$type": "RedirectComponent"
+        }
+      ]
+    },
+    {
+      "controlId": "DarkRedirectButton",
+      "components": [
+        {
+          "text": {
+            "value": "Minecraft Dungeons Items",
+            "replacements": []
+          },
+          "type": "headerComp",
+          "$type": "HeaderComponent"
+        },
+        {
+          "textureImage": {
+            "type": "Texture",
+            "localPath": "textures/ui/sidebar_icons/csb_sidebar_icon"
+          },
+          "textureFilterType": "InUserPackages",
+          "type": "textureComp",
+          "$type": "TextureComponent"
+        },
+        {
+          "dropdownId": 2,
+          "type": "dropdownOptionComp",
+          "$type": "DropdownOptionComponent"
+        },
+        {
+          "linksTo": {
+            "linksTo": "DressingRoom_MinecraftDungeons",
+            "linkType": "internal",
+            "displayType": "store_layout.character_creator_screen",
+            "navigateInPlace": false
+          },
+          "type": "redirectButtonComp",
+          "$type": "RedirectComponent"
+        }
+      ]
+    },
+    {
+      "controlId": "DarkRedirectButton",
+      "components": [
+        {
+          "text": {
+            "value": "Minecraft Earth Items",
+            "replacements": []
+          },
+          "type": "headerComp",
+          "$type": "HeaderComponent"
+        },
+        {
+          "textureImage": {
+            "type": "Texture",
+            "localPath": "textures/ui/world_glyph_color_2x_black_outline"
+          },
+          "textureFilterType": "InUserPackages",
+          "type": "textureComp",
+          "$type": "TextureComponent"
+        },
+        {
+          "dropdownId": 2,
+          "type": "dropdownOptionComp",
+          "$type": "DropdownOptionComponent"
+        },
+        {
+          "linksTo": {
+            "linksTo": "DressingRoom_MinecraftEarth",
+            "linkType": "internal",
+            "displayType": "store_layout.character_creator_screen",
+            "navigateInPlace": false
+          },
+          "type": "redirectButtonComp",
+          "$type": "RedirectComponent"
+        }
+      ]
+    },
+    {
+      "controlId": "DarkRedirectButton",
+      "components": [
+        {
+          "text": {
+            "value": "Tiny Takeover Items",
+            "replacements": []
+          },
+          "type": "headerComp",
+          "$type": "HeaderComponent"
+        },
+        {
+          "textureImage": {
+            "type": "Texture",
+            "localPath": "textures/ui/promo_chicken"
+          },
+          "textureFilterType": "InUserPackages",
+          "type": "textureComp",
+          "$type": "TextureComponent"
+        },
+        {
+          "dropdownId": 2,
+          "type": "dropdownOptionComp",
+          "$type": "DropdownOptionComponent"
+        },
+        {
+          "linksTo": {
+            "linksTo": "DressingRoom_TinyTakeover",
+            "linkType": "internal",
+            "displayType": "store_layout.character_creator_screen",
+            "navigateInPlace": false
+          },
+          "type": "redirectButtonComp",
+          "$type": "RedirectComponent"
+        }
+      ]
+    }
+  ]
+}

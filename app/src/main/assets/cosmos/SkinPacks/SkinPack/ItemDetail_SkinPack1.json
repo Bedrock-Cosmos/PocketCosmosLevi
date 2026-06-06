@@ -1,0 +1,274 @@
+{
+  "result": {
+    "id": "a681c130-1ac9-456f-a13a-1f985365bb77",
+    "pageId": "ItemDetail_a681c130-1ac9-456f-a13a-1f985365bb77",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Skin Pack 1'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "a681c130-1ac9-456f-a13a-1f985365bb77",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Skin Pack 1",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/db90b652-cfe4-40a5-bb5f-9e534d01daa4/SkinPack1Sony_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/db90b652-cfe4-40a5-bb5f-9e534d01daa4/SkinPack1Sony_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.6,
+                    "totalCount": 59211
+                  },
+                  "price": {
+                    "listPrice": 490,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 44,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "720ee1f3-dc46-4ffc-a390-8bb035e7be26",
+                      "version": "1.0.5"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/1f91dfc1-8f2b-4f12-8f28-3182ba642966/SkinPack1Sony_MarketingScreenshot_1.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/1f91dfc1-8f2b-4f12-8f28-3182ba642966/SkinPack1Sony_MarketingScreenshot_1.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/f9365b66-bdf3-4dfa-94c2-e36ba1bca30f/SkinPack1Sony_MarketingScreenshot_2.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/f9365b66-bdf3-4dfa-94c2-e36ba1bca30f/SkinPack1Sony_MarketingScreenshot_2.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/023e9d6b-8315-4a6b-987c-e06ddd5b6197/SkinPack1Sony_MarketingScreenshot_3.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/023e9d6b-8315-4a6b-987c-e06ddd5b6197/SkinPack1Sony_MarketingScreenshot_3.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/23883e9e-98ab-4359-8999-11fb75b7e170/SkinPack1Sony_MarketingScreenshot_4.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/23883e9e-98ab-4359-8999-11fb75b7e170/SkinPack1Sony_MarketingScreenshot_4.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "screenshot",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/d0ee6964-cd42-4b35-87f5-93a563b729e6/SkinPack1Sony_MarketingScreenshot_5.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/d0ee6964-cd42-4b35-87f5-93a563b729e6/SkinPack1Sony_MarketingScreenshot_5.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "packicon",
+                      "type": "Screenshot",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/c5143349-ea17-43f4-9e27-91b2b9efea88/SkinPack1Sony_packicon_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/c5143349-ea17-43f4-9e27-91b2b9efea88/SkinPack1Sony_packicon_0.jpg?width=800&height=450"
+                    },
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/db90b652-cfe4-40a5-bb5f-9e534d01daa4/SkinPack1Sony_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-ee7b/db90b652-cfe4-40a5-bb5f-9e534d01daa4/SkinPack1Sony_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2019-12-09T18:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/560ed0f3-3b96-40b9-8cc7-ed82c571f8bb/secondary.zip"
+                  }
+                ],
+                "price": {
+                  "listPrice": 490,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "A dedicated version of Skin Pack 1, featuring exclusive characters along with others from the Classic version.\r\nOnly available for Minecraft on PlayStation®4.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/560ed0f3-3b96-40b9-8cc7-ed82c571f8bb/secondary.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "720ee1f3-dc46-4ffc-a390-8bb035e7be26",
+                  "version": "1.0.5"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Skin Pack 1: %s",
+                "text": {
+                  "value": "Skin Pack 1: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.6,
+                  "totalCount": 59211,
+                  "count5Star": 48176,
+                  "count4Star": 4495,
+                  "count3Star": 2298,
+                  "count2Star": 881,
+                  "count1Star": 3361,
+                  "id": "a681c130-1ac9-456f-a13a-1f985365bb77",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "81%",
+                    "percentage4Star": "8%",
+                    "percentage3Star": "4%",
+                    "percentage2Star": "1%",
+                    "percentage1Star": "6%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

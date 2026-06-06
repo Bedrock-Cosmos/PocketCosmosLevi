@@ -1,0 +1,394 @@
+{
+  "result": {
+    "pageId": "ZeroMISTER_JA_Marketplace",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " ZeroMISTER JA's Marketplace Packs",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Discord: @zeromrja\n Minecraft Profile: bedrockviewer.com/profile/zeromrja\n Website: zeromrja.github.io\n X: @zeromrja\n YouTube: youtube.com/@zeromrja\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Black Hole Skin Pack",
+                    "creatorName": "ZeroMISTER JA",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Black Hole Skin Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 4,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "wishlisted": false,
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-14T18:49:56Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "dedd7dce-a317-4786-930f-9c2357d25d82",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Detective Conan Skin Pack",
+                    "creatorName": "ZeroMISTER JA",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/DetectiveConan_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/DetectiveConan_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_dedd7dce-a317-4786-930f-9c2357d25d82",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_dedd7dce-a317-4786-930f-9c2357d25d82",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Detective Conan Skin Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 10,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "a7952402-135e-4f5d-abea-5b738904e2c4",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "wishlisted": false,
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-14T18:49:56Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "ae90416f-1942-4c2b-a675-8d947fc53cf1",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Doraemon Skin Pack",
+                    "creatorName": "ZeroMISTER JA",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/Doraemon_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Doraemon_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_ae90416f-1942-4c2b-a675-8d947fc53cf1",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_ae90416f-1942-4c2b-a675-8d947fc53cf1",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Doraemon Skin Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 11,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "7489dfb0-f606-41fc-9bfb-c7ef396d8358",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "wishlisted": false,
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-14T18:49:56Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "7197503c-817f-4c5d-b570-67b2758d707b",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Hotel Transylvania Skin Pack",
+                    "creatorName": "ZeroMISTER JA",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/HotelTransylvania_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/HotelTransylvania_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_7197503c-817f-4c5d-b570-67b2758d707b",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7197503c-817f-4c5d-b570-67b2758d707b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Hotel Transylvania Skin Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 5,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "b53d0382-a1e0-4707-9dd2-92ccae001033",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "wishlisted": false,
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-14T18:49:56Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "f6303374-6ab5-4079-baa0-6200189aa6a2",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Neon Genesis Evangelion Skin Pack",
+                    "creatorName": "ZeroMISTER JA",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/Evangelion_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Evangelion_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_f6303374-6ab5-4079-baa0-6200189aa6a2",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_f6303374-6ab5-4079-baa0-6200189aa6a2",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Neon Genesis Evangelion Skin Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 4,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "863a125c-4fd6-413d-8f82-a3ab232e69ec",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "wishlisted": false,
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-14T18:49:56Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  }
+                ],
+                "totalItems": 5,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "1213b670-c82f-4e28-baf2-9f0d88954c9a",
+        "Type": "bundle",
+        "AlternateIds": [],
+        "Title": {
+          "en-US": "Marvel Guardians of the Galaxy Skin Pack",
+          "NEUTRAL": "Marvel Guardians of the Galaxy Skin Pack",
+          "neutral": "Marvel Guardians of the Galaxy Skin Pack"
+        },
+        "Description": {
+          "en-US": "Join Marvel’s Guardians of the Galaxy in the most cosmic Marvel skin pack for for Minecraft yet! Star-Lord, Gamora, Rocket, Groot and Drax are only part of the pack of 24 skins inspired both by Marvel’s blockbuster film and the comic books.",
+          "NEUTRAL": "Join Marvel’s Guardians of the Galaxy in the most cosmic Marvel skin pack for for Minecraft yet! Star-Lord, Gamora, Rocket, Groot and Drax are only part of the pack of 24 skins inspired both by Marvel’s blockbuster film and the comic books.",
+          "neutral": "Join Marvel’s Guardians of the Galaxy in the most cosmic Marvel skin pack for for Minecraft yet! Star-Lord, Gamora, Rocket, Groot and Drax are only part of the pack of 24 skins inspired both by Marvel’s blockbuster film and the comic books."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["xboxone.store", "title.bedrockvanilla"],
+        "Tags": [
+          "1P",
+          "skinpack",
+          "1d3e88a9-617c-45a8-83ba-b4abef5fda4e",
+          "1213b670-c82f-4e28-baf2-9f0d88954c9a",
+          "hidden_offer",
+          "mc_only"
+        ],
+        "CreationDate": "2018-07-31T20:59:17.543Z",
+        "LastModifiedDate": "2023-08-07T00:31:27.14Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "b34d9d88-0ad1-43ed-b98c-770faebd3cfb",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/b34d9d88-0ad1-43ed-b98c-770faebd3cfb/MC__MarvelGotG_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "96c108a9-d74c-49ea-abc3-ed810575d9d5",
+            "Amount": 1
+          }
+        ],
+        "Price": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 1000000
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "PriceOptions": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 1000000
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "Rating": {
+          "Average": 4.1,
+          "TotalCount": 194,
+          "Count5Star": 132,
+          "Count4Star": 21,
+          "Count3Star": 5,
+          "Count2Star": 3,
+          "Count1Star": 33
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "originalCreatorId": "2535448579972708",
+          "price": 1000000,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "1d3e88a9-617c-45a8-83ba-b4abef5fda4e",
+              "version": "3.11.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

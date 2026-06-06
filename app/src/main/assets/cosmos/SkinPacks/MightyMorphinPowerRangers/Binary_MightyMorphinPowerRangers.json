@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4ad937a2-bf33-4390-93e3-62198b58f9ff",
+      "Contents": [
+        {
+          "Id": "5bd2a5b2-8189-442f-b20b-8393d989ac0a",
+          "Url": "https://cdn.bedrockcosmos.app/uss/98500/MightyMorphinPowerRangers.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "98500e08-627e-4f46-a4d3-705a01f6f110",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

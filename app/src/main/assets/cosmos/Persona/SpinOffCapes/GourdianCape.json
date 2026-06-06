@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1da006d2-a91d-4677-9492-6ef57c6b7b35",
+      "Contents": [
+        {
+          "Id": "ebe1657b-a527-47a4-9479-ddd752448e2d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/GourdianCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3791acc0-ca2d-4565-b2ec-609844bb5e49",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

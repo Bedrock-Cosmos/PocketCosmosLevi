@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1b87ade8-89c1-4a31-b8c5-ffefec108ef1",
+      "Contents": [
+        {
+          "Id": "ce5ebf21-3a68-4664-8a9e-de16293f8c77",
+          "Url": "https://capes.bedrock-cosmos.app/zips/UnusedFlame_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "44f4cdb4-322d-41b0-b2fb-f6c3a3e79429",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "624aaf03-d845-4863-8179-025bcf65bfd4",
+  "instanceId": "624aaf03-d845-4863-8179-025bcf65bfd4",
+  "surface": "LoginAnnouncement",
+  "template": "ShowcaseAnnouncementNoCTA",
+  "header": "New Builder Cape Available!",
+  "body": "The new Builder Cape is now obtainable on Tiktok, just watch any Minecraft related Live stream and within a few minutes you'll have a new crafty cape! Ends on June 14.",
+  "images": {
+    "Primary": {
+      "id": "23e02757-cb96-49d7-8621-e24de6650d40",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/Builder_Cape.jpg"
+    }
+  },
+  "buttons": {},
+  "reportId": "",
+  "isControl": false,
+  "sender": "Bedrock Cosmos",
+  "status": "Unread",
+  "persistToInboxOnImpression": false,
+  "inboxCategory": "BedrockCosmosNews",
+  "dateReceived": "2026-06-02T03:10:00.945Z",
+  "itemList": [],
+  "style": "Default",
+  "messageTitles": [
+    "BedrockVanilla"
+  ],
+  "associatedProducts": [],
+  "messageItemList": [],
+  "messageText": {
+    "header": "New Builder Cape Available!",
+    "body": "The new Builder Cape is now obtainable on Tiktok, just watch any Minecraft related Live stream and within a few minutes you'll have a new crafty cape! Ends on June 14."
+  },
+  "versionConstraint": "",
+  "launcherVersionConstraint": "",
+  "colors": {},
+  "ageRanges": []
+}

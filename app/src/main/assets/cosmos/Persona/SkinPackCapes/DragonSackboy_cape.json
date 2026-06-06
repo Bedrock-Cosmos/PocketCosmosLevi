@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "398dad88-b181-4a5f-b3d4-9cced549eaa5",
+      "Contents": [
+        {
+          "Id": "23d1f260-43ba-4927-9610-3b12ff48b424",
+          "Url": "https://capes.bedrock-cosmos.app/zips/DragonSackboy_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "LittleBigPlanet™ Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b972c6d6-2ee5-496e-8c8c-5f2b555d4bf9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

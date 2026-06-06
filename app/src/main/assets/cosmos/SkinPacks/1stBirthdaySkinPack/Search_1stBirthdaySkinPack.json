@@ -1,0 +1,213 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "ebd5c3b4-eef1-408d-b483-e4b2bd5add12"
+          }
+        ],
+        "Title": {
+          "en-US": "1st Birthday Skin Pack",
+          "NEUTRAL": "1st Birthday Skin Pack",
+          "neutral": "1st Birthday Skin Pack"
+        },
+        "Description": {
+          "en-US": "Join the Minecraft party now!",
+          "NEUTRAL": "Join the Minecraft party now!",
+          "neutral": "Join the Minecraft party now!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Skin", "Festival", "Survival"]
+          },
+          "NEUTRAL": {
+            "Values": ["Skin", "Festival", "Survival"]
+          },
+          "neutral": {
+            "Values": ["Skin", "Festival", "Survival"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+          "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+          "skinpack",
+          "has_skinpack",
+          "tag.limited",
+          "tag.skin",
+          "tag.festival",
+          "genre.survival",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:55:01.99Z",
+        "LastModifiedDate": "2023-08-10T03:32:11.7Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "b3292e60-9898-4813-869c-40b301b5ac0a",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/b3292e60-9898-4813-869c-40b301b5ac0a/1stBirthday_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "d5e9ac7f-8c6c-4f47-97ec-3d9defc4f480",
+            "Amount": 1
+          }
+        ],
+        "Price": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 0
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 0
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "PriceOptions": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 0
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 0
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "Rating": {
+          "Average": 4.7,
+          "TotalCount": 533755,
+          "Count5Star": 469435,
+          "Count4Star": 28896,
+          "Count3Star": 12638,
+          "Count2Star": 5235,
+          "Count1Star": 17551
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "price": 0,
+          "purchasable": true,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+              "version": "3.1.26"
+            }
+          ],
+          "skinPack": {
+            "count": 23
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "lastUpdated": "1.16.210"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

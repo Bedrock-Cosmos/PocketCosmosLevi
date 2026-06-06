@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2c0f3e81-90cc-4530-8f74-d357356e9a34",
+      "Contents": [
+        {
+          "Id": "6ea871f0-f754-45e9-acba-f5b0e7efd983",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Morbius_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Spider-Man Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c4e2e985-4d0f-4450-99d3-e5b9a32bf1e9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

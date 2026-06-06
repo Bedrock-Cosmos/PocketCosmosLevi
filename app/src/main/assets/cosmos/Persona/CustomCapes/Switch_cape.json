@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4ca9116f-0e34-4ec3-ae1b-203cc31a6540",
+      "Contents": [
+        {
+          "Id": "2e2a8de5-ee9c-4e6c-a291-58bc99a26a97",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Switch_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "-DaniL",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f7d18eef-db47-46a2-af06-bc561c0c68b2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

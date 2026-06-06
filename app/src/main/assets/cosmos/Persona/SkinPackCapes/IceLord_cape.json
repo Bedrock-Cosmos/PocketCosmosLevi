@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9d84a147-ed96-4cbc-b0cc-ee769c57748c",
+      "Contents": [
+        {
+          "Id": "7bba621f-8523-4367-bdd5-49bf8618c1be",
+          "Url": "https://capes.bedrock-cosmos.app/zips/IceLord_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Doctor Who Skins Volume I",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "58ed252f-1454-4efb-b1c6-c89e8df75bf8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
