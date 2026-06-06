@@ -1,0 +1,277 @@
+{
+  "result": {
+    "pageId": "YEH_Marketplace",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " YEH's Marketplace Packs",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "text": {
+                  "value": " Bio: solo.to/semiwork\n Discord: @semiworking\r\n ",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "textComponent",
+                "$type": "TextComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "LEGO(R) Minecraft(TM) Skin Pack",
+                    "creatorName": "YEH",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/YEHLegoMinecraftSkinPack_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHLegoMinecraftSkinPack_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "LEGO(R) Minecraft(TM) Skin Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 119,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-05-19T04:16:15Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "R.E.P.O SEMIBOTS",
+                    "creatorName": "YEH",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "R.E.P.O SEMIBOTS",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 50,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "2f8d9fb8-c3c9-47d5-8460-e15da1a528fb",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-06T10:04:12Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "86e6a53f-6ae6-4109-935a-72f877194c02",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "R.E.P.O SEMIBOTS: 5D",
+                    "creatorName": "YEH",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS5D_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS5D_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "R.E.P.O SEMIBOTS: 5D",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 73,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "73d78fb2-9cd7-43bb-8f60-899f654761e1",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-04-06T10:04:12Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  }
+                ],
+                "totalItems": 3,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+      "Contents": [
+        {
+          "Id": "2291990c-6b7a-42d8-ad13-c1b490b9e1f6",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/22919/EMC4.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Exports",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "2291990c-6b7a-42d8-ad13-c1b490b9e1f6",
+            "version": "1.0.0"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=eL5Sg009y0c"
+      }
+    }
+  }
+}

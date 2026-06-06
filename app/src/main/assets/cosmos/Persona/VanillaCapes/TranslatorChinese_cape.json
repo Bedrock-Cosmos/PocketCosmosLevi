@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a4b46b66-3789-4d6e-a7a1-7cc6ee199f03",
+      "Contents": [
+        {
+          "Id": "31a8a60c-d284-48a4-935e-b90165d81f3b",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TranslatorChinese_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "472e2a1a-c2e4-41e3-a3a9-e7c3c0361ff1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

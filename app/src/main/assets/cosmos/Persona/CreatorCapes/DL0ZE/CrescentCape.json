@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "88231694-f32b-462a-b288-2d88b439593f",
+      "Contents": [
+        {
+          "Id": "c952b763-f1e3-48d7-bf2c-2def875a8af3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/CrescentCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dab51931-2cd9-4e72-8f16-01e89848b0bf",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

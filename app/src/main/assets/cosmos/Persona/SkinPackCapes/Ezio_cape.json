@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c1974f5f-c852-4ad7-83dd-2d9bf5f740cf",
+      "Contents": [
+        {
+          "Id": "b65cd99d-0443-4f73-87f7-ec4a6e2f20d2",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Ezio_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Skin Pack 4",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a32a3688-abe6-410c-a77f-50889aa3b1b3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "378ea401-3dc4-43a6-878f-bd6f7d7745d2",
+      "Contents": [
+        {
+          "Id": "c8db9671-0e23-4031-b06c-51c6572df35c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BrideSackgirl_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "LittleBigPlanet™ Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "60f8732f-c80d-4dd3-9973-ac2aebb9fabb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

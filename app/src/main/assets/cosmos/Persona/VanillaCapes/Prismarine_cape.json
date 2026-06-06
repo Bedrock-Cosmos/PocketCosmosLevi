@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "212f1de0-8f17-4114-b865-bed262a947f4",
+      "Contents": [
+        {
+          "Id": "4d19249b-81db-4a4d-959c-4cb9ae93ba6d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Prismarine_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "59f7cdfa-d5fb-4919-a2eb-a70142216204",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

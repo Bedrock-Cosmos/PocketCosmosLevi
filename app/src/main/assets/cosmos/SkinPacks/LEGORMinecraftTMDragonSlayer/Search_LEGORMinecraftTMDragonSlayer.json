@@ -1,0 +1,161 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "38fdf771-febb-4b6f-a162-c42850817d95",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "cbcce217-7916-4d59-b256-78aded026729"
+          }
+        ],
+        "Title": {
+          "en-US": "LEGO(R) Minecraft(TM) Dragon Slayer",
+          "NEUTRAL": "LEGO(R) Minecraft(TM) Dragon Slayer",
+          "neutral": "LEGO(R) Minecraft(TM) Dragon Slayer"
+        },
+        "Description": {
+          "en-US": "Be the Dragon Slayer!\r\nThink you can defeat the ender dragon? Then you’re worthy of wearing this cool Dragon Slayer Skin! Don your armor, grab your enchanted bow and head for the End dimension, where the dragon awaits!",
+          "NEUTRAL": "Be the Dragon Slayer!\r\nThink you can defeat the ender dragon? Then you’re worthy of wearing this cool Dragon Slayer Skin! Don your armor, grab your enchanted bow and head for the End dimension, where the dragon awaits!",
+          "neutral": "Be the Dragon Slayer!\r\nThink you can defeat the ender dragon? Then you’re worthy of wearing this cool Dragon Slayer Skin! Don your armor, grab your enchanted bow and head for the End dimension, where the dragon awaits!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "38fdf771-febb-4b6f-a162-c42850817d95",
+          "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:58:43.519Z",
+        "LastModifiedDate": "2024-11-15T00:38:45.161Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "535394f8-9660-4d82-8d20-6a39b30a695c",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/535394f8-9660-4d82-8d20-6a39b30a695c/Lego_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "2e06c883-e854-4b3b-a36c-68af09e6dcc3",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.8,
+          "TotalCount": 12888,
+          "Count5Star": 11795,
+          "Count4Star": 593,
+          "Count3Star": 228,
+          "Count2Star": 74,
+          "Count1Star": 198
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "cbcce217-7916-4d59-b256-78aded026729",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "0232dca2-f67e-40d7-9f32-3e836cce9e88",
+              "version": "2.26.2026"
+            }
+          ],
+          "skinPack": {
+            "count": 1
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
