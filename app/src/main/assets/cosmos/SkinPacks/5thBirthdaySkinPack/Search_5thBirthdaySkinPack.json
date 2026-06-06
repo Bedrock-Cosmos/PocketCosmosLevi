@@ -1,0 +1,162 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "d350f5b8-931b-407e-b223-9ac5391ff0f5"
+          }
+        ],
+        "Title": {
+          "en-US": "5th Birthday Skin Pack",
+          "NEUTRAL": "5th Birthday Skin Pack",
+          "neutral": "5th Birthday Skin Pack"
+        },
+        "Description": {
+          "en-US": "Join the celebrations for the 5th birthday of Minecraft with this new, free skin pack featuring the one and only 4J Studios development team! Party on!",
+          "NEUTRAL": "Join the celebrations for the 5th birthday of Minecraft with this new, free skin pack featuring the one and only 4J Studios development team! Party on!",
+          "neutral": "Join the celebrations for the 5th birthday of Minecraft with this new, free skin pack featuring the one and only 4J Studios development team! Party on!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
+          "433cbba0-1c00-48e8-94ef-59cfc38da4ca",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.survival",
+          "tag.skin",
+          "tag.holiday",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:55:43.448Z",
+        "LastModifiedDate": "2023-08-10T08:52:29.006Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "3b4bd08e-e337-46e9-9243-5679d2086a3d",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/3b4bd08e-e337-46e9-9243-5679d2086a3d/5thBirthday_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "c0ae65b8-5a9a-4620-8682-2b8116029da9",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.4,
+          "TotalCount": 3045,
+          "Count5Star": 2301,
+          "Count4Star": 268,
+          "Count3Star": 196,
+          "Count2Star": 87,
+          "Count1Star": 193
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "d350f5b8-931b-407e-b223-9ac5391ff0f5",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "433cbba0-1c00-48e8-94ef-59cfc38da4ca",
+              "version": "3.11.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "lastUpdated": "1.14.30"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

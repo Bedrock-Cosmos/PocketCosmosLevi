@@ -63,6 +63,9 @@ public final class InbuiltModuleProvider {
         mods.add(create(activity, manager, overlayManager, ModIds.VIRTUAL_CURSOR,
                 R.string.inbuilt_mod_virtual_cursor, R.string.inbuilt_mod_virtual_cursor_desc,
                 groupName));
+        mods.add(create(activity, manager, overlayManager, ModIds.HTTP_INTERCEPTOR,
+                R.string.inbuilt_mod_http_interceptor, R.string.inbuilt_mod_http_interceptor_desc,
+                groupName));
 
         return mods;
     }

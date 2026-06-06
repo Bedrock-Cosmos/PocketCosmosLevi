@@ -1,0 +1,49 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+      "Contents": [
+        {
+          "Id": "f066b5d3-bf21-4abe-9d5d-30541826a1c5",
+          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f066b5d3-bf21-4abe-9d5d-30541826a1c5/primary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "resourcebinary"
+        },
+        {
+          "Id": "0e5b6035-62cb-4fc5-a6a7-39a6ba7de9a9",
+          "Url": "https://cdn.bedrockcosmos.app/uss/f2c9e/GreekMythology.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "2535448579972708",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+            "version": "3.3.26"
+          },
+          {
+            "type": "resourcepack",
+            "uuid": "98330b0a-2c79-4d30-b9c8-136098340edc",
+            "version": "1.0.79"
+          },
+          {
+            "type": "worldtemplate",
+            "uuid": "e8ad3b41-ddd3-4247-907b-090419cdb7ca",
+            "version": "1.0.79"
+          }
+        ]
+      }
+    }
+  }
+}
