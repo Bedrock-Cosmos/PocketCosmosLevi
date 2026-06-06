@@ -39,6 +39,7 @@ public class InbuiltOverlayManager {
     private String selectedDisplayModId;
     private HudEditorSelectionListener hudEditorSelectionListener;
     private boolean hudEditorMode = false;
+    private HttpInterceptorOverlay httpInterceptorOverlay;
     private int baseY = 150;
     private static final int SPACING = 70;
     private static final int START_X = 50;
@@ -75,6 +76,7 @@ public class InbuiltOverlayManager {
         modActiveStates.put(ModIds.SNAPLOOK, false);
         modActiveStates.put(ModIds.VIRTUAL_CURSOR, false);
         modActiveStates.put(ModIds.GYRO, false);
+        modActiveStates.put(ModIds.HTTP_INTERCEPTOR, true);
         modActiveStates.put(ModIds.POJAV_CONTROLS, false);
 
         modPositionMap.put(ModIds.QUICK_DROP, nextY + SPACING);
@@ -219,6 +221,11 @@ public class InbuiltOverlayManager {
                 gyroOverlay.show(savedX, savedY);
                 overlays.add(gyroOverlay);
                 modOverlayMap.put(modId, gyroOverlay);
+            case ModIds.HTTP_INTERCEPTOR:
+                if (httpInterceptorOverlay == null) {
+                    httpInterceptorOverlay = new HttpInterceptorOverlay(activity);
+                    httpInterceptorOverlay.show(0, 0);
+                }
                 break;
             case ModIds.POJAV_CONTROLS:
                 if (activity instanceof PojavControlsHost && PojavControlsMod.setEnabled(true)) {
@@ -449,6 +456,10 @@ public class InbuiltOverlayManager {
         if (hudOverlay != null) {
             hudOverlay.hide();
             hudOverlay = null;
+        }
+        if (httpInterceptorOverlay != null) {
+            httpInterceptorOverlay.hide();
+            httpInterceptorOverlay = null;
         }
         instance = null;
     }

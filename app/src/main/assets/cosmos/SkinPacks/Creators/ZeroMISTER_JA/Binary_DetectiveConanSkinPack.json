@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "dedd7dce-a317-4786-930f-9c2357d25d82",
+      "Contents": [
+        {
+          "Id": "a7952402-135e-4f5d-abea-5b738904e2c4",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/a7952/DetectiveConanSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "ZeroMISTER JA",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "a7952402-135e-4f5d-abea-5b738904e2c4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

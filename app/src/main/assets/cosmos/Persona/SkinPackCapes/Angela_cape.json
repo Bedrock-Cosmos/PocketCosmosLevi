@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "aaed1892-49e7-4d6d-b831-478e3430cedd",
+      "Contents": [
+        {
+          "Id": "be16c819-6e7c-4dd7-83d0-3a6bce7e16dc",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Angela_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "610897f5-0abd-452a-a11c-b31030a36ac9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -14,6 +14,7 @@ public final class ModIds {
     public static final String GYRO = "gyro";
     public static final String POJAV_CONTROLS = "pojav_controls";
     public static final String MOD_MENU = "mod_menu";
+    public static final String HTTP_INTERCEPTOR = "http_interceptor";
 
     private ModIds() {}
 }

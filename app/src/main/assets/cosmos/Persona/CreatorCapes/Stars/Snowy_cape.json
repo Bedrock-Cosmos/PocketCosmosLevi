@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "33ea3751-eaac-4139-95d2-f9d4978cb039",
+      "Contents": [
+        {
+          "Id": "05c74b3f-3d3f-468a-a42b-caabdcefb6b2",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Snowy_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Stars",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "004c3be3-57e7-40a5-8876-94d7935f10c0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

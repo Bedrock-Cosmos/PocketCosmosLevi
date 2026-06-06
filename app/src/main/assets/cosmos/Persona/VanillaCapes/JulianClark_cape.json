@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "535c755b-2346-4b47-9b5d-e8d33c1bce3a",
+      "Contents": [
+        {
+          "Id": "1ea3060e-e244-4b85-a86a-0330b1702847",
+          "Url": "https://capes.bedrock-cosmos.app/zips/JulianClark_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6aafb8af-32d1-4eb1-abb7-ee344bd536ff",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
