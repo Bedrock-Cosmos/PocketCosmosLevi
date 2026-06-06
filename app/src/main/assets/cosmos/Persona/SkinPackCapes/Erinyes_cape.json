@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "eb84b79b-5eb2-495f-9c29-a2a41c782280",
+      "Contents": [
+        {
+          "Id": "576c3b06-175d-4593-9d87-99de75470ad3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Erinyes_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "94cf58e5-f55d-40d2-ad61-259ae563a47c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

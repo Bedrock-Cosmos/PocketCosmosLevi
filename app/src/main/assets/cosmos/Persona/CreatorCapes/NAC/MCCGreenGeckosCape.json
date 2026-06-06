@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "299d4eb2-645a-4929-af4c-9cc80b9d0745",
+      "Contents": [
+        {
+          "Id": "f01ac21e-5d13-414e-815c-d7eb97e453f3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCGreenGeckosCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b4c3511f-9fd2-447e-a5a0-cd0fa73bce6e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

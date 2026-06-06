@@ -1,0 +1,271 @@
+{
+  "result": {
+    "id": "02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+    "pageId": "ItemDetail_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For '2nd Birthday Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "2nd Birthday Skin Pack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.7,
+                    "totalCount": 26545
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 25,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "e823767b-7337-49da-aaef-de616d2c2c3a",
+                      "version": "3.11.26"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.survival",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.survival",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "genre.survival"
+                    },
+                    {
+                      "linksTo": "Tag_tag.skin",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.skin",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.skin"
+                    },
+                    {
+                      "linksTo": "Tag_tag.funny",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.funny",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.funny"
+                    },
+                    {
+                      "linksTo": "Tag_tag.party_based_rpg",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.party_based_rpg",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "tag.party_based_rpg"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/905ed25d-92af-4c1b-8059-a22f3553b26b/2ndBirthday_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2017-09-12T15:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1dc9046a-bae8-48d2-9ccf-9c9b51ce0062/secondary.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Minecraft is growing up, time to celebrate together our 2nd Birthday!",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1dc9046a-bae8-48d2-9ccf-9c9b51ce0062/secondary.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "e823767b-7337-49da-aaef-de616d2c2c3a",
+                  "version": "3.11.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "2nd Birthday Skin Pack: %s",
+                "text": {
+                  "value": "2nd Birthday Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.7,
+                  "totalCount": 26545,
+                  "count5Star": 23044,
+                  "count4Star": 1464,
+                  "count3Star": 804,
+                  "count2Star": 318,
+                  "count1Star": 915,
+                  "id": "02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "87%%",
+                    "percentage4Star": "6%%",
+                    "percentage3Star": "3%%",
+                    "percentage2Star": "1%%",
+                    "percentage1Star": "3%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}
