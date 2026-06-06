@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a04cbd2c-fc46-452a-ad9a-b6aaa24b6a87",
+      "Contents": [
+        {
+          "Id": "7a039fed-307f-4c4b-bf67-a3a9efc34cc6",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/OminousCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5f4cbce0-55c6-42c0-bd05-3c5f7fb1713b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

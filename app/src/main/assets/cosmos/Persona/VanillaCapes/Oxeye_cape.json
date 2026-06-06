@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b2cdb8a8-b746-4036-a56c-a6ab439a3514",
+      "Contents": [
+        {
+          "Id": "41eff50b-0401-42f4-a260-259fc244ed8e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Oxeye_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "41eff50b-0401-42f4-a260-259fc244ed8e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

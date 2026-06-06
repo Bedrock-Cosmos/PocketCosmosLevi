@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "fb2245c6-dc9c-4be2-99f7-b1ad94fb41f3",
+      "Contents": [
+        {
+          "Id": "ab44620f-148d-4a95-8a21-c59df4574725",
+          "Url": "https://capes.bedrock-cosmos.app/zips/OptiFine10thAnniversary_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "OptiFine",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b586a749-ee8c-4ffc-8b65-cc747c72b7be",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

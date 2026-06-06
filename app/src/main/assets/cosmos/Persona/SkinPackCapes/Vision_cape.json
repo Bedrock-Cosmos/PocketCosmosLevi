@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f5c8d822-081a-4eaa-87d1-740388b6fcfc",
+      "Contents": [
+        {
+          "Id": "2066f77d-8a79-484e-8a43-47b8ae57bd7c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Vision_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Avengers Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "757df9ca-abfb-40f9-93cf-e7287a5b240a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

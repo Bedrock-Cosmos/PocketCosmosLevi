@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3ad68359-a28f-4fd1-bd37-f00b7e4f1b4a",
+      "Contents": [
+        {
+          "Id": "14ef85f8-a3db-4cce-9419-1a72f89d724c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Yoda_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Star Wars Classic Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "429a9191-e7c1-4dbe-bafb-9e915941be9b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

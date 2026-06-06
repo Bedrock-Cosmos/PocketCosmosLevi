@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "630b51f3-19ea-46cd-9b8b-6c9e69457ccc",
+      "Contents": [
+        {
+          "Id": "8de69deb-59e3-406a-b108-3386750d681f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/RedRobedFigure_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Skin Pack 2",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e6fb940d-f4a0-49eb-b503-de200896909e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "212ebbf7-ee8f-4de0-bf67-4290c5cf6bd9",
+      "Contents": [
+        {
+          "Id": "6837dfec-f647-4d08-a7d5-0f5598f098ba",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/BurgerCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "afec16c5-7731-45de-9845-ccfd488682e7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0f06b4ce-1551-47e4-87d9-fe2457e24550",
+      "Contents": [
+        {
+          "Id": "b98b59b5-6f70-42c5-b021-2088ea4b531d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Drone_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Master Chief Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6c08e33f-e75f-43fe-b22a-4c78aeb3e4f9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

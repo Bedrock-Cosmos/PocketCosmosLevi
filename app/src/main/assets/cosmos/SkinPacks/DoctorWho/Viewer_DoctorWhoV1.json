@@ -1,0 +1,249 @@
+{
+  "result": {
+    "id": "590e8d5f-9b16-440d-994a-6b5fadf0e7fa",
+    "pageId": "MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1_MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "type": "skinPackOfferInteractionComp",
+            "$type": "SkinPackOfferInteractionComponent"
+          },
+          {
+            "type": "appearanceInteractionComp",
+            "$type": "AppearanceInteractionComponent"
+          },
+          {
+            "type": "openColorPickerComp",
+            "$type": "OpenColorPickerComponent"
+          },
+          {
+            "type": "openExpandedAppearanceViewComp",
+            "$type": "OpenExpandedAppearanceViewComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "screenTitle": {
+                "value": "dr.header.minecoin.screen",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_Inventory",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "editorialtool.localization.mycontent",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "topBarIcon": {
+              "type": "SidebarNavIcon",
+              "localPath": "textures/ui/sidebar_icons/my_content_large"
+            },
+            "inventoryTitle": {
+              "value": "store.myLibrary",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "SmoothWithEmoticons",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "topBarInventoryComp",
+            "$type": "TopBarInventoryComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_DressingRoomClassicSkinsSearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "dr.header.search.home",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "ExpandedSkinPackGrid",
+        "components": [
+          {
+            "type": "expandedSkinPackComp",
+            "$type": "ExpandedSkinPackComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Doctor Who Skins Volume I",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+                },
+                "rating": {
+                  "average": 0.0,
+                  "totalCount": 0
+                },
+                "price": {
+                  "listPrice": 0,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.skin_selector_screen",
+                  "screenTitle": {
+                    "value": "dr.header.classic_skins",
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "creatorPage": "CreatorPage_master_player_account!301F442C3B63DC20",
+                "statistics": {
+                  "skins": 50,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                    "version": "1.0.6"
+                  }
+                ],
+                "tags": [],
+                "images": [
+                  {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+                  }
+                ],
+                "contents": [],
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2025-10-27T18:00:00Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "screenTitle": {
+                      "value": "dr.header.classic_skins",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              }
+            ],
+            "totalItems": 1,
+            "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "screenTitle": {
+                "value": "dr.header.classic_skins",
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "type": "itemListComp",
+            "$type": "ItemListComponent"
+          }
+        ]
+      }
+    ],
+    "inventoryVersion": "1/Njky",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7932e680-a9f0-45fa-b422-88ed7f1b2335",
+      "Contents": [
+        {
+          "Id": "6b4773c1-154c-4b83-922b-ca210f8a90ac",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreeperKing_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "!NerfModder",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "37530fbf-8188-4e3d-a8f2-14efec74dd33",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

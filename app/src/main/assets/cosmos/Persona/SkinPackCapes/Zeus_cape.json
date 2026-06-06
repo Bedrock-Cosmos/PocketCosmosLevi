@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "af5dff18-9079-4112-aa0f-c4a8d7eee407",
+      "Contents": [
+        {
+          "Id": "74d84016-004d-4678-b259-eab27f9b98bd",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Zeus_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0ebd4234-facc-448c-9eb2-5c3cf75fa5e2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

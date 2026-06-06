@@ -1,0 +1,201 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "7dae6bfe-e92b-403e-842e-d8d75e329644",
+        "Type": "bundle",
+        "AlternateIds": [],
+        "Title": {
+          "en-US": "Minecon 2015 Skin Pack",
+          "NEUTRAL": "Minecon 2015 Skin Pack",
+          "neutral": "Minecon 2015 Skin Pack"
+        },
+        "Description": {
+          "en-US": "Alex and Steve are ready for Minecon 2015! They’ve brought their complete Minecon cape collection with them and don’t they both look grand?",
+          "NEUTRAL": "Alex and Steve are ready for Minecon 2015! They’ve brought their complete Minecon cape collection with them and don’t they both look grand?",
+          "neutral": "Alex and Steve are ready for Minecon 2015! They’ve brought their complete Minecon cape collection with them and don’t they both look grand?"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "1P",
+          "skinpack",
+          "hidden_offer",
+          "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+          "7dae6bfe-e92b-403e-842e-d8d75e329644"
+        ],
+        "CreationDate": "2018-07-31T20:59:50.72Z",
+        "LastModifiedDate": "2023-08-06T20:01:34.065Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "65f2a2fb-cd9e-46f7-9b91-660b83245f4e",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/65f2a2fb-cd9e-46f7-9b91-660b83245f4e/Minecon2015_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "d923a6b5-b43d-47bc-909e-909caca3983b",
+            "Amount": 1
+          }
+        ],
+        "Price": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 1000000
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 1000000
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "PriceOptions": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 1000000
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 1000000
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "Rating": {
+          "Average": 4.7,
+          "TotalCount": 3175,
+          "Count5Star": 2720,
+          "Count4Star": 156,
+          "Count3Star": 103,
+          "Count2Star": 42,
+          "Count1Star": 154
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "originalCreatorId": "2535448579972708",
+          "price": 1000000,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "42ae66b4-d3db-49be-8dd8-207a0cade6d8",
+              "version": "3.11.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

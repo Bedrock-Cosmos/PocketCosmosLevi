@@ -1,0 +1,152 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "04e8961b-4573-4233-9e5e-aec388236314"
+          }
+        ],
+        "Title": {
+          "en-US": "The Simpsons Skin Pack",
+          "NEUTRAL": "The Simpsons Skin Pack",
+          "neutral": "The Simpsons Skin Pack"
+        },
+        "Description": {
+          "en-US": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
+          "NEUTRAL": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series.",
+          "neutral": "The Simpsons as you have never seen them before; in pure, unadulterated Minecraft block-o-vision! Don't miss out this awesome pack featuring 24 characters from the series."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Action", "Comedy", "Cartoon", "Animation"]
+          },
+          "NEUTRAL": {
+            "Values": ["Action", "Comedy", "Cartoon", "Animation"]
+          },
+          "neutral": {
+            "Values": ["Action", "Comedy", "Cartoon", "Animation"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["xboxone.store", "", "title.bedrockvanilla"],
+        "Tags": [
+          "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+          "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.action",
+          "tag.comedy",
+          "tag.cartoon",
+          "tag.animation",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T21:01:17.848Z",
+        "LastModifiedDate": "2023-08-09T20:52:19.305Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "5d180df6-b118-4c66-8700-3c119809a1d8",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/5d180df6-b118-4c66-8700-3c119809a1d8/simpsons_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "b960effc-0cbf-4051-95ca-299a82d32792",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.3,
+          "TotalCount": 2377,
+          "Count5Star": 1800,
+          "Count4Star": 132,
+          "Count3Star": 109,
+          "Count2Star": 38,
+          "Count1Star": 298
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "04e8961b-4573-4233-9e5e-aec388236314",
+          "originalCreatorId": "2535448579972708",
+          "price": -1,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 24
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

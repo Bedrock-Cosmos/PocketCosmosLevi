@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+      "Contents": [
+        {
+          "Id": "6f35813d-e4d5-4717-b735-0e51c40ef04f",
+          "Url": "https://cdn.bedrockcosmos.app/uss/6c37b/CoralCraftersSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.4.1",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "6c37b8c1-ff20-4bf6-a20c-5045aa2d3f57",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

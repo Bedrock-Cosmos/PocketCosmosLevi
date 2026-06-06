@@ -1,0 +1,161 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "57dfb793-29cb-4faf-acd9-bc0200ad108c",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "01f80125-52fd-4e3d-ba8f-f26745c86557"
+          }
+        ],
+        "Title": {
+          "en-US": "Biome Settlers Skin Pack 1",
+          "NEUTRAL": "Biome Settlers Skin Pack 1",
+          "neutral": "Biome Settlers Skin Pack 1"
+        },
+        "Description": {
+          "en-US": "Dress as a native of the Tundra, Forest, or Desert!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
+          "NEUTRAL": "Dress as a native of the Tundra, Forest, or Desert!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
+          "neutral": "Dress as a native of the Tundra, Forest, or Desert!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "57dfb793-29cb-4faf-acd9-bc0200ad108c",
+          "1f581bc6-11c0-4a77-b0fa-91b7ca2636a0",
+          "hidden_offer",
+          "1P",
+          "skinpack",
+          "has_skinpack"
+        ],
+        "CreationDate": "2018-07-31T20:56:26.372Z",
+        "LastModifiedDate": "2026-01-23T21:16:23.984Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "6efcb705-d8b3-4c5d-bf09-72bac525c92c",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6efcb705-d8b3-4c5d-bf09-72bac525c92c/BiomeSettlers1_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "2f18e07b-55a0-47d5-8459-ebaa632d18e7",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.4,
+          "TotalCount": 278187,
+          "Count5Star": 211870,
+          "Count4Star": 23683,
+          "Count3Star": 14804,
+          "Count2Star": 6118,
+          "Count1Star": 21712
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "01f80125-52fd-4e3d-ba8f-f26745c86557",
+          "originalCreatorId": "2535448579972708",
+          "price": 490,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "1f581bc6-11c0-4a77-b0fa-91b7ca2636a0",
+              "version": "1.0.4"
+            }
+          ],
+          "skinPack": {
+            "count": 24
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "hardwareMemoryTier": 0
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

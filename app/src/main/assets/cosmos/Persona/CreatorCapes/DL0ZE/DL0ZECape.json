@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e09f5be3-e610-4f4f-9477-2e68a5034e38",
+      "Contents": [
+        {
+          "Id": "88781c93-380b-4af7-9a6b-981c217e3c8f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/DL0ZECape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE - CLICK HERE FOR MORE CAPES",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "80a97f0f-206e-4004-8fbc-7350d20b1176",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

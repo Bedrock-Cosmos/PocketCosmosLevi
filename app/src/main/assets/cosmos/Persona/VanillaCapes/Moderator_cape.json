@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3bea0bbb-d840-406c-9a58-5b3719c52c4d",
+      "Contents": [
+        {
+          "Id": "2e28030a-e072-424f-a889-c62f129de6cf",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Moderator_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ae802169-98b0-41d0-a9d1-e82c28ad99e3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

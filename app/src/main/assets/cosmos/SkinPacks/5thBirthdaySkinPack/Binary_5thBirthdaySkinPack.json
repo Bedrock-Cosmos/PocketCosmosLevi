@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
+      "Contents": [
+        {
+          "Id": "787ab79c-9cbd-4f90-9030-2217595edc8e",
+          "Url": "https://cdn.bedrockcosmos.app/uss/433cb/5thBirthdaySkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "433cbba0-1c00-48e8-94ef-59cfc38da4ca",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

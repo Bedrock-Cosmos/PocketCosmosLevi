@@ -1,0 +1,223 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "d9e52a89-c414-4e9e-a2c1-fd5540c1e3b5"
+          }
+        ],
+        "Title": {
+          "en-US": "Skin Pack 2 - Classic",
+          "NEUTRAL": "Skin Pack 2 - Classic",
+          "neutral": "Skin Pack 2 - Classic"
+        },
+        "Description": {
+          "en-US": "Customise your Minecraft character with this 2nd selection of stunning skins!",
+          "NEUTRAL": "Customise your Minecraft character with this 2nd selection of stunning skins!",
+          "neutral": "Customise your Minecraft character with this 2nd selection of stunning skins!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Classic", "Old School"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "title.bedrockvanilla"
+        ],
+        "Tags": [
+          "586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+          "d53c598e-3ea8-48d5-80e2-3ae9fc08e527",
+          "skinpack",
+          "has_skinpack",
+          "genre.survival",
+          "tag.skin",
+          "tag.classic",
+          "tag.old_school",
+          "1P"
+        ],
+        "CreationDate": "2018-10-10T03:37:58.09Z",
+        "LastModifiedDate": "2025-04-25T19:27:17.298Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "65c0d4ee-e8f9-417d-97b1-3d05419fcf08",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/65c0d4ee-e8f9-417d-97b1-3d05419fcf08/Minecraft_SkinPack2_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "52b2fe9b-36d9-4e82-956e-9345dc936a8b",
+            "Amount": 1
+          }
+        ],
+        "Price": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 490
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 490
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "PriceOptions": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 490
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 490
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 6486,
+          "Count5Star": 5462,
+          "Count4Star": 400,
+          "Count3Star": 205,
+          "Count2Star": 85,
+          "Count1Star": 334
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "d9e52a89-c414-4e9e-a2c1-fd5540c1e3b5",
+          "originalCreatorId": "2535448579972708",
+          "price": 490,
+          "purchasable": true,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "d53c598e-3ea8-48d5-80e2-3ae9fc08e527",
+              "version": "3.20.2026"
+            }
+          ],
+          "skinPack": {
+            "count": 43,
+            "sampleSkins": [
+              {
+                "localizationName": "Pirate",
+                "skinIndex": 9
+              },
+              {
+                "localizationName": "Ninja",
+                "skinIndex": 10
+              }
+            ]
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "lastUpdated": "1.14.30"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

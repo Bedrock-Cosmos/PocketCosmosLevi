@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8a7bb9e3-eb68-4566-99ef-f5aba1ebcc99",
+      "Contents": [
+        {
+          "Id": "1faf51ca-d240-4541-b9ec-f365e90ad472",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MaoriMan_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Battle & Beasts 2 Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ce81428d-5b67-414c-b949-7f91a710533b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

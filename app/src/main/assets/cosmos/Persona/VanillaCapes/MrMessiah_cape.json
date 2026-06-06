@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9526bf0c-e80e-4ed1-bc63-65ee05a1c71d",
+      "Contents": [
+        {
+          "Id": "926375d5-5e4e-4343-8b23-c5a28ba1db46",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MrMessiah_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1777fbf9-1f88-4a59-a643-417a6230f310",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

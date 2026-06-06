@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "449308f3-1f33-4b92-ae94-f7fb198e2c01",
+      "Contents": [
+        {
+          "Id": "96160092-e354-439d-88d3-690f518ddf3f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Pumpkin_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "smartvong",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6d5d875e-36ed-41f9-ad3d-a89a765b0e2d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

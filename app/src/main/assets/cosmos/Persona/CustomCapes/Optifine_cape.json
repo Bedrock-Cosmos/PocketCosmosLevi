@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "01f86701-e166-4cff-97a5-e40dd192f3ec",
+      "Contents": [
+        {
+          "Id": "fdb6b755-fa13-47e4-afff-5c400551390b",
+          "Url": "https://capes.bedrock-cosmos.app/zips/OptiFine_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "OptiFine",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "76648755-f48e-4777-9ac8-c3f1c929c8aa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

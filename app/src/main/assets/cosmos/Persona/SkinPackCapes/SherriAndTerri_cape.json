@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f3a358d0-d3d8-42b2-b01b-47aa2533754c",
+      "Contents": [
+        {
+          "Id": "b2322207-6c80-4d6a-b0be-58a61075ccbd",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SherriAndTerri_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "The Simpsons Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "27656373-793b-4ae9-97ab-279686f319b8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

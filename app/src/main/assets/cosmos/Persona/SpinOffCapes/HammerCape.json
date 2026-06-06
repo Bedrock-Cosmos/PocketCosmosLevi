@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ee861fd0-95dd-4954-af6e-1962582facfb",
+      "Contents": [
+        {
+          "Id": "564ab4c0-a3eb-4b3f-9a3f-bbceedb98fe4",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/HammerCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7e32bd07-c2a6-4355-a76d-9223e3fbf086",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

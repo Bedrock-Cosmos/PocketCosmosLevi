@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b88305b5-a7b6-48a0-bbf3-1d146a585265",
+      "Contents": [
+        {
+          "Id": "8cc2759b-8c45-43b9-bb87-c073975e9744",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Hypixel_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fc3fc3b8-1fe2-46f0-ac32-a337dbe21974",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

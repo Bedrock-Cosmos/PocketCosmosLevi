@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "aae7860e-fc65-4dee-a261-5b31018a1aff",
+      "Contents": [
+        {
+          "Id": "1a8515ce-30b3-4263-8cea-1a9b4f5576cf",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Breeze_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Actions & Stuff",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d36ece97-827f-4f80-bdf9-7fe665c08892",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

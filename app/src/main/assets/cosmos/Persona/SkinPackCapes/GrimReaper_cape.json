@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "758f609a-08d7-475b-a51b-8e5969a551a1",
+      "Contents": [
+        {
+          "Id": "65f944ea-9b94-43a8-a9c6-6f209911a70f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GrimReaper_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3d4c2f0a-8480-485c-9f1d-d18944af38ec",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

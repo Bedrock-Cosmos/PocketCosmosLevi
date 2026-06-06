@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c11a4d20-9f52-4e59-9df1-7e233914d882",
+      "Contents": [
+        {
+          "Id": "816f3239-e8b2-4df4-bc5e-f205a9a2405d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Sycorax_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Doctor Who Skins Volume II",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3e3e39ca-cf69-4438-9e39-485547bb77b5",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
