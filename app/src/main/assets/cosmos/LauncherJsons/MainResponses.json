@@ -1,0 +1,762 @@
+[
+  {
+    "url": "https://20ca2.playfabapi.com/Catalog/GetPublishedItem",
+    "response": "ProcessedInPlayfabGetPublishItemResponsesJson"
+  },
+  {
+    "url": "https://20ca2.playfabapi.com/Catalog/Search",
+    "response": "ProcessedInPlayfabSearchResponsesJson"
+  },
+  {
+    "url": "https://entitlements.mktpl.minecraft-services.net/api/v1.0/player/inventory?includeReceipt=true",
+    "response": "ForwardedToCosmosApi"
+  },
+  {
+    "url": "https://messaging.mktpl.minecraft-services.net/api/v1.0/session/start",
+    "response": "ProcessedInApp"
+  },
+  {
+    "url": "https://messaging.mktpl.minecraft-services.net/api/v1.0/messages/event",
+    "response": "ProcessedInApp"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_PersonaProfile",
+    "response": "ProcessedInApp"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_Capes",
+    "response": "MainPages\\Capes.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector",
+    "response": "MainPages\\MultiItemPage_PersonaSkinSelector_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_SkinsRoot",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_StoreRoot",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+    "response": "MainPages\\MainMarketplacePage.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_LegacyVault",
+    "response": "MainPages\\LegacyVault.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_MinecraftRestored",
+    "response": "MainPages\\MinecraftRestored.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_CreatorHub",
+    "response": "MainPages\\Cosmos_Creator_Hub.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PauseMenu",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PauseMenu",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!4B74434622F61126",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!5366842229349662",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!33171D90895F3788",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!5F3E53D5C111968C",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerOffers_0ad4e564-8dcd-4b16-bdf7-229f3c9a0cd0",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerOffers_9c3eac4f-c579-4525-80d9-723e705c992d",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!163AC5C76001EEB1",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!EBFC1BF4FAB55EFB",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ServerPage_master_player_account!DD292649E51DB5F9",
+    "response": "MainPages\\MainMarketplaceButton_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!MinecraftCosmos",
+    "response": "MainPages\\MinecraftCosmos_PersonaCreatorPage.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!SpinOffCapes",
+    "response": "MainPages\\SpinOffCapes_PersonaCreatorPage.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!BedrockCosmos",
+    "response": "MainPages\\BedrockCosmos_PersonaCreatorPage.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/CreatorPage_master_player_account!MinecraftHidden",
+    "response": "MainPages\\LegacyVault.json"
+  },
+  // Skin Packs
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\ItemDetail_2ndBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_02b54955-9b4d-40cb-9b73-360d23cf1b9e",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\ItemDetail_2ndBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/770196c2-718f-43ef-94d6-8e53a7b5b0af",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\ItemDetail_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_770196c2-718f-43ef-94d6-8e53a7b5b0af",
+    "response": "SkinPacks\\2ndBirthdaySkinPack\\ItemDetail_2ndBirthdaySkinPack2015.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/603d6be1-7745-4ad8-8af3-908ad017500f",
+    "response": "SkinPacks\\3rdBirthdaySkinPack\\ItemDetail_3rdBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_603d6be1-7745-4ad8-8af3-908ad017500f",
+    "response": "SkinPacks\\3rdBirthdaySkinPack\\ItemDetail_3rdBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+    "response": "SkinPacks\\4thBirthdaySkinPack\\ItemDetail_4thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_a2a7ad5c-f55e-44ff-9f70-a5ae1db821b4",
+    "response": "SkinPacks\\4thBirthdaySkinPack\\ItemDetail_4thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
+    "response": "SkinPacks\\5thBirthdaySkinPack\\ItemDetail_5thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_cc1e1b86-1863-4c1c-9103-b82b2b70a74b",
+    "response": "SkinPacks\\5thBirthdaySkinPack\\ItemDetail_5thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/57dfb793-29cb-4faf-acd9-bc0200ad108c",
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_57dfb793-29cb-4faf-acd9-bc0200ad108c",
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/420ce26e-f6a7-4420-8067-8cf2965a39d6",
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers3.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_420ce26e-f6a7-4420-8067-8cf2965a39d6",
+    "response": "SkinPacks\\BiomeSettlers\\ItemDetail_BiomeSettlers3.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/920a3a5c-b344-42a8-bf23-021b0d315239",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_BrodysGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_920a3a5c-b344-42a8-bf23-021b0d315239",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_BrodysGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/83722c79-a25d-4448-a853-3a4b0fdd99d5",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_ClairesGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_83722c79-a25d-4448-a853-3a4b0fdd99d5",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_ClairesGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_CoralCraftersSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_CoralCraftersSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/0c77040a-abb6-4938-963d-5a8e9872c85c",
+    "response": "SkinPacks\\EarthSkins\\ItemDetail_EarthSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_0c77040a-abb6-4938-963d-5a8e9872c85c",
+    "response": "SkinPacks\\EarthSkins\\ItemDetail_EarthSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b3b50166-5612-4ff1-8f03-9af0b01cb4da",
+    "response": "SkinPacks\\CapeSkinPacks\\ItemDetail_FoundersCape.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b3b50166-5612-4ff1-8f03-9af0b01cb4da",
+    "response": "SkinPacks\\CapeSkinPacks\\ItemDetail_FoundersCape.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/e205acc9-2c5a-430f-8576-d87c5ba67db4",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_JoslynsGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_e205acc9-2c5a-430f-8576-d87c5ba67db4",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_JoslynsGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+    "response": "SkinPacks\\LegacySkinPack\\ItemDetail_LegacySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+    "response": "SkinPacks\\LegacySkinPack\\ItemDetail_LegacySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/38fdf771-febb-4b6f-a162-c42850817d95",
+    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\ItemDetail_LEGORMinecraftTMDragonSlayer.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_38fdf771-febb-4b6f-a162-c42850817d95",
+    "response": "SkinPacks\\LEGORMinecraftTMDragonSlayer\\ItemDetail_LEGORMinecraftTMDragonSlayer.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_LucysGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_633422ca-cdc9-44c8-a25d-a43fb2d76bc7",
+    "response": "SkinPacks\\GiveCampaignSkins\\ItemDetail_LucysGiveCampaignSkin.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/2766095f-b2c0-4237-911f-e18a30fb0928",
+    "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelAvengersSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_2766095f-b2c0-4237-911f-e18a30fb0928",
+    "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelAvengersSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/1213b670-c82f-4e28-baf2-9f0d88954c9a",
+    "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelGuardiansoftheGalaxySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_1213b670-c82f-4e28-baf2-9f0d88954c9a",
+    "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelGuardiansoftheGalaxySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+    "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelSpiderManSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b79f57ee-ef4f-4e01-bc03-20f5aa21bc26",
+    "response": "SkinPacks\\MarvelSkinPacks\\ItemDetail_MarvelSpiderManSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/4ad937a2-bf33-4390-93e3-62198b58f9ff",
+    "response": "SkinPacks\\MightyMorphinPowerRangers\\ItemDetail_MightyMorphinPowerRangers.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_4ad937a2-bf33-4390-93e3-62198b58f9ff",
+    "response": "SkinPacks\\MightyMorphinPowerRangers\\ItemDetail_MightyMorphinPowerRangers.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/7dae6bfe-e92b-403e-842e-d8d75e329644",
+    "response": "SkinPacks\\CapeSkinPacks\\ItemDetail_Minecon2015SkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_7dae6bfe-e92b-403e-842e-d8d75e329644",
+    "response": "SkinPacks\\CapeSkinPacks\\ItemDetail_Minecon2015SkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/20b4d681-df67-420c-aff3-07673bb44d07",
+    "response": "SkinPacks\\CapeSkinPacks\\ItemDetail_MINECON2016SkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_20b4d681-df67-420c-aff3-07673bb44d07",
+    "response": "SkinPacks\\CapeSkinPacks\\ItemDetail_MINECON2016SkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/01d22780-c8c6-421d-a5cf-c615a398c480",
+    "response": "SkinPacks\\EarthSkins\\ItemDetail_MumboJumboGrianSkins.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_01d22780-c8c6-421d-a5cf-c615a398c480",
+    "response": "SkinPacks\\EarthSkins\\ItemDetail_MumboJumboGrianSkins.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/0d8ce926-257f-4297-b585-05d1f88e782a",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_PawsandClawsCosplayPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_0d8ce926-257f-4297-b585-05d1f88e782a",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_PawsandClawsCosplayPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/a681c130-1ac9-456f-a13a-1f985365bb77",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_a681c130-1ac9-456f-a13a-1f985365bb77",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/d1e7ecae-b422-40a2-8037-cf24571f901c",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack1Classic.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_d1e7ecae-b422-40a2-8037-cf24571f901c",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack1Classic.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/40fbf08d-390d-480c-9213-afb3886915eb",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack2.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_40fbf08d-390d-480c-9213-afb3886915eb",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack2.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack2Classic.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack2Classic.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/36b8bc1a-10a1-4405-adc1-c93086dcb317",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack3.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_36b8bc1a-10a1-4405-adc1-c93086dcb317",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack3.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/297ef7fb-debf-40a5-aea7-4e7acf141c59",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack3Classic.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_297ef7fb-debf-40a5-aea7-4e7acf141c59",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack3Classic.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/f60ed293-2f4c-46e5-92b3-922a95df2dd6",
+    "response": "SkinPacks\\StrangerThingsSkinPack\\ItemDetail_StrangerThingsSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_f60ed293-2f4c-46e5-92b3-922a95df2dd6",
+    "response": "SkinPacks\\StrangerThingsSkinPack\\ItemDetail_StrangerThingsSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/39ddc16e-e398-4c71-b562-75b2ac5b1319",
+    "response": "SkinPacks\\TheSimpsonsSkinPack\\ItemDetail_TheSimpsonsSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_39ddc16e-e398-4c71-b562-75b2ac5b1319",
+    "response": "SkinPacks\\TheSimpsonsSkinPack\\ItemDetail_TheSimpsonsSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+    "response": "SkinPacks\\1stBirthdaySkinPack\\ItemDetail_1stBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+    "response": "SkinPacks\\GreekMythologyMashUp\\ItemDetail_GreekMythologyMashUp.json"
+  },
+  // Creator Pages
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!BionicBen",
+    "response": "MainPages\\Creators\\Persona\\BionicBen_Persona.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!DL0ZE",
+    "response": "MainPages\\Creators\\Persona\\DL0ZE_Persona.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!NAC",
+    "response": "MainPages\\Creators\\Persona\\NAC_Persona.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!Stars",
+    "response": "MainPages\\Creators\\Persona\\Stars_Persona.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_BionicBen_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\BionicBen_Marketplace.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_Exports_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_YEH_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\YEH_Marketplace.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_ZeroMISTER_JA_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\ZeroMISTER_JA_Marketplace.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!Essential",
+    "response": "MainPages\\Creators\\Persona\\Essential_Persona.json"
+  },
+  // Creator Skin Packs
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_6thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_6thBirthdaySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_Deadmau5SkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_Deadmau5SkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_BionicBenSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_aa8a18de-f2b0-40be-bc70-c4cd9dd6ae62",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_BionicBenSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_ProjectStarSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+    "response": "SkinPacks\\Creators\\BionicBen\\ItemDetail_ProjectStarSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/22688cde-3822-4bd8-9638-625713ba4dfd",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_22688cde-3822-4bd8-9638-625713ba4dfd",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/a045e0ba-b58e-44d5-b463-e8968f28ae99",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC2.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_a045e0ba-b58e-44d5-b463-e8968f28ae99",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC2.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC3.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_2d43de6c-6846-4cdc-a43b-55f8627b7b01",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC3.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC4.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_d1c19132-0b7d-453d-b39b-5b06a5fb30f9",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC4.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/a2a191a7-ad0d-4802-a990-975538c7489f",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC5.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_a2a191a7-ad0d-4802-a990-975538c7489f",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC5.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC6.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC6.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/dfc5ace1-fd1c-414c-8b1f-ec34e1bf7ba8",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC7.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_dfc5ace1-fd1c-414c-8b1f-ec34e1bf7ba8",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC7.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC8.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC8.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b20dc966-1071-4845-a7a0-b0d2acb253ce",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_LEGOMinecraftSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_LEGOMinecraftSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/86e6a53f-6ae6-4109-935a-72f877194c02",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS5D.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+    "response": "SkinPacks\\Creators\\YEH\\ItemDetail_REPOSEMIBOTS5D.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHoleSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_BlackHoleSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/dedd7dce-a317-4786-930f-9c2357d25d82",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DetectiveConanSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_dedd7dce-a317-4786-930f-9c2357d25d82",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DetectiveConanSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/ae90416f-1942-4c2b-a675-8d947fc53cf1",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DoraemonSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_ae90416f-1942-4c2b-a675-8d947fc53cf1",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_DoraemonSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/7197503c-817f-4c5d-b570-67b2758d707b",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_HotelTransylvaniaSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_7197503c-817f-4c5d-b570-67b2758d707b",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_HotelTransylvaniaSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/f6303374-6ab5-4079-baa0-6200189aa6a2",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelionSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_f6303374-6ab5-4079-baa0-6200189aa6a2",
+    "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\ItemDetail_NeonGenesisEvangelionSkinPack.json"
+  },
+  //
+  // Completed
+  //
+  // Doctor Who
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "response": "SkinPacks\\DoctorWho\\ItemDetail_DoctorWhoV1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "response": "SkinPacks\\DoctorWho\\ItemDetail_DoctorWhoV1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "response": "SkinPacks\\DoctorWho\\Viewer_DoctorWhoV1.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+    "response": "SkinPacks\\DoctorWho\\ItemDetail_DoctorWhoV2.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+    "response": "SkinPacks\\DoctorWho\\ItemDetail_DoctorWhoV2.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+    "response": "SkinPacks\\DoctorWho\\Viewer_DoctorWhoV2.json"
+  },
+  // Festive
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+    "response": "SkinPacks\\FestiveMashUp\\ItemDetail_Festive.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+    "response": "SkinPacks\\FestiveMashUp\\ItemDetail_Festive.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_62c68fd4-3075-40ed-8b7b-15dcc7b667ff",
+    "response": "SkinPacks\\FestiveMashUp\\Viewer_Festive.json"
+  },
+  // Little Big Planet Mash-Up
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+    "response": "SkinPacks\\LittleBigPlanetMashUp\\ItemDetail_LittleBigPlanetMashup.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/packId/4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+    "response": "SkinPacks\\LittleBigPlanetMashUp\\ItemDetail_LittleBigPlanetMashup.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+    "response": "SkinPacks\\LittleBigPlanetMashUp\\ItemDetail_LittleBigPlanetMashup.json"
+  },
+  // Skin Pack 4, 5, 6
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack4.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack4.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+    "response": "SkinPacks\\SkinPack\\Viewer_SkinPack4.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/80c85890-dad7-4d3a-b2ef-60071327b7cf",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack5.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_80c85890-dad7-4d3a-b2ef-60071327b7cf",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack5.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_80c85890-dad7-4d3a-b2ef-60071327b7cf",
+    "response": "SkinPacks\\SkinPack\\Viewer_SkinPack5.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack6.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+    "response": "SkinPacks\\SkinPack\\ItemDetail_SkinPack6.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+    "response": "SkinPacks\\SkinPack\\Viewer_SkinPack6.json"
+  },
+  // Mario Mash-Up
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+    "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/packId/1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+    "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+    "response": "SkinPacks\\MarioMashUp\\ItemDetail_MarioMashUp.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+    "response": "SkinPacks\\MarioMashUp\\Viewer_MarioMashUp.json"
+  },
+  // Charity
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_SummerofArcadeSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_SummerofArcadeSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "response": "SkinPacks\\CharitySkinPacks\\Viewer_SummerofArcadeSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/5b13cb52-e2bf-438c-97f2-1105c54929d9",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_HalloweenCharitySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_5b13cb52-e2bf-438c-97f2-1105c54929d9",
+    "response": "SkinPacks\\CharitySkinPacks\\ItemDetail_HalloweenCharitySkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaSkinSelector%7cSkinPack_5b13cb52-e2bf-438c-97f2-1105c54929d9",
+    "response": "SkinPacks\\CharitySkinPacks\\Viewer_HalloweenCharitySkinPack.json"
+  },
+  // Cape Opener
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_fa359c7a-889b-4ce1-9d68-08691ca7303c",
+    "response": "..\\CustomJsons\\PersonaItemPreview.json"
+  },
+  // Character Creator Persona Menu
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_PersonaCharacterCreator",
+    "response": "MainPages\\PersonaCategories\\PersonaDropdown_append.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_CreeperCrunchCereal",
+    "response": "MainPages\\PersonaCategories\\CreeperCrunchCereal.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_MinecraftDungeons",
+    "response": "MainPages\\PersonaCategories\\MinecraftDungeons.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_MinecraftEarth",
+    "response": "MainPages\\PersonaCategories\\MinecraftEarth.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/DressingRoom_TinyTakeover",
+    "response": "MainPages\\PersonaCategories\\TinyTakeover.json"
+  },
+  // Aquatic Quest Map
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/098aebfb-e2e3-411d-8ddd-825a6a0dc664",
+    "response": "Other\\AquaticQuestMap\\ItemDetail_AquaticQuestMap.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_098aebfb-e2e3-411d-8ddd-825a6a0dc664",
+    "response": "Other\\AquaticQuestMap\\ItemDetail_AquaticQuestMap.json"
+  },
+  // Cape Physics
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/packId/7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+    "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/be094038-1e9b-42ca-b849-7c6345f2be50",
+    "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_be094038-1e9b-42ca-b849-7c6345f2be50",
+    "response": "Other\\CapePhysics\\ItemDetail_CapePhysics.json"
+  }
+]

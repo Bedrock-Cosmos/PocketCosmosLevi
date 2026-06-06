@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+      "Contents": [
+        {
+          "Id": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/f978a/LEGOMinecraftSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "YEH",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

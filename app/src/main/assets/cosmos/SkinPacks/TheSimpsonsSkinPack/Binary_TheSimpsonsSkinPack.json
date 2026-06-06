@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "39ddc16e-e398-4c71-b562-75b2ac5b1319",
+      "Contents": [
+        {
+          "Id": "b01ca240-dab6-47b3-995b-5d2e2562fab5",
+          "Url": "https://cdn.bedrockcosmos.app/uss/4f4a0/TheSimpsonsSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "4f4a0dfa-6e3a-4a2b-bad1-eb84b1b76ee9",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

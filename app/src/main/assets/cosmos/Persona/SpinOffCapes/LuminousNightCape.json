@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4cd3e857-ccdc-4d38-86cc-a7df3863973a",
+      "Contents": [
+        {
+          "Id": "75efa34e-8a36-4564-8b92-6c8a0eaf4ae1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/LuminousNightCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d498e79e-91d2-4f4f-a51a-9bd8767e0caa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

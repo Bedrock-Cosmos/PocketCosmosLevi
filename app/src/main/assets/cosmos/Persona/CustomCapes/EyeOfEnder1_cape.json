@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "796e63d1-a146-4c63-b736-b9f0ce553ff2",
+      "Contents": [
+        {
+          "Id": "3887d330-dd74-4b43-8e8d-3b823fe55e0a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EyeOfEnder1_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "sebastian",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "934878f3-23b3-40bc-ba07-fef5bd59f17c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

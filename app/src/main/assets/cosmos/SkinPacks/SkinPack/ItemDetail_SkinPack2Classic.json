@@ -1,0 +1,411 @@
+{
+  "result": {
+    "id": "586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+    "pageId": "ItemDetail_586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Skin Pack 2 - Classic'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Skin Pack 2 - Classic",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/65c0d4ee-e8f9-417d-97b1-3d05419fcf08/Minecraft_SkinPack2_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-ee7b/65c0d4ee-e8f9-417d-97b1-3d05419fcf08/Minecraft_SkinPack2_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.6,
+                    "totalCount": 6486
+                  },
+                  "price": {
+                    "listPrice": 490,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": {
+                      "value": "Minecraft",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 43,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "d53c598e-3ea8-48d5-80e2-3ae9fc08e527",
+                      "version": "3.20.2026"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.survival",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.survival",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Survival"
+                    },
+                    {
+                      "linksTo": "Tag_tag.skin",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.skin",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Skin"
+                    },
+                    {
+                      "linksTo": "Tag_tag.classic",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.classic",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Classic"
+                    },
+                    {
+                      "linksTo": "Tag_tag.old_school",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.old_school",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Old School"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-ee7b/65c0d4ee-e8f9-417d-97b1-3d05419fcf08/Minecraft_SkinPack2_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-ee7b/65c0d4ee-e8f9-417d-97b1-3d05419fcf08/Minecraft_SkinPack2_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2018-08-14T17:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": 490,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "binaries": [
+                  {
+                    "url": "https://cdn.bedrockcosmos.app/uss/d53c5/SkinPack2Classic.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Customise your Minecraft character with this 2nd selection of stunning skins!",
+                "genres": [
+                  {
+                    "linksTo": "Tag_genre.survival",
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.survival",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Survival"
+                  }
+                ],
+                "subgenres": [],
+                "playerCounts": [],
+                "tags": [
+                  {
+                    "linksTo": "Tag_tag.skin",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.skin",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Skin"
+                  },
+                  {
+                    "linksTo": "Tag_tag.classic",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.classic",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Classic"
+                  },
+                  {
+                    "linksTo": "Tag_tag.old_school",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.old_school",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Old School"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ],
+            "telemetryId": "store.mashup.description"
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://cdn.bedrockcosmos.app/uss/d53c5/SkinPack2Classic.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "d53c598e-3ea8-48d5-80e2-3ae9fc08e527",
+                  "version": "3.20.2026"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Skin Pack 2 - Classic: %s",
+                "text": {
+                  "value": "Skin Pack 2 - Classic: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.6,
+                  "totalCount": 6486,
+                  "count5Star": 5462,
+                  "count4Star": 400,
+                  "count3Star": 205,
+                  "count2Star": 85,
+                  "count1Star": 334,
+                  "id": "586448fd-d6ce-4bdf-9f1b-8e3f65b6bb95",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "84%%",
+                    "percentage4Star": "6%%",
+                    "percentage3Star": "3%%",
+                    "percentage2Star": "2%%",
+                    "percentage1Star": "5%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

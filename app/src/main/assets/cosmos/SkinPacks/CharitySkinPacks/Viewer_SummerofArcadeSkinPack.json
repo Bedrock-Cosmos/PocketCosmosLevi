@@ -1,0 +1,232 @@
+{
+  "result": {
+    "id": "b640041b-3ead-4e04-8325-8db5f8388f59",
+    "pageId": "MultiItemPage_PersonaSkinSelector%7cSkinPack_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "addToRecentlyViewed": false,
+    "pageName": "Home L1_MultiItemPage_PersonaSkinSelector%7cSkinPack_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+    "rows": [
+      {
+        "controlId": "Layout",
+        "components": [
+          {
+            "type": "skinPackOfferInteractionComp",
+            "$type": "SkinPackOfferInteractionComponent"
+          },
+          {
+            "type": "appearanceInteractionComp",
+            "$type": "AppearanceInteractionComponent"
+          },
+          {
+            "type": "openColorPickerComp",
+            "$type": "OpenColorPickerComponent"
+          },
+          {
+            "type": "openExpandedAppearanceViewComp",
+            "$type": "OpenExpandedAppearanceViewComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "screenTitle": {
+                "value": "dr.header.minecoin.screen",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarMinecoinComp",
+            "$type": "TopBarMinecoinComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_Inventory",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "editorialtool.localization.mycontent",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "topBarIcon": {
+              "type": "SidebarNavIcon",
+              "localPath": "textures/ui/sidebar_icons/my_content_large"
+            },
+            "inventoryTitle": {
+              "value": "store.myLibrary",
+              "style": {
+                "highlightColor": [],
+                "alignment": "Left",
+                "textColor": [],
+                "font": "SmoothWithEmoticons",
+                "showBackground": false,
+                "showOutline": false,
+                "indent": 0.0,
+                "buttonWidth": 0.0,
+                "color": [],
+                "offerControlIdType": "None"
+              },
+              "replacements": []
+            },
+            "type": "topBarInventoryComp",
+            "$type": "TopBarInventoryComponent"
+          },
+          {
+            "linksToInfo": {
+              "linksTo": "Search_DressingRoomClassicSkinsSearchHome",
+              "linkType": "pageId",
+              "displayType": "store_layout.store_data_driven_screen",
+              "screenTitle": {
+                "value": "dr.header.search.home",
+                "style": {
+                  "highlightColor": [],
+                  "alignment": "Left",
+                  "textColor": [],
+                  "font": "MinecraftTen",
+                  "showBackground": false,
+                  "showOutline": false,
+                  "indent": 0.0,
+                  "buttonWidth": 0.0,
+                  "color": [],
+                  "offerControlIdType": "None"
+                },
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "isVisible": true,
+            "type": "topBarSearchComp",
+            "$type": "TopBarSearchComponent"
+          }
+        ]
+      },
+      {
+        "controlId": "ExpandedSkinPackGrid",
+        "components": [
+          {
+            "type": "expandedSkinPackComp",
+            "$type": "ExpandedSkinPackComponent"
+          },
+          {
+            "items": [
+              {
+                "id": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+                "contentType": "MarketplaceDurableCatalog_V1.2",
+                "title": "Summer of Arcade Skin Pack",
+                "creatorName": "Minecraft",
+                "thumbnail": {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://bedrock-cosmos.app/thumbnails/SummerOfArcade_thumbnail.jpg",
+                  "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SummerOfArcade_thumbnail.jpg?width=800&height=450"
+                },
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                "linksToInfo": {
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "MinecraftHidden",
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "statistics": {
+                  "skins": 15,
+                  "worlds": 0,
+                  "textures": 0,
+                  "behaviors": 0,
+                  "addOns": 0
+                },
+                "flags": [],
+                "ownership": "Purchased",
+                "packType": "SkinPack",
+                "packIdentity": [
+                  {
+                    "type": "skinpack",
+                    "uuid": "5fe3e01c-609b-497e-b17e-342b83281369",
+                    "version": "1.0.0"
+                  }
+                ],
+                "contents": [],
+                "wishlisted": false,
+                "platformRestricted": false,
+                "iconOverlay": [],
+                "descriptionLineByLine": [],
+                "startDate": "2026-03-01T06:09:45Z",
+                "subscription": [],
+                "thumbnailPreviewOnly": false,
+                "namedLinksToInfoMap": {
+                  "dr.expanded_skins": {
+                    "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.skin_selector_screen",
+                    "navigateInPlace": false
+                  },
+                  "dr.see_in_store": {
+                    "linksTo": "ItemDetail_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  }
+                }
+              }
+            ],
+            "totalItems": 1,
+            "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+            "linksToInfo": {
+              "linksTo": "MultiItemPage_PersonaSkinSelector%7cSkinPack_358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+              "linkType": "pageId",
+              "displayType": "store_layout.skin_selector_screen",
+              "screenTitle": {
+                "value": "dr.header.classic_skins",
+                "replacements": []
+              },
+              "navigateInPlace": false
+            },
+            "type": "itemListComp",
+            "$type": "ItemListComponent"
+          }
+        ]
+      }
+    ],
+    "inventoryVersion": "1/Njky",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona"
+  }
+}

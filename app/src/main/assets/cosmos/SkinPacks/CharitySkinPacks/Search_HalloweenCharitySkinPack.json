@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "5b13cb52-e2bf-438c-97f2-1105c54929d9",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Halloween Charity Skin Pack",
+          "neutral": "Halloween Charity Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "For a limited time only, we're raising some money for good causes. A load of cool games developers have helped create this collection of fun Halloween skins! Some even include capes! 100% of the purchase price will be divided amongst the designated causes. Go to PlayXBLA.com for information on which good causes will benefit and the proportion of funds that will go to each.",
+          "neutral": "For a limited time only, we're raising some money for good causes. A load of cool games developers have helped create this collection of fun Halloween skins! Some even include capes! 100% of the purchase price will be divided amongst the designated causes. Go to PlayXBLA.com for information on which good causes will benefit and the proportion of funds that will go to each."
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "5b13cb52-e2bf-438c-97f2-1105c54929d9",
+          "91551b69-a8ab-447a-b0b6-693e9086eae3",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-03-01T06:04:40Z",
+        "LastModifiedDate": "2026-03-01T06:04:40Z",
+        "DisplayProperties": {
+          "creatorName": "MinecraftHidden",
+          "offerId": "5b13cb52-e2bf-438c-97f2-1105c54929d9",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "91551b69-a8ab-447a-b0b6-693e9086eae3",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5b13cb52-e2bf-438c-97f2-1105c54929d9",
+      "Contents": [
+        {
+          "Id": "91551b69-a8ab-447a-b0b6-693e9086eae3",
+          "Url": "https://cdn.bedrockcosmos.app/uss/91551/HalloweenCharitySkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "MinecraftHidden",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "91551b69-a8ab-447a-b0b6-693e9086eae3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

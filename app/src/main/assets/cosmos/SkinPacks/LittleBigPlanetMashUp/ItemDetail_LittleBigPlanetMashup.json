@@ -1,0 +1,604 @@
+{
+  "result": {
+    "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+    "pageId": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+    "addToRecentlyViewed": true,
+    "pageName": "ItemDetail For 'LittleBigPlanet™ Mash-up'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "LittleBigPlanet™ Mash-up",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.3,
+                    "totalCount": 18756
+                  },
+                  "price": {
+                    "listPrice": 990,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                    "virtualCurrencyType": "PlayStationToken"
+                  },
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": {
+                      "value": "Minecraft",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 38,
+                    "worlds": 1,
+                    "textures": 1,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "MashUp",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
+                      "version": "3.3.26"
+                    },
+                    {
+                      "type": "resourcepack",
+                      "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
+                      "version": "1.0.75"
+                    },
+                    {
+                      "type": "worldtemplate",
+                      "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
+                      "version": "1.0.75"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.survival",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Survival"
+                    },
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_subgenre.open_world",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Open World"
+                    },
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_playercount.SinglePlayer",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Single player"
+                    },
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_playercount.Multiplayer",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Multiplayer"
+                    },
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.cute",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Cute"
+                    },
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.adventures",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Adventures"
+                    },
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.exploration",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Exploration"
+                    },
+                    {
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.surreal",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Surreal"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/LittleBigPlanetRestored_thumbnail.jpg?width=800&height=450"
+                    }
+                  ],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "startDate": "2019-12-10T18:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {},
+                  "hardwareMemoryTier": 0
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "price": {
+                  "listPrice": 990,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "virtualCurrencyType": "PlayStationToken"
+                },
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f27647ee-9530-4431-aa5b-7a0ddaf2f489/primary.zip"
+                  },
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/75aea90f-7b0b-4539-a6d4-7fe023636b18/secondary.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
+                "genres": [
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.survival",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Survival"
+                  }
+                ],
+                "subgenres": [
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_subgenre.open_world",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Open World"
+                  }
+                ],
+                "playerCount": "1-4",
+                "playerCounts": [
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_playercount.SinglePlayer",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Single player"
+                  },
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_playercount.Multiplayer",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Multiplayer"
+                  }
+                ],
+                "tags": [
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.cute",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Cute"
+                  },
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.adventures",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Adventures"
+                  },
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.exploration",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Exploration"
+                  },
+                  {
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.surreal",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Surreal"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ],
+            "telemetryId": "store.mashup.description"
+          },
+          {
+            "controlId": "ImageGallery",
+            "components": [
+              {
+                "images": [
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/344ddccb-a098-4e4e-9a9a-6e0a391d3e91/LittleBigPlanet_Screenshot_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/344ddccb-a098-4e4e-9a9a-6e0a391d3e91/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/983c79d9-95d2-48f0-97bb-afd228cb445c/LittleBigPlanet_Screenshot_1.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/983c79d9-95d2-48f0-97bb-afd228cb445c/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/66da92d6-ca02-4fb1-a1b2-f46b0223cf65/LittleBigPlanet_Screenshot_2.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/66da92d6-ca02-4fb1-a1b2-f46b0223cf65/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/327cb841-d00b-42b6-85e4-d5dd4057ce2e/LittleBigPlanet_Screenshot_3.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/327cb841-d00b-42b6-85e4-d5dd4057ce2e/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ebb210be-98f5-40a6-83ba-98959dadbc23/LittleBigPlanet_Screenshot_4.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/ebb210be-98f5-40a6-83ba-98959dadbc23/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
+                  }
+                ],
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Take a tour!",
+                "text": {
+                  "value": "Take a tour!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ],
+            "telemetryId": "Take a tour!"
+          },
+          {
+            "controlId": "WorldView",
+            "components": [
+              {
+                "panoramaUrl": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ad79150a-6087-494a-a8ae-7d8a72221a73/LittleBigPlanet_panorama_0.jpg",
+                "panoramaImage": {
+                  "type": "Panorama",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ad79150a-6087-494a-a8ae-7d8a72221a73/LittleBigPlanet_panorama_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/ad79150a-6087-494a-a8ae-7d8a72221a73/LittleBigPlanet_panorama_0.jpg?width=-1&height=450"
+                },
+                "type": "panoramaComp",
+                "$type": "PanoramaComponent"
+              },
+              {
+                "headerText": "Journey in a new world!",
+                "text": {
+                  "value": "Journey in a new world!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ],
+            "telemetryId": "Journey in a new world!"
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://cdn.bedrockcosmos.app/uss/0f2e0/LittleBigPlanet.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
+                  "version": "3.3.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "LittleBigPlanet™ Mash-up: %s",
+                "text": {
+                  "value": "LittleBigPlanet™ Mash-up: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.3,
+                  "totalCount": 18756,
+                  "count5Star": 13997,
+                  "count4Star": 1397,
+                  "count3Star": 862,
+                  "count2Star": 370,
+                  "count1Star": 2130,
+                  "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "75%%",
+                    "percentage4Star": "7%%",
+                    "percentage3Star": "5%%",
+                    "percentage2Star": "2%%",
+                    "percentage1Star": "11%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

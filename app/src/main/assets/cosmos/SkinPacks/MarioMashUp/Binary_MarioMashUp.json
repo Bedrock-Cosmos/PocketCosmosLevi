@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+      "Contents": [
+        {
+          "Id": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+          "Url": "https://cdn.bedrockcosmos.app/uss/7f4ba/MarioM.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "resourcebinary"
+        },
+        {
+          "Id": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+          "Url": "https://cdn.bedrockcosmos.app/uss/47ca6/Mario.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "2535448579972708",
+        "purchasable": false,
+        "price": -1,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+            "version": "1.1.6"
+          },
+          {
+            "type": "resourcepack",
+            "uuid": "7f4ba1a2-43dd-45b1-aa3f-0b3ca2ebd5c8",
+            "version": "1.1.6"
+          },
+          {
+            "type": "worldtemplate",
+            "uuid": "c5e0d6e9-29b7-3b04-9408-032cc8a386c6",
+            "version": "1.1.6"
+          }
+        ],
+        "skinPack": {
+          "count": 40
+        },
+        "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+        "hardwareMemoryTier": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4f5a1bda-d544-486e-a430-0d3e1551e73b",
+      "Contents": [
+        {
+          "Id": "b3f7a8ed-38ab-4da8-a712-519097c88a6a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/ShieldyBlockerson_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Skin Pack 6",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "c9d6debb-c787-4bbf-a847-20a1c9a5bcba",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

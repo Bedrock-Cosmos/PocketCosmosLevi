@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "11e6b451-9601-4580-9c59-840def60f762",
+      "Contents": [
+        {
+          "Id": "651b0d58-6651-4da5-8ad2-fdb2ac1b0ebb",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TheNewton_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "LittleBigPlanet™ Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bf262d5b-8203-411f-8d86-5ed3c3c13642",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

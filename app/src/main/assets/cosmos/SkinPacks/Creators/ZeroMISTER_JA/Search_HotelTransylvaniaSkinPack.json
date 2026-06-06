@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "7197503c-817f-4c5d-b570-67b2758d707b",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Hotel Transylvania Skin Pack",
+          "neutral": "Hotel Transylvania Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "-",
+          "neutral": "-"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "7197503c-817f-4c5d-b570-67b2758d707b",
+          "b53d0382-a1e0-4707-9dd2-92ccae001033",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-14T18:49:56Z",
+        "LastModifiedDate": "2026-04-14T18:49:56Z",
+        "DisplayProperties": {
+          "creatorName": "ZeroMISTER JA",
+          "offerId": "7197503c-817f-4c5d-b570-67b2758d707b",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "b53d0382-a1e0-4707-9dd2-92ccae001033",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "44f33ecc-dee9-4120-837a-34aca6b993b2",
+      "Contents": [
+        {
+          "Id": "387442be-2859-4115-81aa-8b00d3d35191",
+          "Url": "https://capes.bedrock-cosmos.app/zips/ICU_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "387442be-2859-4115-81aa-8b00d3d35191",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

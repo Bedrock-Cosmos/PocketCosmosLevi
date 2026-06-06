@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "83722c79-a25d-4448-a853-3a4b0fdd99d5",
+      "Contents": [
+        {
+          "Id": "a4834ace-7f3f-456e-8305-709f0da41a60",
+          "Url": "https://cdn.bedrockcosmos.app/uss/136fe/ClairesGiveCampaignSkin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.13.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "136fe27d-4eb3-4564-8c9b-b4130ffbdd3c",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

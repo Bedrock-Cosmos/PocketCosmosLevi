@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+      "Contents": [
+        {
+          "Id": "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/aa5e2/Deadmau5SkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

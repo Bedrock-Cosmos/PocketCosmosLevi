@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0ed6237e-b4ee-4812-8aa8-1dda9243cca9",
+      "Contents": [
+        {
+          "Id": "8d421f1f-3ebb-49b9-bae0-21776935315f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Dryad_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f1853a5e-6e00-4c9e-b536-82cb3d8842cf",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

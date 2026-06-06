@@ -1,0 +1,251 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "14db4920-2713-48eb-b465-e15a9d9750cf"
+          }
+        ],
+        "Title": {
+          "en-US": "Greek Mythology Mash-up",
+          "NEUTRAL": "Greek Mythology Mash-up",
+          "neutral": "Greek Mythology Mash-up"
+        },
+        "Description": {
+          "en-US": "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, or set sail for adventures across the sea. The world is your square oyster!",
+          "NEUTRAL": "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, or set sail for adventures across the sea. The world is your square oyster!",
+          "neutral": "Build a pantheon fit for the gods, trap the Minotaur in an elaborate maze, or set sail for adventures across the sea. The world is your square oyster!"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": [
+              "Exploration",
+              "Mythology",
+              "Historical",
+              "Survival",
+              "Open World"
+            ]
+          },
+          "NEUTRAL": {
+            "Values": [
+              "Exploration",
+              "Mythology",
+              "Historical",
+              "Survival",
+              "Open World"
+            ]
+          },
+          "neutral": {
+            "Values": [
+              "Exploration",
+              "Mythology",
+              "Historical",
+              "Survival",
+              "Open World"
+            ]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "32c1ef67-3cb2-4094-bd0d-92eb55b5ad75",
+          "f2c9ef8d-690b-41df-9682-d85225774b77",
+          "98330b0a-2c79-4d30-b9c8-136098340edc",
+          "e8ad3b41-ddd3-4247-907b-090419cdb7ca",
+          "tag.exploration",
+          "tag.mythology",
+          "tag.historical",
+          "1P",
+          "mashup",
+          "has_skinpack",
+          "survival_spawn_world",
+          "genre.survival",
+          "subgenre.open_world",
+          "playercount.1-4"
+        ],
+        "CreationDate": "2018-07-31T20:52:57.342Z",
+        "LastModifiedDate": "2025-12-13T01:01:15.674Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "82ee5e9c-6822-43c5-a326-5fbabe7e10f2",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/82ee5e9c-6822-43c5-a326-5fbabe7e10f2/GreekMythology_thumbnail_800x450.jpg"
+          }
+        ],
+        "ItemReferences": [
+          { "Id": "c15fbfa2-e5c4-44b3-9e62-32b61cf945bf", "Amount": 1 },
+          { "Id": "8cd67c8e-9765-4e78-a522-e333ec418f7e", "Amount": 1 },
+          { "Id": "36758df7-84d0-49bd-9290-b4eab4b0c025", "Amount": 1 }
+        ],
+        "Price": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 990
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 990
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "PriceOptions": {
+          "Prices": [
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "Amount": 990
+                }
+              ]
+            },
+            {
+              "Amounts": [
+                {
+                  "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                  "Amount": 990
+                }
+              ]
+            }
+          ],
+          "RealPrices": []
+        },
+        "Rating": {
+          "Average": 4.4,
+          "TotalCount": 63859,
+          "Count5Star": 47459,
+          "Count4Star": 6263,
+          "Count3Star": 3212,
+          "Count2Star": 1162,
+          "Count1Star": 5763
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "14db4920-2713-48eb-b465-e15a9d9750cf",
+          "originalCreatorId": "2535448579972708",
+          "price": 990,
+          "purchasable": true,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "f2c9ef8d-690b-41df-9682-d85225774b77",
+              "version": "3.3.26"
+            },
+            {
+              "type": "resourcepack",
+              "uuid": "98330b0a-2c79-4d30-b9c8-136098340edc",
+              "version": "1.0.79"
+            },
+            {
+              "type": "worldtemplate",
+              "uuid": "e8ad3b41-ddd3-4247-907b-090419cdb7ca",
+              "version": "1.0.79"
+            }
+          ],
+          "skinPack": {
+            "count": 39,
+            "sampleSkins": [
+              { "localizationName": "Atalanta", "skinIndex": 0 },
+              { "localizationName": "Hephaestus", "skinIndex": 1 }
+            ]
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "hardwareMemoryTier": 0
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "420ce26e-f6a7-4420-8067-8cf2965a39d6",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "4bafcddc-1a84-4de4-a165-528edff7cd64"
+          }
+        ],
+        "Title": {
+          "en-US": "Strangers - Biome Settlers 3",
+          "NEUTRAL": "Strangers - Biome Settlers 3",
+          "neutral": "Strangers - Biome Settlers 3"
+        },
+        "Description": {
+          "en-US": "Get this pack and make your home in distant lands or ocean depths!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
+          "NEUTRAL": "Get this pack and make your home in distant lands or ocean depths!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account.",
+          "neutral": "Get this pack and make your home in distant lands or ocean depths!\r\n\r\nBedrock Cosmos Note: Due to this skin pack being recently delisted, these skins are not currently available for use if you have not previously purchased/redeemed them on your Minecraft account."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "420ce26e-f6a7-4420-8067-8cf2965a39d6",
+          "d55a3dda-b482-4ff6-bf30-3d2ba9324c19",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "video_trailer",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:56:44.594Z",
+        "LastModifiedDate": "2025-04-25T17:48:21.221Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "033b503b-2b3b-409a-a016-1754894ab969",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/033b503b-2b3b-409a-a016-1754894ab969/StrangersBiomeSettlers3_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "f6d996e5-6b1c-4041-bfa8-a0292148f6f1",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 5385,
+          "Count5Star": 4456,
+          "Count4Star": 410,
+          "Count3Star": 164,
+          "Count2Star": 58,
+          "Count1Star": 297
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "4bafcddc-1a84-4de4-a165-528edff7cd64",
+          "originalCreatorId": "2535448579972708",
+          "price": 310,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "d55a3dda-b482-4ff6-bf30-3d2ba9324c19",
+              "version": "1.0.1"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "videoUrl": "https://www.youtube.com/watch?v=FdhcVjLud-c"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

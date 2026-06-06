@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Deadmau5 Skin Pack",
+          "neutral": "Deadmau5 Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "Party hard with 11 uniquely-colored deadmau5 skins, each with their own pair of exclusive ears from Minecraft Java Edition! Original blue and red deadmau5 skins made by deadmau5 and Mojang.",
+          "neutral": "Party hard with 11 uniquely-colored deadmau5 skins, each with their own pair of exclusive ears from Minecraft Java Edition! Original blue and red deadmau5 skins made by deadmau5 and Mojang."
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+          "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-21T02:59:15Z",
+        "LastModifiedDate": "2026-04-21T02:59:15Z",
+        "DisplayProperties": {
+          "creatorName": "BionicBen",
+          "offerId": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

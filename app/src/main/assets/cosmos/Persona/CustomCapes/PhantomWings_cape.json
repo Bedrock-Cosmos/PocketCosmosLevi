@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "7ef3e8b3-50a6-4f94-9de3-9c50a011a7be",
+      "Contents": [
+        {
+          "Id": "33c4fed9-8132-436f-b68d-646f0536800e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/PhantomWings_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "RanchyCeaser",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a4dc1ed3-029d-47c8-9f66-729a865b8805",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

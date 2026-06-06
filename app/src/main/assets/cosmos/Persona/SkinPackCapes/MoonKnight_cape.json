@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8ef94505-b1c5-40ab-8c9b-83a060475ea5",
+      "Contents": [
+        {
+          "Id": "5596c731-6efd-406f-918f-d70c8f8ef049",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MoonKnight_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Avengers Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3f861730-a9c5-44e3-8e82-c982e62b6c09",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

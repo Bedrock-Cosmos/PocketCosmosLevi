@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a7eda0a7-5896-4e05-a01d-e03449567ecb",
+      "Contents": [
+        {
+          "Id": "ca36ba7c-c760-419c-992d-f47935f7d508",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/PrismCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a5f4cadf-7fa9-4483-862e-681255749ebe",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

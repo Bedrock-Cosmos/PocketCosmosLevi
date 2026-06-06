@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "83fd88f7-2661-48eb-b0dd-19ca46d7fd27",
+      "Contents": [
+        {
+          "Id": "c73b2f03-8206-4c04-a673-a938114fe173",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Wraith_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0bb5e522-ed3e-4b44-a4eb-40bed26489ba",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

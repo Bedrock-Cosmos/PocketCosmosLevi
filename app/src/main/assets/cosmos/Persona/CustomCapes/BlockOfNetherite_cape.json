@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "1b19a308-86cc-4fb0-9f62-683a30906dd5",
+      "Contents": [
+        {
+          "Id": "23350adb-cc90-435a-8ebe-3db1c6885448",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BlockOfNetherite_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Spyynz",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e315fde7-af01-43c2-9a23-5881aa1b9f0b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

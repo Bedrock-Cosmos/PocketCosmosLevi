@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "297ef7fb-debf-40a5-aea7-4e7acf141c59",
+      "Contents": [
+        {
+          "Id": "5371bde5-04bb-4195-8305-67dd24194f7b",
+          "Url": "https://cdn.bedrockcosmos.app/uss/5371b/SkinPack3Classic.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "2535448579972708",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "5371bde5-04bb-4195-8305-67dd24194f7b",
+            "version": "3.20.2026"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "be094038-1e9b-42ca-b849-7c6345f2be50",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Cape Physics",
+          "neutral": "Cape Physics"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "be094038-1e9b-42ca-b849-7c6345f2be50",
+          "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+          "3P"
+        ],
+        "CreationDate": "2026-06-03T03:16:16Z",
+        "LastModifiedDate": "2026-06-03T03:16:16Z",
+        "DisplayProperties": {
+          "creatorName": "Xatalyst",
+          "offerId": "be094038-1e9b-42ca-b849-7c6345f2be50",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "resources",
+              "uuid": "7b5cac88-d90d-483f-8e4e-e4e1aaa47787",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "40f25577-c1b8-4922-8678-6e916011c438",
+      "Contents": [
+        {
+          "Id": "930074fe-7dce-4c57-beed-83436b251468",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Christmas_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3e05bbb7-7ef3-4ec9-8a4b-705c7494d50c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

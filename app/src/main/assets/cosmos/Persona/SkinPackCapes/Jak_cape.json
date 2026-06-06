@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b3011c06-6997-4ece-9d4f-5044d4308d73",
+      "Contents": [
+        {
+          "Id": "c56a45d7-e2de-4e2e-a678-bb0dda0f8904",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Jak_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Skin Pack 3",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a35fbbc1-d2f7-4481-8a4b-69656e37652b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

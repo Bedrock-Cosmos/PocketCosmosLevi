@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f838ccc1-a8d2-4bf5-b820-2cbee6d6c7a6",
+      "Contents": [
+        {
+          "Id": "e0bd9934-4065-4bd6-b73b-ecfff38eb2a7",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCBlueBatsCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "80cb534a-a1b2-4eee-b975-477bc7541365",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

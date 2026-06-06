@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8f5c3ea3-0a85-4885-a27a-483f3bd8b535",
+      "Contents": [
+        {
+          "Id": "fbf2d760-6733-46f1-95a5-d6a6a7d79e2d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/dannyBstyle_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d1421dbd-5716-4ec0-ab08-fa90fdc73647",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

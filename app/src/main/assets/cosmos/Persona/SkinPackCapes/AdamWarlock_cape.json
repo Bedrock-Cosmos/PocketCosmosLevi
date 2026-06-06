@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "717c8fc3-b3fb-40b1-93e1-759e28e59cd3",
+      "Contents": [
+        {
+          "Id": "ef3527ce-f3bb-4271-a8b4-61c1a4dc550c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/AdamWarlock_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Marvel Guardians of the Galaxy Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f9eee07a-fa83-4d86-878b-f52a6fefdad4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6c6df40b-c150-493d-848d-39627c3f48a0",
+      "Contents": [
+        {
+          "Id": "8372281f-e356-45a8-b256-0427d4fab0a7",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BossNass_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Star Wars Prequel Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "266c496d-189d-4476-9fb0-55c45f9de7ba",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

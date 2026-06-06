@@ -1,0 +1,165 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "e205acc9-2c5a-430f-8576-d87c5ba67db4",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "2fe606b4-b802-4a71-88c4-252111c5ffbf"
+          }
+        ],
+        "Title": {
+          "en-US": "Joslyn's Give Campaign Skin",
+          "NEUTRAL": "Joslyn's Give Campaign Skin",
+          "neutral": "Joslyn's Give Campaign Skin"
+        },
+        "Description": {
+          "en-US": "A special skin pack for winning the Give Campaign auction.",
+          "NEUTRAL": "A special skin pack for winning the Give Campaign auction.",
+          "neutral": "A special skin pack for winning the Give Campaign auction."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Roleplaying Game", "Skin", "Cool", "Narration"]
+          },
+          "NEUTRAL": {
+            "Values": ["Roleplaying Game", "Skin", "Cool", "Narration"]
+          },
+          "neutral": {
+            "Values": ["Roleplaying Game", "Skin", "Cool", "Narration"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "b.store",
+          "ios.store",
+          "nx.store",
+          "oculus.store.gearvr",
+          "oculus.store.rift",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "e205acc9-2c5a-430f-8576-d87c5ba67db4",
+          "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.roleplaying_game",
+          "tag.skin",
+          "tag.cool",
+          "tag.narration",
+          "1P"
+        ],
+        "CreationDate": "2020-10-06T22:59:20.891Z",
+        "LastModifiedDate": "2023-08-10T10:48:45.975Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "d84e5543-39a6-4623-baf0-8534c25ec640",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/d84e5543-39a6-4623-baf0-8534c25ec640/thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "a6f4dcc9-8876-4bee-b09e-93a0fa7d6ba3",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 123,
+          "Count5Star": 102,
+          "Count4Star": 5,
+          "Count3Star": 7,
+          "Count2Star": 1,
+          "Count1Star": 8
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "2fe606b4-b802-4a71-88c4-252111c5ffbf",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "a9396dff-9629-43fa-b7f7-4e885ab258fd",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 1
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

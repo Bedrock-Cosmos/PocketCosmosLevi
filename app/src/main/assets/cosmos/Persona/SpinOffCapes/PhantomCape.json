@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e0a2af8c-ee2f-4103-90d6-545c23c843eb",
+      "Contents": [
+        {
+          "Id": "dd5e67f9-83a7-471e-b78a-fc2cdbce691e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/PhantomCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7a37e8ac-0c7f-40b2-86c7-2c2fb3be303a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

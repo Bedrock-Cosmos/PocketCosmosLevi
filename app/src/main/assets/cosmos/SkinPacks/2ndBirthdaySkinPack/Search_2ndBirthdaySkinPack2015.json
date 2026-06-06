@@ -1,0 +1,152 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "770196c2-718f-43ef-94d6-8e53a7b5b0af",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "4af11277-e068-4e74-b0d9-ad3460397a5c"
+          }
+        ],
+        "Title": {
+          "en-US": "2nd Birthday Skin Pack - 2015",
+          "NEUTRAL": "2nd Birthday Skin Pack - 2015",
+          "neutral": "2nd Birthday Skin Pack - 2015"
+        },
+        "Description": {
+          "en-US": "Minecraft is growing up, time to celebrate together our 2nd Birthday!\r\nOnly available for Minecraft on PlayStation 4 (2019).",
+          "NEUTRAL": "Minecraft is growing up, time to celebrate together our 2nd Birthday!\r\nOnly available for Minecraft on PlayStation 4 (2019).",
+          "neutral": "Minecraft is growing up, time to celebrate together our 2nd Birthday!\r\nOnly available for Minecraft on PlayStation 4 (2019)."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          },
+          "NEUTRAL": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          },
+          "neutral": {
+            "Values": ["Survival", "Skin", "Holiday"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["b.store", "title.bedrockvanilla"],
+        "Tags": [
+          "770196c2-718f-43ef-94d6-8e53a7b5b0af",
+          "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.survival",
+          "tag.skin",
+          "tag.holiday",
+          "1P"
+        ],
+        "CreationDate": "2019-12-10T17:47:04.166Z",
+        "LastModifiedDate": "2024-10-16T01:32:02.324Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "2cb9d7f6-6b3d-445e-a323-d28522959a95",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2cb9d7f6-6b3d-445e-a323-d28522959a95/Skinpack_2ndBirthday_Sony_thumbnail_800x450.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "d9caea4e-2149-4249-925c-9ab216046eca",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 10503,
+          "Count5Star": 8759,
+          "Count4Star": 665,
+          "Count3Star": 351,
+          "Count2Star": 120,
+          "Count1Star": 608
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "4af11277-e068-4e74-b0d9-ad3460397a5c",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "d532b9b3-eddc-4f98-96fc-5fe5e227c426",
+              "version": "3.1.26"
+            }
+          ],
+          "skinPack": {
+            "count": 24
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          },
+          "lastUpdated": "1.14.30"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

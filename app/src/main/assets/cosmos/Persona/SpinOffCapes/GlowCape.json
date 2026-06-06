@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6335945a-ce24-41e1-9401-66c2e4d25557",
+      "Contents": [
+        {
+          "Id": "ee9b58da-488a-445e-b794-6a694a7d48e8",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/GlowCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f7fc26e4-6b41-4f37-abea-d7a1656dc098",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

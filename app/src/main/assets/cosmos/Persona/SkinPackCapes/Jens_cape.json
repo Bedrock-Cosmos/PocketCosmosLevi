@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b4a07965-1cb3-48b3-930a-2f03579fef4a",
+      "Contents": [
+        {
+          "Id": "a43dde43-706c-44fa-9d24-025ab466ed78",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Jens_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "3rd Birthday Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "848eb65a-4026-4ef4-9b38-cc856eba82ce",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b01a36e6-6426-4585-8eba-6024bea40820",
+      "Contents": [
+        {
+          "Id": "980a56a8-3269-4cbe-9b36-8267decb795a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Omniarchive_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Crackers0106",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ee0a67c7-27f7-4ec7-b3e1-dbf58b04a296",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

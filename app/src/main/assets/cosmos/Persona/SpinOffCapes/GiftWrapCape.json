@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a82f16ff-2520-4024-b318-13aca62e6710",
+      "Contents": [
+        {
+          "Id": "566576f4-0d30-4a10-9c90-eeff342a124c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/GiftWrapCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "39aabd06-c2e5-4c0f-8a4b-465f7f552df7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

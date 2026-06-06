@@ -1,0 +1,75 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Skin Pack 5",
+          "neutral": "Skin Pack 5"
+        },
+        "Description": {
+          "NEUTRAL": "Dress up as your favorite Minecraft characters from this striking 5th collection.",
+          "neutral": "Dress up as your favorite Minecraft characters from this striking 5th collection."
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["xboxone.store"],
+        "Tags": [
+          "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+          "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+          "skinpack"
+        ],
+        "CreationDate": "2025-10-27T10:00:00Z",
+        "LastModifiedDate": "2025-10-27T10:00:00Z",
+        "Images": [
+          {
+            "Id": "2211bea0-8a75-4150-a548-9ccaa2f9f246",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg"
+          }
+        ],
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+          "originalCreatorId": "2535448579972708",
+          "price": -1,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
