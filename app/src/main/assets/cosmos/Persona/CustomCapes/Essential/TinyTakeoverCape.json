@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0e377825-9488-4496-b75a-21de4b008b0a",
+      "Contents": [
+        {
+          "Id": "8a0ade43-c2b4-44b1-abcb-58de6a7ecc45",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/TinyTakeoverCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Essential",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3ddf71f3-8eb2-4491-9b48-cd1c8bf6f465",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

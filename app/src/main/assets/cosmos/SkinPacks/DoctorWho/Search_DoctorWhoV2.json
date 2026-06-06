@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "0865b49f-0123-459e-8e6d-a1ec99f5f9fa"
+          }
+        ],
+        "Title": {
+          "NEUTRAL": "Doctor Who Skins Volume II",
+          "neutral": "Doctor Who Skins Volume II"
+        },
+        "Description": {
+          "NEUTRAL": "Zooming through the Time Vortex, hot on the heels of the first Minecraft Doctor Who Skin pack, comes Volume II. Over 50 characters from all eras of the show including the Second, Third, Eighth and Tenth Doctors, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, the Sea Devil and the Cybermen in all their guises from the 60’s through to the most recent and deadly upgrade.\r\n\r\nBedrock Cosmos Note: Special thanks to Mwam for providing us with the original skin pack files.\r\n",
+          "neutral": "Zooming through the Time Vortex, hot on the heels of the first Minecraft Doctor Who Skin pack, comes Volume II. Over 50 characters from all eras of the show including the Second, Third, Eighth and Tenth Doctors, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, the Sea Devil and the Cybermen in all their guises from the 60’s through to the most recent and deadly upgrade.\r\n\r\nBedrock Cosmos Note: Special thanks to Mwam for providing us with the original skin pack files.\r\n"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["title.bedrockvanilla"],
+        "Tags": [
+          "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+          "83ba3582-970f-4100-b8cc-277a10217b13",
+          "skinpack",
+          "has_skinpack",
+          "genre.action",
+          "tag.science_fiction",
+          "tag.skin",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T18:07:15.234Z",
+        "LastModifiedDate": "2024-10-18T02:09:19.362Z",
+        "Images": [],
+        "ItemReferences": [
+          {
+            "Id": "0865b49f-0123-459e-8e6d-a1ec99f5f9fa",
+            "Amount": 1
+          }
+        ],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+          "originalCreatorId": "2535448579972708",
+          "price": -1,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
+              "version": "1.0.6"
+            }
+          ],
+          "skinPack": {
+            "count": 51
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

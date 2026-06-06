@@ -1,0 +1,157 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "125b33e4-e99f-4e94-8411-59f9bd107f78"
+          }
+        ],
+        "Title": {
+          "en-US": "Coral Crafters Skin Pack",
+          "NEUTRAL": "Coral Crafters Skin Pack",
+          "neutral": "Coral Crafters Skin Pack"
+        },
+        "Description": {
+          "en-US": "A selection of sea-worthy skins to celebrate the Update Aquatic! Explore the oceans as a dolphin or turtle, or opt for a statue skin – covered in kelp or coral! Take a deep dive with the Ocean Explorer, Coral Diver and more! Net proceeds will go to support The Nature Conservancy’s efforts to protect and restore coral reefs, learn more at https://aka.ms/coralcrafters.",
+          "NEUTRAL": "A selection of sea-worthy skins to celebrate the Update Aquatic! Explore the oceans as a dolphin or turtle, or opt for a statue skin – covered in kelp or coral! Take a deep dive with the Ocean Explorer, Coral Diver and more! Net proceeds will go to support The Nature Conservancy’s efforts to protect and restore coral reefs, learn more at https://aka.ms/coralcrafters.",
+          "neutral": "A selection of sea-worthy skins to celebrate the Update Aquatic! Explore the oceans as a dolphin or turtle, or opt for a statue skin – covered in kelp or coral! Take a deep dive with the Ocean Explorer, Coral Diver and more! Net proceeds will go to support The Nature Conservancy’s efforts to protect and restore coral reefs, learn more at https://aka.ms/coralcrafters."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "29ce2f54-be6e-4748-b63e-335d6fa8a9d0",
+          "6c37b8c1-ff20-4bf6-a20c-5045aa2d3f57",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:57:14.336Z",
+        "LastModifiedDate": "2024-10-14T23:46:19.389Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "6c3dc9f3-bf52-48f0-bd25-ff868e330867",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/6c3dc9f3-bf52-48f0-bd25-ff868e330867/CoralCrafters_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "d0fadb19-1279-4a2c-9cb4-33133e674656",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 3932,
+          "Count5Star": 3264,
+          "Count4Star": 287,
+          "Count3Star": 118,
+          "Count2Star": 52,
+          "Count1Star": 211
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "125b33e4-e99f-4e94-8411-59f9bd107f78",
+          "originalCreatorId": "2535448579972708",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "6c37b8c1-ff20-4bf6-a20c-5045aa2d3f57",
+              "version": "3.11.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

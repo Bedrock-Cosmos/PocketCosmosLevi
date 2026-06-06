@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a115555a-315d-4a0f-8437-78df54a3f653",
+      "Contents": [
+        {
+          "Id": "10cb1e55-961d-4f42-933d-d808ebbd3562",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/BirthdayDungeonsCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f7966e59-9cd9-4ca8-8dae-13766c9611c7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

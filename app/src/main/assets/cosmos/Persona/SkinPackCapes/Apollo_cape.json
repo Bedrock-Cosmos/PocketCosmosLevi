@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5545dbaa-d97f-44a6-8299-53159197b4c3",
+      "Contents": [
+        {
+          "Id": "66c43d5a-4671-4e60-b74f-68dfdf3cb3fa",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Apollo_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1d726764-8e43-490c-bc7d-1f1f5e3a1458",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

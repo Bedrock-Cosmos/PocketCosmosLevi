@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "680c6afa-ce03-4055-aa4b-e7085f02da9f",
+      "Contents": [
+        {
+          "Id": "91085abb-7f0b-4e8e-93e1-6f5bf4d93815",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Dragon_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Unknown",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b06e43e3-6612-422f-b528-ea9fea18088e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
