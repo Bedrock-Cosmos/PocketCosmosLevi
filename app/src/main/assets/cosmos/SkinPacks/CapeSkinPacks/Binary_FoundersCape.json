@@ -1,0 +1,35 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b3b50166-5612-4ff1-8f03-9af0b01cb4da",
+      "Contents": [
+        {
+          "Id": "3ce64ce3-56a1-41a0-aa42-26f4ed41e997",
+          "Url": "https://cdn.bedrockcosmos.app/uss/4972c/FoundersCapeSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.10",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "4972c4c7-6eac-4e4c-b2d0-822b590b6fa7",
+            "version": "3.11.26"
+          },
+          {
+            "type": "persona_piece",
+            "uuid": "1b99b77c-3caa-4aaa-8f79-f79f053e586f",
+            "version": "1.0.1"
+          }
+        ]
+      }
+    }
+  }
+}

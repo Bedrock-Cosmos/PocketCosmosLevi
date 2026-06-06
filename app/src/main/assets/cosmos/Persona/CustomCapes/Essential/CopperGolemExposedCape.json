@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "2c018d95-d44d-4b6b-b8a1-7135411ef257",
+      "Contents": [
+        {
+          "Id": "862f2c97-0761-46a3-ba62-313d4c2b638e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Essential/CopperGolemExposedCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Essential",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bc79bee1-477d-49c1-9582-65a1223877ba",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

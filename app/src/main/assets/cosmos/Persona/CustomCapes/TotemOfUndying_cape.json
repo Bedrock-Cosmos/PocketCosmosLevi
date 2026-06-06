@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "503017f7-c1e4-4e34-81d6-fc980f28f416",
+      "Contents": [
+        {
+          "Id": "c634d0e8-5de3-42b3-80fe-f24ecf76e34f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/TotemOfUndying_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "MinecraftCapes",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ccf37ab6-da70-418e-b7b0-27a1f735dc1c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

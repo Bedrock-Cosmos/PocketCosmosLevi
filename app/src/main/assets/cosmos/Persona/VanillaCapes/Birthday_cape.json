@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f2f9ca6c-13c5-4a96-b8b1-64bd5371b4b0",
+      "Contents": [
+        {
+          "Id": "5e2ad901-81ae-4150-a0cd-0fe637a41494",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Birthday_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5e2ad901-81ae-4150-a0cd-0fe637a41494",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

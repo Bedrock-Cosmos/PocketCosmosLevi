@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6a07d42d-3e17-45b4-b712-0d6165e7c2d5",
+      "Contents": [
+        {
+          "Id": "088bc53f-0347-440a-8c16-3bcae96a562c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/RedRoyalCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "64c2843c-8350-4586-b178-309b7f7fe9a1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "79fe9dfe-a65b-4a47-b264-cc0aba1d7b3e"
+          }
+        ],
+        "Title": {
+          "NEUTRAL": "Doctor Who Skins Volume I",
+          "neutral": "Doctor Who Skins Volume I"
+        },
+        "Description": {
+          "NEUTRAL": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth, Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros.\r\n\r\nBedrock Cosmos Note: Special thanks to Mwam for providing us with the original skin pack files.",
+          "neutral": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth, Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros.\r\n\r\nBedrock Cosmos Note: Special thanks to Mwam for providing us with the original skin pack files."
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["title.bedrockvanilla"],
+        "Tags": [
+          "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+          "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+          "skinpack",
+          "has_skinpack",
+          "genre.action",
+          "tag.science_fiction",
+          "tag.skin",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T18:07:15.234Z",
+        "LastModifiedDate": "2024-10-18T02:09:19.362Z",
+        "Images": [],
+        "ItemReferences": [
+          {
+            "Id": "79fe9dfe-a65b-4a47-b264-cc0aba1d7b3e",
+            "Amount": 1
+          }
+        ],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+          "originalCreatorId": "2535448579972708",
+          "price": -1,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+              "version": "1.0.6"
+            }
+          ],
+          "skinPack": {
+            "count": 57
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

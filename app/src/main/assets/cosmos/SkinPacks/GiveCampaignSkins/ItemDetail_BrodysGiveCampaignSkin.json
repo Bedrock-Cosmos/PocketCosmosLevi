@@ -1,0 +1,238 @@
+{
+  "result": {
+    "id": "920a3a5c-b344-42a8-bf23-021b0d315239",
+    "pageId": "ItemDetail_920a3a5c-b344-42a8-bf23-021b0d315239",
+    "addToRecentlyViewed": false,
+    "pageName": "ItemDetail For 'Brody's Give Campaign Skin'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "920a3a5c-b344-42a8-bf23-021b0d315239",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "Brody's Give Campaign Skin",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.5,
+                    "totalCount": 78
+                  },
+                  "price": {
+                    "listPrice": -1,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                    "virtualCurrencyType": "Minecoin"
+                  },
+                  "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!MinecraftHidden",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 1,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "6d6f40da-6b0a-47f1-a82a-b23721c6140b",
+                      "version": "3.11.26"
+                    }
+                  ],
+                  "tags": [],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a89a0ac1-2b70-43ad-8a37-3fc4a27515e8/thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2020-10-07T17:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/f465c445-7ac7-4f6d-8e25-eeefb6b4672f/secondary.zip"
+                  }
+                ],
+                "price": {
+                  "listPrice": -1,
+                  "realmsInfo": {
+                    "inRealmsPlus": false
+                  },
+                  "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                  "virtualCurrencyType": "Minecoin"
+                },
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "A special skin pack for winning the Give Campaign auction.",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/f465c445-7ac7-4f6d-8e25-eeefb6b4672f/secondary.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "6d6f40da-6b0a-47f1-a82a-b23721c6140b",
+                  "version": "3.11.26"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "Brody's Give Campaign Skin: %s",
+                "text": {
+                  "value": "Brody's Give Campaign Skin: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 78,
+                  "count5Star": 64,
+                  "count4Star": 5,
+                  "count3Star": 1,
+                  "count2Star": 2,
+                  "count1Star": 6,
+                  "id": "920a3a5c-b344-42a8-bf23-021b0d315239",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "82%",
+                    "percentage4Star": "6%",
+                    "percentage3Star": "1%",
+                    "percentage2Star": "3%",
+                    "percentage1Star": "8%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "920a3a5c-b344-42a8-bf23-021b0d315239",
+      "Contents": [
+        {
+          "Id": "f465c445-7ac7-4f6d-8e25-eeefb6b4672f",
+          "Url": "https://cdn.bedrockcosmos.app/uss/6d6f4/BrodysGiveCampaignSkin.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.13.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "6d6f40da-6b0a-47f1-a82a-b23721c6140b",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

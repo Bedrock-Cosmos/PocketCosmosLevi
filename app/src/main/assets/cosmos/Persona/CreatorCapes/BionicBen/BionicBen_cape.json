@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "94b3e845-5721-4969-b66a-b8f7128bfbb0",
+      "Contents": [
+        {
+          "Id": "6fbd64c8-4796-4b68-ab8b-16d088e1c86f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BionicBen_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e9ffe72b-2d98-4e55-ad77-c0d06ba42ec7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

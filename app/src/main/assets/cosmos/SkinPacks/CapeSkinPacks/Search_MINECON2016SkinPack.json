@@ -1,0 +1,158 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "20b4d681-df67-420c-aff3-07673bb44d07",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "892edc6f-e181-4aa9-9192-59a53dc91e01"
+          }
+        ],
+        "Title": {
+          "en-US": "MINECON 2016 Skin Pack",
+          "NEUTRAL": "MINECON 2016 Skin Pack",
+          "neutral": "MINECON 2016 Skin Pack"
+        },
+        "Description": {
+          "en-US": "Are you ready for MINECON?",
+          "NEUTRAL": "Are you ready for MINECON?",
+          "neutral": "Are you ready for MINECON?"
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "20b4d681-df67-420c-aff3-07673bb44d07",
+          "838bdb6b-bf30-42ca-a4d8-e35865fba8e2",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:59:59.923Z",
+        "LastModifiedDate": "2023-08-07T18:38:32.129Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "f219076e-dac1-4367-aaf3-eaad0987e927",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/f219076e-dac1-4367-aaf3-eaad0987e927/MINECON2016_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "1007779f-a9e2-4620-a460-ee5b4e74e970",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.7,
+          "TotalCount": 18067,
+          "Count5Star": 15445,
+          "Count4Star": 1053,
+          "Count3Star": 587,
+          "Count2Star": 239,
+          "Count1Star": 743
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "892edc6f-e181-4aa9-9192-59a53dc91e01",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "838bdb6b-bf30-42ca-a4d8-e35865fba8e2",
+              "version": "3.11.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

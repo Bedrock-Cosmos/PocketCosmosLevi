@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "6th Birthday Skin Pack",
+          "neutral": "6th Birthday Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "A twist on Minecraft's 1st Birthday Skin Pack with 23 brand new skins to select from!\r\n\r\nCreator's Note: This pack was mostly made for fun (partially jokingly) back in 2021. I had not previously published it before, but now it is free to use in Bedrock Cosmos!",
+          "neutral": "A twist on Minecraft's 1st Birthday Skin Pack with 23 brand new skins to select from!\r\n\r\nCreator's Note: This pack was mostly made for fun (partially jokingly) back in 2021. I had not previously published it before, but now it is free to use in Bedrock Cosmos!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+          "342df268-636d-4f2b-a971-8350eb4fc440",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-02-28T19:08:03Z",
+        "LastModifiedDate": "2026-02-28T19:08:03Z",
+        "DisplayProperties": {
+          "creatorName": "BionicBen",
+          "offerId": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

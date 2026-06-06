@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "e6ac6826-b590-4aaf-b87a-c4499d4283a1",
+      "Contents": [
+        {
+          "Id": "2fff024f-bd7b-41b8-a1ac-9e6194341c8c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeons/AmethystCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "14b678be-c843-40e8-b748-accfce84c2f4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

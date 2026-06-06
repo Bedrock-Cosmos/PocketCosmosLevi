@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0ce8d2eb-d178-4ae9-8060-00fd9714c93b",
+      "Contents": [
+        {
+          "Id": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/a8822/ProjectStarSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "a8822913-5c64-4a73-bf8b-b1713a4434b2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+      "Contents": [
+        {
+          "Id": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+          "Url": "https://cdn.bedrockcosmos.app/uss/759ae/DoctorWho1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "2535448579972708",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+            "version": "1.0.6"
+          }
+        ]
+      }
+    }
+  }
+}

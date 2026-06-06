@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8ac65528-ed62-4495-aa47-b453b3320916",
+      "Contents": [
+        {
+          "Id": "aa51a29f-0c31-46cd-92bd-d19c130842ec",
+          "Url": "https://capes.bedrock-cosmos.app/zips/LandoCalrission_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Star Wars Classic Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fefa8058-d207-4f99-9325-63d089038d67",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

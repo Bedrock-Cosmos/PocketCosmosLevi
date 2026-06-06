@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "3b553920-305e-4b7b-8496-feacb2a0440b",
+      "Contents": [
+        {
+          "Id": "4e565748-a687-4ca7-80e3-e7e5d79aeb19",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCLimeLlamasCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7b08aafe-a133-4867-a189-87724996465b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

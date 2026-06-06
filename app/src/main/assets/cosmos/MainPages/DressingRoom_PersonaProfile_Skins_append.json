@@ -1,0 +1,625 @@
+{
+  "items": [
+    {
+      "id": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Bedrock Cosmos Packs",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/All-Packs.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/All-Packs.jpg?width=800&height=450"
+      },
+      "packType": "Realms",
+      "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+      "linksToInfo": {
+        "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "startDate": "2025-10-25T12:00:00Z"
+    },
+    {
+      "id": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Deadmau5 Skin Pack",
+      "creatorName": "BionicBen",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/Deadmau5SkinPack_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "statistics": {
+        "skins": 22,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "aa5e26c6-9032-487e-9ed5-a6b99d68ba98",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Matching Cosmetics 8",
+      "creatorName": "Exports",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!Exports",
+      "statistics": {
+        "skins": 30,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "cd99e175-5498-4edf-8bb2-ab29cbfc00b9",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z",
+      "videoUrl": "https://www.youtube.com/watch?v=mb1r-t64Fjw"
+    },
+    {
+      "id": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "LEGO(R) Minecraft(TM) Skin Pack",
+      "creatorName": "YEH",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/YEHLegoMinecraftSkinPack_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHLegoMinecraftSkinPack_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_b20dc966-1071-4845-a7a0-b0d2acb253ce",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!YEH",
+      "statistics": {
+        "skins": 119,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "86e6a53f-6ae6-4109-935a-72f877194c02",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "R.E.P.O SEMIBOTS: 5D",
+      "creatorName": "YEH",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS5D_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/YEHREPOSEMIBOTS5D_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_86e6a53f-6ae6-4109-935a-72f877194c02",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!YEH",
+      "statistics": {
+        "skins": 37,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "73d78fb2-9cd7-43bb-8f60-899f654761e1",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Black Hole Skin Pack",
+      "creatorName": "ZeroMISTER JA",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!ZeroMISTER_JA",
+      "statistics": {
+        "skins": 4,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
+      "id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Doctor Who Skins Volume I",
+      "creatorName": "Minecraft",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg",
+        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "statistics": {
+        "skins": 57,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": [],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+          "version": "1.0.6"
+        }
+      ],
+      "startDate": "2025-10-25T12:00:00Z"
+    },
+    {
+      "id": "4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "LittleBigPlanet™ Mash-up",
+      "description": "Mix the crazy, non-stop creativity of LittleBigPlanet™ into the endless fun and freedom of Minecraft with this special mashup pack.\r\nSackboy®, Sackgirl®, OddSock, Toggle and Swoop will decorate your Minecraft universe with a whole heap of LBP characters, creatures and stuff.\r\nOnly available for Minecraft on PlayStation®4.",
+      "creatorName": "Minecraft (Hidden/Delisted)",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg",
+        "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
+      },
+      "Rating": {
+        "Average": 4.3,
+        "TotalCount": 18670,
+        "Count5Star": 13923,
+        "Count4Star": 1394,
+        "Count3Star": 863,
+        "Count2Star": 367,
+        "Count1Star": 2123
+      },
+      "price": {
+        "listPrice": 990,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_4d7590d6-8f7f-4f53-989a-2df76b6b015b",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!HiddenDelisted",
+      "statistics": {
+        "skins": 1,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "ownership": "NotOwned",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
+          "version": "1.14.2026"
+        },
+        {
+          "type": "resourcepack",
+          "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
+          "version": "1.0.71"
+        },
+        {
+          "type": "worldtemplate",
+          "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
+          "version": "1.0.71"
+        }
+      ],
+      "tags": [],
+      "videoUrl": "https://www.youtube.com/watch?v=cJgl_0JVMpc",
+      "images": [
+        {
+          "tag": "packicon",
+          "type": "Screenshot",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cca99798-f06c-4d08-be8b-e7bcc68125a0/LittleBigPlanet_packicon_0.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cca99798-f06c-4d08-be8b-e7bcc68125a0/LittleBigPlanet_packicon_0.jpg?width=800&height=450"
+        },
+        {
+          "tag": "panorama",
+          "type": "Screenshot",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/adbdc2e3-e587-4dc9-ae44-e8f7c7b01716/LittleBigPlanet_panorama_0.jpg?width=800&height=450"
+        },
+        {
+          "tag": "screenshot",
+          "type": "Screenshot",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/90f0019f-6e36-4703-b956-caf68ae936c9/LittleBigPlanet_Screenshot_0.jpg?width=800&height=450"
+        },
+        {
+          "tag": "screenshot",
+          "type": "Screenshot",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8a0ca0fc-6fa4-46f6-b74b-0b75ca3d9b46/LittleBigPlanet_Screenshot_1.jpg?width=800&height=450"
+        },
+        {
+          "tag": "screenshot",
+          "type": "Screenshot",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c803adc4-097f-49ae-8dd3-1f4e46e70c97/LittleBigPlanet_Screenshot_2.jpg?width=800&height=450"
+        },
+        {
+          "tag": "screenshot",
+          "type": "Screenshot",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9b28994c-ab09-48da-8da1-ab48c364e173/LittleBigPlanet_Screenshot_3.jpg?width=800&height=450"
+        },
+        {
+          "tag": "screenshot",
+          "type": "Screenshot",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/45249c39-5f5f-4afd-a6bb-89cd2a6b5568/LittleBigPlanet_Screenshot_4.jpg?width=800&height=450"
+        },
+        {
+          "tag": "Thumbnail",
+          "type": "Thumbnail",
+          "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg",
+          "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0d96b5b9-79ac-402b-a796-3bce90f12348/LittleBigPlanet_Thumbnail_0.jpg?width=800&height=450"
+        }
+      ],
+      "contents": [],
+      "platformRestricted": false,
+      "iconOverlay": [],
+      "descriptionLineByLine": [],
+      "startDate": "2019-12-10T18:00:00Z",
+      "subscription": [],
+      "thumbnailPreviewOnly": false,
+      "namedLinksToInfoMap": {}
+    },
+    {
+      "id": "1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Mario Mash-Up",
+      "description": "Super Mario meets Minecraft! This Mash-Up Pack contains a Super Mario-style Texture Pack, Skin Pack and a Super Mario-themed world to explore!",
+      "creatorName": "Minecraft (Hidden/Delisted)",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_1fc32dd0-b399-4255-a4c7-e6e262a40ab6",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!HiddenDelisted",
+      "statistics": {
+        "skins": 40,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": [],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "47ca6989-81db-404b-a9f1-f3391258b8a2",
+          "version": "1.14.2026"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=sNcVYOPw6r0",
+      "tags": [],
+      "images": [
+        {
+          "tag": "Thumbnail",
+          "type": "Thumbnail",
+          "url": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg",
+          "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/MarioSkinPack.jpeg"
+        }
+      ],
+      "contents": [],
+      "platformRestricted": true,
+      "iconOverlay": [],
+      "descriptionLineByLine": [],
+      "startDate": "2025-10-26T00:00:00Z",
+      "subscription": [],
+      "thumbnailPreviewOnly": false,
+      "namedLinksToInfoMap": {}
+    },
+    {
+      "id": "2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Skin Pack 4",
+      "creatorName": "Minecraft (Hidden/Delisted)",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack4_Thumbnail_0.jpg",
+        "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack4_Thumbnail_0.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_2f60a7a0-8010-49b1-8b57-851ac41f34cf",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!HiddenDelisted",
+      "statistics": {
+        "skins": 50,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": [],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "55fa75f0-1635-485f-9586-1bdd0cb6a255",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2019-12-09T18:00:00Z"
+    },
+    {
+      "id": "80c85890-dad7-4d3a-b2ef-60071327b7cf",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Skin Pack 5",
+      "creatorName": "Minecraft (Hidden/Delisted)",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg",
+        "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack5_Thumbnail_0.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_80c85890-dad7-4d3a-b2ef-60071327b7cf",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_80c85890-dad7-4d3a-b2ef-60071327b7cf",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!HiddenDelisted",
+      "statistics": {
+        "skins": 50,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": [],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "cc59b688-7cfb-4fa0-a76e-84aa55b92cae",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2019-12-09T18:00:00Z"
+    },
+    {
+      "id": "4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Skin Pack 6",
+      "creatorName": "Minecraft (Hidden/Delisted)",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack6_Thumbnail_0.jpg",
+        "urlWithResolution": "https://www.4jstudios.com/wp-content/uploads/2022/09/skinpack6_Thumbnail_0.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_4c61b1f5-2bbc-492f-8a2a-1f3b813c4113",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!HiddenDelisted",
+      "statistics": {
+        "skins": 46,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": [],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "0037a29f-876e-4709-8bb8-a388738e6f51",
+          "version": "1.0.0"
+        }
+      ],
+      "startDate": "2019-12-09T18:00:00Z"
+    }
+  ]
+}

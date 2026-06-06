@@ -1,0 +1,158 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "4a27724d-4301-4dd9-9215-190691e3cc92"
+          }
+        ],
+        "Title": {
+          "en-US": "Legacy Skin Pack",
+          "NEUTRAL": "Legacy Skin Pack",
+          "neutral": "Legacy Skin Pack"
+        },
+        "Description": {
+          "en-US": "Get cracking with these starter skins and old favorites brought over from Minecraft editions of yore. Widen your wardrobe, turn out in a tux, or rock it as a croc! ",
+          "NEUTRAL": "Get cracking with these starter skins and old favorites brought over from Minecraft editions of yore. Widen your wardrobe, turn out in a tux, or rock it as a croc! ",
+          "neutral": "Get cracking with these starter skins and old favorites brought over from Minecraft editions of yore. Widen your wardrobe, turn out in a tux, or rock it as a croc! "
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": []
+          },
+          "NEUTRAL": {
+            "Values": []
+          },
+          "neutral": {
+            "Values": []
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": [
+          "android.amazonappstore",
+          "android.googleplay",
+          "ios.store",
+          "oculus.store.rift",
+          "oculus.store.gearvr",
+          "uwp.store",
+          "uwp.store.mobile",
+          "xboxone.store",
+          "nx.store",
+          "b.store",
+          "title.bedrockvanilla",
+          "title.earth"
+        ],
+        "Tags": [
+          "b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+          "39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:58:33.242Z",
+        "LastModifiedDate": "2024-10-16T01:05:50.727Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "da14ab2e-57ca-4d9d-a05b-1dd0262569d0",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/da14ab2e-57ca-4d9d-a05b-1dd0262569d0/legacy_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "4ad42ba2-e6dd-40f2-99b7-6370618bcba8",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.6,
+          "TotalCount": 791784,
+          "Count5Star": 653653,
+          "Count4Star": 49759,
+          "Count3Star": 30572,
+          "Count2Star": 11445,
+          "Count1Star": 46355
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "4a27724d-4301-4dd9-9215-190691e3cc92",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4",
+              "version": "4.14.26"
+            }
+          ],
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

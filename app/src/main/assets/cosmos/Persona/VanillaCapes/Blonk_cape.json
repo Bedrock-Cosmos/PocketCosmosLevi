@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "314b1c57-c666-479b-b555-d1380b0b8654",
+      "Contents": [
+        {
+          "Id": "ebe3641d-fb25-44af-aceb-2ce4e9583561",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Blonk_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1f3a6312-435f-4c7e-9648-aeb6e55c2ed2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

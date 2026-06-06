@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f60ed293-2f4c-46e5-92b3-922a95df2dd6",
+      "Contents": [
+        {
+          "Id": "014f4b10-a47c-4aac-951c-8e01bd8e6a88",
+          "Url": "https://cdn.bedrockcosmos.app/uss/93b45/StrangerThingsSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.3",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "93b450c2-910f-4915-894d-444dde7a3306",
+            "version": "3.11.26"
+          }
+        ]
+      }
+    }
+  }
+}

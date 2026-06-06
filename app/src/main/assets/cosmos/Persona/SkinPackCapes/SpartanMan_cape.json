@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d848cddd-bd33-4eb2-8efb-bff3246fe0eb",
+      "Contents": [
+        {
+          "Id": "51c488de-57d8-4cdb-a3c4-776bff9c0f72",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SpartanMan_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Battle & Beasts Skin Pack",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ab405175-ad31-4795-ad56-14110d0e343e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

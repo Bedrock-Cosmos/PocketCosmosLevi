@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cb4d8a68-f97d-40b5-b11e-59294826a0cc",
+      "Contents": [
+        {
+          "Id": "cf0d2cc4-d06d-4fa4-ab64-b6e8d3240aaf",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCAquaAxolotlsCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "186473ca-ae1f-4361-9e69-50644eaa0a68",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

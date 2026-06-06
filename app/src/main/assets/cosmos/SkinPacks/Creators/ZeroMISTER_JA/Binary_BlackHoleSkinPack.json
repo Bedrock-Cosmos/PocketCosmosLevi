@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
+      "Contents": [
+        {
+          "Id": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/ec24d/BlackHole.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "ZeroMISTER JA",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

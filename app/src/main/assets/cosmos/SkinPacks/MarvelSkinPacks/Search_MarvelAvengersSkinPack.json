@@ -1,0 +1,151 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "SourceEntity": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "SourceEntityKey": {
+          "Id": "B63A0803D3653643",
+          "Type": "namespace",
+          "TypeString": "namespace"
+        },
+        "Id": "2766095f-b2c0-4237-911f-e18a30fb0928",
+        "Type": "bundle",
+        "AlternateIds": [
+          {
+            "Type": "FriendlyId",
+            "Value": "a88b5616-eae5-492e-b141-6de1dc229a46"
+          }
+        ],
+        "Title": {
+          "en-US": "Marvel Avengers Skin Pack",
+          "NEUTRAL": "Marvel Avengers Skin Pack",
+          "neutral": "Marvel Avengers Skin Pack"
+        },
+        "Description": {
+          "en-US": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe.",
+          "NEUTRAL": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe.",
+          "neutral": "Step into Minecraft dressed as one of Earth’s Mightiest Heroes (or powerful villains) with this incredible Skin Pack, featuring core team members from Marvel’s Avengers including Iron Man, Captain America, Hulk, Thor, and many more iconic characters from the Marvel Universe."
+        },
+        "Keywords": {
+          "en-US": {
+            "Values": ["Action", "Skin", "Superhero"]
+          },
+          "NEUTRAL": {
+            "Values": ["Action", "Skin", "Superhero"]
+          },
+          "neutral": {
+            "Values": ["Action", "Skin", "Superhero"]
+          }
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "CreatorEntityKey": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "CreatorEntity": {
+          "Id": "301F442C3B63DC20",
+          "Type": "master_player_account",
+          "TypeString": "master_player_account"
+        },
+        "IsStackable": false,
+        "Platforms": ["", "title.bedrockvanilla"],
+        "Tags": [
+          "2766095f-b2c0-4237-911f-e18a30fb0928",
+          "083c0c90-cd38-46ad-a473-881f2a7cc069",
+          "skinpack",
+          "has_skinpack",
+          "hidden_offer",
+          "genre.action",
+          "tag.skin",
+          "tag.superhero",
+          "1P"
+        ],
+        "CreationDate": "2018-07-31T20:59:06.539Z",
+        "LastModifiedDate": "2023-08-09T19:17:58.509Z",
+        "Contents": [],
+        "Images": [
+          {
+            "Id": "d3cd9473-b3d9-407a-95b3-6ebfdca004a9",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/serviceid-18231953-4b1d-472c-a39e-48b10105b7b7-public/d3cd9473-b3d9-407a-95b3-6ebfdca004a9/Avengers_Thumbnail_0.jpg"
+          }
+        ],
+        "ItemReferences": [
+          {
+            "Id": "943ff888-510d-4ec9-8380-dfb63bc2942e",
+            "Amount": 1
+          }
+        ],
+        "Rating": {
+          "Average": 4.4,
+          "TotalCount": 107,
+          "Count5Star": 81,
+          "Count4Star": 9,
+          "Count3Star": 5,
+          "Count2Star": 3,
+          "Count1Star": 9
+        },
+        "DeepLinks": [],
+        "DisplayProperties": {
+          "creatorName": "Minecraft",
+          "offerId": "a88b5616-eae5-492e-b141-6de1dc229a46",
+          "originalCreatorId": "2535448579972708",
+          "price": 0,
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "083c0c90-cd38-46ad-a473-881f2a7cc069",
+              "version": "3.11.26"
+            }
+          ],
+          "skinPack": {
+            "count": 35
+          },
+          "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+          }
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

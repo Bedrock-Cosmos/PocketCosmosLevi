@@ -1,0 +1,778 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "SourceEntity": {
+        "Id": "B63A0803D3653643",
+        "Type": "namespace",
+        "TypeString": "namespace"
+      },
+      "SourceEntityKey": {
+        "Id": "B63A0803D3653643",
+        "Type": "namespace",
+        "TypeString": "namespace"
+      },
+      "Id": "61c7a786-d7ad-49e0-a710-817121cd9795",
+      "Type": "bundle",
+      "AlternateIds": [
+        {
+          "Type": "FriendlyId",
+          "Value": "0ce82393-3932-4c7b-a253-aaff26191395"
+        }
+      ],
+      "FriendlyId": "0ce82393-3932-4c7b-a253-aaff26191395",
+      "Title": {
+        "NEUTRAL": "Actions & Stuff 1.9.1",
+        "bg-BG": "Действия и други 1.2.1",
+        "cs-CZ": "Akce a Všehochuť 1.2.1",
+        "da-DK": "Actions & Stuff 1.2.1",
+        "de-DE": "Aktionen und Zeug",
+        "el-GR": "Δράσεις και Διάφορα 1.2.1",
+        "en-GB": "Actions & Stuff 1.9.1",
+        "en-US": "Actions & Stuff 1.9.1",
+        "es-ES": "Acciones y demás",
+        "es-MX": "Acciones y demás",
+        "fi-FI": "Toimintoja ja muuta 1.2.1",
+        "fr-CA": "Actions & Stuff",
+        "fr-FR": "Actions & Stuff",
+        "hu-HU": "Akció meg ilyesmi 1.2.1",
+        "id-ID": "Aksi & Sebagainya 1.2.1",
+        "it-IT": "Azioni e Cose 1.9.1",
+        "ja-JP": "アクション＆スタッフ",
+        "ko-KR": "Actions % Stuff 1.2.1",
+        "nb-NO": "Action og greier 1.2.1",
+        "nl-NL": "Actions & Stuff 1.2.1",
+        "pl-PL": "Akcje i nie tylko 1.2.1",
+        "pt-BR": "Ações e Coisas",
+        "pt-PT": "Ações e Outras Coisas 1.2.1",
+        "ru-RU": "Анимации и крутости 1.2.1",
+        "sk-SK": "Akcie a veci 1.2.1",
+        "sv-SE": "Animationer och annat 1.2.1",
+        "tr-TR": "Eylemler ve Şeyler 1.2.1",
+        "uk-UA": "Дії та інше 1.2.1",
+        "zh-CN": "动作优化 1.2.1",
+        "zh-TW": "行動與物品 1.2.1",
+        "neutral": "Actions & Stuff 1.9.1"
+      },
+      "Description": {
+        "NEUTRAL": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
+        "bg-BG": "Анимационният пакет, от който не сте знаели, че имате нужда: Вдъхнете живот на света си с нови анимации, частици, текстури и други!\r\n\r\n- Анимации на играчи (от 1-во и 3-то лице)\r\n- Нови и подобрени анимации на моб\r\n- 3D модели на предмети\r\n- Персонализирана броня\r\n- Цялостен и верен ремонт на текстурата\r\n- Съвместим с ванилови текстури или ваши собствени текстурни пакети\r\n- Сега с още 100% живи визуализации",
+        "cs-CZ": "Balíček animací, o kterém jste nevěděli, že ho potřebujete: Oživte svůj svět pomocí nových animací, částic, textur a dalších prvků!\r\n\r\n- Animace hráčů (1. a 3. osoba)\r\n- Nové a vylepšené animace davu\r\n- 3D modely předmětů\r\n- Vlastní brnění\r\n- Kompletní a věrné přepracování textury\r\n- Kompatibilní s texturami Vanilla nebo s vašimi vlastními balíčky textur\r\n- Nyní s 100% živějším obrazem",
+        "da-DK": "Animationspakken, du ikke vidste, du havde brug for: Gør din verden levende med nye animationer, partikler, teksturer og meget mere!\r\n\r\n- Spilleranimationer (1. og 3. person)\r\n- Nye og forbedrede Mob-animationer\r\n- 3D-genstandsmodeller\r\n- Tilpasset rustning\r\n- En komplet og trofast teksturoverhaling\r\n- Kompatibel med vaniljeteksturer eller dine egne teksturpakker\r\n- Nu med 100% mere levende grafik",
+        "de-DE": "Das Animationspaket, von dem du nicht wusstest, dass du es brauchst: Erwecke deine Welt mit neuen Animationen, Partikeln, Texturen und mehr zum Leben!\r\n\r\n- Spieleranimationen (1. und 3. Person)\r\n- Neue und verbesserte Mob-Animationen\r\n- 3D-Artikelmodelle\r\n- Benutzerdefinierte Rüstung\r\n- Eine komplette und originalgetreue Überarbeitung der Textur\r\n- Kompatibel mit Vanilla-Texturen oder Ihren eigenen Texturpaketen\r\n- Jetzt mit 100% lebendigeren Grafiken",
+        "el-GR": "Το πακέτο κινουμένων σχεδίων που δεν ξέρατε ότι χρειάζεστε: Δώστε ζωή στον κόσμο σας με νέα κινούμενα σχέδια, σωματίδια, υφές και πολλά άλλα!\r\n\r\n- Κινούμενα σχέδια παικτών (1ο & 3ο πρόσωπο)\r\n- Νέα και βελτιωμένα κινούμενα σχέδια Mob\r\n- Μοντέλα 3D αντικειμένων\r\n- Προσαρμοσμένη πανοπλία\r\n- Μια πλήρης και πιστή αναθεώρηση υφής\r\n- Συμβατό με υφές βανίλιας ή τα δικά σας πακέτα υφής\r\n- Τώρα με 100% πιο ζωντανά οπτικά στοιχεία",
+        "en-GB": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
+        "en-US": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals",
+        "es-ES": "El paquete de animación que no sabías que necesitabas: ¡Dale vida a tu mundo con nuevas animaciones, partículas, texturas y más!\r\n\r\n- Animaciones de jugadores (1ª y 3ª persona)\r\n- Animaciones de mobs nuevas y mejoradas\r\n- Modelos de artículos 3D\r\n- Armadura personalizada\r\n- Una revisión completa y fiel de la textura\r\n- Compatible con texturas de vainilla o sus propios paquetes de texturas\r\n- Ahora con 100% imágenes más vibrantes",
+        "es-MX": "El paquete de animación que no sabías que necesitabas: ¡Dale vida a tu mundo con nuevas animaciones, partículas, texturas y más!\r\n\r\n- Animaciones de jugadores (1ª y 3ª persona)\r\n- Animaciones de mobs nuevas y mejoradas\r\n- Modelos de artículos 3D\r\n- Armadura personalizada\r\n- Una revisión completa y fiel de la textura\r\n- Compatible con texturas de vainilla o sus propios paquetes de texturas\r\n- Ahora con 100% imágenes más vibrantes",
+        "fi-FI": "Animaatiopaketti, jota et tiennyt tarvitsevasi: Herätä maailmasi eloon uusilla animaatioilla, hiukkasilla, tekstuureilla ja muulla!\r\n\r\n- Pelaaja-animaatiot (1. ja 3. persoona)\r\n- Uudet ja parannetut mafia-animaatiot\r\n- 3D-esineiden mallit\r\n- Mukautettu haarniska\r\n- Täydellinen ja uskollinen tekstuurin uudistus\r\n- Yhteensopiva vaniljatekstuurien tai omien tekstuuripakettien kanssa\r\n- Nyt 100% eloisampi visuaalinen ilme",
+        "fr-CA": "Le pack d’animation dont vous ne saviez pas que vous aviez besoin : donnez vie à votre monde avec de nouvelles animations, particules, textures et bien plus encore !\r\n\r\n- Animations du joueur (1ère et 3ème personne)\r\n- Animations de foule nouvelles et améliorées\r\n- Modèles d’articles 3D\r\n- Armure personnalisée\r\n- Une refonte complète et fidèle des textures\r\n- Compatible avec les textures Vanilla ou vos propres packs de textures\r\n- Maintenant avec 100% plus de visuels éclatants",
+        "fr-FR": "Le pack d’animation dont vous ne saviez pas que vous aviez besoin : donnez vie à votre monde avec de nouvelles animations, particules, textures et bien plus encore !\r\n\r\n- Animations du joueur (1ère et 3ème personne)\r\n- Animations de foule nouvelles et améliorées\r\n- Modèles d’articles 3D\r\n- Armure personnalisée\r\n- Une refonte complète et fidèle des textures\r\n- Compatible avec les textures Vanilla ou vos propres packs de textures\r\n- Maintenant avec 100% plus de visuels éclatants",
+        "hu-HU": "Az animációs csomag, amelyről nem tudtad, hogy szükséged van: Keltsd életre a világodat új animációkkal, részecskékkel, textúrákkal és egyebekkel!\r\n\r\n- Játékos animációk (1. és 3. személy)\r\n- Új és továbbfejlesztett maffiaanimációk\r\n- 3D tárgyak modelljei\r\n- Egyedi páncél\r\n- Teljes és hű textúra felújítás\r\n- Kompatibilis a vanília textúrákkal vagy a saját textúracsomagokkal\r\n- Most 100% élénkebb látványvilággal",
+        "id-ID": "Paket Animasi yang Tidak Anda Ketahui Anda Butuhkan: Hidupkan dunia Anda dengan animasi, partikel, tekstur, dan banyak lagi baru!\r\n\r\n- Animasi Pemain (Orang ke-1 & ke-3)\r\n- Animasi Mob Baru & Lebih Baik\r\n- Model Item 3D\r\n- Armor Kustom\r\n- Perombakan Tekstur Lengkap & Setia\r\n- Kompatibel dengan tekstur Vanilla, atau paket tekstur Anda sendiri\r\n- Sekarang dengan 100% Visual yang lebih Hidup",
+        "it-IT": "Il pacchetto di animazioni di cui non sapevi di aver bisogno: dai vita al tuo mondo con nuove animazioni, particelle, texture e altro ancora!\r\n\r\n- Animazioni dei giocatori (1a e 3a persona)\r\n- Animazioni Mob nuove e migliorate\r\n- Modelli 3D di oggetti\r\n- Corazza personalizzata\r\n- Una revisione completa e fedele delle texture\r\n- Compatibile con le texture Vanilla o con i tuoi pacchetti di texture\r\n- Ora con 100% grafica più vibrante",
+        "ja-JP": "必要とは知らなかったアニメーションパック:新しいアニメーション、パーティクル、テクスチャなどで世界に命を吹き込みましょう!\r\n\r\n- プレイヤーアニメーション(1人称&3人称)\r\n- 新規および改善されたモブアニメーション\r\n- 3Dアイテムモデル\r\n- カスタムアーマー\r\n- 完全で忠実なテクスチャのオーバーホール\r\n- バニラテクスチャ、または独自のテクスチャパックと互換性があります\r\n- より鮮 100% なビジュアルが追加されました",
+        "ko-KR": "필요한지 몰랐던 애니메이션 팩: 새로운 애니메이션, 파티클, 텍스처 등으로 세상에 생기를 불어넣으세요!\r\n\r\n- 플레이어 애니메이션(1인칭 및 3인칭)\r\n- 새롭고 향상된 몹 애니메이션\r\n- 3D 아이템 모델\r\n- 커스텀 갑옷\r\n- 완전하고 충실한 질감 점검\r\n- 바닐라 텍스처 또는 자신만의 텍스처 팩과 호환 가능\r\n- 이제 더 생생100% 비주얼이 제공됩니다.",
+        "nb-NO": "Animasjonspakken du ikke visste at du trengte: Gi liv til verdenen din med nye animasjoner, partikler, teksturer og mer!\r\n\r\n- Spilleranimasjoner (1. og 3. person)\r\n- Nye og forbedrede mob-animasjoner\r\n- 3D-gjenstandsmodeller\r\n- Tilpasset rustning\r\n- En komplett og trofast teksturoverhaling\r\n- Kompatibel med vaniljeteksturer, eller dine egne teksturpakker\r\n- Nå med 100% mer levende grafikk",
+        "nl-NL": "Het animatiepakket waarvan je niet wist dat je het nodig had: Breng je wereld tot leven met nieuwe animaties, deeltjes, texturen en meer!\r\n\r\n- Animaties van de speler (1e en 3e persoon)\r\n- Nieuwe en verbeterde maffia-animaties\r\n- 3D Item Modellen\r\n- Aangepast pantser\r\n- Een complete en getrouwe textuurrevisie\r\n- Compatibel met vanille-texturen of uw eigen textuurpakketten\r\n- Nu met 100% levendigere beelden",
+        "pl-PL": "Pakiet animacji, o którym nie wiedziałeś, że go potrzebujesz: Ożyw swój świat dzięki nowym animacjom, cząsteczkom, teksturom i nie tylko!\r\n\r\n- Animacje gracza (1. i 3. osoba)\r\n- Nowe i ulepszone animacje mobów\r\n- Modele przedmiotów 3D\r\n- Niestandardowa zbroja\r\n- Kompletna i wierna przeróbka tekstur\r\n- Kompatybilny z teksturami waniliowymi lub własnymi pakietami tekstur\r\n- Teraz z 100% bardziej żywymi efektami wizualnymi",
+        "pt-BR": "O Pacote de Animação que Você Não Sabia Que Precisava: Dê vida ao seu mundo com novas animações, partículas, texturas e muito mais!\r\n\r\n- Animações do jogador (1ª e 3ª pessoa)\r\n- Novas e aprimoradas animações de mob\r\n- Modelos de itens 3D\r\n- Armadura Personalizada\r\n- Uma Revisão de Textura Completa e Fiel\r\n- Compatível com texturas de baunilha ou seus próprios pacotes de textura\r\n- Agora com 100% visuais mais vibrantes",
+        "pt-PT": "O pacote de animação que você não sabia que precisava: dê vida ao seu mundo com novas animações, partículas, texturas e muito mais!\r\n\r\n- Animações do Jogador (1ª ou 3ª Pessoa)\r\n- Novas animações Mob melhoradas\r\n- Modelos de itens 3D\r\n- Armadura Personalizada\r\n- Uma revisão completa da textura\r\n- Compatível com texturas de baunilha, ou seus próprios pacotes de textura\r\n- Agora com 100% visuais mais vibrantes",
+        "ru-RU": "Набор анимаций, о котором вы даже не подозревали: оживите свой мир с помощью новых анимаций, частиц, текстур и многого другого!\r\n\r\n- Анимация игрока (от 1-го и 3-го лица)\r\n- Новые и улучшенные анимации мобов\r\n- 3D-модели предметов\r\n- Доспехи на заказ\r\n- Полная и достоверная переработка текстур\r\n- Совместимость с ванильными текстурами или вашими собственными пакетами текстур\r\n- Теперь с 100% более яркими визуальными эффектами",
+        "sk-SK": "Balík animácií, o ktorom ste nevedeli, že ho potrebujete: Oživte svoj svet novými animáciami, časticami, textúrami a ďalšími funkciami!\r\n\r\n- Animácie hráčov (1. a 3. osoba)\r\n- Nové a vylepšené animácie davov\r\n- 3D modely položiek\r\n- Vlastné brnenie\r\n- Kompletné a verné prepracovanie textúry\r\n- Kompatibilné s vanilkovými textúrami alebo vlastnými balíčkami textúr\r\n- Teraz s 100% živším obrazom",
+        "sv-SE": "Animationspaketet du inte visste att du behövde: Väck din värld till liv med nya animationer, partiklar, texturer och mer!\r\n\r\n- Spelaranimationer (1:a och 3:e person)\r\n- Nya och förbättrade Mob-animationer\r\n- Modeller av 3D-objekt\r\n- Anpassad rustning\r\n- En komplett och trogen texturöversyn\r\n- Kompatibel med vaniljtexturer eller dina egna texturpaket\r\n- Nu med 100% mer levande grafik",
+        "tr-TR": "İhtiyacınız Olduğunu Bilmediğiniz Animasyon Paketi: Yeni animasyonlar, parçacıklar, dokular ve daha fazlasıyla dünyanıza hayat verin!\r\n\r\n- Oyuncu Animasyonları (1. & 3. Kişi)\r\n- Yeni ve Geliştirilmiş Mob Animasyonları\r\n- 3D Öğe Modelleri\r\n- Özel Zırh\r\n- Tam ve sadık bir doku revizyonu\r\n- Vanilya dokuları veya kendi doku paketlerinizle uyumludur\r\n- Şimdi 100% daha Canlı Görsellerle",
+        "uk-UA": "Анімаційний пакет, про який ви навіть не здогадувалися, що вам потрібен: оживіть свій світ за допомогою нових анімацій, частинок, текстур та багато іншого!\r\n\r\n- Анімація гравців (1-а та 3-тя особа)\r\n- Нові та покращені анімації мобів\r\n- Моделі 3D-предметів\r\n- Кастомна броня\r\n- Повна та точна переробка текстури\r\n- Сумісний з ванільними текстурами або вашими власними пакетами текстур\r\n- Тепер з 100% більш яскравими візуальними ефектами",
+        "zh-CN": "你不知道你需要的动画包：用新的动画、粒子、纹理等让你的世界栩栩如生！\r\n\r\n- 玩家动画 (第一人称和第三人称)\r\n- 新的和改进的生物动画\r\n- 3D 项目模型\r\n- 定制盔甲\r\n- 完整而忠实的纹理大修\r\n- 与原版纹理或您自己的纹理包兼容\r\n- 现在有了 100% 更生动的视觉效果",
+        "zh-TW": "您不知道自己需要的動畫包：用新的動畫、粒子、紋理等讓您的世界栩栩如生！\r\n\r\n- 玩家動畫 (第一人稱和第三人稱)\r\n- 新的和改進的生物動畫\r\n- 3D 項目模型\r\n- 自訂裝甲\r\n- 完整且忠實的紋理大修\r\n- 與香草紋理或您自己的紋理包兼容\r\n- 現在擁有 100% 更充滿活力的視覺效果",
+        "neutral": "The Animation Pack You Didn't Know You Needed: Bring your world to life with new animations, particles, textures, and more!\r\n\r\n- Player Animations (1st & 3rd Person)\r\n- New & Improved Mob Animations\r\n- 3D Item Models\r\n- Custom Armour\r\n- A Complete & Faithful Texture Overhaul\r\n- Compatible with Vanilla textures, or your own texture packs\r\n- Now with 100% more Vibrant Visuals"
+      },
+      "Keywords": {
+        "NEUTRAL": {
+          "Values": [
+            "Animation",
+            "Mobs",
+            "Cartoon",
+            "Custom Armor",
+            "Custom Villagers",
+            "Custom Mobs",
+            "Animated",
+            "Action",
+            "Vibrant Visuals"
+          ]
+        },
+        "bg-BG": {
+          "Values": [
+            "Анимация",
+            "Мобове",
+            "Анимационен филм",
+            "Персонализирана броня",
+            "Персонализирани селяни",
+            "Персонализирани мобове",
+            "Анимирани",
+            "Екшън",
+            "Ярки ефекти"
+          ]
+        },
+        "cs-CZ": {
+          "Values": [
+            "Animace",
+            "Stvoření",
+            "Komiks",
+            "Speciální zbroj",
+            "Speciální vesničané",
+            "Speciální stvoření",
+            "Animovaná",
+            "Akce",
+            "Zářivý vzhled"
+          ]
+        },
+        "da-DK": {
+          "Values": [
+            "Animation",
+            "Mobs",
+            "Tegnefilm",
+            "Nye rustninger",
+            "Nye landsbyboere",
+            "Nye mobs",
+            "Animeret",
+            "Action",
+            "Vibrant Visuals"
+          ]
+        },
+        "de-DE": {
+          "Values": [
+            "Animation",
+            "Kreaturen",
+            "Cartoon",
+            "Eigens erstellte Rüstung",
+            "Eigens erstellte Dorfbewohner",
+            "Eigens erstellte Kreaturen",
+            "Animiert",
+            "Action",
+            "Lebendige Grafik"
+          ]
+        },
+        "el-GR": {
+          "Values": [
+            "Κινούμενα σχέδια",
+            "Πλάσματα",
+            "Καρτούν",
+            "Προσαρμοσμένη πανοπλία",
+            "Προσαρμοσμένοι χωρικοί",
+            "Προσαρμοσμένα πλάσματα",
+            "Κινούμενο",
+            "Δράση",
+            "Ζωντανά Γραφικά"
+          ]
+        },
+        "en-GB": {
+          "Values": [
+            "Animation",
+            "Mobs",
+            "Cartoon",
+            "Custom Armour",
+            "Custom Villagers",
+            "Custom Mobs",
+            "Animated",
+            "Action",
+            "Vibrant Visuals"
+          ]
+        },
+        "en-US": {
+          "Values": [
+            "Animation",
+            "Mobs",
+            "Cartoon",
+            "Custom Armor",
+            "Custom Villagers",
+            "Custom Mobs",
+            "Animated",
+            "Action",
+            "Vibrant Visuals"
+          ]
+        },
+        "es-ES": {
+          "Values": [
+            "Animación",
+            "Criaturas",
+            "Dibujos animados",
+            "Armadura personalizada",
+            "Aldeanos personalizados",
+            "Criaturas personalizadas",
+            "Animado",
+            "Acción",
+            "Visuales vibrantes"
+          ]
+        },
+        "es-MX": {
+          "Values": [
+            "Animación",
+            "Criaturas",
+            "Caricatura",
+            "Armadura personalizada",
+            "Aldeanos personalizados",
+            "Criaturas personalizadas",
+            "Animado",
+            "Acción",
+            "Visuales vibrantes"
+          ]
+        },
+        "fi-FI": {
+          "Values": [
+            "Animaatio",
+            "Olioita",
+            "Sarjakuva",
+            "Mukautettuja suojavarusteita",
+            "Mukautettuja kyläläisiä",
+            "Mukautettuja olioita",
+            "Animoitu",
+            "Toiminta",
+            "Eloisa ilme"
+          ]
+        },
+        "fr-CA": {
+          "Values": [
+            "Animation",
+            "Créatures",
+            "Dessin animé",
+            "Armure personnalisée",
+            "Villageois personnalisés",
+            "Créatures personnalisées",
+            "Animé",
+            "Action",
+            "Graphismes éclatants"
+          ]
+        },
+        "fr-FR": {
+          "Values": [
+            "Animation",
+            "Créatures",
+            "Cartoon",
+            "Armure personnalisée",
+            "Villageois personnalisés",
+            "Créatures personnalisées",
+            "Animé",
+            "Action",
+            "Graphismes éclatants"
+          ]
+        },
+        "hu-HU": {
+          "Values": [
+            "Animáció",
+            "Mobok",
+            "Rajzfilm",
+            "Egyedi páncél",
+            "Egyedi falusiak",
+            "Egyedi mobok",
+            "Animált",
+            "Akció",
+            "Lenyűgöző látvány"
+          ]
+        },
+        "id-ID": {
+          "Values": [
+            "Animasi",
+            "Mob",
+            "Kartun",
+            "Baju Zirah Kustom",
+            "Orang Desa Kustom",
+            "Mob Kustom",
+            "Beranimasi",
+            "Laga",
+            "Visual Cerah"
+          ]
+        },
+        "it-IT": {
+          "Values": [
+            "Animazione",
+            "Creature",
+            "Cartoni",
+            "Armature personalizzate",
+            "Abitanti personalizzati",
+            "Creature personalizzate",
+            "Animato",
+            "Azione",
+            "Grafica vivace"
+          ]
+        },
+        "ja-JP": {
+          "Values": [
+            "アニメーション",
+            "モブ",
+            "カートゥーン",
+            "オリジナルの防具",
+            "オリジナルの村人",
+            "オリジナルのモブ",
+            "アニメ化",
+            "アクション",
+            "バイブラントビジュアルズ"
+          ]
+        },
+        "ko-KR": {
+          "Values": [
+            "애니메이션",
+            "몹들",
+            "만화",
+            "커스텀 방어구",
+            "커스텀 주민",
+            "커스텀 몹",
+            "애니메이션화",
+            "액션",
+            "선명한 비주얼"
+          ]
+        },
+        "nb-NO": {
+          "Values": [
+            "Animasjon",
+            "Vesener",
+            "Tegnefilm",
+            "Spesiallagd rustning",
+            "Spesiallagde landsbyboere",
+            "Spesiallagde vesener",
+            "Animert",
+            "Action",
+            "Livlig grafikk"
+          ]
+        },
+        "nl-NL": {
+          "Values": [
+            "Animatie",
+            "Mobs",
+            "Tekenfilm",
+            "Speciaal harnas",
+            "Speciale dorpelingen",
+            "Speciale mobs",
+            "Geanimeerd",
+            "Actie",
+            "Levendige beelden"
+          ]
+        },
+        "pl-PL": {
+          "Values": [
+            "Animacja",
+            "Moby",
+            "Kreskówki",
+            "Niestandardowy pancerz",
+            "Niestandardowi osadnicy",
+            "Niestandardowe moby",
+            "Animowany",
+            "Akcja",
+            "Odświeżona szata graficzna"
+          ]
+        },
+        "pt-BR": {
+          "Values": [
+            "Animação",
+            "Criaturas",
+            "Desenho Animado",
+            "Armadura Personalizada",
+            "Aldeões Personalizados",
+            "Criaturas Personalizadas",
+            "Animado",
+            "Ação",
+            "Visuais Vibrantes"
+          ]
+        },
+        "pt-PT": {
+          "Values": [
+            "Animação",
+            "Criaturas",
+            "Desenhos Animados",
+            "Armadura Personalizada",
+            "Aldeões Personalizados",
+            "Criaturas Personalizadas",
+            "Animado",
+            "Ação",
+            "Visuais Vibrantes"
+          ]
+        },
+        "ru-RU": {
+          "Values": [
+            "Мультипликация",
+            "Мобы",
+            "Мультфильм",
+            "Оригинальные доспехи",
+            "Оригинальные селяне",
+            "Оригинальные мобы",
+            "Мультипликационная",
+            "Остросюжетные",
+            "Яркие визуальные эффекты"
+          ]
+        },
+        "sk-SK": {
+          "Values": [
+            "Animácia",
+            "Tvory",
+            "Rozprávka",
+            "Vlastné brnenie",
+            "Vlastní dedinčania",
+            "Vlastné tvory",
+            "Animované",
+            "Akcia",
+            "Živé vizuály"
+          ]
+        },
+        "sv-SE": {
+          "Values": [
+            "Animation",
+            "Varelser",
+            "Serie",
+            "Anpassad rustning",
+            "Anpassade bybor",
+            "Anpassade varelser",
+            "Animerat",
+            "Action",
+            "Färgglad grafik"
+          ]
+        },
+        "tr-TR": {
+          "Values": [
+            "Animasyon",
+            "Moblar",
+            "Çizgi Film",
+            "Özel Zırh",
+            "Özel Köylüler",
+            "Özel Moblar",
+            "Animasyonlu",
+            "Aksiyon",
+            "Canlı Görseller"
+          ]
+        },
+        "uk-UA": {
+          "Values": [
+            "Анімація",
+            "Моби",
+            "Мультик",
+            "Особлива броня",
+            "Особливі селяни",
+            "Особливі моби",
+            "Анімований",
+            "Екшн",
+            "Яскраві візуальні ефекти"
+          ]
+        },
+        "zh-CN": {
+          "Values": [
+            "动画",
+            "生物",
+            "卡通",
+            "自定义盔甲",
+            "自定义村民",
+            "自定义生物",
+            "动画化",
+            "动作",
+            "灵动视效"
+          ]
+        },
+        "zh-TW": {
+          "Values": [
+            "動畫",
+            "生物",
+            "卡通",
+            "自訂護甲",
+            "自訂村民",
+            "自訂生物",
+            "動作",
+            "絢麗視覺"
+          ]
+        },
+        "neutral": {
+          "Values": [
+            "Animation",
+            "Mobs",
+            "Cartoon",
+            "Custom Armor",
+            "Custom Villagers",
+            "Custom Mobs",
+            "Animated",
+            "Action",
+            "Vibrant Visuals"
+          ]
+        }
+      },
+      "ContentType": "MarketplaceDurableCatalog_V1.2",
+      "CreatorEntityKey": {
+        "Id": "14465B70D4E19170",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+      },
+      "CreatorEntity": {
+        "Id": "14465B70D4E19170",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+      },
+      "IsStackable": false,
+      "Platforms": [
+        "android.amazonappstore",
+        "android.googleplay",
+        "b.store",
+        "ios.store",
+        "nx.store",
+        "oculus.store.gearvr",
+        "oculus.store.rift",
+        "uwp.store",
+        "uwp.store.mobile",
+        "xboxone.store",
+        "title.bedrockvanilla",
+        "title.earth"
+      ],
+      "Tags": [
+        "61c7a786-d7ad-49e0-a710-817121cd9795",
+        "218d7771-3b76-4bdf-a46e-5f76af23353a",
+        "2cf066eb-1254-4b7d-affb-80fe3216b18c",
+        "tag.animation",
+        "tag.mobs",
+        "tag.cartoon",
+        "tag.custom_armor",
+        "tag.custom_villagers",
+        "tag.custom_mobs",
+        "tag.animated",
+        "video_trailer",
+        "major",
+        "3P",
+        "resourcepack",
+        "has_skinpack",
+        "genre.action",
+        "tag.vibrantvisuals",
+        "vvenhanced",
+        "realms_plus",
+        "csb"
+      ],
+      "CreationDate": "2024-12-18T17:36:52.893Z",
+      "LastModifiedDate": "2026-02-12T01:47:00.658Z",
+      "StartDate": "2024-12-24T18:00:00Z",
+      "Contents": [
+        {
+          "Id": "9c773dcf-9c60-4e13-a0f7-0a0d0c9d65a0",
+          "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9c773dcf-9c60-4e13-a0f7-0a0d0c9d65a0/primary.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Tags": [],
+          "Type": "resourcebinary"
+        },
+        {
+          "Id": "27034ec7-6252-47df-af3f-6c4b7e12fed0",
+          "Url": "https://cdn.bedrockcosmos.app/uss/218d7/ActionsStuff.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "Images": [
+        {
+          "Id": "8638b267-762e-49e9-bb7b-c33b1babccb5",
+          "Tag": "packicon",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8638b267-762e-49e9-bb7b-c33b1babccb5/actionsandstuff_packicon_0.jpg"
+        },
+        {
+          "Id": "4a0d7a2e-6c83-44cb-8460-152ad0973246",
+          "Tag": "panorama",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4a0d7a2e-6c83-44cb-8460-152ad0973246/actionsandstuff_panorama_0.jpg"
+        },
+        {
+          "Id": "25a3d6e7-189f-46c3-b8f7-e928126aa9aa",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/25a3d6e7-189f-46c3-b8f7-e928126aa9aa/actionsandstuff_screenshot_1.jpg"
+        },
+        {
+          "Id": "42dff9ec-e3a9-46f8-9b6f-49ac2df8a602",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/42dff9ec-e3a9-46f8-9b6f-49ac2df8a602/actionsandstuff_screenshot_2.jpg"
+        },
+        {
+          "Id": "2bde75b9-04f1-4d70-af39-8b820b2d42bb",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2bde75b9-04f1-4d70-af39-8b820b2d42bb/actionsandstuff_screenshot_3.jpg"
+        },
+        {
+          "Id": "f1972ea3-3af8-44a9-b39c-c8cccb789345",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f1972ea3-3af8-44a9-b39c-c8cccb789345/actionsandstuff_screenshot_4.jpg"
+        },
+        {
+          "Id": "bf1a169c-7e8e-4d66-b035-7d996ae3e40d",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bf1a169c-7e8e-4d66-b035-7d996ae3e40d/actionsandstuff_screenshot_5.jpg"
+        },
+        {
+          "Id": "0b4c8f46-6bcf-409e-a6e2-3e2a832c8dd7",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0b4c8f46-6bcf-409e-a6e2-3e2a832c8dd7/actionsandstuff_screenshot_6.jpg"
+        },
+        {
+          "Id": "4d4beb5d-492f-4a73-a2c3-b54eb02f31b9",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4d4beb5d-492f-4a73-a2c3-b54eb02f31b9/actionsandstuff_screenshot_7.jpg"
+        },
+        {
+          "Id": "e7f2be72-fb99-4a48-9de9-acab9c01b652",
+          "Tag": "screenshot",
+          "Type": "Screenshot",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e7f2be72-fb99-4a48-9de9-acab9c01b652/actionsandstuff_screenshot_8.jpg"
+        },
+        {
+          "Id": "bb31b676-ab14-4019-b302-8c0069ddd36b",
+          "Tag": "Thumbnail",
+          "Type": "Thumbnail",
+          "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/bb31b676-ab14-4019-b302-8c0069ddd36b/actionsandstuff_Thumbnail_0.jpg"
+        }
+      ],
+      "ItemReferences": [
+        {
+          "Id": "cc8ef8cf-c73a-41da-9ab9-614c9eaeb6bc",
+          "Amount": 1
+        },
+        {
+          "Id": "e2055667-a779-4bca-8e47-3a53d2cc2418",
+          "Amount": 1
+        }
+      ],
+      "Price": {
+        "Prices": [
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Amount": 1690
+              }
+            ]
+          },
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Amount": 1690
+              }
+            ]
+          }
+        ],
+        "RealPrices": []
+      },
+      "PriceOptions": {
+        "Prices": [
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Amount": 1690
+              }
+            ]
+          },
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Amount": 1690
+              }
+            ]
+          }
+        ],
+        "RealPrices": []
+      },
+      "Rating": {
+        "Average": 4.9,
+        "TotalCount": 119739,
+        "Count5Star": 112679,
+        "Count4Star": 3531,
+        "Count3Star": 1017,
+        "Count2Star": 498,
+        "Count1Star": 2014
+      },
+      "DeepLinks": [],
+      "DisplayProperties": {
+        "creatorName": "Oreville Studios",
+        "offerId": "0ce82393-3932-4c7b-a253-aaff26191395",
+        "originalCreatorId": "2533274932283715",
+        "price": 1690,
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "218d7771-3b76-4bdf-a46e-5f76af23353a",
+            "version": "3.1.26"
+          },
+          {
+            "type": "resourcepack",
+            "uuid": "2cf066eb-1254-4b7d-affb-80fe3216b18c",
+            "version": "1.1.26"
+          }
+        ],
+        "skinPack": {
+          "count": 20,
+          "sampleSkins": [
+            {
+              "localizationName": "rana",
+              "skinIndex": 0
+            },
+            {
+              "localizationName": "flint",
+              "skinIndex": 1
+            }
+          ]
+        },
+        "publicChangelog": {
+          "bg-BG": "Актуализация 1.9: Mounts of Mayhem!\r\n- Поддръжка на Mounts of Mayhem.\r\n- Варианти на биом на снежна моб.\r\n- Снежни крака и следи.\r\n- 5 бронирани костюма.\r\n- Празнични табелки с имена.\r\n- Празничен реквизит.\r\n- 3 нови скина.\r\n- И още много!\r\n- Пълен списък с промени: https://discord.gg/orevillestudios",
+          "cs-CZ": "Aktualizace 1.9: Mounts of Mayhem!\r\n- Podpora Mounts of Mayhem.\r\n- Varianty sněžných mobových biotopů.\r\n- Sněhové nohy a stopy.\r\n- 5 zbrojních kostýmů.\r\n- Slavnostní jmenovky.\r\n- Slavnostní rekvizity.\r\n- 3 nové skiny.\r\n- A mnohem víc!\r\n- Kompletní changelog: https://discord.gg/orevillestudios",
+          "da-DK": "Opdatering 1.9: Kaosbjerge!\r\n- Mounts of Mayhem støtter.\r\n- Varianter af snefjeder-biom.\r\n- Sneklædte fødder og fodspor.\r\n- 5 rustningskostumer.\r\n- Festlige navneskilte.\r\n- Festlige rekvisitter.\r\n- 3 nye skins.\r\n- Og meget mere!\r\n- Fuld skifteliste: https://discord.gg/orevillestudios",
+          "de-DE": "Update 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem unterstützen.\r\n- Varianten des Schnee-Mob-Bioms.\r\n- Schneebedeckte Füße und Fußspuren.\r\n- 5 Rüstungskostüme.\r\n- Festliche Namensschilder.\r\n- Festliche Requisiten.\r\n- 3 neue Skins.\r\n- Und noch viel mehr!\r\n- Vollständiges Wechselverzeichnis: https://discord.gg/orevillestudios",
+          "el-GR": "Ενημέρωση 1.9: Mounts of Mayhem!\r\n- Υποστήριξη Mounts of Mayhem.\r\n- Παραλλαγές χιονομαζικού βιώματος.\r\n- Χιονισμένα πόδια & πατημασιές.\r\n- 5 στολές πανοπλίας.\r\n- Εορταστικές ετικέτες.\r\n- Εορταστικά στηρίγματα.\r\n- 3 νέα δέρματα.\r\n- Και πολλα ΑΚΟΜΑ!\r\n- Πλήρες αρχείο καταγραφής αλλαγών: https://discord.gg/orevillestudios",
+          "en-GB": "Update 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem support.\r\n- Snowy mob biome variants.\r\n- Snowy feet & footprints.\r\n- 5 armour costumes.\r\n- Festive nametags.\r\n- Festive props.\r\n- 3 new skins.\r\n- And much more!\r\n- Full changelog: https://discord.gg/orevillestudios",
+          "es-ES": "Actualización 1.9: ¡Montajes del Caos!\r\n- Apoyo de Monturas del Caos.\r\n- Variantes del bioma de mobs nevados.\r\n- Pies nevados y huellas.\r\n- 5 disfraces de armadura.\r\n- Etiquetas festivas con los nombres.\r\n- Accesorios festivos.\r\n- 3 nuevas skins.\r\n- ¡Y mucho más!\r\n- Registro completo de cambios: https://discord.gg/orevillestudios",
+          "es-MX": "Actualización 1.8: ¡Imágenes vibrantes!\r\n- ¡Atmósferas únicas para cada bioma!\r\n- ¡Cajas personalizadas para el amanecer, el mediodía, el atardecer y la medianoche!\r\n- Texturas PBR para bloques, entidades, elementos y partículas.\r\n- ¡Agua estilizada!\r\nRegistro de cambios completo: https://discord.gg/orevillestudios",
+          "fi-FI": "Päivitys 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem -tuki.\r\n- Snowy mob -biomivariantit.\r\n- Lumiset jalat ja jalanjäljet.\r\n- 5 haarniskapukua.\r\n- Juhla-nimilappuja.\r\n- Juhlarekvisiittaa.\r\n- 3 uutta skiniä.\r\n- Ja paljon muuta!\r\n- Täysi muutoslista: https://discord.gg/orevillestudios",
+          "fr-CA": "Mise à jour 1.8 : Des graphismes éclatants !\r\n- Des atmosphères uniques pour chaque biome !\r\n- Sky boxes personnalisés au lever du soleil, à midi, au coucher du soleil et à minuit !\r\n- Textures PBR pour les blocs, les entités, les éléments et les particules.\r\n- De l’eau stylisée !\r\nJournal complet des modifications : https://discord.gg/orevillestudios",
+          "fr-FR": "Mise à jour 1.9 : Montures du Chaos !\r\n- Soutien des Monts du Chaos.\r\n- Variantes du biome des mobs neigeux.\r\n- Pas neigeux et empreintes de pas.\r\n- 5 costumes d’armure.\r\n- Des badges nominatifs festifs.\r\n- Accessoires pour les fêtes.\r\n- 3 nouveaux skins.\r\n- Et bien plus encore !\r\n- Journal des modifications complet : https://discord.gg/orevillestudios",
+          "hu-HU": "Frissítés 1.9: A Káosz Hegyei!\r\n- Mounts of Mayhem támogatása.\r\n- Hós mob biom változatok.\r\n- Hós lábak és lábnyomok.\r\n- 5 páncéljelmez.\r\n- Ünnepi névtáblák.\r\n- Ünnepi kellékek.\r\n- 3 új skin.\r\n- És még sok más!\r\n- Teljes változásnapló: https://discord.gg/orevillestudios",
+          "id-ID": "Pembaruan 1.9: Tunggangan Kekacauan!\r\n- Dukungan Mounts of Mayhem.\r\n- Varian bioma gerombolan bersalju.\r\n- Kaki bersalju & jejak kaki.\r\n- 5 kostum baju besi.\r\n- Nametag meriah.\r\n- Alat peraga meriah.\r\n- 3 kulit baru.\r\n- Dan banyak lagi!\r\n- Log perubahan lengkap: https://discord.gg/orevillestudios",
+          "it-IT": "Aggiornamento 1.9: Monti del Caos!\r\n- Supporto di Monti del Caos.\r\n- Varianti del bioma dei mob nevosi.\r\n- Piedi e impronte innevate.\r\n- 5 costumi armati.\r\n- Cartellini festivi.\r\n- Oggetti di scena per le feste.\r\n- 3 nuove skin.\r\n- E molto altro!\r\n- Registro delle modifiche completo: https://discord.gg/orevillestudios",
+          "ja-JP": "アップデート1.9:メイヘムの山!\r\n- マウント・オブ・メイヘム支援。\r\n- 雪のモブバイオームのバリエーション。\r\n- 雪の足跡と足跡。\r\n- 5種類の鎧の衣装。\r\n- お祭りの名札。\r\n- お祭りの小道具だ。\r\n- 新しいスキン3枚。\r\n- それにもっと!\r\n- 完全な変更履歴:https://discord.gg/orevillestudios",
+          "ko-KR": "업데이트 1.9: 혼란의 산들!\r\n- 마치 오브 메이헴 지원.\r\n- 눈 덮인 몹 생물군계 변형.\r\n- 눈 덮인 발과 발자국.\r\n- 갑옷 5벌.\r\n- 축제 명찰.\r\n- 축제 소품들.\r\n- 새 스킨 3개.\r\n- 그리고 그 이상!\r\n- 전체 변경 로그: https://discord.gg/orevillestudios",
+          "nb-NO": "Oppdatering 1.9: Mounts of Mayhem!\r\n- Støtte til Mounts of Mayhem.\r\n- Varianter av Snowy Mob-biom.\r\n- Snødekte føtter og fotavtrykk.\r\n- 5 rustningskostymer.\r\n- Festlige navnelapper.\r\n- Festlige rekvisitter.\r\n- 3 nye skins.\r\n- Og mye mer!\r\n- Full endringslogg: https://discord.gg/orevillestudios",
+          "nl-NL": "Update 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem ondersteunt.\r\n- Varianten van het sneeuwvolk van de mob.\r\n- Sneeuwvoeten en voetafdrukken.\r\n- 5 harnaskostuums.\r\n- Feestelijke naamplaatjes.\r\n- Feestelijke rekwisieten.\r\n- 3 nieuwe skins.\r\n- En nog veel meer!\r\n- Volledige wijzigingslijst: https://discord.gg/orevillestudios",
+          "pl-PL": "Aktualizacja 1.9: Mounts of Mayhem!\r\n- Wsparcie dla Mounts of Mayhem.\r\n- Warianty biomów mobów ze śnieżnym mobem.\r\n- Śnieżne stopy i ślady stóp.\r\n- 5 kostiumów pancernych.\r\n- Świąteczne identyfikatory.\r\n- Rekwizyty świąteczne.\r\n- 3 nowe skórki.\r\n- I wiele więcej!\r\n- Pełny changelog: https://discord.gg/orevillestudios",
+          "pt-BR": "Atualização 1.9: Montarias do Caos!\r\n- Apoio de Mounts of Mayhem.\r\n- Variantes do bioma dos mobs nevados.\r\n- Pés e pegadas nevadas.\r\n- 5 fantasias de armadura.\r\n- Crachás festivas.\r\n- Adereços festivos.\r\n- 3 novas skins.\r\n- E muito mais!\r\n- Registro completo de alterações: https://discord.gg/orevillestudios",
+          "pt-PT": "Atualização 1.9: Montes do Caos!\r\n- Apoios de Mounts of Mayhem.\r\n- Variantes do bioma dos mobs nevados.\r\n- Pés e pegadas nevadas.\r\n- 5 fatos de armadura.\r\n- Etiquetas festivas.\r\n- Adereços festivos.\r\n- 3 novas skins.\r\n- E muito mais!\r\n- Registo completo de alterações: https://discord.gg/orevillestudios",
+          "ru-RU": "Обновление 1.9: Mounts of Mayhem!\r\n- Поддержка Mounts of Mayhem.\r\n- Варианты биомов снежной мобов.\r\n- Снежные ноги и следы.\r\n- 5 доспехов.\r\n- Праздничные бейджики.\r\n- Праздничный реквизит.\r\n- 3 новых скина.\r\n- И многое другое!\r\n- Полный журнал изменений: https://discord.gg/orevillestudios",
+          "sk-SK": "Aktualizácia 1.9: Mounts of Mayhem!\r\n- Podpora Mounts of Mayhem.\r\n- Varianty biomov snehových mobov.\r\n- Snehové nohy a stopy.\r\n- 5 zbrojových kostýmov.\r\n- Slávnostné menovky.\r\n- Slávnostné rekvizity.\r\n- 3 nové skiny.\r\n- A oveľa viac!\r\n- Kompletný changelog: https://discord.gg/orevillestudios",
+          "sv-SE": "Uppdatering 1.9: Kaosets berg!\r\n- Mount of Mayhem-stöd.\r\n- Varianter av snöiga fiabiabiom.\r\n- Snöiga fötter och fotspår.\r\n- 5 rustningsdräkter.\r\n- Festliga namnskyltar.\r\n- Festliga rekvisita.\r\n- 3 nya skins.\r\n- Och mycket mer!\r\n- Fullständig ändringslogg: https://discord.gg/orevillestudios",
+          "tr-TR": "Güncelleme 1.9: Mayhem Binleri!\r\n- Mayhem Binileri destek grubu.\r\n- Karlı mob biyom varyantları.\r\n- Karlı ayak izleri.\r\n- 5 zırh kostümü.\r\n- Bayram isim etiketleri.\r\n- Şenlik dekorları.\r\n- 3 yeni skin.\r\n- Ve çok daha fazlası!\r\n- Tam değişiklik günlüğü: https://discord.gg/orevillestudios",
+          "uk-UA": "Оновлення 1.9: Mounts of Mayhem!\r\n- Підтримка Mounts of Mayhem.\r\n- Варіанти біому снігових мобів.\r\n- Сніжні ноги і сліди.\r\n- 5 костюмів броні.\r\n- Святкові бейджики.\r\n- Святковий реквізит.\r\n- 3 нові скіни.\r\n- І ще більше!\r\n- Повний журнал змін: https://discord.gg/orevillestudios",
+          "zh-CN": "更新1.9：混乱之山！\r\n- 混乱骑士支援。\r\n- 雪地生物群系变体。\r\n- 雪地的脚印和脚印。\r\n- 5套盔甲服装。\r\n- 节日名牌。\r\n- 节日道具。\r\n- 3个新皮肤。\r\n- 还有更多！\r\n- 完整更新日志：https://discord.gg/orevillestudios",
+          "zh-TW": "更新 1.9：混亂之騎！\r\n- 混亂騎乘支援。\r\n- 雪怪生物群系變體。\r\n- 雪地腳印與腳印。\r\n- 5套盔甲服裝。\r\n- 節慶名牌。\r\n- 節慶道具。\r\n- 3 件新造型。\r\n- 還有更多！\r\n- 完整更新日誌：https://discord.gg/orevillestudios",
+          "neutral": "Update 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem support.\r\n- Snowy mob biome variants.\r\n- Snowy feet & footprints.\r\n- 5 armour costumes.\r\n- Festive nametags.\r\n- Festive props.\r\n- 3 new skins.\r\n- And much more!\r\n- Full changelog: https://discord.gg/orevillestudios",
+          "en-US": "Update 1.9: Mounts of Mayhem!\r\n- Mounts of Mayhem support.\r\n- Snowy mob biome variants.\r\n- Snowy feet & footprints.\r\n- 5 armour costumes.\r\n- Festive nametags.\r\n- Festive props.\r\n- 3 new skins.\r\n- And much more!\r\n- Full changelog: https://discord.gg/orevillestudios"
+        },
+        "lastUpdated": "1.21.132",
+        "realmsPlusStartDate": "2025-05-06T17:00:00Z",
+        "realmsPlusEndDate": "2026-05-05T17:00:00Z",
+        "maxClientVersion": "65535.65535.65535",
+        "minClientVersion": "1.21.120",
+        "videoUrl": "https://www.youtube.com/watch?v=VDk8niB2Obw",
+        "csbStartDate": "2025-05-06T17:00:00Z",
+        "csbEndDate": "2026-05-05T17:00:00Z",
+        "hardwareMemoryTier": 0
+      },
+      "ETag": "\"d800d93d-0000-0800-0000-69a443360000\""
+    }
+  }
+}

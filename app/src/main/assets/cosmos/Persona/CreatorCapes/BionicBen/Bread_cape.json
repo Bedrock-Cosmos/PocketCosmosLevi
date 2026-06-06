@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6acb51d1-dfe1-435e-803f-425f959b9382",
+      "Contents": [
+        {
+          "Id": "ee80ee8c-1be3-4d24-acfe-7fd7a192ea89",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Bread_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d7e1503a-f518-4fdb-8a46-636213d8e131",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

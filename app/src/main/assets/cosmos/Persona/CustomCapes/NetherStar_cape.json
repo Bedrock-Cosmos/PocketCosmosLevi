@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "0e1d924c-9eb6-42d5-baeb-706335c268e2",
+      "Contents": [
+        {
+          "Id": "a75e2b57-9794-4f63-8d88-f2ddf86b11f1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/NetherStar_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "TLauncher",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "908d4652-a2fe-4240-8191-8ea5867cfbd3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

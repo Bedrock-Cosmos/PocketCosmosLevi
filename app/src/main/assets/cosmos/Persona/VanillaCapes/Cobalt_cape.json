@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b3e48843-5db5-4a1d-8ba5-3603c2f3d402",
+      "Contents": [
+        {
+          "Id": "d4bf12f4-8d04-4d89-b4c4-8b7840b12b12",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Cobalt_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "0fcbd4f0-ceb6-4c4c-8031-6a586fba3787",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

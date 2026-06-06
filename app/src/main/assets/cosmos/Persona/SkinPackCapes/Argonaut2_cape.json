@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a3532b58-84d4-46f6-bbdc-d69b33f33215",
+      "Contents": [
+        {
+          "Id": "a4366b9d-648e-4c9b-88d1-7351d5b319b7",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Argonaut2_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "875b6ea3-d220-45d6-b4a3-ed8a4606697e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

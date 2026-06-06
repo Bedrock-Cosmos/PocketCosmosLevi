@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f3d65adc-08d9-4cc3-91a0-f933293b0549",
+      "Contents": [
+        {
+          "Id": "c1890d46-4265-4d48-b03c-047492af3e3a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/DL0ZE/WitherCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "DL0ZE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d7ee267e-9023-4de5-915b-e602c5afe8cd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

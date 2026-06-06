@@ -111,7 +111,7 @@ public class MainActivity extends BaseActivity {
         setupNavBar();
         setupManagersAndHandlers();
         if (!isInstanceShortcutIntent()) {
-            new GithubReleaseUpdater(this, "LiteLDev", "LeviLauncher-Android", permissionResultLauncher).checkUpdateOnLaunch();
+            new GithubReleaseUpdater(this, "Bedrock-Cosmos", "PocketCosmosLevi", permissionResultLauncher).checkUpdateOnLaunch();
         }
         showEulaIfNeeded();
         setupOnBackPressedCallback();
@@ -569,6 +569,12 @@ public class MainActivity extends BaseActivity {
         intent.putExtra("version", currentVersion);
         startActivity(intent);
     }
+     private void initMiscellaneousSection() {
+         binding.miscCurseforgeRow.setOnClickListener(v -> startActivity(new Intent(this, CurseForgeActivity.class)));
+         binding.miscCosmosRow.setOnClickListener(v -> startActivity(new Intent(this, CosmosActivity.class)));
+         binding.miscAccountsRow.setOnClickListener(v -> startActivity(new Intent(this, AccountsActivity.class)));
+         binding.miscQuickLaunchRow.setOnClickListener(v -> startActivity(new Intent(this, QuickLaunchActivity.class)));
+     }
 
     private void openModsFullscreen() {
         Intent intent = new Intent(this, ModsFullscreenActivity.class);

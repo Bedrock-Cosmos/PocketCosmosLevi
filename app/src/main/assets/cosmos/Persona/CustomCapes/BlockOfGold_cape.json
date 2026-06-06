@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "43ad7ce2-3c38-4174-9104-b7c95e242c5a",
+      "Contents": [
+        {
+          "Id": "4463281c-bc2d-46bf-ad8f-973db40cf2a1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BlockOfGold_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Liefubledo",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "877388be-fb85-4ef3-bbc2-0298e39939d8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

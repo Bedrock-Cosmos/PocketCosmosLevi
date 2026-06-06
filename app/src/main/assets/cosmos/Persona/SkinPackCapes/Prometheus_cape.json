@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4bc567ba-76ec-4879-9c0c-981b63e035a6",
+      "Contents": [
+        {
+          "Id": "97330cbf-daf3-44dc-8f20-fd14fbce2cef",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Prometheus_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "5003f98b-8753-445b-831d-d3c7fc92616a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

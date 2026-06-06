@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Matching Cosmetics 6",
+          "neutral": "Matching Cosmetics 6"
+        },
+        "Description": {
+          "NEUTRAL": "Express yourself in game with a friend or partner using the 30 skins in this sixth skin pack!",
+          "neutral": "Express yourself in game with a friend or partner using the 30 skins in this sixth skin pack!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+          "ff1018de-be33-4ce9-a131-f94d0c2abb2e",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-04-21T03:02:31Z",
+        "LastModifiedDate": "2026-04-21T03:02:31Z",
+        "DisplayProperties": {
+          "creatorName": "Exports",
+          "offerId": "7a92c69c-d1c8-4c00-b3a2-cd9c7e650148",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "ff1018de-be33-4ce9-a131-f94d0c2abb2e",
+              "version": "1.0.0"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=f7fROv6DC9Q"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ae573c14-0b8b-4bac-bd27-8bf84116f4f2",
+      "Contents": [
+        {
+          "Id": "4be8bd60-81a6-4ca5-b275-dd77520b2137",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Hardcore_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Dubby Plays",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1dcc2b9d-d41a-4b3c-a06c-e0931f7b179b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

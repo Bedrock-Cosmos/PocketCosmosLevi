@@ -1,0 +1,33 @@
+{
+  "controlId": "NavButtonRow",
+  "components": [
+    {
+      "buttons": [
+        {
+          "buttonSizeIsFill": true,
+          "images": [
+            {
+              "type": "Unknown",
+              "url": "https://bedrock-cosmos.app/icons/icon.png",
+              "urlWithResolution": "https://bedrock-cosmos.app/icons/icon.png"
+            }
+          ],
+          "navButtonName": "     §l§5>§0>§5>   §0Bedrock Cosmos Packs!   §5<§0<§5<§0",
+          "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+          "linksToInfo": {
+            "linksTo": "MultiItemPage_BedrockCosmosMarketplaceCategoryPage",
+            "linkType": "pageId",
+            "displayType": "store_layout.store_data_driven_screen",
+            "screenTitle": {
+              "value": "Bedrock Cosmos Packs",
+              "replacements": []
+            },
+            "navigateInPlace": false
+          }
+        }
+      ],
+      "type": "navButtonListComp",
+      "$type": "NavButtonListComponent"
+    }
+  ]
+}

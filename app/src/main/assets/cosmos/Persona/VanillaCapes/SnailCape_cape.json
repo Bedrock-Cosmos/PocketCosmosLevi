@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ecb8230e-9eb7-4122-a8d5-80864dc6aefd",
+      "Contents": [
+        {
+          "Id": "0026b149-9916-451b-93ef-6957a41497e7",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SnailCape_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ae4fb219-4e9e-4797-ab2b-e246a8a9f69e",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

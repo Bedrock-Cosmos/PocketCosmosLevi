@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9ba0258f-defe-46e4-90d9-5bc71f851d0f",
+      "Contents": [
+        {
+          "Id": "6afe1553-fd7c-411e-b23c-38186529afc2",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Cadmus_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3d71a070-c7ff-477e-8574-9a631058d10c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
