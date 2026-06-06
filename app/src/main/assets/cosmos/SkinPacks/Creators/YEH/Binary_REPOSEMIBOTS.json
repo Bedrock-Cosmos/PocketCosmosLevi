@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "17c404b3-3979-49a3-93cb-3f53e2e33eb6",
+      "Contents": [
+        {
+          "Id": "2f8d9fb8-c3c9-47d5-8460-e15da1a528fb",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/2f8d9/YEH4D.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "YEH",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "2f8d9fb8-c3c9-47d5-8460-e15da1a528fb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

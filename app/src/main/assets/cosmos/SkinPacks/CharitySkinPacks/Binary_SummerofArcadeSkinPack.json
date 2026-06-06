@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "358a8710-bcf4-4cd7-ae86-a63ffec500c8",
+      "Contents": [
+        {
+          "Id": "5fe3e01c-609b-497e-b17e-342b83281369",
+          "Url": "https://cdn.bedrockcosmos.app/uss/5fe3e/SummerOfArcadeSkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "MinecraftHidden",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "5fe3e01c-609b-497e-b17e-342b83281369",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "SourceEntity": {
+        "Id": "B63A0803D3653643",
+        "Type": "namespace",
+        "TypeString": "namespace"
+      },
+      "SourceEntityKey": {
+        "Id": "B63A0803D3653643",
+        "Type": "namespace",
+        "TypeString": "namespace"
+      },
+      "Id": "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+      "Type": "bundle",
+      "AlternateIds": [
+        {
+          "Type": "FriendlyId",
+          "Value": "ebd5c3b4-eef1-408d-b483-e4b2bd5add12"
+        }
+      ],
+      "FriendlyId": "ebd5c3b4-eef1-408d-b483-e4b2bd5add12",
+      "Title": {
+        "NEUTRAL": "1st Birthday Skin Pack",
+        "bg-BG": "Пакет скинове за първия рожден ден",
+        "cs-CZ": "1. narozeninová sada skinů",
+        "da-DK": "1-års fødselsdagsskinpakke",
+        "de-DE": "Skinpaket 1. Geburtstag",
+        "el-GR": "Πακέτο εμφανίσεων 1ων γενεθλίων",
+        "en-GB": "1st Birthday Skin Pack",
+        "en-US": "1st Birthday Skin Pack",
+        "es-ES": "Pack de aspecto del 1.er aniversario",
+        "es-MX": "Pack de aspecto del 1.er aniversario",
+        "fi-FI": "1. synttäriolemuspaketti",
+        "fr-CA": "Pack de skins 1er anniversaire",
+        "fr-FR": "Pack de skins 1er anniversaire",
+        "hu-HU": "1. születésnapi felületcsomag",
+        "id-ID": "Paket Skin Ulang Tahun Pertama",
+        "it-IT": "Pacchetto skin 1° compleanno",
+        "ja-JP": "1 周年記念スキンパック",
+        "ko-KR": "1주년 기념 스킨 팩",
+        "nb-NO": "Skallpakke til 1-årsdagen",
+        "nl-NL": "Skinpakket eerste verjaardag",
+        "pl-PL": "Zestaw skórek na pierwsze urodziny",
+        "pt-BR": "1º Pacote de Capas de Aniversário",
+        "pt-PT": "Pack de Skins – 1.º Aniversário",
+        "ru-RU": "Набор скинов «Первая годовщина»",
+        "sk-SK": "Balíček vzhľadov k 1. narodeninám",
+        "sv-SE": "Ettårsdagspaket",
+        "tr-TR": "1. Doğum Günü Dış Görünüş Paketi",
+        "uk-UA": "Пакет скінів \"1-й день народження\"",
+        "zh-CN": "一周年生日皮肤包",
+        "zh-TW": "一週年外觀套件",
+        "neutral": "1st Birthday Skin Pack"
+      },
+      "Description": {
+        "NEUTRAL": "Join the Minecraft party now!",
+        "bg-BG": "Присъединете се към празненството на Minecraft сега!",
+        "cs-CZ": "Přidejte se k oslavám Minecraftu!",
+        "da-DK": "Kom med til Minecraft-festen nu!",
+        "de-DE": "Komm auf die Minecraft-Party!",
+        "el-GR": "Έλα τώρα στο πάρτι του Minecraft!",
+        "en-GB": "Join the Minecraft party now!",
+        "en-US": "Join the Minecraft party now!",
+        "es-ES": "¡Únete ya a la fiesta de Minecraft!",
+        "es-MX": "¡Únete a la fiesta de Minecraft!",
+        "fi-FI": "Liity nyt Minecraft-juhliin!",
+        "fr-CA": "Entrez dans la fête Minecraft dès maintenant!",
+        "fr-FR": "Vous êtes invités à la fête Minecraft !",
+        "hu-HU": "Csatlakozz most a Minecraft-partihoz!",
+        "id-ID": "Bergabunglah dengan pesta Minecraft sekarang!",
+        "it-IT": "Unisciti ora al party di Minecraft!",
+        "ja-JP": "Minecraft のパーティーに今すぐ参加しよう！",
+        "ko-KR": "지금 Minecraft 파티에 참여하세요!",
+        "nb-NO": "Bil med på Minecraft-festen nå!",
+        "nl-NL": "Doe mee met het Minecraft-feest!",
+        "pl-PL": "Weź udział w minecraftowej imprezie!",
+        "pt-BR": "Entre na festa do Minecraft já!",
+        "pt-PT": "Junta-te já à festa Minecraft!",
+        "ru-RU": "Присоединяйтесь к вечеринке Minecraft прямо сейчас!",
+        "sk-SK": "Pripojte sa k večierku v hre Minecraft!",
+        "sv-SE": "Häng med på Minecraft-kalaset nu!",
+        "tr-TR": "Minecraft partisine hemen katılın!",
+        "uk-UA": "Долучайтеся до свята в Minecraft!",
+        "zh-CN": "立刻加入《我的世界》派对吧！",
+        "zh-TW": "立即加入 Minecraft 派對！",
+        "neutral": "Join the Minecraft party now!"
+      },
+      "Keywords": {
+        "NEUTRAL": {
+          "Values": ["Skin", "Festival", "Survival"]
+        },
+        "bg-BG": {
+          "Values": ["Скин", "Фестивал", "Оцеляване"]
+        },
+        "cs-CZ": {
+          "Values": ["Skin", "Festival", "Hry o přežití"]
+        },
+        "da-DK": {
+          "Values": ["Skin", "Festival", "Overlevelse"]
+        },
+        "de-DE": {
+          "Values": ["Skin", "Fest", "Survival"]
+        },
+        "el-GR": {
+          "Values": ["Εμφάνιση", "Φεστιβάλ", "Επιβίωση"]
+        },
+        "en-GB": {
+          "Values": ["Skin", "Festival", "Survival"]
+        },
+        "en-US": {
+          "Values": ["Skin", "Festival", "Survival"]
+        },
+        "es-ES": {
+          "Values": ["Piel", "Festival", "Supervivencia"]
+        },
+        "es-MX": {
+          "Values": ["Aspecto", "Festival", "Supervivencia"]
+        },
+        "fi-FI": {
+          "Values": ["Olemus", "Festivaali", "Selviytyminen"]
+        },
+        "fr-CA": {
+          "Values": ["Skin", "Festival", "Survie"]
+        },
+        "fr-FR": {
+          "Values": ["Skin", "Festival", "Survie"]
+        },
+        "hu-HU": {
+          "Values": ["Felület", "Fesztivál", "Túlélés"]
+        },
+        "id-ID": {
+          "Values": ["Skin", "Festival", "Bertahan Hidup"]
+        },
+        "it-IT": {
+          "Values": ["Skin", "Festival", "Sopravvivenza"]
+        },
+        "ja-JP": {
+          "Values": ["スキン", "祭り", "サバイバル"]
+        },
+        "ko-KR": {
+          "Values": ["스킨", "축제", "서바이벌"]
+        },
+        "nb-NO": {
+          "Values": ["Skall", "Festival", "Overlevelse"]
+        },
+        "nl-NL": {
+          "Values": ["Skin", "Festival", "Survival"]
+        },
+        "pl-PL": {
+          "Values": ["Skórka", "Festiwal", "Przetrwanie"]
+        },
+        "pt-BR": {
+          "Values": ["Capa", "Festival", "Sobrevivência"]
+        },
+        "pt-PT": {
+          "Values": ["Skin", "Festival", "Sobrevivência"]
+        },
+        "ru-RU": {
+          "Values": ["Скин", "Фестиваль", "Выживание"]
+        },
+        "sk-SK": {
+          "Values": ["Vzhľad", "Festival", "Prežitie"]
+        },
+        "sv-SE": {
+          "Values": ["Utseende", "Festival", "Överlevnad"]
+        },
+        "tr-TR": {
+          "Values": ["Dış Görünüş", "Şenlik", "Hayatta Kalma"]
+        },
+        "uk-UA": {
+          "Values": ["Скін", "Фестиваль", "Виживання"]
+        },
+        "zh-CN": {
+          "Values": ["皮肤", "节日", "生存"]
+        },
+        "zh-TW": {
+          "Values": ["膚色", "節慶", "生存"]
+        },
+        "neutral": {
+          "Values": ["Skin", "Festival", "Survival"]
+        }
+      },
+      "ContentType": "MarketplaceDurableCatalog_V1.2",
+      "CreatorEntityKey": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+      },
+      "CreatorEntity": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+      },
+      "IsStackable": false,
+      "Platforms": [
+        "android.amazonappstore",
+        "android.googleplay",
+        "b.store",
+        "ios.store",
+        "nx.store",
+        "oculus.store.gearvr",
+        "oculus.store.rift",
+        "uwp.store",
+        "uwp.store.mobile",
+        "xboxone.store",
+        "title.bedrockvanilla",
+        "title.earth"
+      ],
+      "Tags": [
+        "8e78a44d-0c1f-4ce2-826b-8bbc555012de",
+        "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+        "skinpack",
+        "has_skinpack",
+        "tag.limited",
+        "tag.skin",
+        "tag.festival",
+        "genre.survival",
+        "1P"
+      ],
+      "CreationDate": "2018-07-31T20:55:01.99Z",
+      "LastModifiedDate": "2023-08-10T03:32:11.7Z",
+      "StartDate": "2017-09-12T15:00:00Z",
+      "Contents": [
+        {
+          "Id": "e59f7dcb-c993-4514-85e8-2d5fbcc8741b",
+          "Url": "https://cdn.bedrockcosmos.app/uss/20253/1stBirthday.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "Images": [
+        {
+          "Id": "b3292e60-9898-4813-869c-40b301b5ac0a",
+          "Tag": "Thumbnail",
+          "Type": "Thumbnail",
+          "Url": "https://bedrock-cosmos.app/thumbnails/1stBirthdayRestored_thumbnail.jpg"
+        }
+      ],
+      "ItemReferences": [
+        {
+          "Id": "d5e9ac7f-8c6c-4f47-97ec-3d9defc4f480",
+          "Amount": 1
+        }
+      ],
+      "Price": {
+        "Prices": [
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Amount": 0
+              }
+            ]
+          },
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Amount": 0
+              }
+            ]
+          }
+        ],
+        "RealPrices": []
+      },
+      "PriceOptions": {
+        "Prices": [
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                "Amount": 0
+              }
+            ]
+          },
+          {
+            "Amounts": [
+              {
+                "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                "Amount": 0
+              }
+            ]
+          }
+        ],
+        "RealPrices": []
+      },
+      "Rating": {
+        "Average": 4.7,
+        "TotalCount": 524364,
+        "Count5Star": 461054,
+        "Count4Star": 28387,
+        "Count3Star": 12450,
+        "Count2Star": 5171,
+        "Count1Star": 17302
+      },
+      "DeepLinks": [],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "price": 0,
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+            "version": "3.1.26"
+          }
+        ],
+        "skinPack": {
+          "count": 22
+        },
+        "publicChangelog": {
+          "neutral": "",
+          "en-US": "",
+          "bg-BG": "",
+          "cs-CZ": "",
+          "da-DK": "",
+          "de-DE": "",
+          "el-GR": "",
+          "en-GB": "",
+          "es-ES": "",
+          "es-MX": "",
+          "fi-FI": "",
+          "fr-CA": "",
+          "fr-FR": "",
+          "hu-HU": "",
+          "id-ID": "",
+          "it-IT": "",
+          "ja-JP": "",
+          "ko-KR": "",
+          "nb-NO": "",
+          "nl-NL": "",
+          "pl-PL": "",
+          "pt-BR": "",
+          "pt-PT": "",
+          "ru-RU": "",
+          "sk-SK": "",
+          "sv-SE": "",
+          "tr-TR": "",
+          "uk-UA": "",
+          "zh-CN": "",
+          "zh-TW": ""
+        },
+        "lastUpdated": "1.16.210"
+      },
+      "ETag": "\"1000b6e8-0000-0800-0000-6906c62d0000\""
+    }
+  }
+}
