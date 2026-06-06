@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a6657526-6dba-494d-b308-5e5cca8ad414",
+      "Contents": [
+        {
+          "Id": "b7389461-c374-44ed-95d6-b6d62e8af27a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Heracles_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Greek Mythology Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "92338e84-29bd-4ee9-9df3-3229d5ffeaf3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

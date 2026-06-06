@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a1503271-4400-4479-8fa4-a7cdd6ab94c2",
+      "Contents": [
+        {
+          "Id": "9805de5c-09b5-4fb0-8d6c-23aaa7e1e9b4",
+          "Url": "https://capes.bedrock-cosmos.app/zips/NewYears_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "66e6ad9c-d879-49b9-90ce-0e7f85576fed",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

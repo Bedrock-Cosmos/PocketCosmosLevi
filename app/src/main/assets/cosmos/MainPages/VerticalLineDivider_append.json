@@ -1,0 +1,25 @@
+{
+  "controlId": "VerticalLineDivider",
+  "components": [
+    {
+      "textureImage": {
+        "type": "Unknown",
+        "style": {
+          "highlightColor": [],
+          "alignment": "Left",
+          "textColor": [],
+          "font": "default",
+          "showBackground": false,
+          "showOutline": false,
+          "indent": 0,
+          "buttonWidth": 0,
+          "color": [0.70196, 0.8392, 0.8588, 0.2],
+          "offerControlIdType": "None",
+          "outlineColor": []
+        }
+      },
+      "type": "textureComp",
+      "$type": "TextureComponent"
+    }
+  ]
+}

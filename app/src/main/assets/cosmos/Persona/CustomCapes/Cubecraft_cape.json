@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f60ca856-ba14-4602-a4a3-3e177d67210e",
+      "Contents": [
+        {
+          "Id": "9ced392b-6d1a-4a1f-8ae9-8f4901e78cca",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CubeCraft_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "7a262e5f-8609-4873-8c64-bb00eee191a4",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

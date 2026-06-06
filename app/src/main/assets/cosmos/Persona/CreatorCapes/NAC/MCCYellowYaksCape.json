@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5299cc99-f1e9-4e28-b4e4-ac47a82d4c8f",
+      "Contents": [
+        {
+          "Id": "a67f7a02-8265-4646-83ca-7497da7488ad",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/NAC/MCCYellowYaksCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "NAC",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e3be4ec3-849c-47d5-8071-72dde16fda09",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

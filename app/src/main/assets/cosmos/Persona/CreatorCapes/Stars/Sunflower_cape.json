@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cdc530a3-b427-4368-9cb9-5fa816a64b89",
+      "Contents": [
+        {
+          "Id": "7e23a1ef-8d30-4c39-8be9-6d32f1861eaf",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Sunflower_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Stars",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f0a0ccbb-2c4b-427e-9ea9-088ffad055ec",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

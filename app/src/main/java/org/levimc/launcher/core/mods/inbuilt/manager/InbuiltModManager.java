@@ -33,6 +33,8 @@ public class InbuiltModManager {
     private static final int DEFAULT_ZOOM_LEVEL = 10;
     private static final int DEFAULT_ZOOM_TRANSITION_DURATION = 150;
     private static final int DEFAULT_CURSOR_SENSITIVITY = 120;
+    private static final String KEY_COSMOS = "cosmos";
+    private static final String KEY_NEWS_COSMOS = "cosmos_news";
 
     private static volatile InbuiltModManager instance;
     private final SharedPreferences prefs;
@@ -50,6 +52,16 @@ public class InbuiltModManager {
             }
         }
         return instance;
+    }
+
+    public boolean isCosmosEnabled(){
+        return prefs.getBoolean(KEY_COSMOS, true);
+    }
+
+    public boolean isNewsEnabled() { return prefs.getBoolean(KEY_NEWS_COSMOS, true); }
+
+    public void setNews(boolean enabled) {
+        prefs.edit().putBoolean(KEY_NEWS_COSMOS, enabled).apply();
     }
 
     public int getAutoSprintKeybind() {

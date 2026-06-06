@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b89ef5de-78ad-4a48-b8a5-f12065286e7d",
+      "Contents": [
+        {
+          "Id": "f68fb058-0dbf-406d-9025-fec84e9fd411",
+          "Url": "https://cdn.bedrockcosmos.app/uss/39fa1/LegacySkinPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "39fa1d65-b3ca-4726-b9e0-f3d2a404e5a4",
+            "version": "4.14.26"
+          }
+        ]
+      }
+    }
+  }
+}

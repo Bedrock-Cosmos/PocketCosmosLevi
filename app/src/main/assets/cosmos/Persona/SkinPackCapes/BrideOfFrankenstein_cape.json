@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ce68e327-e923-436c-9082-0002e35dec58",
+      "Contents": [
+        {
+          "Id": "79e923eb-9e34-45b3-bcce-5bc3f2844c7e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BrideOfFrankenstein_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Halloween Mash-up",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "a4b2b9f2-daf3-43e2-9932-01c3200bf5e8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

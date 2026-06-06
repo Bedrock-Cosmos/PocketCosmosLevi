@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "03ed5f77-cf53-4ad5-882a-f3e616d5f9e0",
+      "Contents": [
+        {
+          "Id": "2b7ab0aa-8488-4f77-a9a6-06cb63e15a72",
+          "Url": "https://capes.bedrock-cosmos.app/zips/Turtle_cape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e2bb8d18-c9d5-4e44-8a99-f6a44706b964",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
