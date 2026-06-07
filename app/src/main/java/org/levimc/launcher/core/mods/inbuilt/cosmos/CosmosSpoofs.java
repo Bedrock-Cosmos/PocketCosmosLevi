@@ -38,10 +38,12 @@ public class CosmosSpoofs {
 
     private final AssetManager mgr;
     private final File customJsonsDir;
+    private final File filesDir;
 
     public CosmosSpoofs(AssetManager mgr, File customJsonsDir) {
         this.mgr = mgr;
         this.customJsonsDir = customJsonsDir;
+        this.filesDir = customJsonsDir != null ? customJsonsDir.getParentFile() : null;
     }
 
     public void register(boolean newsEnabled) {
@@ -423,6 +425,12 @@ public class CosmosSpoofs {
     }
 
     private String readAsset(String path) throws IOException {
+        if (filesDir != null) {
+            File file = new File(filesDir, path);
+            if (file.exists() && file.isFile()) {
+                return new String(Files.readAllBytes(file.toPath()), StandardCharsets.UTF_8);
+            }
+        }
         try (InputStream is = mgr.open(path);
              DataInputStream dis = new DataInputStream(is)) {
             byte[] buf = new byte[is.available()];
