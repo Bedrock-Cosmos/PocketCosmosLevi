@@ -53,8 +53,9 @@ import org.levimc.launcher.ui.views.MainViewModelFactory;
 import org.levimc.launcher.util.ApkImportManager;
 import org.levimc.launcher.util.GithubReleaseUpdater;
 import org.levimc.launcher.util.LanguageManager;
-import org.levimc.launcher.util.InstanceShortcutManager;
 import org.levimc.launcher.util.LauncherStorage;
+import org.levimc.launcher.util.InstanceShortcutManager;
+import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
 import org.levimc.launcher.util.PermissionsHandler;
 import org.levimc.launcher.util.PersonalizationManager;
 import org.levimc.launcher.util.PlayStoreValidator;
@@ -171,6 +172,7 @@ import okhttp3.OkHttpClient;
         if (!isInstanceShortcutIntent()) {
             new GithubReleaseUpdater(this, "Bedrock-Cosmos", "PocketCosmosLevi", permissionResultLauncher).checkUpdateOnLaunch();
         }
+        new CosmosResponsesGit(this).checkUpdateOnLaunch();
         showEulaIfNeeded();
         setupOnBackPressedCallback();
 
