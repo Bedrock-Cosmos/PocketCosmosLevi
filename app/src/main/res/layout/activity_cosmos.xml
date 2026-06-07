@@ -3,92 +3,173 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@color/background">
+    android:orientation="horizontal"
+    android:background="@color/background"
+    android:padding="20dp">
 
+    <!-- Left column: Header + Changelog Card -->
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:orientation="horizontal"
-        android:padding="8dp">
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginEnd="12dp">
 
-        <!-- Left column: cosmos icon + version + description -->
+        <!-- Logo + Title header -->
         <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:orientation="vertical"
-            android:gravity="center"
-            android:padding="16dp">
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp"
+            android:paddingHorizontal="4dp">
 
             <ImageView
-                android:layout_width="64dp"
-                android:layout_height="64dp"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
                 android:src="@drawable/ic_cosmos2"
-                android:layout_marginBottom="12dp"
+                android:layout_marginEnd="12dp"
                 app:tint="?attr/colorOnSurface" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:gravity="center_vertical"
-                android:layout_marginBottom="4dp">
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/cosmos"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/on_surface"
+                        android:fontFamily="@font/misans"/>
+
+                    <TextView
+                        android:id="@+id/tv_cosmos_version"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="18sp"
+                        android:textColor="@color/on_surface"
+                        android:fontFamily="@font/misans"
+                        android:alpha="0.6"/>
+
+                </LinearLayout>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/cosmos"
-                    android:textSize="18sp"
-                    android:textStyle="bold"
-                    android:textColor="@color/on_surface"
-                    android:fontFamily="@font/misans"/>
-
-                <TextView
-                    android:id="@+id/tv_cosmos_version"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="18sp"
+                    android:text="@string/mc_version"
+                    android:textSize="12sp"
                     android:textColor="@color/on_surface"
                     android:fontFamily="@font/misans"
-                    android:alpha="0.6"/>
+                    android:alpha="0.5" />
 
             </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- Changelog Card -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/bg_changelog_card"
+            android:padding="16dp">
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/mc_version"
+                android:text="Changelog"
                 android:textSize="13sp"
+                android:textStyle="bold"
                 android:textColor="@color/on_surface"
                 android:fontFamily="@font/misans"
-                android:alpha="0.5" />
+                android:alpha="0.8"
+                android:layout_marginBottom="8dp"/>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:scrollbars="vertical"
+                android:fadeScrollbars="false">
+
+                <TextView
+                    android:id="@+id/tv_cosmos_changelog"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textColor="@color/on_surface"
+                    android:alpha="0.7"
+                    android:lineSpacingMultiplier="1.2"
+                    android:fontFamily="@font/misans"
+                    android:text="No changelog available."/>
+
+            </ScrollView>
 
         </LinearLayout>
 
-        <!-- Divider -->
-        <View
-            android:layout_width="1dp"
-            android:layout_height="match_parent"
-            android:background="@color/on_surface"
-            android:alpha="0.1"
-            android:layout_marginVertical="16dp"/>
+    </LinearLayout>
 
-        <!-- Right column: toggle settings -->
-        <ScrollView
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="2"
-            android:fillViewport="true">
+    <!-- Divider -->
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/on_surface"
+        android:alpha="0.1"
+        android:layout_marginVertical="16dp"
+        android:visibility="gone"/>
 
-            <LinearLayout
-                android:id="@+id/cosmos_settings_container"
+    <!-- Right column: Settings Card -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginStart="12dp">
+
+        <!-- Settings Header -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Settings &amp; Cache"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/on_surface"
+            android:fontFamily="@font/misans"
+            android:layout_marginBottom="16dp"
+            android:paddingVertical="12dp"
+            android:paddingHorizontal="4dp" />
+
+        <!-- Settings Card Container -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/bg_changelog_card"
+            android:padding="16dp">
+
+            <ScrollView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:padding="8dp"/>
+                android:layout_height="match_parent"
+                android:fillViewport="true">
 
-        </ScrollView>
+                <LinearLayout
+                    android:id="@+id/cosmos_settings_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"/>
+
+            </ScrollView>
+
+        </LinearLayout>
 
     </LinearLayout>
 
