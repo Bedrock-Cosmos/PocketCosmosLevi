@@ -50,14 +50,26 @@ public class GithubReleaseUpdater {
     public static int compareVersion(String a, String b) {
         a = a.startsWith("v") ? a.substring(1) : a;
         b = b.startsWith("v") ? b.substring(1) : b;
+
+        // replace hyphens with dot "1.4.4-1.1.0" to "1.4.4.1.1.0"
+        a = a.replace("-", ".");
+        b = b.replace("-", ".");
+
         String[] x = a.split("\\.");
         String[] y = b.split("\\.");
         int len = Math.max(x.length, y.length);
         for (int i = 0; i < len; i++) {
-            int vi = i < x.length ? Integer.parseInt(x[i]) : 0;
-            int vj = i < y.length ? Integer.parseInt(y[i]) : 0;
-            if (vi > vj) return 1;
-            if (vi < vj) return -1;
+            try {
+                int vi = i < x.length ? Integer.parseInt(x[i]) : 0;
+                int vj = i < y.length ? Integer.parseInt(y[i]) : 0;
+                if (vi > vj) return 1;
+                if (vi < vj) return -1;
+            } catch (NumberFormatException e) {
+                String si = i < x.length ? x[i] : "";
+                String sj = i < y.length ? y[i] : "";
+                int cmp = si.compareTo(sj);
+                if (cmp != 0) return cmp;
+            }
         }
         return 0;
     }
