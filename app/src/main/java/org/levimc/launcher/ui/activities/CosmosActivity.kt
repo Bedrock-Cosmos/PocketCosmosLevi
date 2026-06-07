@@ -12,6 +12,7 @@ import com.google.android.material.button.MaterialButton
 import com.google.android.material.switchmaterial.SwitchMaterial
 import org.levimc.launcher.R
 import org.levimc.launcher.core.mods.inbuilt.manager.InbuiltModManager
+import android.text.Html
 import java.io.File
 
 class CosmosActivity : BaseActivity() {
@@ -44,6 +45,27 @@ class CosmosActivity : BaseActivity() {
 
         addButtonItem("Reset News Data") {
             resetNewsData()
+        }
+
+        val changelogTv = findViewById<TextView>(R.id.tv_cosmos_changelog)
+        if (changelogTv != null) {
+            val git = org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit(this)
+            val changelogText = git.changelog
+            if (changelogText.isNullOrEmpty()) {
+                changelogTv.text = "No changelog available."
+            } else {
+                val formattedText = changelogText
+                    .replace("\r\n", "<br/>")
+                    .replace("\n", "<br/>")
+                    .replace(Regex("\\*\\*(.*?)\\*\\*"), "<b>$1</b>")
+
+                changelogTv.text = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {
+                    Html.fromHtml(formattedText, Html.FROM_HTML_MODE_COMPACT)
+                } else {
+                    @Suppress("DEPRECATION")
+                    Html.fromHtml(formattedText)
+                }
+            }
         }
     }
 

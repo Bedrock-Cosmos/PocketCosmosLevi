@@ -38,10 +38,12 @@ public class NewsManager {
 
     private static File newsHistoryFile = null;
     private static File newsHistoryUuidsFile = null;
+    private static File filesDir = null;
 
     public static void init(File customJsonsDir, File miscDir) {
         newsHistoryFile = new File(customJsonsDir, "News.json");
         newsHistoryUuidsFile = new File(miscDir, "NewsHistory.json");
+        filesDir = customJsonsDir != null ? customJsonsDir.getParentFile() : null;
     }
 
     public static boolean isSendToNewsInbox()        { return sendNewsToInbox; }
@@ -453,6 +455,12 @@ public class NewsManager {
     }
 
     private static String readAsset(AssetManager mgr) throws IOException {
+        if (filesDir != null) {
+            File file = new File(filesDir, NewsManager.CURRENT_NEWS_ASSET);
+            if (file.exists() && file.isFile()) {
+                return new String(Files.readAllBytes(file.toPath()), StandardCharsets.UTF_8);
+            }
+        }
         try (InputStream is = mgr.open(NewsManager.CURRENT_NEWS_ASSET);
              DataInputStream dis = new DataInputStream(is)) {
             byte[] buf = new byte[is.available()];
