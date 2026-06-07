@@ -674,7 +674,7 @@ public class SettingsActivity extends BaseActivity {
             updateButtonTapCount = 0;
             triggerEasterEgg();
         } else {
-            new GithubReleaseUpdater(this, "carrott2", "PocketCosmosLevi", permissionResultLauncher).checkUpdate();
+            new GithubReleaseUpdater(this, "Bedrock-Cosmos", "PocketCosmosLevi", permissionResultLauncher).checkUpdate();
         }
     }
 
