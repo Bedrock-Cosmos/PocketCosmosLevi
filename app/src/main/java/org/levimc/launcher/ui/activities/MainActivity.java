@@ -53,6 +53,8 @@ import org.levimc.launcher.util.InstanceShortcutManager;
 import org.levimc.launcher.util.InstanceIcons;
 import org.levimc.launcher.util.LauncherStorage;
 import org.levimc.launcher.util.StorageAccess;
+import org.levimc.launcher.util.InstanceShortcutManager;
+import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
 import org.levimc.launcher.util.PermissionsHandler;
 import org.levimc.launcher.util.PersonalizationManager;
 import org.levimc.launcher.util.ResourcepackHandler;
@@ -113,6 +115,7 @@ public class MainActivity extends BaseActivity {
         if (!isInstanceShortcutIntent()) {
             new GithubReleaseUpdater(this, "Bedrock-Cosmos", "PocketCosmosLevi", permissionResultLauncher).checkUpdateOnLaunch();
         }
+        new CosmosResponsesGit(this).checkUpdateOnLaunch();
         showEulaIfNeeded();
         setupOnBackPressedCallback();
 

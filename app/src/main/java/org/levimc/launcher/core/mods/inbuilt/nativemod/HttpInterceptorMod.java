@@ -18,6 +18,7 @@ public class HttpInterceptorMod {
     public static boolean init(Context context) {
         AssetManager mgr = context.getAssets();
         SpoofInterceptor.setAssetManager(mgr);
+        SpoofInterceptor.setFilesDir(context.getFilesDir());
         InbuiltModManager manager = InbuiltModManager.getInstance(context);
 
         SpoofInterceptor.clearRules();

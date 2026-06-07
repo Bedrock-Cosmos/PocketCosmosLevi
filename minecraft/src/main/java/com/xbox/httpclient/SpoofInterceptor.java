@@ -31,9 +31,14 @@ public class SpoofInterceptor implements Interceptor {
     private static final Map<String, List<SpoofRule>> ruleMap = new ConcurrentHashMap<>();
     private static AssetManager assetManager;
     private static NewsProvider newsProvider;
+    private static java.io.File filesDir;
 
     public static void setAssetManager(AssetManager mgr) {
         assetManager = mgr;
+    }
+
+    public static void setFilesDir(java.io.File dir) {
+        filesDir = dir;
     }
 
     public static void setNewsProvider(NewsProvider provider) {
@@ -518,6 +523,14 @@ public class SpoofInterceptor implements Interceptor {
     // Static Utilities
 
     private static String readAsset(AssetManager mgr, String path) throws IOException {
+        if (filesDir != null) {
+            java.io.File file = new java.io.File(filesDir, path);
+            if (file.exists() && file.isFile()) {
+                try (BufferedSource source = Okio.buffer(Okio.source(file))) {
+                    return source.readUtf8();
+                }
+            }
+        }
         try (BufferedSource source = Okio.buffer(Okio.source(mgr.open(path)))) {
             return source.readUtf8();
         }
