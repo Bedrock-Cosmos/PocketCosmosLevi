@@ -52,11 +52,7 @@ import org.levimc.launcher.ui.views.MainViewModelFactory;
 import org.levimc.launcher.util.ApkImportManager;
 import org.levimc.launcher.util.GithubReleaseUpdater;
 import org.levimc.launcher.util.LanguageManager;
-<<<<<<< HEAD
 import org.levimc.launcher.util.LauncherStorage;
-=======
-import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
->>>>>>> 7cd690d (feat: auto download cosmos Reponses from https://github.com/Bedrock-Cosmos/Responses, some ui changes, display cosmos rsp changelog on the ui)
 import org.levimc.launcher.util.PermissionsHandler;
 import org.levimc.launcher.util.PersonalizationManager;
 import org.levimc.launcher.util.PlayStoreValidator;
@@ -98,6 +94,8 @@ import okhttp3.OkHttpClient;
 
  import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.ACTION_MAIN_ACTIVITY_FIRST_DRAWN;
  import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.EXTRA_CLOSE_RESTART_ACTIVITY_ON_FIRST_DRAW;
+
+import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
 
  public class MainActivity extends BaseActivity {
     private ActivityMainBinding binding;
