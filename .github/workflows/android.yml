@@ -208,10 +208,15 @@ jobs:
           APK_URL: "https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/PocketCosmosLevi-${{ github.ref_name }}-release.apk"
           TAG_NAME: ${{ github.ref_name }}
         run: |
+          if [ -z "${DISCORD_WEBHOOK:-}" ]; then
+            echo "DISCORD_WEBHOOK is not configured; skipping Discord notification."
+            exit 0
+          fi
+
           EMBED_TITLE="🚀 PocketCosmosLevi Update!"
           EMBED_DESC="A new version of **PocketCosmosLevi** is ready."
           EMBED_COLOR=5814783
-          THUMB_URL='https://avatars.githubusercontent.com/u/78095377?s=200&v=4'
+          THUMB_URL='https://avatars.githubusercontent.com/u/240574984?s=200&v=4'
 
           curl -H "Content-Type: application/json" \
           -d "{
