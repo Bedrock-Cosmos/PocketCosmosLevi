@@ -98,6 +98,8 @@ import okhttp3.OkHttpClient;
  import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.ACTION_MAIN_ACTIVITY_FIRST_DRAWN;
  import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.EXTRA_CLOSE_RESTART_ACTIVITY_ON_FIRST_DRAW;
 
+import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
+
  public class MainActivity extends BaseActivity {
     private ActivityMainBinding binding;
     private MinecraftLauncher minecraftLauncher;
