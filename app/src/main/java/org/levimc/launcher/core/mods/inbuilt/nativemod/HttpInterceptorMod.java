@@ -18,15 +18,15 @@ public class HttpInterceptorMod {
     public static boolean init(Context context) {
         AssetManager mgr = context.getAssets();
         SpoofInterceptor.setAssetManager(mgr);
-        SpoofInterceptor.setFilesDir(context.getFilesDir());
+        SpoofInterceptor.setFilesDir(context.getApplicationContext().getFilesDir());
         InbuiltModManager manager = InbuiltModManager.getInstance(context);
 
         SpoofInterceptor.clearRules();
 
         if (manager.isCosmosEnabled()) {
             try {
-                File customJsonsDir = new File(context.getFilesDir(), "customJsons");
-                File miscDir = new File(context.getFilesDir(), "misc");
+                File customJsonsDir = new File(context.getApplicationContext().getFilesDir(), "customJsons");
+                File miscDir = new File(context.getApplicationContext().getFilesDir(), "misc");
 
                 NewsManager.init(customJsonsDir, miscDir);
                 new CosmosSpoofs(mgr, customJsonsDir).register(manager.isNewsEnabled());
