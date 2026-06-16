@@ -1,12 +1,6 @@
 name: Deploy documentation
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/docs.yml
-      - docs/**
   workflow_dispatch:
 
 jobs:
@@ -39,7 +33,6 @@ jobs:
           path: docs/.vitepress/dist/
 
   deploy:
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     needs: build
     runs-on: ubuntu-latest
     concurrency:
