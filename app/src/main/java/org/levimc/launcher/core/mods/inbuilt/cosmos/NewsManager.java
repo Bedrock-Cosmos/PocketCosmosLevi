@@ -136,7 +136,9 @@ public class NewsManager {
             String uuid = currentNewsObj.optString("id", "");
             if (!uuid.isEmpty()) currentNewsUuid = uuid;
 
-            // Stamp current UTC time
+            // Sanitize surface/category and update dateReceived to current UTC time
+            currentNewsObj.put("surface", "InboxMessage");
+            currentNewsObj.put("inboxCategory", "BedrockCosmosNews");
             currentNewsObj.put("dateReceived", utcNow());
 
             Log.i(TAG, "Current news retrieved. ID: " + currentNewsUuid);
@@ -179,11 +181,17 @@ public class NewsManager {
             JSONObject announcement = new JSONObject(currentNewsObj.toString());
             announcement.put("surface", "LoginAnnouncement");
 
+            // Generates new UUID for announcement to prevent not showing in inbox for versions >26.30
+            String announcementId = announcement.optString("id", "");
+            String newId = java.util.UUID.randomUUID().toString();
+            announcement.put("id", newId);
+            announcement.put("instanceId", newId);
+
             if ("ContentListNoCTA".equals(announcement.optString("template")))
                 announcement.put("template", "HeroImageCTA");
 
             writeJson(new File(customJsonsDir, "CurrentLoginAnnouncement.json"), announcement);
-            Log.i(TAG, "LoginAnnouncement queued for ID: " + announcement.optString("id"));
+            Log.i(TAG, "LoginAnnouncement queued for ID: " + announcementId);
 
         } catch (JSONException e) {
             Log.e(TAG, "queueLoginAnnouncementIfNew failed", e);
