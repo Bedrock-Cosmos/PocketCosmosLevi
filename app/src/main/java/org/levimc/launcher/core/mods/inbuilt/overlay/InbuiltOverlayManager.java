@@ -70,7 +70,7 @@ public class InbuiltOverlayManager {
         modActiveStates.put(ModIds.CPS_DISPLAY, false);
         modActiveStates.put(ModIds.SNAPLOOK, false);
         modActiveStates.put(ModIds.VIRTUAL_CURSOR, false);
-        modActiveStates.put(ModIds.HTTP_INTERCEPTOR, true);
+        modActiveStates.put(ModIds.HTTP_INTERCEPTOR, false);
 
         modPositionMap.put(ModIds.QUICK_DROP, nextY + SPACING);
         modPositionMap.put(ModIds.CAMERA_PERSPECTIVE, nextY + SPACING * 2);
@@ -102,7 +102,7 @@ public class InbuiltOverlayManager {
         restorePersistedInbuiltModState(manager, ModIds.CPS_DISPLAY);
         restorePersistedInbuiltModState(manager, ModIds.SNAPLOOK);
         restorePersistedInbuiltModState(manager, ModIds.VIRTUAL_CURSOR);
-
+        handleModToggle(ModIds.HTTP_INTERCEPTOR, true);
         modMenuButton = new ModMenuButton(activity);
         modMenuButton.show(START_X, nextY);
         refreshExternalButtons();
