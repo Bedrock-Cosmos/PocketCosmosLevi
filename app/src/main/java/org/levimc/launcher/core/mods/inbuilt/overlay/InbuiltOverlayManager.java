@@ -76,7 +76,7 @@ public class InbuiltOverlayManager {
         modActiveStates.put(ModIds.SNAPLOOK, false);
         modActiveStates.put(ModIds.VIRTUAL_CURSOR, false);
         modActiveStates.put(ModIds.GYRO, false);
-        modActiveStates.put(ModIds.HTTP_INTERCEPTOR, true);
+        modActiveStates.put(ModIds.HTTP_INTERCEPTOR, false);
         modActiveStates.put(ModIds.POJAV_CONTROLS, false);
 
         modPositionMap.put(ModIds.QUICK_DROP, nextY + SPACING);
@@ -113,6 +113,7 @@ public class InbuiltOverlayManager {
         restorePersistedInbuiltModState(manager, ModIds.GYRO);
         restorePersistedInbuiltModState(manager, ModIds.POJAV_CONTROLS);
 
+        handleModToggle(ModIds.HTTP_INTERCEPTOR, true);
         modMenuButton = new ModMenuButton(activity);
         modMenuButton.show(START_X, nextY);
         refreshExternalButtons();
