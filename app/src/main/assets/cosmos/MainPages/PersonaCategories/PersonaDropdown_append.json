@@ -144,6 +144,43 @@
       "components": [
         {
           "text": {
+            "value": "Redeemable Items",
+            "replacements": []
+          },
+          "type": "headerComp",
+          "$type": "HeaderComponent"
+        },
+        {
+          "textureImage": {
+            "type": "Texture",
+            "localPath": "textures/items/ruby"
+          },
+          "textureFilterType": "InUserPackages",
+          "type": "textureComp",
+          "$type": "TextureComponent"
+        },
+        {
+          "dropdownId": 2,
+          "type": "dropdownOptionComp",
+          "$type": "DropdownOptionComponent"
+        },
+        {
+          "linksTo": {
+            "linksTo": "DressingRoom_RedeemableItems",
+            "linkType": "internal",
+            "displayType": "store_layout.character_creator_screen",
+            "navigateInPlace": false
+          },
+          "type": "redirectButtonComp",
+          "$type": "RedirectComponent"
+        }
+      ]
+    },
+    {
+      "controlId": "DarkRedirectButton",
+      "components": [
+        {
+          "text": {
             "value": "Tiny Takeover Items",
             "replacements": []
           },

@@ -1,0 +1,407 @@
+{
+  "result": {
+    "id": "b843f9fd-51df-4147-95cf-d9e8773b2077",
+    "pageId": "ItemDetail_b843f9fd-51df-4147-95cf-d9e8773b2077",
+    "addToRecentlyViewed": true,
+    "pageName": "ItemDetail For 'YouTube Creators Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "b843f9fd-51df-4147-95cf-d9e8773b2077",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "YouTube Creators Skin Pack",
+                  "creatorName": "Spark Universe",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.5,
+                    "totalCount": 90535
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": null,
+                    "virtualCurrencyType": null
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": {
+                      "value": "Spark Universe",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 12,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "SkinPack",
+                  "packIdentity": [
+                    {
+                      "type": "skinpack",
+                      "uuid": "c57e2707-5015-4c19-8623-2d059956789c",
+                      "version": "1.0.10"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.creative",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.creative",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Creative"
+                    },
+                    {
+                      "linksTo": "Tag_tag.fun",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.fun",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Fun"
+                    },
+                    {
+                      "linksTo": "Tag_tag.party",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.party",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Party"
+                    },
+                    {
+                      "linksTo": "Tag_tag.holiday",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.holiday",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Holiday"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2021-12-15T18:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7f42ee00-b3ac-472d-9327-189c35f47ab8/secondary.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "telemetryId": "store.mashup.description",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "We are celebrating one trillion views of Minecraft content on YouTube with the YouTube Creators Skin Pack by Spark Universe. Featuring 10+ skins from some of your favorite creators including LDShadowlady, Jazzghost, Logdotzip, and more.",
+                "genres": [
+                  {
+                    "linksTo": "Tag_genre.creative",
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.creative",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Creative"
+                  }
+                ],
+                "subgenres": [],
+                "playerCount": "1+",
+                "playerCounts": [],
+                "tags": [
+                  {
+                    "linksTo": "Tag_tag.fun",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.fun",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Fun"
+                  },
+                  {
+                    "linksTo": "Tag_tag.party",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.party",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Party"
+                  },
+                  {
+                    "linksTo": "Tag_tag.holiday",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.holiday",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Holiday"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "SkinPreview",
+            "components": [
+              {
+                "binary": {
+                  "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/7f42ee00-b3ac-472d-9327-189c35f47ab8/secondary.zip"
+                },
+                "packIdentity": {
+                  "type": "skinpack",
+                  "uuid": "c57e2707-5015-4c19-8623-2d059956789c",
+                  "version": "1.0.10"
+                },
+                "type": "skinViewerComp",
+                "$type": "SkinViewerComponent"
+              },
+              {
+                "headerText": "YouTube Creators Skin Pack: %s",
+                "text": {
+                  "value": "YouTube Creators Skin Pack: %s",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 90535,
+                  "count5Star": 71707,
+                  "count4Star": 6553,
+                  "count3Star": 4040,
+                  "count2Star": 1761,
+                  "count1Star": 6474,
+                  "id": "b843f9fd-51df-4147-95cf-d9e8773b2077",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "79%%",
+                    "percentage4Star": "7%%",
+                    "percentage3Star": "4%%",
+                    "percentage2Star": "2%%",
+                    "percentage1Star": "7%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}
