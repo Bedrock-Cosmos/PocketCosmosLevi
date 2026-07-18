@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8b7e5613-3394-43a5-8655-022bf2be0d6f",
+      "Contents": [
+        {
+          "Id": "5dbc6aff-80d9-4994-a5b1-89b1150d37f4",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MelonCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "JakeMCPE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "40f03708-d95b-43a9-a9ba-885505c25cdb",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
