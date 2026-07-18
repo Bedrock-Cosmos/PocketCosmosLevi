@@ -1,0 +1,1245 @@
+{
+  "result": {
+    "pageId": "MultiItemPage_HiddenDLC",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "None",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.editorial.minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "editorialtool.localization.mycontent",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " Skin Packs you may have missed!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "b843f9fd-51df-4147-95cf-d9e8773b2077",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "YouTube Creators Skin Pack",
+                    "creatorName": "Spark Universe",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": { "average": 4.5, "totalCount": 90868 },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": false },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_b843f9fd-51df-4147-95cf-d9e8773b2077",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b843f9fd-51df-4147-95cf-d9e8773b2077",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": { "value": "YouTube Creators Skin Pack", "replacements": [] },
+                      "navigateInPlace": false
+                    },
+                    "statistics": { "skins": 12, "worlds": 0, "textures": 0, "behaviors": 0, "addOns": 0 },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      { "type": "skinpack", "uuid": "c57e2707-5015-4c19-8623-2d059956789c", "version": "1.0.10" }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/cb16cef8-b96f-4a82-a1b4-568ec088cea7/YoutubeSkinPack_thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2021-12-15T18:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "b9fe7cdc-d1e2-45b4-ad40-13162160381b",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Ghast Station Skinpack",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/91d1ed35-35c6-4657-82a4-52c55043d4e8/Ghast_Station_Skinpack_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/91d1ed35-35c6-4657-82a4-52c55043d4e8/Ghast_Station_Skinpack_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.9,
+                      "totalCount": 17
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_b9fe7cdc-d1e2-45b4-ad40-13162160381b",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b9fe7cdc-d1e2-45b4-ad40-13162160381b",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": { "value": "Ghast Station Skinpack", "replacements": [] },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 4,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "7c0e1685-9f1c-5eab-ceb5-4a1c71969890",
+                        "version": "1.0.3"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/91d1ed35-35c6-4657-82a4-52c55043d4e8/Ghast_Station_Skinpack_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/91d1ed35-35c6-4657-82a4-52c55043d4e8/Ghast_Station_Skinpack_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-01-26T19:30:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "488934f5-3151-4f57-8a61-5484a9d8e01c",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Dungeons Hero Skin Pack",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/396ec4d6-2896-4eeb-bf06-dd322923180a/thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/396ec4d6-2896-4eeb-bf06-dd322923180a/thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.5,
+                      "totalCount": 22042
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_488934f5-3151-4f57-8a61-5484a9d8e01c",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_488934f5-3151-4f57-8a61-5484a9d8e01c",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": { "value": "Dungeons Hero Skinpack", "replacements": [] },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 13,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "c772c2fe-7aea-5979-74c3-a66f4bd5957d",
+                        "version": "1.0.3"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/396ec4d6-2896-4eeb-bf06-dd322923180a/thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/396ec4d6-2896-4eeb-bf06-dd322923180a/thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-25T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "cf25f557-7146-49e8-acdc-b5b32012e4aa",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Mob Vote Skin Pack 2022",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/232044b1-5662-4ef7-9ee2-4de2e320de1d/thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/232044b1-5662-4ef7-9ee2-4de2e320de1d/thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.3,
+                      "totalCount": 28049
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_cf25f557-7146-49e8-acdc-b5b32012e4aa",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_cf25f557-7146-49e8-acdc-b5b32012e4aa",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": { "value": "Mob Vote Skin Pack 2022", "replacements": [] },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 12,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "d6109aa2-26ff-6998-a14c-2454e544f913",
+                        "version": "1.0.6"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/232044b1-5662-4ef7-9ee2-4de2e320de1d/thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/232044b1-5662-4ef7-9ee2-4de2e320de1d/thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-10-07T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Croco Island",
+                    "creatorName": "Blockception",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/c13e9c51-a013-45ec-8c15-0ebe83f90b43/CrocodileIsland_thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/c13e9c51-a013-45ec-8c15-0ebe83f90b43/CrocodileIsland_thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.5,
+                      "totalCount": 25157
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_293a9961-9d76-4b5b-8a5e-ef1710e21ea7",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": { "value": "Croco Island", "replacements": [] },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 30,
+                      "worlds": 1,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "WorldTemplate",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "e3ea34b6-7b7b-4da3-85af-6b38ab465009",
+                        "version": "1.0.7"
+                      },
+                      {
+                        "type": "worldtemplate",
+                        "uuid": "8d63e961-57c2-45ff-afbd-f6351aae679d",
+                        "version": "1.0.7"
+                      }
+                    ],
+                    "videoUrl": "https://youtu.be/P0l30wtuS_U",
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/c13e9c51-a013-45ec-8c15-0ebe83f90b43/CrocodileIsland_thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-title-b63a0803d3653643-20ca2/c13e9c51-a013-45ec-8c15-0ebe83f90b43/CrocodileIsland_thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2022-03-15T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  }
+                ],
+                "totalItems": 4,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "TextRow",
+            "components": [
+              {
+                "text": {
+                  "value": " A Minecraft Movie DLC",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1.0, 1.0, 1.0],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "89967d0c-b75a-4ff8-a603-4683aca4713a",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "A Minecraft Movie Hero Pack",
+                    "creatorName": "Spark Universe",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.7,
+                      "totalCount": 199219
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_89967d0c-b75a-4ff8-a603-4683aca4713a",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_89967d0c-b75a-4ff8-a603-4683aca4713a",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "A Minecraft Movie Hero Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 5,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "fbb3801e-25fc-c013-88ef-ebf38d3b805a",
+                        "version": "1.0.8"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-20T17:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "A Minecraft Movie: Add-On",
+                    "creatorName": "Spark Universe",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.8,
+                      "totalCount": 142110
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "A Minecraft Movie: Add-On",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 1
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "AddOn",
+                    "packIdentity": [
+                      {
+                        "type": "behaviorpack",
+                        "uuid": "4022586e-94ef-4d55-8e2a-dc3e23eee8b5",
+                        "version": "1.0.7"
+                      },
+                      {
+                        "type": "resourcepack",
+                        "uuid": "8e3af75d-bde4-471d-8b09-a6e7245741c0",
+                        "version": "1.0.7"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-02-26T18:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "b8294b31-2d62-4823-a13e-52d5ea6e6ef4",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Lava Chicken Add-On",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.6,
+                      "totalCount": 130739
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_b8294b31-2d62-4823-a13e-52d5ea6e6ef4",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b8294b31-2d62-4823-a13e-52d5ea6e6ef4",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Lava Chicken Add-On",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 1
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "AddOn",
+                    "packIdentity": [
+                      {
+                        "type": "behaviorpack",
+                        "uuid": "3b49ad60-2005-47f8-9350-beb98050a26a",
+                        "version": "1.0.3"
+                      },
+                      {
+                        "type": "resourcepack",
+                        "uuid": "86503cdb-c019-41bd-b472-5118a11353c0",
+                        "version": "1.0.3"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2024-12-20T18:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "26e35b2b-ac51-49b6-98df-ca15f06f912c",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "McDonald's Add-On",
+                    "creatorName": "Starfish Studios",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/48737064-1109-4aef-acf1-9be1053ed879/McDonalds_Add-On_packicon.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/48737064-1109-4aef-acf1-9be1053ed879/McDonalds_Add-On_packicon.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.8,
+                      "totalCount": 1656
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_26e35b2b-ac51-49b6-98df-ca15f06f912c",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_26e35b2b-ac51-49b6-98df-ca15f06f912c",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "McDonald's Add-On",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 1
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "AddOn",
+                    "packIdentity": [
+                      {
+                        "type": "behaviorpack",
+                        "uuid": "65ed51e4-6fbe-4d8d-9794-0b8a37f5b680",
+                        "version": "1.0.3"
+                      },
+                      {
+                        "type": "resourcepack",
+                        "uuid": "cc71860f-20c2-4015-95e8-e179e6fa407b",
+                        "version": "1.0.3"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a576a92f-1882-4217-a08d-46ef1020a92e/McDonalds_Add-On_Thumbnail.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a576a92f-1882-4217-a08d-46ef1020a92e/McDonalds_Add-On_Thumbnail.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-24T20:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "069b2db5-5164-48ba-afb2-e95d81aa763f",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "A Minecraft Movie DLC",
+                    "creatorName": "Spark Universe",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.5,
+                      "totalCount": 87031
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_069b2db5-5164-48ba-afb2-e95d81aa763f",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_069b2db5-5164-48ba-afb2-e95d81aa763f",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "A Minecraft Movie DLC",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 1,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "WorldTemplate",
+                    "packIdentity": [
+                      {
+                        "type": "worldtemplate",
+                        "uuid": "6e9a7167-45c0-ca8e-2201-824e30c6e68b",
+                        "version": "1.0.11"
+                      }
+                    ],
+                    "videoUrl": "https://www.youtube.com/watch?v=QSjaND1yJmU",
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-28T16:45:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {},
+                    "hardwareMemoryTier": 0
+                  },
+                  {
+                    "id": "04055158-74ca-4581-8ecb-c17759518ed1",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "A Minecraft Movie: Jetpack",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.7,
+                      "totalCount": 465
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_04055158-74ca-4581-8ecb-c17759518ed1",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_04055158-74ca-4581-8ecb-c17759518ed1",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "A Minecraft Movie: Jetpack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 0,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 1
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "AddOn",
+                    "packIdentity": [
+                      {
+                        "type": "behaviorpack",
+                        "uuid": "08bb0cd8-7cf7-46cb-b271-f3452268d93c",
+                        "version": "1.0.3"
+                      },
+                      {
+                        "type": "resourcepack",
+                        "uuid": "70114cf2-8beb-4759-be01-4341d213bb72",
+                        "version": "1.0.3"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-02-27T14:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "b052935a-9c47-43eb-ac50-ac3760100fd8",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Grimace Egg",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3f5df63e-70f9-4388-85ad-8ab3a9ba63a1/grimace_egg_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/3f5df63e-70f9-4388-85ad-8ab3a9ba63a1/grimace_egg_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.9,
+                      "totalCount": 18293
+                    },
+                    "linksTo": "ItemDetail_b052935a-9c47-43eb-ac50-ac3760100fd8",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_b052935a-9c47-43eb-ac50-ac3760100fd8",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Grimace Egg",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 1,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "3c9c01c0-9553-6b2c-afca-3a3bd0d657c7",
+                        "version": "1.0.7"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3f5df63e-70f9-4388-85ad-8ab3a9ba63a1/grimace_egg_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/3f5df63e-70f9-4388-85ad-8ab3a9ba63a1/grimace_egg_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-24T20:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "26c398b0-9649-459d-8406-71f744a668ab",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Big Mac Crystal",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/817f88e6-b44f-4c7b-bafb-dff591b24bfe/burger_crystal_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/817f88e6-b44f-4c7b-bafb-dff591b24bfe/burger_crystal_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.9,
+                      "totalCount": 9872
+                    },
+                    "linksTo": "ItemDetail_26c398b0-9649-459d-8406-71f744a668ab",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_26c398b0-9649-459d-8406-71f744a668ab",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Big Mac Crystal",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 1,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "ce7b3d5a-89e4-eae0-7cd3-b0c7a5c34a92",
+                        "version": "1.0.6"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/817f88e6-b44f-4c7b-bafb-dff591b24bfe/burger_crystal_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/817f88e6-b44f-4c7b-bafb-dff591b24bfe/burger_crystal_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-24T20:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "7d85c0b7-7847-4fd4-bf39-8510d41ca33f",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Birdie Wings",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/21e12868-595a-4fde-8a08-d312a50cb441/birdie_wings_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/21e12868-595a-4fde-8a08-d312a50cb441/birdie_wings_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.7,
+                      "totalCount": 5914
+                    },
+                    "linksTo": "ItemDetail_7d85c0b7-7847-4fd4-bf39-8510d41ca33f",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_7d85c0b7-7847-4fd4-bf39-8510d41ca33f",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Birdie Wings",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 1,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "33a50358-82f8-07f0-8382-5c04a07628eb",
+                        "version": "1.0.5"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/21e12868-595a-4fde-8a08-d312a50cb441/birdie_wings_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/21e12868-595a-4fde-8a08-d312a50cb441/birdie_wings_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-24T20:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "337cf2c8-134c-4a72-b193-7cc19f052b53",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Zombie Hamburglar",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/47f2e007-dc6c-4143-867d-c1fc8b5a4a13/zombie_hamburglar_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/47f2e007-dc6c-4143-867d-c1fc8b5a4a13/zombie_hamburglar_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.9,
+                      "totalCount": 12274
+                    },
+                    "linksTo": "ItemDetail_337cf2c8-134c-4a72-b193-7cc19f052b53",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_337cf2c8-134c-4a72-b193-7cc19f052b53",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Zombie Hamburglar",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 1,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "18c711de-4e7c-af8a-2fe7-54546bb044d2",
+                        "version": "1.0.6"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/47f2e007-dc6c-4143-867d-c1fc8b5a4a13/zombie_hamburglar_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/47f2e007-dc6c-4143-867d-c1fc8b5a4a13/zombie_hamburglar_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-24T20:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "5d1b928c-71ac-412a-8f2a-65e66247afbb",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Soda Potion",
+                    "creatorName": "Minecraft",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8ecb2afc-fa4a-41c4-8fec-21e66c58749f/soda_potion_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/8ecb2afc-fa4a-41c4-8fec-21e66c58749f/soda_potion_Thumbnail_0.jpg?width=800&height=450"
+                    },
+                    "rating": {
+                      "average": 4.9,
+                      "totalCount": 11893
+                    },
+                    "linksTo": "ItemDetail_5d1b928c-71ac-412a-8f2a-65e66247afbb",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_5d1b928c-71ac-412a-8f2a-65e66247afbb",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Soda Potion",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 1,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": [],
+                    "ownership": "Purchased",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "41a9515c-6abc-c528-fdc4-ab1829071382",
+                        "version": "1.0.5"
+                      }
+                    ],
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8ecb2afc-fa4a-41c4-8fec-21e66c58749f/soda_potion_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/8ecb2afc-fa4a-41c4-8fec-21e66c58749f/soda_potion_Thumbnail_0.jpg?width=800&height=450"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2025-03-24T20:00:00Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  }
+                ],
+                "totalItems": 11,
+                "type": "pagedItemListComp",
+                "$type": "PagedItemListComponent"
+              }
+            ]
+          }
+        ]
+      },
+      { "sectionName": "navigation", "rows": [] }
+    ]
+  }
+}
