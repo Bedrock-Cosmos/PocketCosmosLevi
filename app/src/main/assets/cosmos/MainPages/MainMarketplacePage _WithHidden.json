@@ -553,6 +553,71 @@
                 "$type": "ItemDescriptionComponent"
               }
             ]
+          },
+          {
+            "controlId": "ScreenshotsHeroBladeRow",
+            "components": [
+              {
+                "items": [
+                  {
+                    "id": "2557aa8a-9ea7-4add-8cbe-3d9bf785e671",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "[ Hidden DLC ]",
+                    "creatorName": "Multiple Creators",
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": { "inRealmsPlus": true },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "MultiItemPage_HiddenDLC",
+                    "linksToInfo": {
+                      "linksTo": "MultiItemPage_HiddenDLC",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "ownership": "NotOwned",
+                    "packType": "Realms",
+                    "images": [
+                      {
+                        "tag": "Thumbnail",
+                        "type": "Thumbnail",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a25f8ce9-816e-4ed7-b66c-b6f92da964ef/a_minecraft_movie_hero_pack_Thumbnail_0.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9e824497-491c-4dbb-abb3-51cda756054c/Lava_Chicken_Add-on_Thumbnail_0.jpg"
+                      },
+                      {
+                        "tag": "screenshot",
+                        "type": "Screenshot",
+                        "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg",
+                        "urlWithResolution": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg"
+                      }
+                    ],
+                    "startDate": "2026-02-02T12:00:00Z"
+                  }
+                ],
+                "type": "itemListComp",
+                "$type": "ItemListComponent"
+              }
+            ]
           }
         ]
       },

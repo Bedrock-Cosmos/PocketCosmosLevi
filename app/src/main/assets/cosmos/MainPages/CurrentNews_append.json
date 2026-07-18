@@ -1,24 +1,39 @@
 {
-  "id": "624aaf03-d845-4863-8179-025bcf65bfd4",
-  "instanceId": "624aaf03-d845-4863-8179-025bcf65bfd4",
-  "surface": "LoginAnnouncement",
-  "template": "ShowcaseAnnouncementNoCTA",
-  "header": "New Builder Cape Available!",
-  "body": "The new Builder Cape is now obtainable on Tiktok, just watch any Minecraft related Live stream and within a few minutes you'll have a new crafty cape! Ends on June 14.",
+  "id": "63606978-db31-4584-a887-b1d27fce615c",
+  "instanceId": "63606978-db31-4584-a887-b1d27fce615c",
+  "surface": "InboxMessage",
+  "template": "HeroImageCTA",
+  "header": "Bedrock Cosmos v1.1.1 is here!",
+  "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Several brand new creators also have their content featured, so be sure to check them out!",
   "images": {
     "Primary": {
-      "id": "23e02757-cb96-49d7-8621-e24de6650d40",
-      "url": "https://bedrock-cosmos.app/thumbnails/News/Builder_Cape.jpg"
+      "id": "36e240ff-5435-4441-afec-5d3ddc6f6996",
+      "url": "https://bedrock-cosmos.app/thumbnails/News/News_2026-07-18.png"
     }
   },
-  "buttons": {},
-  "reportId": "",
+  "buttons": {
+    "Dismiss": {
+      "text": "Dismiss",
+      "action": "Dismiss",
+      "link": "",
+      "description": "",
+      "saleBanner": ""
+    },
+    "CallToAction": {
+      "text": "Changelog",
+      "action": "External",
+      "link": "https://bedrock-cosmos.app/changelogs/",
+      "description": "",
+      "saleBanner": ""
+    }
+  },
+  "reportId": "YzAwN2UxYWEtNDEyMi00MjUxLTlhMmQtOWQwNTU2YmZhMjk0",
   "isControl": false,
   "sender": "Bedrock Cosmos",
   "status": "Unread",
   "persistToInboxOnImpression": false,
   "inboxCategory": "BedrockCosmosNews",
-  "dateReceived": "2026-06-02T03:10:00.945Z",
+  "dateReceived": "2026-07-17T23:21:27.541Z",
   "itemList": [],
   "style": "Default",
   "messageTitles": [
@@ -27,8 +42,8 @@
   "associatedProducts": [],
   "messageItemList": [],
   "messageText": {
-    "header": "New Builder Cape Available!",
-    "body": "The new Builder Cape is now obtainable on Tiktok, just watch any Minecraft related Live stream and within a few minutes you'll have a new crafty cape! Ends on June 14."
+    "header": "Bedrock Cosmos v1.1.1 is here!",
+    "body": "The latest Bedrock Cosmos update brings several new skin capes and 200+ new creator skins to use! Several brand new creators also have their content featured, so be sure to check them out!"
   },
   "versionConstraint": "",
   "launcherVersionConstraint": "",

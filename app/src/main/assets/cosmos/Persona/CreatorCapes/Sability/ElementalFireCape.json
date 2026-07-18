@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ffe6af1f-7f35-4f38-b100-05355411a68a",
+      "Contents": [
+        {
+          "Id": "6e1ffbd6-cf6a-4064-a421-d2318a69ec15",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/ElementalFireCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "f1efa233-baa1-4e27-8365-fd7ba7d43124",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

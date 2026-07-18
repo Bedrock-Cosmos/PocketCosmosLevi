@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b00db69c-c9e4-434b-a1ce-b634f337b044",
+      "Contents": [
+        {
+          "Id": "90caf16d-8974-4557-adca-e2fd44fcd218",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/CodCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6eef95ea-d4f4-43c4-b40b-5eb545e5bdd9",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
