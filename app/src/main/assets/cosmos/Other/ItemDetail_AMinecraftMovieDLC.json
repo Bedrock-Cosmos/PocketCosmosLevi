@@ -1,0 +1,488 @@
+{
+  "result": {
+    "id": "069b2db5-5164-48ba-afb2-e95d81aa763f",
+    "pageId": "ItemDetail_069b2db5-5164-48ba-afb2-e95d81aa763f",
+    "addToRecentlyViewed": true,
+    "pageName": "ItemDetail For 'A Minecraft Movie DLC'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "069b2db5-5164-48ba-afb2-e95d81aa763f",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "A Minecraft Movie DLC",
+                  "creatorName": "Spark Universe",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.5,
+                    "totalCount": 88634
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": null,
+                    "virtualCurrencyType": null
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": {
+                      "value": "Spark Universe",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 0,
+                    "worlds": 1,
+                    "textures": 0,
+                    "behaviors": 0,
+                    "addOns": 0
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "WorldTemplate",
+                  "packIdentity": [
+                    {
+                      "type": "worldtemplate",
+                      "uuid": "6e9a7167-45c0-ca8e-2201-824e30c6e68b",
+                      "version": "1.0.11"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.action",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.action",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Action"
+                    },
+                    {
+                      "linksTo": "Tag_subgenre.action_adventure",
+                      "linksToInfo": {
+                        "linksTo": "Tag_subgenre.action_adventure",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Action-Adventure"
+                    },
+                    {
+                      "linksTo": "Tag_tag.battle",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.battle",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Battle"
+                    },
+                    {
+                      "linksTo": "Tag_tag.character_action_game",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.character_action_game",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Character Action Game"
+                    },
+                    {
+                      "linksTo": "Tag_tag.stealth",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.stealth",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Stealth"
+                    }
+                  ],
+                  "videoUrl": "https://www.youtube.com/watch?v=QSjaND1yJmU",
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/953c1b7e-7242-44f0-8bc7-7ad9131ff617/A_Minecraft_Movie_DLC_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2025-03-28T16:45:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {},
+                  "hardwareMemoryTier": 0
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6e765dcd-23a0-4991-82e3-de73539643b3/primary.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "telemetryId": "store.mashup.description",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Adventure deeper into A MINECRAFT MOVIE! Compete in elytra races, survive the night, and sneak into a woodland mansion in this free DLC.",
+                "genres": [
+                  {
+                    "linksTo": "Tag_genre.action",
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.action",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Action"
+                  }
+                ],
+                "subgenres": [
+                  {
+                    "linksTo": "Tag_subgenre.action_adventure",
+                    "linksToInfo": {
+                      "linksTo": "Tag_subgenre.action_adventure",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Action-Adventure"
+                  }
+                ],
+                "playerCount": "1-10",
+                "playerCounts": [],
+                "tags": [
+                  {
+                    "linksTo": "Tag_tag.battle",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.battle",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Battle"
+                  },
+                  {
+                    "linksTo": "Tag_tag.character_action_game",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.character_action_game",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Character Action Game"
+                  },
+                  {
+                    "linksTo": "Tag_tag.stealth",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.stealth",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Stealth"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ImageGallery",
+            "telemetryId": "Take a tour!",
+            "components": [
+              {
+                "images": [
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f54519af-025c-44c2-bc48-b6126a336b0d/A_Minecraft_Movie_DLC_screenshot_0.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/f54519af-025c-44c2-bc48-b6126a336b0d/A_Minecraft_Movie_DLC_screenshot_0.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e946bdb4-e50f-45eb-a41e-6060d47250a2/A_Minecraft_Movie_DLC_screenshot_1.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/e946bdb4-e50f-45eb-a41e-6060d47250a2/A_Minecraft_Movie_DLC_screenshot_1.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/032a5994-98c9-4a7b-a6ba-c5aa4756d819/A_Minecraft_Movie_DLC_screenshot_2.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/032a5994-98c9-4a7b-a6ba-c5aa4756d819/A_Minecraft_Movie_DLC_screenshot_2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a9f1e6f7-0035-41e6-b01e-aba0085ff1c4/A_Minecraft_Movie_DLC_screenshot_3.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/a9f1e6f7-0035-41e6-b01e-aba0085ff1c4/A_Minecraft_Movie_DLC_screenshot_3.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3b90aad1-5e8c-438e-858a-62ab435b02ae/A_Minecraft_Movie_DLC_screenshot_4.jpg",
+                    "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/3b90aad1-5e8c-438e-858a-62ab435b02ae/A_Minecraft_Movie_DLC_screenshot_4.jpg?width=800&height=450"
+                  }
+                ],
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Take a tour!",
+                "text": {
+                  "value": "Take a tour!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "WorldView",
+            "telemetryId": "Journey in a new world!",
+            "components": [
+              {
+                "panoramaUrl": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f39ec061-03b5-45c0-9fce-3a5294aaf6aa/A_Minecraft_Movie_DLC_panorama_0.jpg",
+                "panoramaImage": {
+                  "type": "Panorama",
+                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f39ec061-03b5-45c0-9fce-3a5294aaf6aa/A_Minecraft_Movie_DLC_panorama_0.jpg",
+                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/f39ec061-03b5-45c0-9fce-3a5294aaf6aa/A_Minecraft_Movie_DLC_panorama_0.jpg?width=-1&height=450"
+                },
+                "type": "panoramaComp",
+                "$type": "PanoramaComponent"
+              },
+              {
+                "headerText": "Journey in a new world!",
+                "text": {
+                  "value": "Journey in a new world!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.5,
+                  "totalCount": 88634,
+                  "count5Star": 70343,
+                  "count4Star": 5838,
+                  "count3Star": 3761,
+                  "count2Star": 1817,
+                  "count1Star": 6875,
+                  "id": "069b2db5-5164-48ba-afb2-e95d81aa763f",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "79%%",
+                    "percentage4Star": "7%%",
+                    "percentage3Star": "4%%",
+                    "percentage2Star": "2%%",
+                    "percentage1Star": "8%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

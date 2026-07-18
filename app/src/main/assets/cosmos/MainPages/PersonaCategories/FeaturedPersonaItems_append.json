@@ -27,16 +27,16 @@
         {
           "items": [
             {
-              "id": "5c75044b-01ca-4c32-a536-65e2d2222618",
+              "id": "e18587ac-cb4f-4ea4-b8ff-63163661c93a",
               "contentType": "PersonaDurable",
-              "title": "Baby Chick Bucket Hat",
+              "title": "Diamond Skullcap",
               "description": "§",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0b58729d-e2b3-4d1f-a684-9a81a9d2e233/baby_chicken_bucket_hat_Thumbnail_0.png",
-                "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/0b58729d-e2b3-4d1f-a684-9a81a9d2e233/baby_chicken_bucket_hat_Thumbnail_0.png?width=800&height=450"
+                "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0ba7462-34a2-42c1-8d6e-bfd767dd1024/Skeleton_Helmet_Thumbnail_0.png",
+                "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0ba7462-34a2-42c1-8d6e-bfd767dd1024/Skeleton_Helmet_Thumbnail_0.png?width=800&height=450"
               },
               "price": {
                 "listPrice": 0,
@@ -46,9 +46,9 @@
                 "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                 "virtualCurrencyType": "Minecoin"
               },
-              "linksTo": "DressingRoom_TinyTakeover",
+              "linksTo": "DressingRoom_RedeemableItems",
               "linksToInfo": {
-                "linksTo": "DressingRoom_TinyTakeover",
+                "linksTo": "DressingRoom_RedeemableItems",
                 "linkType": "pageId",
                 "displayType": "store_layout.character_creator_screen",
                 "screenTitle": {
@@ -67,14 +67,14 @@
               },
               "flags": [],
               "pieceType": "persona_head",
-              "rarity": "rare",
+              "rarity": "uncommon",
               "ownership": "NotOwned",
               "packType": "Persona",
               "packIdentity": [
                 {
                   "type": "persona_piece",
-                  "uuid": "6e5b4ba6-70dc-2f88-fdfb-5ecc5b145227",
-                  "version": "1.1.0"
+                  "uuid": "af164eeb-beb1-c33c-7663-8dd10b5b1d05",
+                  "version": "1.3.0"
                 }
               ],
               "minPerformanceTier": "LowTier",
@@ -83,15 +83,15 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0b58729d-e2b3-4d1f-a684-9a81a9d2e233/baby_chicken_bucket_hat_Thumbnail_0.png",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/0b58729d-e2b3-4d1f-a684-9a81a9d2e233/baby_chicken_bucket_hat_Thumbnail_0.png?width=800&height=450"
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0ba7462-34a2-42c1-8d6e-bfd767dd1024/Skeleton_Helmet_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0ba7462-34a2-42c1-8d6e-bfd767dd1024/Skeleton_Helmet_Thumbnail_0.png?width=800&height=450"
                 }
               ],
               "contents": [],
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-03-09T17:30:00Z",
+              "startDate": "2025-08-04T15:55:30Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {
@@ -105,16 +105,16 @@
               "hardwareMemoryTier": 0
             },
             {
-              "id": "3fcac6bc-23d2-4f80-a647-6541654a2870",
+              "id": "92acb323-1b1c-4078-8cbd-2607fb983959",
               "contentType": "PersonaDurable",
-              "title": "Baby Chick Slippers",
+              "title": "Ender Dragon Wings",
               "description": "§",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/acf51577-161c-4043-b4c4-493a12e97d71/Chicken_Slippers_Thumbnail_0.png",
-                "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/acf51577-161c-4043-b4c4-493a12e97d71/Chicken_Slippers_Thumbnail_0.png?width=800&height=450"
+                "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e764add4-77c8-47aa-803c-309e2a8f7073/Enderdragon_Wings_Thumbnail_0.png",
+                "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e764add4-77c8-47aa-803c-309e2a8f7073/Enderdragon_Wings_Thumbnail_0.png?width=800&height=450"
               },
               "price": {
                 "listPrice": 0,
@@ -124,9 +124,9 @@
                 "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                 "virtualCurrencyType": "Minecoin"
               },
-              "linksTo": "DressingRoom_TinyTakeover",
+              "linksTo": "DressingRoom_RedeemableItems",
               "linksToInfo": {
-                "linksTo": "DressingRoom_TinyTakeover",
+                "linksTo": "DressingRoom_RedeemableItems",
                 "linkType": "pageId",
                 "displayType": "store_layout.character_creator_screen",
                 "screenTitle": {
@@ -144,15 +144,15 @@
                 "addOns": 0
               },
               "flags": [],
-              "pieceType": "persona_feet",
+              "pieceType": "persona_back",
               "rarity": "rare",
               "ownership": "NotOwned",
               "packType": "Persona",
               "packIdentity": [
                 {
                   "type": "persona_piece",
-                  "uuid": "3cb5876a-c538-74c4-0d79-d99c077cf453",
-                  "version": "1.1.0"
+                  "uuid": "525009c1-9451-5658-ba06-3452119edbb8",
+                  "version": "1.3.0"
                 }
               ],
               "minPerformanceTier": "LowTier",
@@ -161,15 +161,15 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/acf51577-161c-4043-b4c4-493a12e97d71/Chicken_Slippers_Thumbnail_0.png",
-                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/acf51577-161c-4043-b4c4-493a12e97d71/Chicken_Slippers_Thumbnail_0.png?width=800&height=450"
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e764add4-77c8-47aa-803c-309e2a8f7073/Enderdragon_Wings_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e764add4-77c8-47aa-803c-309e2a8f7073/Enderdragon_Wings_Thumbnail_0.png?width=800&height=450"
                 }
               ],
               "contents": [],
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-03-09T17:30:00Z",
+              "startDate": "2025-08-04T15:55:29Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {
@@ -183,16 +183,16 @@
               "hardwareMemoryTier": 0
             },
             {
-              "id": "3592088b-a213-4df7-9af1-f8f9408ecabd",
+              "id": "473c5964-a53e-40b1-8acc-42faa8e18885",
               "contentType": "PersonaDurable",
-              "title": "Chasing Chickens",
+              "title": "Evoker Hooded Mantle",
               "description": "§",
               "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/066a6e5d-186a-4140-88b1-13a15bfbf19c/chicken_chasing_emote_thumbnail_0.png",
-                "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/066a6e5d-186a-4140-88b1-13a15bfbf19c/chicken_chasing_emote_thumbnail_0.png?width=800&height=450"
+                "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58654483-65f0-4e86-a69a-4c8cb572b1bf/Evoker_Cloak_Thumbnail_0.png",
+                "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58654483-65f0-4e86-a69a-4c8cb572b1bf/Evoker_Cloak_Thumbnail_0.png?width=800&height=450"
               },
               "price": {
                 "listPrice": 0,
@@ -202,9 +202,9 @@
                 "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                 "virtualCurrencyType": "Minecoin"
               },
-              "linksTo": "DressingRoom_TinyTakeover",
+              "linksTo": "DressingRoom_RedeemableItems",
               "linksToInfo": {
-                "linksTo": "DressingRoom_TinyTakeover",
+                "linksTo": "DressingRoom_RedeemableItems",
                 "linkType": "pageId",
                 "displayType": "store_layout.character_creator_screen",
                 "screenTitle": {
@@ -222,15 +222,15 @@
                 "addOns": 0
               },
               "flags": [],
-              "pieceType": "persona_emote",
+              "pieceType": "persona_hood",
               "rarity": "rare",
               "ownership": "NotOwned",
               "packType": "Persona",
               "packIdentity": [
                 {
                   "type": "persona_piece",
-                  "uuid": "3b7a5afd-4365-27cb-2506-57bbc512a264",
-                  "version": "1.1.0"
+                  "uuid": "bb9b01b9-2bc9-dd51-ec10-f920f9445445",
+                  "version": "1.3.0"
                 }
               ],
               "minPerformanceTier": "LowTier",
@@ -239,15 +239,15 @@
                 {
                   "tag": "Thumbnail",
                   "type": "Thumbnail",
-                  "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/066a6e5d-186a-4140-88b1-13a15bfbf19c/chicken_chasing_emote_thumbnail_0.png",
-                  "urlWithResolution": "https://xforgeassets002.xboxlive.com:443/pf-namespace-b63a0803d3653643/066a6e5d-186a-4140-88b1-13a15bfbf19c/chicken_chasing_emote_thumbnail_0.png?width=800&height=450"
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58654483-65f0-4e86-a69a-4c8cb572b1bf/Evoker_Cloak_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58654483-65f0-4e86-a69a-4c8cb572b1bf/Evoker_Cloak_Thumbnail_0.png?width=800&height=450"
                 }
               ],
               "contents": [],
               "platformRestricted": false,
               "iconOverlay": [],
               "descriptionLineByLine": [],
-              "startDate": "2026-03-09T17:45:00Z",
+              "startDate": "2025-08-04T15:54:31Z",
               "subscription": [],
               "thumbnailPreviewOnly": false,
               "namedLinksToInfoMap": {
@@ -261,16 +261,16 @@
               "hardwareMemoryTier": 0
             },
             {
-              "id": "0e377825-9488-4496-b75a-21de4b008b0a",
+              "id": "36ea3559-d8d7-45c4-af26-741c30ea6cb4",
               "contentType": "PersonaDurable",
-              "title": "Tiny Takeover Cape",
+              "title": "Vex Plumed Wings",
               "description": "§",
-              "creatorName": "Essential",
+              "creatorName": "Minecraft",
               "thumbnail": {
                 "tag": "Thumbnail",
                 "type": "Thumbnail",
-                "url": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png",
-                "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png"
+                "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6120dc76-1fbd-4780-9dbd-b38ec95257a8/Vex_Wings_Plumed_Thumbnail_0.png",
+                "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/6120dc76-1fbd-4780-9dbd-b38ec95257a8/Vex_Wings_Plumed_Thumbnail_0.png?width=800&height=450"
               },
               "price": {
                 "listPrice": 0,
@@ -280,9 +280,9 @@
                 "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                 "virtualCurrencyType": "Minecoin"
               },
-              "linksTo": "DressingRoom_TinyTakeover",
+              "linksTo": "DressingRoom_RedeemableItems",
               "linksToInfo": {
-                "linksTo": "DressingRoom_TinyTakeover",
+                "linksTo": "DressingRoom_RedeemableItems",
                 "linkType": "pageId",
                 "displayType": "store_layout.character_creator_screen",
                 "screenTitle": {
@@ -291,21 +291,29 @@
                 },
                 "navigateInPlace": false
               },
-              "pieceType": "persona_capes",
-              "rarity": "legendary",
-              "ownership": "Purchased",
+              "pieceType": "persona_back",
+              "rarity": "rare",
+              "ownership": "NotOwned",
               "packType": "Persona",
               "packIdentity": [
                 {
                   "type": "persona_piece",
-                  "uuid": "3ddf71f3-8eb2-4491-9b48-cd1c8bf6f465",
-                  "version": "1.0.0"
+                  "uuid": "a8cc425b-50c7-9b2b-b54b-4706726424c2",
+                  "version": "1.3.0"
                 }
               ],
-              "startDate": "2026-03-30T12:00:00Z",
+              "images": [
+                {
+                  "tag": "Thumbnail",
+                  "type": "Thumbnail",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6120dc76-1fbd-4780-9dbd-b38ec95257a8/Vex_Wings_Plumed_Thumbnail_0.png",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/6120dc76-1fbd-4780-9dbd-b38ec95257a8/Vex_Wings_Plumed_Thumbnail_0.png?width=800&height=450"
+                }
+              ],
+              "startDate": "2025-08-04T15:54:33Z",
               "namedLinksToInfoMap": {
                 "dr.persona_creator_page": {
-                  "linksTo": "PersonaCreatorPage_master_player_account!Essential",
+                  "linksTo": "PersonaCreatorPage_master_player_account!301F442C3B63DC20",
                   "linkType": "internal",
                   "displayType": "store_layout.character_creator_screen",
                   "navigateInPlace": false
@@ -315,7 +323,7 @@
           ],
           "totalItems": 4,
           "linksToInfo": {
-            "linksTo": "DressingRoom_TinyTakeover",
+            "linksTo": "DressingRoom_RedeemableItems",
             "linkType": "pageId",
             "displayType": "store_layout.character_creator_screen",
             "screenTitle": {

@@ -1,0 +1,470 @@
+{
+  "result": {
+    "id": "26e35b2b-ac51-49b6-98df-ca15f06f912c",
+    "pageId": "ItemDetail_26e35b2b-ac51-49b6-98df-ca15f06f912c",
+    "addToRecentlyViewed": true,
+    "pageName": "ItemDetail For 'McDonald's Add-On'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "26e35b2b-ac51-49b6-98df-ca15f06f912c",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "McDonald's Add-On",
+                  "creatorName": "Starfish Studios",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a576a92f-1882-4217-a08d-46ef1020a92e/McDonalds_Add-On_Thumbnail.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/a576a92f-1882-4217-a08d-46ef1020a92e/McDonalds_Add-On_Thumbnail.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.8,
+                    "totalCount": 1708
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": null,
+                    "virtualCurrencyType": null
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": {
+                      "value": "Starfish Studios",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 0,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 1,
+                    "addOns": 1
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "AddOn",
+                  "packIdentity": [
+                    {
+                      "type": "behaviorpack",
+                      "uuid": "65ed51e4-6fbe-4d8d-9794-0b8a37f5b680",
+                      "version": "1.0.3"
+                    },
+                    {
+                      "type": "resourcepack",
+                      "uuid": "cc71860f-20c2-4015-95e8-e179e6fa407b",
+                      "version": "1.0.3"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.creative",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.creative",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Creative"
+                    },
+                    {
+                      "linksTo": "Tag_tag.add_on",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.add_on",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Add On"
+                    },
+                    {
+                      "linksTo": "Tag_tag.food",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.food",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Food"
+                    },
+                    {
+                      "linksTo": "Tag_tag.custom_mobs",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.custom_mobs",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Custom Mobs"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a576a92f-1882-4217-a08d-46ef1020a92e/McDonalds_Add-On_Thumbnail.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/a576a92f-1882-4217-a08d-46ef1020a92e/McDonalds_Add-On_Thumbnail.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2025-03-24T20:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a0831efa-501b-4283-918d-9423fe37a80a/primary.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "telemetryId": "store.mashup.description",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Experience McDonald's in Minecraft! Meet familiar faces such as Grimace, the Hamburglar, and Birdie. Drink the Soda Potion to turn your world wacky, harvest and eat Burger Crystals to become powerful, and soar through the skies with the Birdie Wings!",
+                "genres": [
+                  {
+                    "linksTo": "Tag_genre.creative",
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.creative",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Creative"
+                  }
+                ],
+                "subgenres": [],
+                "playerCount": "1+",
+                "playerCounts": [],
+                "tags": [
+                  {
+                    "linksTo": "Tag_tag.add_on",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.add_on",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Add On"
+                  },
+                  {
+                    "linksTo": "Tag_tag.food",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.food",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Food"
+                  },
+                  {
+                    "linksTo": "Tag_tag.custom_mobs",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.custom_mobs",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Custom Mobs"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ImageGallery",
+            "telemetryId": "Take a tour!",
+            "components": [
+              {
+                "images": [
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/3719a12c-af75-410f-9fb8-246de9fcfa6d/McDonalds_Add-On_Screenshot_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/3719a12c-af75-410f-9fb8-246de9fcfa6d/McDonalds_Add-On_Screenshot_0.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/75231e2d-e1d6-4bb9-90d0-8f2b48b33fb2/McDonalds_Add-On_Screenshot_1.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/75231e2d-e1d6-4bb9-90d0-8f2b48b33fb2/McDonalds_Add-On_Screenshot_1.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cd63241f-1731-48d6-9c7b-64edc959ebb5/McDonalds_Add-On_Screenshot_2.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/cd63241f-1731-48d6-9c7b-64edc959ebb5/McDonalds_Add-On_Screenshot_2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2280e117-ad56-4e53-96ad-e1030203b683/McDonalds_Add-On_Screenshot_3.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/2280e117-ad56-4e53-96ad-e1030203b683/McDonalds_Add-On_Screenshot_3.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/674b47c9-9e77-4474-89d3-4b5ea1adaf4c/McDonalds_Add-On_Screenshot_4.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/674b47c9-9e77-4474-89d3-4b5ea1adaf4c/McDonalds_Add-On_Screenshot_4.jpg?width=800&height=450"
+                  }
+                ],
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Take a tour!",
+                "text": {
+                  "value": "Take a tour!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "WorldView",
+            "telemetryId": "Journey in a new world!",
+            "components": [
+              {
+                "panoramaUrl": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/be8e0cb1-8333-4c70-b55f-f191307466b0/McDonalds_Add-On_panorama.jpg",
+                "panoramaImage": {
+                  "type": "Panorama",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/be8e0cb1-8333-4c70-b55f-f191307466b0/McDonalds_Add-On_panorama.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/be8e0cb1-8333-4c70-b55f-f191307466b0/McDonalds_Add-On_panorama.jpg?width=-1&height=450"
+                },
+                "type": "panoramaComp",
+                "$type": "PanoramaComponent"
+              },
+              {
+                "headerText": "Journey in a new world!",
+                "text": {
+                  "value": "Journey in a new world!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.8,
+                  "totalCount": 1708,
+                  "count5Star": 1582,
+                  "count4Star": 48,
+                  "count3Star": 23,
+                  "count2Star": 10,
+                  "count1Star": 45,
+                  "id": "26e35b2b-ac51-49b6-98df-ca15f06f912c",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "93%%",
+                    "percentage4Star": "3%%",
+                    "percentage3Star": "1%%",
+                    "percentage2Star": "1%%",
+                    "percentage1Star": "3%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "435b2432-cea9-40cc-a488-995d78cded05",
+      "Contents": [
+        {
+          "Id": "2fdf71e9-f026-413e-8495-5246c83a9bcc",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeonsII/TwistedCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons II",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "ed8b1cca-94b8-4019-9225-33de7f3d2b5a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

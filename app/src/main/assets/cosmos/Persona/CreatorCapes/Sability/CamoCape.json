@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b0458d60-382e-4b45-b9df-5098f1fc4dfa",
+      "Contents": [
+        {
+          "Id": "790b7e38-207c-4c2f-8530-e2fa1655950f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/CamoCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dde0e0cc-428a-4d82-974c-30cebdb81eb2",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

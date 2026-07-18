@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a22db560-6235-4171-a286-5f86f5077bff",
+      "Contents": [
+        {
+          "Id": "ca8a8f01-e5b7-43ac-a171-083e73d39f81",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeonsII/SoulCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons II",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "15324383-6ccb-4fcd-a2f2-ba3bbfdd18b3",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
