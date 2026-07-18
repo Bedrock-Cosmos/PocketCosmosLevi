@@ -308,8 +308,24 @@
     "response": "Persona\\SpinOffCapes\\SinisterCape.json"
   },
   {
+    "uuid": "a22db560-6235-4171-a286-5f86f5077bff",
+    "response": "Persona\\SpinOffCapes\\SoulCape.json"
+  },
+  {
     "uuid": "1a3f66b4-a66b-4a44-bb79-d795ca40bbf7",
     "response": "Persona\\SpinOffCapes\\TurtleShellCape.json"
+  },
+  {
+    "uuid": "435b2432-cea9-40cc-a488-995d78cded05",
+    "response": "Persona\\SpinOffCapes\\TwistedCape.json"
+  },
+  {
+    "uuid": "5bba5540-377b-4ec2-9633-4551c4e82e37",
+    "response": "Persona\\CustomCapes\\AndroidCape.json"
+  },
+  {
+    "uuid": "9fa8cacf-5aef-4415-b655-ab82df15656d",
+    "response": "Persona\\CustomCapes\\BedNewCape.json"
   },
   {
     "uuid": "80a1968a-853e-4ca8-9c70-6de7ddb732b1",
@@ -388,6 +404,14 @@
     "response": "Persona\\CustomCapes\\Hypixel_cape.json"
   },
   {
+    "uuid": "86c248d2-0615-40ff-afc1-e8d6a04435ed",
+    "response": "Persona\\CustomCapes\\MCape.json"
+  },
+  {
+    "uuid": "8b7e5613-3394-43a5-8655-022bf2be0d6f",
+    "response": "Persona\\CustomCapes\\MelonCape.json"
+  },
+  {
     "uuid": "4ca17959-173d-4ae0-ae15-d114ac23bb02",
     "response": "Persona\\CustomCapes\\Microsoft_cape.json"
   },
@@ -418,6 +442,10 @@
   {
     "uuid": "449308f3-1f33-4b92-ae94-f7fb198e2c01",
     "response": "Persona\\CustomCapes\\Pumpkin_cape.json"
+  },
+  {
+    "uuid": "64f80879-ff7c-4490-81f8-f081d2dc1bb5",
+    "response": "Persona\\CustomCapes\\SquidCape2.json"
   },
   {
     "uuid": "4ca9116f-0e34-4ec3-ae1b-203cc31a6540",
@@ -554,6 +582,78 @@
   {
     "uuid": "5299cc99-f1e9-4e28-b4e4-ac47a82d4c8f",
     "response": "Persona\\CreatorCapes\\NAC\\MCCYellowYaksCape.json"
+  },
+  {
+    "uuid": "88b7ad01-d26b-4b03-aee4-d0f15db6181b",
+    "response": "Persona\\CreatorCapes\\Sability\\SabilityCape.json"
+  },
+  {
+    "uuid": "9ebb516e-b275-4652-a1e1-c66452d45227",
+    "response": "Persona\\CreatorCapes\\Sability\\BedrockViewerCape.json"
+  },
+  {
+    "uuid": "f95a3c09-b964-49f4-8bff-68f4c419d4c9",
+    "response": "Persona\\CreatorCapes\\Sability\\BlackHoleCape.json"
+  },
+  {
+    "uuid": "b0458d60-382e-4b45-b9df-5098f1fc4dfa",
+    "response": "Persona\\CreatorCapes\\Sability\\CamoCape.json"
+  },
+  {
+    "uuid": "be7d1076-4fd0-48eb-b7a3-309738e9ca51",
+    "response": "Persona\\CreatorCapes\\Sability\\ChalkboardCape.json"
+  },
+  {
+    "uuid": "b00db69c-c9e4-434b-a1ce-b634f337b044",
+    "response": "Persona\\CreatorCapes\\Sability\\CodCape.json"
+  },
+  {
+    "uuid": "30f99b01-fecf-44dd-be61-54d2bd6c3ce2",
+    "response": "Persona\\CreatorCapes\\Sability\\ElementalEarthCape.json"
+  },
+  {
+    "uuid": "ffe6af1f-7f35-4f38-b100-05355411a68a",
+    "response": "Persona\\CreatorCapes\\Sability\\ElementalFireCape.json"
+  },
+  {
+    "uuid": "53168159-664d-4233-97f0-719e4d1295bb",
+    "response": "Persona\\CreatorCapes\\Sability\\ElementalWaterCape.json"
+  },
+  {
+    "uuid": "68f1ff9b-d021-4f31-ae50-d040eaf7fe44",
+    "response": "Persona\\CreatorCapes\\Sability\\ElementalWindCape.json"
+  },
+  {
+    "uuid": "efbbb230-9cdd-49ac-9103-1c305eecefac",
+    "response": "Persona\\CreatorCapes\\Sability\\GoldenCape.json"
+  },
+  {
+    "uuid": "d9ddbf1f-6dca-4327-a3cf-b2f243335959",
+    "response": "Persona\\CreatorCapes\\Sability\\SabilityCakeCape.json"
+  },
+  {
+    "uuid": "4cf60f66-8ee3-4a6f-b42b-b01db055ba61",
+    "response": "Persona\\CreatorCapes\\Sability\\SabilityCookieCape.json"
+  },
+  {
+    "uuid": "b31df7dd-631c-47d6-9ddc-03f2a03c44ec",
+    "response": "Persona\\CreatorCapes\\Sability\\SabilityDiscordCape.json"
+  },
+  {
+    "uuid": "d726d93c-3d26-40d6-872d-c125281c6c73",
+    "response": "Persona\\CreatorCapes\\Sability\\SabilityGhastCape.json"
+  },
+  {
+    "uuid": "209d39aa-c197-4e6a-9452-17e2960e5d76",
+    "response": "Persona\\CreatorCapes\\Sability\\SabilityMCPEDLCape.json"
+  },
+  {
+    "uuid": "d25169b8-cf46-4e58-a3a1-918a90c165c8",
+    "response": "Persona\\CreatorCapes\\Sability\\SulfurCubeCape.json"
+  },
+  {
+    "uuid": "f1c2e968-6a50-494a-a969-875d0150b87a",
+    "response": "Persona\\CreatorCapes\\Sability\\USBChargerBlockCape.json"
   },
   {
     "uuid": "b178226d-1fe8-45bd-b2a2-b527be0f90cf",
@@ -1158,6 +1258,14 @@
   },
   // Creator Packs
   {
+    "uuid": "b1026ea3-1c85-492d-aa01-21a1d51829fe",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_AlleisSkinPack.json"
+  },
+  {
+    "uuid": "ee2e819d-323d-4245-b2a5-b679ae961402",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_VariousGirls.json"
+  },
+  {
     "uuid": "1dafe8e5-aacc-4518-98ed-f6ce66bfba80",
     "response": "SkinPacks\\Creators\\BionicBen\\Binary_6thBirthdaySkinPack.json"
   },
@@ -1206,6 +1314,10 @@
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC8.json"
   },
   {
+    "uuid": "74694ab4-178f-4c60-a0dd-96ec4627390e",
+    "response": "SkinPacks\\Creators\\SRG64\\Binary_SRGsVoxelSkinPack.json"
+  },
+  {
     "uuid": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
     "response": "SkinPacks\\Creators\\YEH\\Binary_LEGOMinecraftSkinPack.json"
   },
@@ -1217,7 +1329,6 @@
     "uuid": "86e6a53f-6ae6-4109-935a-72f877194c02",
     "response": "SkinPacks\\Creators\\YEH\\Binary_REPOSEMIBOTS5D.json"
   },
-  //
   {
     "uuid": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
     "response": "SkinPacks\\Creators\\ZeroMISTER_JA\\Binary_BlackHoleSkinPack.json"
