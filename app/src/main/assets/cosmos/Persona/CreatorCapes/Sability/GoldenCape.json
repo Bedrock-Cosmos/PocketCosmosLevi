@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "efbbb230-9cdd-49ac-9103-1c305eecefac",
+      "Contents": [
+        {
+          "Id": "5d56d1dc-8291-4a76-9f4e-b3f2919b8729",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/GoldenCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "bafc5009-f02b-4d6f-aa59-33b492ed7fb0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
