@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "53168159-664d-4233-97f0-719e4d1295bb",
+      "Contents": [
+        {
+          "Id": "8cc45ad5-719f-4fdb-9f2f-103eae4ad1a5",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/ElementalWaterCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "626943b6-b736-4543-a773-d096e8d6caa7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

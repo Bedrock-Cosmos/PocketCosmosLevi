@@ -1,0 +1,491 @@
+{
+  "result": {
+    "id": "6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+    "pageId": "ItemDetail_6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+    "addToRecentlyViewed": true,
+    "pageName": "ItemDetail For 'A Minecraft Movie: Add-On'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "A Minecraft Movie: Add-On",
+                  "creatorName": "Spark Universe",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.8,
+                    "totalCount": 143648
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": null,
+                    "virtualCurrencyType": null
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": {
+                      "value": "Spark Universe",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 0,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 1,
+                    "addOns": 1
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "AddOn",
+                  "packIdentity": [
+                    {
+                      "type": "behaviorpack",
+                      "uuid": "4022586e-94ef-4d55-8e2a-dc3e23eee8b5",
+                      "version": "1.0.7"
+                    },
+                    {
+                      "type": "resourcepack",
+                      "uuid": "8e3af75d-bde4-471d-8b09-a6e7245741c0",
+                      "version": "1.0.7"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.action",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.action",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Action"
+                    },
+                    {
+                      "linksTo": "Tag_tag.craftable_weapons",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.craftable_weapons",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Craftable Weapons"
+                    },
+                    {
+                      "linksTo": "Tag_tag.custom_mobs",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.custom_mobs",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Custom Mobs"
+                    },
+                    {
+                      "linksTo": "Tag_tag.add_on",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.add_on",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Add On"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/ce291df2-0d25-440c-b368-65732c2a654f/A_Minecraft_Movie_Add-on_Pack_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2025-02-26T18:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {},
+                  "hardwareMemoryTier": 0
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c9c2cb00-cdb4-4e1e-a2a8-b561ef4c2b11/primary.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "telemetryId": "store.mashup.description",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "When the Overworld and Nether clash, you’d better be equipped! Wield powerful weapons and fight vicious piglins from A Minecraft Movie in this free add-on. Equip the potato launcher, buck-chuckets, and more, then face the Piglin General, the Great Hog, and a host of other foes. Can you handle everything the Nether will throw at you? Gear up and find out!",
+                "genres": [
+                  {
+                    "linksTo": "Tag_genre.action",
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.action",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Action"
+                  }
+                ],
+                "subgenres": [],
+                "playerCount": "1+",
+                "playerCounts": [],
+                "tags": [
+                  {
+                    "linksTo": "Tag_tag.craftable_weapons",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.craftable_weapons",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Craftable Weapons"
+                  },
+                  {
+                    "linksTo": "Tag_tag.custom_mobs",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.custom_mobs",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Custom Mobs"
+                  },
+                  {
+                    "linksTo": "Tag_tag.add_on",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.add_on",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Add On"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ImageGallery",
+            "telemetryId": "Take a tour!",
+            "components": [
+              {
+                "images": [
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d1d51618-4658-45b5-a8eb-e259cd468072/A_Minecraft_Movie_Add-on_Pack_screenshot_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/d1d51618-4658-45b5-a8eb-e259cd468072/A_Minecraft_Movie_Add-on_Pack_screenshot_0.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0a547538-cb7d-4376-bbaa-92e8f0d87dbf/A_Minecraft_Movie_Add-on_Pack_screenshot_1.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/0a547538-cb7d-4376-bbaa-92e8f0d87dbf/A_Minecraft_Movie_Add-on_Pack_screenshot_1.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/92a7b5d3-4ff5-46a5-b18b-6cd0e0cf3de8/A_Minecraft_Movie_Add-on_Pack_screenshot_2.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/92a7b5d3-4ff5-46a5-b18b-6cd0e0cf3de8/A_Minecraft_Movie_Add-on_Pack_screenshot_2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/76fa1254-ee39-481d-99fc-09f7e24eb4df/A_Minecraft_Movie_Add-on_Pack_screenshot_3.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/76fa1254-ee39-481d-99fc-09f7e24eb4df/A_Minecraft_Movie_Add-on_Pack_screenshot_3.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/8364a377-ba5e-4fdc-99b2-732864f2dbec/A_Minecraft_Movie_Add-on_Pack_screenshot_4.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/8364a377-ba5e-4fdc-99b2-732864f2dbec/A_Minecraft_Movie_Add-on_Pack_screenshot_4.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fff4c5bb-c217-4028-b3fe-db1237fe6464/A_Minecraft_Movie_Add-on_Pack_screenshot_5.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/fff4c5bb-c217-4028-b3fe-db1237fe6464/A_Minecraft_Movie_Add-on_Pack_screenshot_5.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e6b47dff-8b04-48ad-88b3-613c53448bbd/A_Minecraft_Movie_Add-on_Pack_screenshot_6.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/e6b47dff-8b04-48ad-88b3-613c53448bbd/A_Minecraft_Movie_Add-on_Pack_screenshot_6.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58f7455f-fb5d-482a-85bd-e63013c0b6bc/A_Minecraft_Movie_Add-on_Pack_screenshot_7.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/58f7455f-fb5d-482a-85bd-e63013c0b6bc/A_Minecraft_Movie_Add-on_Pack_screenshot_7.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e3f269c8-232e-4d1d-b0fd-50fd11115f63/A_Minecraft_Movie_Add-on_Pack_screenshot_8.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/e3f269c8-232e-4d1d-b0fd-50fd11115f63/A_Minecraft_Movie_Add-on_Pack_screenshot_8.jpg?width=800&height=450"
+                  }
+                ],
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Take a tour!",
+                "text": {
+                  "value": "Take a tour!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "WorldView",
+            "telemetryId": "Journey in a new world!",
+            "components": [
+              {
+                "panoramaUrl": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/83e2bbc5-e540-4ea3-8ac0-d2f77a0e3918/A_Minecraft_Movie_Add-on_Pack_panorama_0.jpg",
+                "panoramaImage": {
+                  "type": "Panorama",
+                  "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/83e2bbc5-e540-4ea3-8ac0-d2f77a0e3918/A_Minecraft_Movie_Add-on_Pack_panorama_0.jpg",
+                  "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/83e2bbc5-e540-4ea3-8ac0-d2f77a0e3918/A_Minecraft_Movie_Add-on_Pack_panorama_0.jpg?width=-1&height=450"
+                },
+                "type": "panoramaComp",
+                "$type": "PanoramaComponent"
+              },
+              {
+                "headerText": "Journey in a new world!",
+                "text": {
+                  "value": "Journey in a new world!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.8,
+                  "totalCount": 143648,
+                  "count5Star": 127423,
+                  "count4Star": 8285,
+                  "count3Star": 3259,
+                  "count2Star": 1114,
+                  "count1Star": 3567,
+                  "id": "6ac55b36-b539-4f49-a0ee-89cc2c60cfb7",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "89%%",
+                    "percentage4Star": "6%%",
+                    "percentage3Star": "2%%",
+                    "percentage2Star": "1%%",
+                    "percentage1Star": "2%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}
