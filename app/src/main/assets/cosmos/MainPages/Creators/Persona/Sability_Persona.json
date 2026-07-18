@@ -1,0 +1,864 @@
+{
+  "result": {
+    "id": "50dead25-46c1-4dd4-8f63-f8403716fcb9",
+    "pageId": "DressingRoom_Capes",
+    "addToRecentlyViewed": false,
+    "pageRefresh": false,
+    "sidebarLayoutType": "Persona",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "type": "personaOfferInteractionComp",
+                "$type": "PersonaOfferInteractionComponent"
+              },
+              {
+                "type": "appearanceInteractionComp",
+                "$type": "AppearanceInteractionComponent"
+              },
+              {
+                "type": "openColorPickerComp",
+                "$type": "OpenColorPickerComponent"
+              },
+              {
+                "type": "openExpandedAppearanceViewComp",
+                "$type": "OpenExpandedAppearanceViewComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_DressingRoomCoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.minecoin.screen",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_DressingRoomSearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.character_creator_screen",
+                  "screenTitle": {
+                    "value": "dr.header.search.home",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0.0,
+                      "buttonWidth": 0.0,
+                      "color": [],
+                      "offerControlIdType": "None"
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  }
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "All capes here are created by Sability!\n\nDiscord: @xxooqq",
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "GridList",
+            "components": [
+              {
+                "text": {
+                  "value": "Capes by Sability",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "font": "MinecraftTen",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0.0,
+                    "buttonWidth": 0.0,
+                    "color": [],
+                    "offerControlIdType": "None"
+                  },
+                  "replacements": [
+                    "dr.categories.capes"
+                  ]
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "items": [
+                  {
+                    "id": "9ebb516e-b275-4652-a1e1-c66452d45227",
+                    "contentType": "PersonaDurable",
+                    "title": "Bedrock Viewer Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/BedrockViewerCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/BedrockViewerCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "73627146-6aeb-41f2-8503-5fd4d2b829b7",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:21:22Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f95a3c09-b964-49f4-8bff-68f4c419d4c9",
+                    "contentType": "PersonaDurable",
+                    "title": "Black Hole Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/BlackHoleCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/BlackHoleCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "20a40965-3705-4899-88a5-1d0244c8343b",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:23:40Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b0458d60-382e-4b45-b9df-5098f1fc4dfa",
+                    "contentType": "PersonaDurable",
+                    "title": "Camo Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/CamoCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/CamoCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "dde0e0cc-428a-4d82-974c-30cebdb81eb2",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:24:05Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "be7d1076-4fd0-48eb-b7a3-309738e9ca51",
+                    "contentType": "PersonaDurable",
+                    "title": "Chalkboard Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ChalkboardCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ChalkboardCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "d62224bf-74c7-46d8-8a86-b3075ccbd4e7",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:24:39Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b00db69c-c9e4-434b-a1ce-b634f337b044",
+                    "contentType": "PersonaDurable",
+                    "title": "Cod Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/CodCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/CodCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "6eef95ea-d4f4-43c4-b40b-5eb545e5bdd9",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:25:02Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "30f99b01-fecf-44dd-be61-54d2bd6c3ce2",
+                    "contentType": "PersonaDurable",
+                    "title": "Elemental Earth Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalEarthCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalEarthCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "6db1d7bf-5073-49fd-9a9f-eaa2ee009eea",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:25:31Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "ffe6af1f-7f35-4f38-b100-05355411a68a",
+                    "contentType": "PersonaDurable",
+                    "title": "Elemental Fire Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalFireCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalFireCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "f1efa233-baa1-4e27-8365-fd7ba7d43124",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:25:57Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "53168159-664d-4233-97f0-719e4d1295bb",
+                    "contentType": "PersonaDurable",
+                    "title": "Elemental Water Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalWaterCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalWaterCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "626943b6-b736-4543-a773-d096e8d6caa7",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:26:20Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "68f1ff9b-d021-4f31-ae50-d040eaf7fe44",
+                    "contentType": "PersonaDurable",
+                    "title": "Elemental Wind Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalWindCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/ElementalWindCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "ff2f9f62-6ee7-47dd-ad76-12fefff1e2fc",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:26:42Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "efbbb230-9cdd-49ac-9103-1c305eecefac",
+                    "contentType": "PersonaDurable",
+                    "title": "Golden Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/GoldenCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/GoldenCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "bafc5009-f02b-4d6f-aa59-33b492ed7fb0",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:27:05Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "d9ddbf1f-6dca-4327-a3cf-b2f243335959",
+                    "contentType": "PersonaDurable",
+                    "title": "Sability Cake Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityCakeCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityCakeCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "2fe3bde9-b445-44f0-8ce8-3780ce484cd6",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:27:27Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "4cf60f66-8ee3-4a6f-b42b-b01db055ba61",
+                    "contentType": "PersonaDurable",
+                    "title": "Sability Cookie Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityCookieCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityCookieCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "e82ac627-414a-46b8-a2bf-42784091e77d",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:27:47Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b31df7dd-631c-47d6-9ddc-03f2a03c44ec",
+                    "contentType": "PersonaDurable",
+                    "title": "Sability Discord Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityDiscordCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityDiscordCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "d4092352-74a7-4c45-95c8-c79cbbbcdaee",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-10T03:22:21Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "d726d93c-3d26-40d6-872d-c125281c6c73",
+                    "contentType": "PersonaDurable",
+                    "title": "Sability Ghast Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityGhastCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityGhastCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "10a5bcc1-288a-4274-bfe5-d7448506d25f",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:28:10Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "209d39aa-c197-4e6a-9452-17e2960e5d76",
+                    "contentType": "PersonaDurable",
+                    "title": "Sability MCPEDL Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityMCPEDLCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SabilityMCPEDLCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "63540c72-844b-471d-8035-2b3c8f8c8888",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:28:37Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "d25169b8-cf46-4e58-a3a1-918a90c165c8",
+                    "contentType": "PersonaDurable",
+                    "title": "Sulfur Cube Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SulfurCubeCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/SulfurCubeCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "3b5b107f-8301-4afb-8a24-aec1ba0f4d79",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:28:59Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f1c2e968-6a50-494a-a969-875d0150b87a",
+                    "contentType": "PersonaDurable",
+                    "title": "USB Charger Block Cape",
+                    "creatorName": "Sability",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/USBChargerBlockCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/USBChargerBlockCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "uncommon",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "43cf2a24-b5bc-4f87-a7ec-0e62c5557a64",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-06-09T23:30:27Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "navigateInPlace": false
+                      }
+                    }
+                  }
+                ],
+                "totalItems": 400,
+                "linksTo": "MultiItemPage_Inventory",
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "marketplace_inventory",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "navigateInPlace": false
+                },
+                "customStoreRowConfiguration": {
+                  "seeAllVisible": false,
+                  "maxOffers": 400,
+                  "arrowsVisible": false,
+                  "visibleOffersPerRow": 0
+                },
+                "type": "itemListComp",
+                "$type": "ItemListComponent"
+              },
+              {
+                "type": "dispPreviewPieceComp",
+                "$type": "DisplayPreviewedPieceOfferComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

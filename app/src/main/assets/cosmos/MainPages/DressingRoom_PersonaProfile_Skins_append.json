@@ -21,6 +21,52 @@
       "startDate": "2025-10-25T12:00:00Z"
     },
     {
+      "id": "b1026ea3-1c85-492d-aa01-21a1d51829fe",
+      "contentType": "MarketplaceDurableCatalog_V1.2",
+      "title": "Alleis Skin Pack",
+      "creatorName": "Alleis Elis",
+      "thumbnail": {
+        "tag": "Thumbnail",
+        "type": "Thumbnail",
+        "url": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_thumbnail.jpg?width=800&height=450"
+      },
+      "price": {
+        "listPrice": -1,
+        "realmsInfo": {
+          "inRealmsPlus": false
+        },
+        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+        "virtualCurrencyType": "Minecoin"
+      },
+      "linksTo": "ItemDetail_b1026ea3-1c85-492d-aa01-21a1d51829fe",
+      "linksToInfo": {
+        "linksTo": "ItemDetail_b1026ea3-1c85-492d-aa01-21a1d51829fe",
+        "linkType": "pageId",
+        "displayType": "store_layout.store_data_driven_screen",
+        "navigateInPlace": false
+      },
+      "creatorPage": "CreatorPage_master_player_account!Exports",
+      "statistics": {
+        "skins": 168,
+        "worlds": 0,
+        "textures": 0,
+        "behaviors": 0,
+        "addOns": 0
+      },
+      "flags": ["New"],
+      "ownership": "Purchased",
+      "packType": "SkinPack",
+      "packIdentity": [
+        {
+          "type": "skinpack",
+          "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
+          "version": "1.3.5"
+        }
+      ],
+      "startDate": "2020-01-01T12:00:00Z"
+    },
+    {
       "id": "aa0b65fd-8cfe-43dc-a7c0-c306757fe1a3",
       "contentType": "MarketplaceDurableCatalog_V1.2",
       "title": "Deadmau5 Skin Pack",
@@ -53,7 +99,7 @@
         "behaviors": 0,
         "addOns": 0
       },
-      "flags": ["New"],
+      "flags": [],
       "ownership": "Purchased",
       "packType": "SkinPack",
       "packIdentity": [
@@ -66,15 +112,15 @@
       "startDate": "2020-01-01T12:00:00Z"
     },
     {
-      "id": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+      "id": "74694ab4-178f-4c60-a0dd-96ec4627390e",
       "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "Matching Cosmetics 8",
-      "creatorName": "Exports",
+      "title": "SRG's Voxel Skin Pack",
+      "creatorName": "SRG64",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg",
-        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/ExportsMatchingCosmetics8_thumbnail.jpg?width=800&height=450"
+        "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_thumbnail.jpg",
+        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_thumbnail.jpg?width=800&height=450"
       },
       "price": {
         "listPrice": -1,
@@ -84,16 +130,16 @@
         "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
         "virtualCurrencyType": "Minecoin"
       },
-      "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+      "linksTo": "ItemDetail_74694ab4-178f-4c60-a0dd-96ec4627390e",
       "linksToInfo": {
-        "linksTo": "ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
+        "linksTo": "ItemDetail_74694ab4-178f-4c60-a0dd-96ec4627390e",
         "linkType": "pageId",
         "displayType": "store_layout.store_data_driven_screen",
         "navigateInPlace": false
       },
-      "creatorPage": "CreatorPage_master_player_account!Exports",
+      "creatorPage": "CreatorPage_master_player_account!ZeroMISTER_JA",
       "statistics": {
-        "skins": 30,
+        "skins": 74,
         "worlds": 0,
         "textures": 0,
         "behaviors": 0,
@@ -105,12 +151,11 @@
       "packIdentity": [
         {
           "type": "skinpack",
-          "uuid": "cd99e175-5498-4edf-8bb2-ab29cbfc00b9",
-          "version": "1.0.0"
+          "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+          "version": "1.3.0"
         }
       ],
-      "startDate": "2020-01-01T12:00:00Z",
-      "videoUrl": "https://www.youtube.com/watch?v=mb1r-t64Fjw"
+      "startDate": "2020-01-01T12:00:00Z"
     },
     {
       "id": "b20dc966-1071-4845-a7a0-b0d2acb253ce",
@@ -146,7 +191,7 @@
         "behaviors": 0,
         "addOns": 0
       },
-      "flags": ["New"],
+      "flags": [],
       "ownership": "Purchased",
       "packType": "SkinPack",
       "packIdentity": [
@@ -192,59 +237,13 @@
         "behaviors": 0,
         "addOns": 0
       },
-      "flags": ["New"],
+      "flags": [],
       "ownership": "Purchased",
       "packType": "SkinPack",
       "packIdentity": [
         {
           "type": "skinpack",
           "uuid": "73d78fb2-9cd7-43bb-8f60-899f654761e1",
-          "version": "1.0.0"
-        }
-      ],
-      "startDate": "2020-01-01T12:00:00Z"
-    },
-    {
-      "id": "b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
-      "contentType": "MarketplaceDurableCatalog_V1.2",
-      "title": "Black Hole Skin Pack",
-      "creatorName": "ZeroMISTER JA",
-      "thumbnail": {
-        "tag": "Thumbnail",
-        "type": "Thumbnail",
-        "url": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg",
-        "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/BlackHole_thumbnail.jpg?width=800&height=450"
-      },
-      "price": {
-        "listPrice": -1,
-        "realmsInfo": {
-          "inRealmsPlus": false
-        },
-        "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-        "virtualCurrencyType": "Minecoin"
-      },
-      "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
-      "linksToInfo": {
-        "linksTo": "ItemDetail_b96ad5fb-f58c-4a92-bbbc-44bb9244e732",
-        "linkType": "pageId",
-        "displayType": "store_layout.store_data_driven_screen",
-        "navigateInPlace": false
-      },
-      "creatorPage": "CreatorPage_master_player_account!ZeroMISTER_JA",
-      "statistics": {
-        "skins": 4,
-        "worlds": 0,
-        "textures": 0,
-        "behaviors": 0,
-        "addOns": 0
-      },
-      "flags": ["New"],
-      "ownership": "Purchased",
-      "packType": "SkinPack",
-      "packIdentity": [
-        {
-          "type": "skinpack",
-          "uuid": "ec24d5bb-c72d-4ca7-a684-4de5be42e126",
           "version": "1.0.0"
         }
       ],

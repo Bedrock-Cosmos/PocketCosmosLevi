@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b31df7dd-631c-47d6-9ddc-03f2a03c44ec",
+      "Contents": [
+        {
+          "Id": "e6d16f6a-2532-4958-82cf-eabb4b43cef3",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/SabilityDiscordCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d4092352-74a7-4c45-95c8-c79cbbbcdaee",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

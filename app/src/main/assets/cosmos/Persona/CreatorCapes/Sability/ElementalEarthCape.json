@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "30f99b01-fecf-44dd-be61-54d2bd6c3ce2",
+      "Contents": [
+        {
+          "Id": "f05e408c-2fa4-403f-af67-d40fba1852a7",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/ElementalEarthCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6db1d7bf-5073-49fd-9a9f-eaa2ee009eea",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

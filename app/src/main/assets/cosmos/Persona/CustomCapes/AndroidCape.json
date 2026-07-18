@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "5bba5540-377b-4ec2-9633-4551c4e82e37",
+      "Contents": [
+        {
+          "Id": "1bb54a51-7a3d-4793-85a2-c227aaf6c5d9",
+          "Url": "https://capes.bedrock-cosmos.app/zips/AndroidCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "4a48472c-2256-41db-9b96-790276e84fc1",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

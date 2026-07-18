@@ -1,0 +1,432 @@
+{
+  "result": {
+    "id": "04055158-74ca-4581-8ecb-c17759518ed1",
+    "pageId": "ItemDetail_04055158-74ca-4581-8ecb-c17759518ed1",
+    "addToRecentlyViewed": true,
+    "pageName": "ItemDetail For 'A Minecraft Movie: Jetpack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
+    "layout": [
+      {
+        "sectionName": "rows",
+        "rows": [
+          {
+            "controlId": "Layout",
+            "components": [
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_CoinScreen",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "Minecoins",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarMinecoinComp",
+                "$type": "TopBarMinecoinComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "Search_SearchHome",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "store.search.title",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "type": "topBarSearchComp",
+                "$type": "TopBarSearchComponent"
+              },
+              {
+                "linksToInfo": {
+                  "linksTo": "MultiItemPage_Inventory",
+                  "linkType": "pageId",
+                  "displayType": "store_layout.store_data_driven_screen",
+                  "screenTitle": {
+                    "value": "My Content",
+                    "style": {
+                      "highlightColor": [],
+                      "alignment": "Left",
+                      "textColor": [],
+                      "font": "MinecraftTen",
+                      "showBackground": false,
+                      "showOutline": false,
+                      "indent": 0,
+                      "buttonWidth": 0,
+                      "color": [],
+                      "offerControlIdType": "None",
+                      "outlineColor": []
+                    },
+                    "replacements": []
+                  },
+                  "navigateInPlace": false
+                },
+                "isVisible": true,
+                "topBarIcon": {
+                  "type": "SidebarNavIcon",
+                  "localPath": "textures/ui/sidebar_icons/my_content_large"
+                },
+                "inventoryTitle": {
+                  "value": "store.myLibrary",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [],
+                    "font": "SmoothWithEmoticons",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "topBarInventoryComp",
+                "$type": "TopBarInventoryComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemSummary",
+            "components": [
+              {
+                "item": {
+                  "id": "04055158-74ca-4581-8ecb-c17759518ed1",
+                  "contentType": "MarketplaceDurableCatalog_V1.2",
+                  "title": "A Minecraft Movie: Jetpack",
+                  "creatorName": "Minecraft",
+                  "thumbnail": {
+                    "tag": "Thumbnail",
+                    "type": "Thumbnail",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg?width=800&height=450"
+                  },
+                  "rating": {
+                    "average": 4.7,
+                    "totalCount": 483
+                  },
+                  "price": {
+                    "listPrice": 0,
+                    "realmsInfo": {
+                      "inRealmsPlus": false
+                    },
+                    "currencyId": null,
+                    "virtualCurrencyType": null
+                  },
+                  "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                  "linksToInfo": {
+                    "linksTo": "CreatorPage_master_player_account!301F442C3B63DC20",
+                    "linkType": "pageId",
+                    "displayType": "store_layout.store_data_driven_screen",
+                    "screenTitle": {
+                      "value": "Minecraft",
+                      "replacements": []
+                    },
+                    "navigateInPlace": false
+                  },
+                  "statistics": {
+                    "skins": 0,
+                    "worlds": 0,
+                    "textures": 0,
+                    "behaviors": 1,
+                    "addOns": 1
+                  },
+                  "flags": [],
+                  "ownership": "NotOwned",
+                  "packType": "AddOn",
+                  "packIdentity": [
+                    {
+                      "type": "behaviorpack",
+                      "uuid": "08bb0cd8-7cf7-46cb-b271-f3452268d93c",
+                      "version": "1.0.3"
+                    },
+                    {
+                      "type": "resourcepack",
+                      "uuid": "70114cf2-8beb-4759-be01-4341d213bb72",
+                      "version": "1.0.3"
+                    }
+                  ],
+                  "tags": [
+                    {
+                      "linksTo": "Tag_genre.action",
+                      "linksToInfo": {
+                        "linksTo": "Tag_genre.action",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Action"
+                    },
+                    {
+                      "linksTo": "Tag_tag.add_on",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.add_on",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Add On"
+                    },
+                    {
+                      "linksTo": "Tag_tag.tech",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.tech",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Tech"
+                    },
+                    {
+                      "linksTo": "Tag_tag.fly",
+                      "linksToInfo": {
+                        "linksTo": "Tag_tag.fly",
+                        "linkType": "pageId",
+                        "displayType": "store_layout.store_data_driven_screen",
+                        "navigateInPlace": false
+                      },
+                      "name": "Fly"
+                    }
+                  ],
+                  "images": [
+                    {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg",
+                      "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/5e89866b-e702-4d63-82e7-ff8b7f2525da/A_Minecraft_Movie_Jetpack_Thumbnail_0.jpg?width=800&height=450"
+                    }
+                  ],
+                  "contents": [],
+                  "wishlisted": false,
+                  "platformRestricted": false,
+                  "iconOverlay": [],
+                  "descriptionLineByLine": [],
+                  "startDate": "2025-02-27T14:00:00Z",
+                  "subscription": [],
+                  "thumbnailPreviewOnly": false,
+                  "namedLinksToInfoMap": {}
+                },
+                "type": "itemSummaryComp",
+                "$type": "ItemSummaryComponent"
+              },
+              {
+                "binaries": [
+                  {
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/46b23826-ee38-4d09-8b9c-3e5bb3268be2/primary.zip"
+                  }
+                ],
+                "type": "purchaseInfoComp",
+                "$type": "PurchaseInfoComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ItemDescription",
+            "telemetryId": "store.mashup.description",
+            "components": [
+              {
+                "headerText": "store.mashup.description",
+                "text": {
+                  "value": "store.mashup.description",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              },
+              {
+                "description": "Soar and dart through the Overworld sky with the jetpack add-on!",
+                "genres": [
+                  {
+                    "linksTo": "Tag_genre.action",
+                    "linksToInfo": {
+                      "linksTo": "Tag_genre.action",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Action"
+                  }
+                ],
+                "subgenres": [],
+                "playerCount": "1+",
+                "playerCounts": [],
+                "tags": [
+                  {
+                    "linksTo": "Tag_tag.add_on",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.add_on",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Add On"
+                  },
+                  {
+                    "linksTo": "Tag_tag.tech",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.tech",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Tech"
+                  },
+                  {
+                    "linksTo": "Tag_tag.fly",
+                    "linksToInfo": {
+                      "linksTo": "Tag_tag.fly",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "navigateInPlace": false
+                    },
+                    "name": "Fly"
+                  }
+                ],
+                "warnings": [],
+                "type": "itemDescriptionComp",
+                "$type": "ItemDescriptionComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "ImageGallery",
+            "telemetryId": "Take a tour!",
+            "components": [
+              {
+                "images": [
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/52bf3022-07e9-40d0-86e7-dd1104bf20c2/A_Minecraft_Movie_Jetpack_screenshot_0.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/52bf3022-07e9-40d0-86e7-dd1104bf20c2/A_Minecraft_Movie_Jetpack_screenshot_0.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/72430cfc-c516-4e33-a1a4-0ef73bf1a2f3/A_Minecraft_Movie_Jetpack_screenshot_1.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/72430cfc-c516-4e33-a1a4-0ef73bf1a2f3/A_Minecraft_Movie_Jetpack_screenshot_1.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58333c33-706e-4320-96b7-a0628fb6879a/A_Minecraft_Movie_Jetpack_screenshot_2.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/58333c33-706e-4320-96b7-a0628fb6879a/A_Minecraft_Movie_Jetpack_screenshot_2.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c9292a3a-d35b-4793-a5bd-1bdbc6094989/A_Minecraft_Movie_Jetpack_screenshot_3.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/c9292a3a-d35b-4793-a5bd-1bdbc6094989/A_Minecraft_Movie_Jetpack_screenshot_3.jpg?width=800&height=450"
+                  },
+                  {
+                    "type": "Unknown",
+                    "url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2384982e-e5fe-47c4-8351-3d2ceabcbfce/A_Minecraft_Movie_Jetpack_screenshot_4.jpg",
+                    "urlWithResolution": "https://xforgeassets001.xboxlive.com:443/pf-namespace-b63a0803d3653643/2384982e-e5fe-47c4-8351-3d2ceabcbfce/A_Minecraft_Movie_Jetpack_screenshot_4.jpg?width=800&height=450"
+                  }
+                ],
+                "type": "imageGalleryComp",
+                "$type": "ImageGalleryComponent"
+              },
+              {
+                "headerText": "Take a tour!",
+                "text": {
+                  "value": "Take a tour!",
+                  "style": {
+                    "highlightColor": [],
+                    "alignment": "Left",
+                    "textColor": [1, 1, 1],
+                    "font": "default",
+                    "showBackground": false,
+                    "showOutline": false,
+                    "indent": 0,
+                    "buttonWidth": 0,
+                    "color": [],
+                    "offerControlIdType": "None",
+                    "outlineColor": []
+                  },
+                  "replacements": []
+                },
+                "type": "headerComp",
+                "$type": "HeaderComponent"
+              }
+            ]
+          },
+          {
+            "controlId": "RatingRow",
+            "components": [
+              {
+                "rating": {
+                  "average": 4.7,
+                  "totalCount": 483,
+                  "count5Star": 416,
+                  "count4Star": 31,
+                  "count3Star": 19,
+                  "count2Star": 3,
+                  "count1Star": 14,
+                  "id": "04055158-74ca-4581-8ecb-c17759518ed1",
+                  "ownership": "NotOwned",
+                  "ratingPercentages": {
+                    "percentage5Star": "86%%",
+                    "percentage4Star": "6%%",
+                    "percentage3Star": "4%%",
+                    "percentage2Star": "1%%",
+                    "percentage1Star": "3%%"
+                  }
+                },
+                "type": "ratingComp",
+                "$type": "RatingComponent"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionName": "navigation",
+        "rows": []
+      }
+    ]
+  }
+}

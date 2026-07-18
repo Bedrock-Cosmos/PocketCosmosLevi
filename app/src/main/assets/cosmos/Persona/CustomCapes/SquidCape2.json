@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "64f80879-ff7c-4490-81f8-f081d2dc1bb5",
+      "Contents": [
+        {
+          "Id": "60fe1fc0-5c5a-45c3-b50b-2f17722752ed",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SquidCape2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "MinecraftCapes",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fc0c86da-e012-4b75-b37f-0bd0ff6ed997",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

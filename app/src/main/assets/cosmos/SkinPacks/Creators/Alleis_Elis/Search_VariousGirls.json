@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "ee2e819d-323d-4245-b2a5-b679ae961402",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Various Girls",
+          "neutral": "Various Girls"
+        },
+        "Description": {
+          "NEUTRAL": "Transform your look with 12 different girl skins!\\nIncludes 5 Normal Skins, 2 Custom Geometry Skins, and 5 Hive Cosmetics!",
+          "neutral": "Transform your look with 12 different girl skins!\\nIncludes 5 Normal Skins, 2 Custom Geometry Skins, and 5 Hive Cosmetics!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "ee2e819d-323d-4245-b2a5-b679ae961402",
+          "60d6c1f6-ba2c-4086-ae92-bb46f90f3b74",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-06-17T07:17:02Z",
+        "LastModifiedDate": "2026-06-17T07:17:02Z",
+        "DisplayProperties": {
+          "creatorName": "Alleis Elis",
+          "offerId": "ee2e819d-323d-4245-b2a5-b679ae961402",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "60d6c1f6-ba2c-4086-ae92-bb46f90f3b74",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}
