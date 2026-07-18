@@ -181,6 +181,14 @@
   },
   // Creator Packs
   {
+    "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Search_AlleisSkinPack.json"
+  },
+  {
+    "uuid": "60d6c1f6-ba2c-4086-ae92-bb46f90f3b74",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Search_VariousGirls.json"
+  },
+  {
     "uuid": "342df268-636d-4f2b-a971-8350eb4fc440",
     "response": "SkinPacks\\Creators\\BionicBen\\Search_6thBirthdaySkinPack.json"
   },
@@ -227,6 +235,10 @@
   {
     "uuid": "cd99e175-5498-4edf-8bb2-ab29cbfc00b9",
     "response": "SkinPacks\\Creators\\Exports\\Search_EMC8.json"
+  },
+  {
+    "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+    "response": "SkinPacks\\Creators\\SRG64\\Search_SRGsVoxelSkinPack.json"
   },
   {
     "uuid": "f978adc0-729f-406d-bc0c-08cfbf5f9c30",

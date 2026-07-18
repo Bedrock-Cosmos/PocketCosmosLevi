@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "be7d1076-4fd0-48eb-b7a3-309738e9ca51",
+      "Contents": [
+        {
+          "Id": "31597f1e-a6b1-4ebf-ab3a-a07a070e145d",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/ChalkboardCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d62224bf-74c7-46d8-8a86-b3075ccbd4e7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
