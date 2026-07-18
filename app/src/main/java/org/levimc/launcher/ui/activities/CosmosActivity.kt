@@ -21,7 +21,7 @@ class CosmosActivity : BaseActivity() {
     private lateinit var manager: InbuiltModManager
 
     companion object {
-        const val COSMOS_VERSION = "1.1.0"
+        const val COSMOS_VERSION = "1.1.1"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
