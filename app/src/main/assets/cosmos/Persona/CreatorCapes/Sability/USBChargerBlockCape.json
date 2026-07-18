@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f1c2e968-6a50-494a-a969-875d0150b87a",
+      "Contents": [
+        {
+          "Id": "8e2562a1-0eb5-4e0e-916d-0109196aef73",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/USBChargerBlockCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "43cf2a24-b5bc-4f87-a7ec-0e62c5557a64",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "209d39aa-c197-4e6a-9452-17e2960e5d76",
+      "Contents": [
+        {
+          "Id": "ceeb8d92-f1e7-4d92-bcf2-6d81e39f0d7f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/SabilityMCPEDLCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "63540c72-844b-471d-8035-2b3c8f8c8888",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

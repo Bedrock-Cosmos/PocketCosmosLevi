@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9fa8cacf-5aef-4415-b655-ab82df15656d",
+      "Contents": [
+        {
+          "Id": "ce2a84e9-d5ee-4987-a65b-53a50c1e1f25",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BedNewCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Liefubledo",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1d61e212-7588-4f81-aaf6-b06c0a3ece05",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
