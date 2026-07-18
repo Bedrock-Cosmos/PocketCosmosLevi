@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "86c248d2-0615-40ff-afc1-e8d6a04435ed",
+      "Contents": [
+        {
+          "Id": "ef59b858-4c13-46ac-acee-8f87aa0ce49b",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "SwagerOnline",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d4e2d718-227b-44a8-9bb5-30231b9e5d77",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

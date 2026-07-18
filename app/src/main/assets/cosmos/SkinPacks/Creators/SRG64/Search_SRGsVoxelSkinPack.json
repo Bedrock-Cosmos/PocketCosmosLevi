@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "74694ab4-178f-4c60-a0dd-96ec4627390e",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "SRG's Voxel Skin Pack",
+          "neutral": "SRG's Voxel Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "Pixel art comes to life in this skin pack, with over 70 voxelated characters available to choose from!",
+          "neutral": "Pixel art comes to life in this skin pack, with over 70 voxelated characters available to choose from!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "74694ab4-178f-4c60-a0dd-96ec4627390e",
+          "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-07-08T03:32:10Z",
+        "LastModifiedDate": "2026-07-08T03:32:10Z",
+        "DisplayProperties": {
+          "creatorName": "SRG64",
+          "offerId": "74694ab4-178f-4c60-a0dd-96ec4627390e",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+              "version": "1.3.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

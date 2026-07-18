@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d726d93c-3d26-40d6-872d-c125281c6c73",
+      "Contents": [
+        {
+          "Id": "76c7020b-eaba-4e02-b0c6-52661d831b3e",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/SabilityGhastCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "10a5bcc1-288a-4274-bfe5-d7448506d25f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
