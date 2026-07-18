@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "d25169b8-cf46-4e58-a3a1-918a90c165c8",
+      "Contents": [
+        {
+          "Id": "9aaf7694-e7e7-4e21-8198-a928306455d0",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Sability/SulfurCubeCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Sability",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3b5b107f-8301-4afb-8a24-aec1ba0f4d79",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
