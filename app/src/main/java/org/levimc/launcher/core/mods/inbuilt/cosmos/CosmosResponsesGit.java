@@ -74,6 +74,7 @@ public class CosmosResponsesGit {
     }
 
     public void checkUpdateOnLaunch() {
+        CosmosSessionTracker.trackSessionStartAsync();
         String localEtag = getLocalEtag();
         if (localEtag == null || localEtag.isEmpty()) {
             Log.d(TAG, "No local ETag found, doing full release GET request.");
