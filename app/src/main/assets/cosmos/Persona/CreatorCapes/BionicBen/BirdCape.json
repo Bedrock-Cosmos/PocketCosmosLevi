@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "cae8049a-57f5-48c9-bfed-7ad77ea8d727",
+      "Contents": [
+        {
+          "Id": "8e9a2a84-5931-4c4a-8e83-0da3c1ea2902",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/BionicBen/BirdCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "9c481374-38f3-4ba6-bd72-ed8cae95a672",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

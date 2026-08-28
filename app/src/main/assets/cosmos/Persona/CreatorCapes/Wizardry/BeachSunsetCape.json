@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a29ed67d-33ff-4126-8eef-815aa12c5bec",
+      "Contents": [
+        {
+          "Id": "7161f1a3-6bda-40bd-b102-fef987f40eb0",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/BeachSunsetCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "df12a0fe-07d1-48fa-b926-04d65b2485be",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

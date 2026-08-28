@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "27076531-21e4-4f5a-9e2e-0c6047edb317",
+      "Contents": [
+        {
+          "Id": "f50f9949-decc-4f8e-a16d-758ab74d9345",
+          "Url": "https://capes.bedrock-cosmos.app/zips/PokeBallCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Avalanche_Ali",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "fb2f936c-c0c5-44c9-867b-a5b7d9d2f33d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

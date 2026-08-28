@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "007b46cc-421c-4ee3-8c7a-a2b63b8582e8",
+      "Contents": [
+        {
+          "Id": "e2908675-e487-4585-8191-cb0fc493e34c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SoulFireCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Spyynz",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "1c16efba-4fce-4ecb-8091-d2ce9589782f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

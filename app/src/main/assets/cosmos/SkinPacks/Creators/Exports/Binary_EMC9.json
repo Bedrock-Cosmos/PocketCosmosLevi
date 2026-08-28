@@ -3,11 +3,11 @@
   "status": "OK",
   "data": {
     "Item": {
-      "Id": "74694ab4-178f-4c60-a0dd-96ec4627390e",
+      "Id": "fc4de45c-9d1c-4909-87be-6e3366a857ba",
       "Contents": [
         {
-          "Id": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
-          "Url": "https://cdn.bedrock-cosmos.app/uss/d3fab/SRGsVoxelSkinPack.zip",
+          "Id": "5fe7c32b-fd56-44ba-b2a1-a549cccc17fd",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/5fe7c/EMC9.zip",
           "MaxClientVersion": "65535.65535.65535",
           "MinClientVersion": "1.2.0",
           "Tags": [],
@@ -15,15 +15,16 @@
         }
       ],
       "DisplayProperties": {
-        "creatorName": "SRG64",
+        "creatorName": "Exports",
         "purchasable": false,
         "packIdentity": [
           {
             "type": "skinpack",
-            "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
-            "version": "1.3.1"
+            "uuid": "5fe7c32b-fd56-44ba-b2a1-a549cccc17fd",
+            "version": "1.0.0"
           }
-        ]
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=j2Djo_VPous"
       }
     }
   }
