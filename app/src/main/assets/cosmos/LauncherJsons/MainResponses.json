@@ -402,6 +402,10 @@
     "response": "MainPages\\Creators\\Persona\\Stars_Persona.json"
   },
   {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/PersonaCreatorPage_master_player_account!Wizardry",
+    "response": "MainPages\\Creators\\Persona\\Wizardry_Persona.json"
+  },
+  {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_Alleis_Elis_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\Alleis_Elis_Marketplace.json"
   },
@@ -412,6 +416,10 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_Exports_Marketplace",
     "response": "MainPages\\Creators\\Marketplace\\Exports_Marketplace.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_Mono_Marketplace",
+    "response": "MainPages\\Creators\\Marketplace\\Mono_Marketplace.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/MultiItemPage_SRG64_Marketplace",
@@ -441,6 +449,14 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_b1026ea3-1c85-492d-aa01-21a1d51829fe",
     "response": "SkinPacks\\Creators\\Alleis_Elis\\ItemDetail_AlleisSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/8713ccc6-b61f-4d3a-9719-02b4c670967d",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\ItemDetail_AlleisSlopPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_8713ccc6-b61f-4d3a-9719-02b4c670967d",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\ItemDetail_AlleisSlopPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/ee2e819d-323d-4245-b2a5-b679ae961402",
@@ -545,6 +561,22 @@
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
     "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC8.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/fc4de45c-9d1c-4909-87be-6e3366a857ba",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC9.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_fc4de45c-9d1c-4909-87be-6e3366a857ba",
+    "response": "SkinPacks\\Creators\\Exports\\ItemDetail_EMC9.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/43132398-078d-4a7f-b6b9-5ae469f1e727",
+    "response": "SkinPacks\\Creators\\Mono\\ItemDetail_CasualKnightsSkinPack.json"
+  },
+  {
+    "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/ItemDetail_43132398-078d-4a7f-b6b9-5ae469f1e727",
+    "response": "SkinPacks\\Creators\\Mono\\ItemDetail_CasualKnightsSkinPack.json"
   },
   {
     "url": "https://store.mktpl.minecraft-services.net/api/v2.0/layout/pages/productId/74694ab4-178f-4c60-a0dd-96ec4627390e",
