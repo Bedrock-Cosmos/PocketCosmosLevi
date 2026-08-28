@@ -1555,17 +1555,17 @@
                       {
                         "type": "skinpack",
                         "uuid": "0f2e08ee-8ef2-4521-b03d-9f89c907c70e",
-                        "version": "1.14.2026"
+                        "version": "3.3.26"
                       },
                       {
                         "type": "resourcepack",
                         "uuid": "abfcab1a-19fe-4564-b4ed-ffbda4a77690",
-                        "version": "1.0.71"
+                        "version": "1.0.75"
                       },
                       {
                         "type": "worldtemplate",
                         "uuid": "1dde574b-2b4d-48e6-951e-d135093bcdc9",
-                        "version": "1.0.71"
+                        "version": "1.0.75"
                       }
                     ],
                     "minPerformanceTier": "SuperLowTier",

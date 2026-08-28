@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8003b504-d210-45cc-9123-c7492936f035",
+      "Contents": [
+        {
+          "Id": "86c657ab-2719-42ef-8ff9-9f71cb4a20ff",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/WisteriaCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "91beef3c-3a3d-4f4a-a5bc-d334d7cd1515",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

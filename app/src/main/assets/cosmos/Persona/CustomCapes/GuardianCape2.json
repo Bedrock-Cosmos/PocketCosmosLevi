@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f4073563-8096-49a3-b590-9d1bc77a20c7",
+      "Contents": [
+        {
+          "Id": "12285057-6eca-4949-bc82-2876da0d41f4",
+          "Url": "https://capes.bedrock-cosmos.app/zips/GuardianCape2.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Unknown",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "08d3b4bb-88ce-44c2-a52d-668baa386ba8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
