@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "bc2c4de7-4703-4d38-8996-a81060d638a9",
+      "Contents": [
+        {
+          "Id": "d6a9687d-3594-4deb-9ca0-7180b231e28c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/CoralReefCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3a48a29d-3a25-41ce-afb3-db15405fa5fd",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

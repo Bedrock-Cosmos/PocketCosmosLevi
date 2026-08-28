@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ed93dc89-0ca0-429b-a011-a30fc7502c2d",
+      "Contents": [
+        {
+          "Id": "9add48ec-0de7-4935-beef-93cd05557c58",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/AutumnMapleCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "800756a3-83e2-4b74-afc4-39dbe228d2e6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "380a8a73-0f14-4747-b7b3-07febc968706",
+      "Contents": [
+        {
+          "Id": "ce4f58c8-4feb-455d-8db6-a178568c5f56",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/DesertDuskCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "68070d6a-ca07-46fb-980c-ea45b4554064",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
