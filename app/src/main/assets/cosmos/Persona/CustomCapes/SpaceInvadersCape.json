@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "dabf1c6d-e561-4dc4-bafd-636e8a6c4e95",
+      "Contents": [
+        {
+          "Id": "2abda6fc-f21b-46d4-8e25-c43951d94256",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SpaceInvadersCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Avalanche_Ali",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "10a3fc26-1f70-4c45-8297-363647d9e5fa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

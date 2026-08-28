@@ -103,8 +103,8 @@
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_thumbnail.jpg",
-                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_thumbnail.jpg?width=800&height=450"
+                      "url": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_Update1_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_Update1_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
                       "listPrice": 0,
@@ -126,7 +126,7 @@
                       "navigateInPlace": false
                     },
                     "statistics": {
-                      "skins": 168,
+                      "skins": 184,
                       "worlds": 0,
                       "textures": 0,
                       "behaviors": 0,
@@ -139,7 +139,63 @@
                       {
                         "type": "skinpack",
                         "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
-                        "version": "1.3.5"
+                        "version": "1.3.8"
+                      }
+                    ],
+                    "contents": [],
+                    "platformRestricted": false,
+                    "iconOverlay": [],
+                    "descriptionLineByLine": [],
+                    "startDate": "2026-06-17T07:17:02Z",
+                    "subscription": [],
+                    "thumbnailPreviewOnly": false,
+                    "namedLinksToInfoMap": {}
+                  },
+                  {
+                    "id": "8713ccc6-b61f-4d3a-9719-02b4c670967d",
+                    "contentType": "MarketplaceDurableCatalog_V1.2",
+                    "title": "Alleis Slop Pack",
+                    "creatorName": "Alleis Elis",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://bedrock-cosmos.app/thumbnails/AlleisSlopPack_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/AlleisSlopPack_thumbnail.jpg?width=800&height=450"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "linksTo": "ItemDetail_8713ccc6-b61f-4d3a-9719-02b4c670967d",
+                    "linksToInfo": {
+                      "linksTo": "ItemDetail_8713ccc6-b61f-4d3a-9719-02b4c670967d",
+                      "linkType": "pageId",
+                      "displayType": "store_layout.store_data_driven_screen",
+                      "screenTitle": {
+                        "value": "Alleis Slop Pack",
+                        "replacements": []
+                      },
+                      "navigateInPlace": false
+                    },
+                    "statistics": {
+                      "skins": 27,
+                      "worlds": 0,
+                      "textures": 0,
+                      "behaviors": 0,
+                      "addOns": 0
+                    },
+                    "flags": ["New"],
+                    "ownership": "NotOwned",
+                    "packType": "SkinPack",
+                    "packIdentity": [
+                      {
+                        "type": "skinpack",
+                        "uuid": "262c9840-c332-48d2-b62f-6c19ad0f7aa6",
+                        "version": "1.0.0"
                       }
                     ],
                     "contents": [],
@@ -188,7 +244,7 @@
                       "behaviors": 0,
                       "addOns": 0
                     },
-                    "flags": ["New"],
+                    "flags": [],
                     "ownership": "NotOwned",
                     "packType": "SkinPack",
                     "packIdentity": [
@@ -208,7 +264,7 @@
                     "namedLinksToInfoMap": {}
                   }
                 ],
-                "totalItems": 2,
+                "totalItems": 3,
                 "type": "pagedItemListComp",
                 "$type": "PagedItemListComponent"
               }

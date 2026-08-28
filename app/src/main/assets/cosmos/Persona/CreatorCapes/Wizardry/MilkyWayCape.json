@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4a9dd3db-cb76-4907-b31e-ebd3b7acb603",
+      "Contents": [
+        {
+          "Id": "cb5427bd-5948-4008-b5fc-03b242820851",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/MilkyWayCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "03c78494-64ca-4504-8982-1dc3edae70bf",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
