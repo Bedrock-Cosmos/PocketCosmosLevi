@@ -69,7 +69,7 @@ public final class ChangelogManager {
                 .setBlurBackground(true)
                 .setPositiveButton(activity.getString(R.string.changelog_continue), null)
                 .setOnDismissAnimationEndListener(onComplete);
-        dialog.setCancelable(false);
+        dialog.setCancelable(true);
         dialog.show();
     }
 
