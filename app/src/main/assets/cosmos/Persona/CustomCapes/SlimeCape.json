@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "f8a54840-f633-4597-abdd-41f6c9a86f37",
+      "Contents": [
+        {
+          "Id": "9a3db2ac-45b5-4d6e-b9f6-a66ce6b68547",
+          "Url": "https://capes.bedrock-cosmos.app/zips/SlimeCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "MinecraftCapes",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "47545ffd-4714-4750-83ae-f03963f828ca",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "a36ea909-8876-46a8-bddb-c4116e63c9e6",
+      "Contents": [
+        {
+          "Id": "c3cfc1f0-e835-47a9-9e64-2838a423cbe7",
+          "Url": "https://capes.bedrock-cosmos.app/zips/FireCape1.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Spyynz",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "e884dba6-c396-4149-9856-734dcf0e14c6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

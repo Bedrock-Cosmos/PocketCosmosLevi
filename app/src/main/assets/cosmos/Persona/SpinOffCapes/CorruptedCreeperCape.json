@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "703106e8-a075-4b96-9ab6-f93a42c5b54c",
+      "Contents": [
+        {
+          "Id": "3b546968-34a0-462d-bd52-c61cf0b8ea26",
+          "Url": "https://capes.bedrock-cosmos.app/zips/MinecraftDungeonsII/CorruptedCreeperCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Minecraft Dungeons II",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "977936d8-5377-4e58-ac61-1f959f4d1c8a",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

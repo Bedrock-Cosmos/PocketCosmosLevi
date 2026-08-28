@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "505ae060-ec73-4d88-84b1-74de9b7c898f",
+      "Contents": [
+        {
+          "Id": "4a916323-02f3-4fbf-97f0-c604d78d7955",
+          "Url": "https://capes.bedrock-cosmos.app/zips/BlockOfEmeraldCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Liefubledo",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "69ecf7fa-c883-4fe1-aa17-e165239e786b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

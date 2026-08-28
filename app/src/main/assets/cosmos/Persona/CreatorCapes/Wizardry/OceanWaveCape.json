@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6f17bb3a-f634-4e88-9213-acb4bd6e4bca",
+      "Contents": [
+        {
+          "Id": "3f6efba0-3d69-46b6-a406-0499e141082a",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/OceanWaveCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8d839277-0a5c-4690-af12-b24fa3c2f288",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
