@@ -114,19 +114,19 @@ public class CosmosSpoofs {
                             ? inboxSummary.optJSONArray("categories")
                             : null;
 
-                    // Check if an official LoginAnnouncement is already present
-                    boolean loginAnnouncementExists = false;
+                    // Overwrite any existing official Minecraft LoginAnnouncement with our own
+                    boolean loginAnnouncementExisted = false;
                     if (announcementArray != null) {
-                        for (int i = 0; i < announcementArray.length(); i++) {
+                        for (int i = announcementArray.length() - 1; i >= 0; i--) {
                             JSONObject msg = announcementArray.optJSONObject(i);
                             if (msg != null && "LoginAnnouncement".equals(msg.optString("surface"))) {
-                                loginAnnouncementExists = true;
-                                break;
+                                loginAnnouncementExisted = true;
+                                announcementArray.remove(i);
                             }
                         }
                     }
 
-                    if (!loginAnnouncementExists && NewsManager.isCurrentNewsNew()) {
+                    if (NewsManager.isCurrentNewsNew()) {
                         // Append login announcement banner
                         if (NewsManager.isSendToNewsAnnouncement() && announcementArray != null) {
                             try {
@@ -141,9 +141,10 @@ public class CosmosSpoofs {
                             NewsManager.addNewsToHistory();
 
                         NewsManager.markCurrentNewsAsSeen();
+                    }
 
-                    } else if (loginAnnouncementExists) {
-                        Log.d("NewsProvider", "Skipped appending news: official Minecraft announcement is present.");
+                    if (loginAnnouncementExisted) {
+                        Log.d("NewsProvider", "Overwrote existing official Minecraft LoginAnnouncement with custom news data.");
                     }
 
                     // Always prepend Cosmos inbox into categories
