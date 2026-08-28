@@ -89,6 +89,7 @@ public class CosmosResponsesGit {
         Request request = new Request.Builder()
                 .url(GITHUB_RELEASE_API)
                 .head()
+                .header("If-None-Match", localEtag)
                 .build();
 
         client.newCall(request).enqueue(new Callback() {
@@ -100,9 +101,13 @@ public class CosmosResponsesGit {
             @Override
             public void onResponse(Call call, Response response) {
                 try (response) {
+                    if (response.code() == 304) {
+                        Log.d(TAG, "Responses are already up-to-date (HTTP 304 Not Modified)");
+                        return;
+                    }
                     if (response.isSuccessful()) {
                         String serverEtag = response.header("ETag");
-                        if (serverEtag != null && serverEtag.equals(localEtag)) {
+                        if (isEtagMatching(serverEtag, localEtag)) {
                             Log.d(TAG, "Responses are already up-to-date (ETag matched: " + serverEtag + ")");
                             return;
                         }
@@ -115,6 +120,23 @@ public class CosmosResponsesGit {
                 }
             }
         });
+    }
+
+    private boolean isEtagMatching(String serverEtag, String localEtag) {
+        if (serverEtag == null || localEtag == null) return false;
+        return normalizeEtag(serverEtag).equals(normalizeEtag(localEtag));
+    }
+
+    private String normalizeEtag(String etag) {
+        if (etag == null) return "";
+        etag = etag.trim();
+        if (etag.startsWith("W/") || etag.startsWith("w/")) {
+            etag = etag.substring(2);
+        }
+        if (etag.startsWith("\"") && etag.endsWith("\"") && etag.length() >= 2) {
+            etag = etag.substring(1, etag.length() - 1);
+        }
+        return etag;
     }
 
     private void fetchLatestReleaseBody() {
