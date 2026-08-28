@@ -277,13 +277,13 @@
       "id": "00000000-0000-0000-0000-000000000006",
       "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Twisted Cape",
+      "title": "Corrupted Creeper Cape",
       "creatorName": "Minecraft Dungeons II",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/TwistedCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/CorruptedCreeperCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/MinecraftDungeonsII/CorruptedCreeperCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -294,17 +294,17 @@
         "virtualCurrencyType": "Minecoin"
       },
       "pieceType": "persona_capes",
-      "rarity": "uncommon",
+      "rarity": "legendary",
       "ownership": "NotOwned",
       "packType": "Persona",
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "ed8b1cca-94b8-4019-9225-33de7f3d2b5a",
+          "uuid": "977936d8-5377-4e58-ac61-1f959f4d1c8a",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2026-06-09T03:23:51Z",
+      "startDate": "2026-08-26T21:54:15Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
@@ -328,15 +328,15 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000007",
-      "flags": [],
+      "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Essential Discord Cape",
-      "creatorName": "Minecraft Dungeons",
+      "title": "Emerald Cape",
+      "creatorName": "JakeMCPE",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialDiscordCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/EssentialDiscordCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/EmeraldCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/EmeraldCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -347,13 +347,13 @@
         "virtualCurrencyType": "Minecoin"
       },
       "pieceType": "persona_capes",
-      "rarity": "rare",
+      "rarity": "common",
       "ownership": "NotOwned",
       "packType": "Persona",
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "04ef3712-d5ad-4a5e-b172-98e3b3ab427a",
+          "uuid": "46d73d7b-08ac-4ad1-9df7-c1961b782366",
           "version": "1.0.0"
         }
       ],
@@ -381,15 +381,16 @@
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000008",
+      "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Tiny Takeover Cape",
+      "title": "Slime Cape",
       "description": "§",
-      "creatorName": "Essential",
+      "creatorName": "MinecraftCapes",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/Essential/TinyTakeoverCape.png"
+        "url": "https://capes.bedrock-cosmos.app/icons/SlimeCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/SlimeCape.png"
       },
       "price": {
         "listPrice": 0,
@@ -400,17 +401,17 @@
         "virtualCurrencyType": "Minecoin"
       },
       "pieceType": "persona_capes",
-      "rarity": "legendary",
+      "rarity": "common",
       "ownership": "Purchased",
       "packType": "Persona",
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "3ddf71f3-8eb2-4491-9b48-cd1c8bf6f465",
+          "uuid": "47545ffd-4714-4750-83ae-f03963f828ca",
           "version": "1.0.0"
         }
       ],
-      "startDate": "2026-03-30T12:00:00Z",
+      "startDate": "2025-10-25T12:00:00Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
           "linksTo": "DressingRoom_Capes",
@@ -421,28 +422,28 @@
       }
     },
     {
-      "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+      "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
       "linksToInfo": {
-        "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+        "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
         "linkType": "external",
         "displayType": "store_layout.character_creator_screen",
         "screenTitle": {
-          "value": "NAC",
+          "value": "BionicBen",
           "replacements": []
         },
         "navigateInPlace": false
       },
       "thumbnailPreviewOnly": true,
       "id": "00000000-0000-0000-0000-000000000009",
-      "flags": [],
+      "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "MCC - Blue Bats Cape",
-      "creatorName": "NAC",
+      "title": "Sunset Cape",
+      "creatorName": "BionicBen",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCBlueBatsCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/NAC/MCCBlueBatsCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SunsetCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/BionicBen/SunsetCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -459,14 +460,14 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "80cb534a-a1b2-4eee-b975-477bc7541365",
+          "uuid": "106b446b-faf1-40fd-a9ec-e9b5cd5ca19d",
           "version": "1.0.0"
         }
       ],
       "startDate": "2025-10-25T12:00:00Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
-          "linksTo": "PersonaCreatorPage_master_player_account!NAC",
+          "linksTo": "PersonaCreatorPage_master_player_account!BionicBen",
           "linkType": "external",
           "displayType": "store_layout.character_creator_screen",
           "navigateInPlace": false
@@ -474,13 +475,13 @@
       }
     },
     {
-      "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+      "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
       "linksToInfo": {
-        "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+        "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
         "linkType": "external",
         "displayType": "store_layout.character_creator_screen",
         "screenTitle": {
-          "value": "Sability",
+          "value": "Wizardry",
           "replacements": []
         },
         "navigateInPlace": false
@@ -489,13 +490,13 @@
       "id": "00000000-0000-0000-0000-000000000010",
       "flags": ["New"],
       "contentType": "PersonaDurable",
-      "title": "Cod Cape",
-      "creatorName": "Sability",
+      "title": "Torii Gate Cape",
+      "creatorName": "Wizardry",
       "thumbnail": {
         "tag": "Thumbnail",
         "type": "Thumbnail",
-        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/CodCape.png",
-        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Sability/CodCape.png?width=800&height=450"
+        "url": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Wizardry/ToriiGateCape.png",
+        "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/CreatorCapes/Wizardry/ToriiGateCape.png?width=800&height=450"
       },
       "price": {
         "listPrice": 0,
@@ -512,14 +513,14 @@
       "packIdentity": [
         {
           "type": "persona_piece",
-          "uuid": "6eef95ea-d4f4-43c4-b40b-5eb545e5bdd9",
+          "uuid": "3fb96d37-4413-48fb-a9a3-84c7170378fa",
           "version": "1.0.0"
         }
       ],
       "startDate": "2025-10-25T12:00:00Z",
       "namedLinksToInfoMap": {
         "dr.persona_creator_page": {
-          "linksTo": "PersonaCreatorPage_master_player_account!Sability",
+          "linksTo": "PersonaCreatorPage_master_player_account!Wizardry",
           "linkType": "external",
           "displayType": "store_layout.character_creator_screen",
           "navigateInPlace": false

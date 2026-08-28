@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "992ee3eb-d073-4953-9e1e-879aec1b6154",
+      "Contents": [
+        {
+          "Id": "05cbed32-6e4b-4153-bf18-e7159db223f8",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/EmberVolcanoCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "6f8480d4-eb87-40b4-9409-f3108bb9dbe0",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

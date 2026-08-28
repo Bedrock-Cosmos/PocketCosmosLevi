@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "829d2a65-bbb4-49c3-9d94-e9a13082c529",
+      "Contents": [
+        {
+          "Id": "59ad71dc-851d-487d-810d-7802cdd4e674",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/NorthernLightsCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "8468e19e-e434-4ffb-8941-21355f34bcf7",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

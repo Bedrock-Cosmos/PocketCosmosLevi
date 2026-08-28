@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "8713ccc6-b61f-4d3a-9719-02b4c670967d",
+      "Contents": [
+        {
+          "Id": "262c9840-c332-48d2-b62f-6c19ad0f7aa6",
+          "Url": "https://cdn.bedrock-cosmos.app/uss/262c9/AlleisSlopPack.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.2.0",
+          "Tags": [],
+          "Type": "skinbinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Alleis Elis",
+        "purchasable": false,
+        "packIdentity": [
+          {
+            "type": "skinpack",
+            "uuid": "262c9840-c332-48d2-b62f-6c19ad0f7aa6",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

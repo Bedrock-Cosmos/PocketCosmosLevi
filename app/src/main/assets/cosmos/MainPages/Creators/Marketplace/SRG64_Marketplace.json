@@ -103,8 +103,8 @@
                     "thumbnail": {
                       "tag": "Thumbnail",
                       "type": "Thumbnail",
-                      "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_thumbnail.jpg",
-                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_thumbnail.jpg?width=800&height=450"
+                      "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg",
+                      "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg?width=800&height=450"
                     },
                     "price": {
                       "listPrice": 0,
@@ -126,7 +126,7 @@
                       "navigateInPlace": false
                     },
                     "statistics": {
-                      "skins": 74,
+                      "skins": 85,
                       "worlds": 0,
                       "textures": 0,
                       "behaviors": 0,
@@ -139,7 +139,7 @@
                       {
                         "type": "skinpack",
                         "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
-                        "version": "1.3.0"
+                        "version": "1.3.1"
                       }
                     ],
                     "contents": [],

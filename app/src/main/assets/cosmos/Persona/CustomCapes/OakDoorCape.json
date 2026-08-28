@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "86dcf5d2-6a31-4a78-a0fb-53d5f798f641",
+      "Contents": [
+        {
+          "Id": "db98b4af-ceba-42b2-a39d-a15f10d3cb14",
+          "Url": "https://capes.bedrock-cosmos.app/zips/OakDoorCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Liefubledo",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "96de2ab0-1ed2-47d0-9dab-6be1bd01d93d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
