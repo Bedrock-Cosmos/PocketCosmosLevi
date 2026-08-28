@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "8713ccc6-b61f-4d3a-9719-02b4c670967d",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Alleis Slop Pack",
+          "neutral": "Alleis Slop Pack"
+        },
+        "Description": {
+          "NEUTRAL": "A companion piece to the Alleis Skin Pack, which includes normal skins and other previously-unreleased skins!",
+          "neutral": "A companion piece to the Alleis Skin Pack, which includes normal skins and other previously-unreleased skins!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "8713ccc6-b61f-4d3a-9719-02b4c670967d",
+          "262c9840-c332-48d2-b62f-6c19ad0f7aa6",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-08-16T06:53:12Z",
+        "LastModifiedDate": "2026-08-16T06:53:12Z",
+        "DisplayProperties": {
+          "creatorName": "Alleis Elis",
+          "offerId": "8713ccc6-b61f-4d3a-9719-02b4c670967d",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "262c9840-c332-48d2-b62f-6c19ad0f7aa6",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

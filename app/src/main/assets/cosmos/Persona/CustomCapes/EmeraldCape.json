@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "9f3a002b-b223-4647-9aa7-846ce7f5ffa4",
+      "Contents": [
+        {
+          "Id": "5741bbf6-da29-48e7-82fb-f712be515ed7",
+          "Url": "https://capes.bedrock-cosmos.app/zips/EmeraldCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "JakeMCPE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "46d73d7b-08ac-4ad1-9df7-c1961b782366",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
