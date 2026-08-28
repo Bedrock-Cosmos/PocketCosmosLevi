@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "43132398-078d-4a7f-b6b9-5ae469f1e727",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Casual Knights Skin Pack",
+          "neutral": "Casual Knights Skin Pack"
+        },
+        "Description": {
+          "NEUTRAL": "A fun skin pack containing an assortment of medieval skins!",
+          "neutral": "A fun skin pack containing an assortment of medieval skins!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "43132398-078d-4a7f-b6b9-5ae469f1e727",
+          "8d4eb2f0-d468-4e64-a485-06e948caed48",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-08-18T20:03:13Z",
+        "LastModifiedDate": "2026-08-18T20:03:13Z",
+        "DisplayProperties": {
+          "creatorName": "Mono",
+          "offerId": "43132398-078d-4a7f-b6b9-5ae469f1e727",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "8d4eb2f0-d468-4e64-a485-06e948caed48",
+              "version": "1.0.0"
+            }
+          ]
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

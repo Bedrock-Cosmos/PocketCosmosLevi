@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "957395fa-f898-4c31-a3b3-8717eef69586",
+      "Contents": [
+        {
+          "Id": "6c79e3fb-4cac-41d0-ba52-4157613b830c",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/GlowShroomCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "faa59b7c-9a1e-4a5d-9dac-8b916238d459",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

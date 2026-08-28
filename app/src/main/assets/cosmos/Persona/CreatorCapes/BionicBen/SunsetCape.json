@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "420d9136-8916-4253-bcd1-ad6a45c983cc",
+      "Contents": [
+        {
+          "Id": "3533b56d-9643-42b5-85b4-5e985d329d35",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/BionicBen/SunsetCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "106b446b-faf1-40fd-a9ec-e9b5cd5ca19d",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

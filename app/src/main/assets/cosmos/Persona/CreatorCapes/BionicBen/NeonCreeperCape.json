@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "288d1363-a07b-4c29-916f-d2aa07748730",
+      "Contents": [
+        {
+          "Id": "336be672-8a4a-46b4-92e5-c1377ecc474f",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/BionicBen/NeonCreeperCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "BionicBen",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "dc9495d9-d3d2-40be-93dd-ced205632a9b",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

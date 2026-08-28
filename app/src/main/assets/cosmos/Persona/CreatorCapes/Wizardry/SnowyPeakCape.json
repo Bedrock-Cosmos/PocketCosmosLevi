@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "4aa119f4-b89b-4df7-be02-500b1f71e115",
+      "Contents": [
+        {
+          "Id": "97062662-f052-4b90-94a4-d337885f5e05",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/SnowyPeakCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "d6cdeac4-628c-4ce4-8d90-b501d237c168",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

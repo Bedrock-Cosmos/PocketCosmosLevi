@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "b78b4eff-698a-4e45-b8a9-218b0b38e23c",
+      "Contents": [
+        {
+          "Id": "550dd1fc-3f2c-43b9-8762-ca8f46494dba",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/LighthouseCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "b84320c8-bf56-4344-bf67-d69b43a600e8",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

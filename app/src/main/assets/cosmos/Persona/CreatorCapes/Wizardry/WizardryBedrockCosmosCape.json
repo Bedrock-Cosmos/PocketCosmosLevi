@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "ffaa6c40-77d1-4321-b678-a9d925ff719b",
+      "Contents": [
+        {
+          "Id": "ae0e72d1-6bea-448d-81bc-43fa0c3dbbad",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/WizardryBedrockCosmosCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "772b7f3e-b368-4dff-b5e0-97964e7c436c",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

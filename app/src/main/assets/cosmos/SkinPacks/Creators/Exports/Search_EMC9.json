@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Count": 1,
+    "Items": [
+      {
+        "Id": "fc4de45c-9d1c-4909-87be-6e3366a857ba",
+        "Type": "bundle",
+        "Title": {
+          "NEUTRAL": "Matching Cosmetics 9",
+          "neutral": "Matching Cosmetics 9"
+        },
+        "Description": {
+          "NEUTRAL": "Express yourself in game with a friend or partner using the 30 skins in this ninth skin pack!",
+          "neutral": "Express yourself in game with a friend or partner using the 30 skins in this ninth skin pack!"
+        },
+        "ContentType": "MarketplaceDurableCatalog_V1.2",
+        "Tags": [
+          "fc4de45c-9d1c-4909-87be-6e3366a857ba",
+          "5fe7c32b-fd56-44ba-b2a1-a549cccc17fd",
+          "skinpack",
+          "has_skinpack",
+          "3P"
+        ],
+        "CreationDate": "2026-08-16T06:50:14Z",
+        "LastModifiedDate": "2026-08-16T06:50:14Z",
+        "DisplayProperties": {
+          "creatorName": "Exports",
+          "offerId": "fc4de45c-9d1c-4909-87be-6e3366a857ba",
+          "purchasable": false,
+          "packIdentity": [
+            {
+              "type": "skinpack",
+              "uuid": "5fe7c32b-fd56-44ba-b2a1-a549cccc17fd",
+              "version": "1.0.0"
+            }
+          ],
+          "videoUrl": "https://www.youtube.com/watch?v=j2Djo_VPous"
+        }
+      }
+    ],
+    "ConfigurationName": "DEFAULT"
+  }
+}

@@ -185,6 +185,10 @@
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Search_AlleisSkinPack.json"
   },
   {
+    "uuid": "262c9840-c332-48d2-b62f-6c19ad0f7aa6",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Search_AlleisSlopPack.json"
+  },
+  {
     "uuid": "60d6c1f6-ba2c-4086-ae92-bb46f90f3b74",
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Search_VariousGirls.json"
   },
@@ -235,6 +239,14 @@
   {
     "uuid": "cd99e175-5498-4edf-8bb2-ab29cbfc00b9",
     "response": "SkinPacks\\Creators\\Exports\\Search_EMC8.json"
+  },
+  {
+    "uuid": "5fe7c32b-fd56-44ba-b2a1-a549cccc17fd",
+    "response": "SkinPacks\\Creators\\Exports\\Search_EMC9.json"
+  },
+  {
+    "uuid": "8d4eb2f0-d468-4e64-a485-06e948caed48",
+    "response": "SkinPacks\\Creators\\Mono\\Search_CasualKnightsSkinPack.json"
   },
   {
     "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
