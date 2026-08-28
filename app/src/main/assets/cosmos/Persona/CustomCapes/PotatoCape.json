@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "c313e412-c582-4e9a-bd9d-aee981565a72",
+      "Contents": [
+        {
+          "Id": "1972e784-2314-4530-8a43-7783d0f955cd",
+          "Url": "https://capes.bedrock-cosmos.app/zips/PotatoCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "JakeMCPE",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "12d6d5b9-b982-4a03-8275-d08fbd393f8f",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}

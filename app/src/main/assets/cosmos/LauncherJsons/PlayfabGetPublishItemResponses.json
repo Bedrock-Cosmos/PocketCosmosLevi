@@ -240,6 +240,10 @@
     "response": "Persona\\SpinOffCapes\\CloudyClimbTrailerCape.json"
   },
   {
+    "uuid": "703106e8-a075-4b96-9ab6-f93a42c5b54c",
+    "response": "Persona\\SpinOffCapes\\CorruptedCreeperCape.json"
+  },
+  {
     "uuid": "cae14f00-efc1-4be9-afcf-513a125a8e91",
     "response": "Persona\\SpinOffCapes\\CowCrusaderCape.json"
   },
@@ -332,6 +336,10 @@
     "response": "Persona\\CustomCapes\\BlockOfDiamond_cape.json"
   },
   {
+    "uuid": "505ae060-ec73-4d88-84b1-74de9b7c898f",
+    "response": "Persona\\CustomCapes\\BlockOfEmeraldCape.json"
+  },
+  {
     "uuid": "43ad7ce2-3c38-4174-9104-b7c95e242c5a",
     "response": "Persona\\CustomCapes\\BlockOfGold_cape.json"
   },
@@ -372,12 +380,20 @@
     "response": "Persona\\CustomCapes\\EnchantingTable_cape.json"
   },
   {
+    "uuid": "9f3a002b-b223-4647-9aa7-846ce7f5ffa4",
+    "response": "Persona\\CustomCapes\\EmeraldCape.json"
+  },
+  {
     "uuid": "8d8508a7-4a2e-44d8-8e5d-76b61639955d",
     "response": "Persona\\CustomCapes\\EnderPearl_cape.json"
   },
   {
     "uuid": "796e63d1-a146-4c63-b736-b9f0ce553ff2",
     "response": "Persona\\CustomCapes\\EyeOfEnder1_cape.json"
+  },
+  {
+    "uuid": "a36ea909-8876-46a8-bddb-c4116e63c9e6",
+    "response": "Persona\\CustomCapes\\FireCape1.json"
   },
   {
     "uuid": "9d17ba55-cc4a-4e7e-aa41-83fa39e36ac9",
@@ -394,6 +410,10 @@
   {
     "uuid": "3aff5d54-a885-405c-9670-e794473ac3a7",
     "response": "Persona\\CustomCapes\\GoldenApple1_cape.json"
+  },
+  {
+    "uuid": "f4073563-8096-49a3-b590-9d1bc77a20c7",
+    "response": "Persona\\CustomCapes\\GuardianCape2.json"
   },
   {
     "uuid": "ae573c14-0b8b-4bac-bd27-8bf84116f4f2",
@@ -420,6 +440,10 @@
     "response": "Persona\\CustomCapes\\NetherStar_cape.json"
   },
   {
+    "uuid": "86dcf5d2-6a31-4a78-a0fb-53d5f798f641",
+    "response": "Persona\\CustomCapes\\OakDoorCape.json"
+  },
+  {
     "uuid": "01f86701-e166-4cff-97a5-e40dd192f3ec",
     "response": "Persona\\CustomCapes\\OptiFine_cape.json"
   },
@@ -440,8 +464,28 @@
     "response": "Persona\\CustomCapes\\PhantomWings_cape.json"
   },
   {
+    "uuid": "27076531-21e4-4f5a-9e2e-0c6047edb317",
+    "response": "Persona\\CustomCapes\\PokeBallCape.json"
+  },
+  {
+    "uuid": "c313e412-c582-4e9a-bd9d-aee981565a72",
+    "response": "Persona\\CustomCapes\\PotatoCape.json"
+  },
+  {
     "uuid": "449308f3-1f33-4b92-ae94-f7fb198e2c01",
     "response": "Persona\\CustomCapes\\Pumpkin_cape.json"
+  },
+  {
+    "uuid": "f8a54840-f633-4597-abdd-41f6c9a86f37",
+    "response": "Persona\\CustomCapes\\SlimeCape.json"
+  },
+  {
+    "uuid": "007b46cc-421c-4ee3-8c7a-a2b63b8582e8",
+    "response": "Persona\\CustomCapes\\SoulFireCape.json"
+  },
+  {
+    "uuid": "dabf1c6d-e561-4dc4-bafd-636e8a6c4e95",
+    "response": "Persona\\CustomCapes\\SpaceInvadersCape.json"
   },
   {
     "uuid": "64f80879-ff7c-4490-81f8-f081d2dc1bb5",
@@ -480,6 +524,10 @@
     "response": "Persona\\CreatorCapes\\BionicBen\\BionicBenClassic_cape.json"
   },
   {
+    "uuid": "cae8049a-57f5-48c9-bfed-7ad77ea8d727",
+    "response": "Persona\\CreatorCapes\\BionicBen\\BirdCape.json"
+  },
+  {
     "uuid": "6acb51d1-dfe1-435e-803f-425f959b9382",
     "response": "Persona\\CreatorCapes\\BionicBen\\Bread_cape.json"
   },
@@ -492,8 +540,16 @@
     "response": "Persona\\CreatorCapes\\BionicBen\\MediumPing_cape.json"
   },
   {
+    "uuid": "288d1363-a07b-4c29-916f-d2aa07748730",
+    "response": "Persona\\CreatorCapes\\BionicBen\\NeonCreeperCape.json"
+  },
+  {
     "uuid": "1472a239-f11c-4462-a302-59bc9df01a8b",
     "response": "Persona\\CreatorCapes\\BionicBen\\Scythe_cape.json"
+  },
+  {
+    "uuid": "420d9136-8916-4253-bcd1-ad6a45c983cc",
+    "response": "Persona\\CreatorCapes\\BionicBen\\SunsetCape.json"
   },
   {
     "uuid": "e09f5be3-e610-4f4f-9477-2e68a5034e38",
@@ -672,16 +728,72 @@
     "response": "Persona\\CreatorCapes\\Stars\\Sunflower_cape.json"
   },
   {
+    "uuid": "f49fca50-7aec-4e7d-8d41-627ba15b1c16",
+    "response": "Persona\\CreatorCapes\\Wizardry\\WizardryCape.json"
+  },
+  {
+    "uuid": "ed93dc89-0ca0-429b-a011-a30fc7502c2d",
+    "response": "Persona\\CreatorCapes\\Wizardry\\AutumnMapleCape.json"
+  },
+  {
+    "uuid": "a29ed67d-33ff-4126-8eef-815aa12c5bec",
+    "response": "Persona\\CreatorCapes\\Wizardry\\BeachSunsetCape.json"
+  },
+  {
+    "uuid": "bc2c4de7-4703-4d38-8996-a81060d638a9",
+    "response": "Persona\\CreatorCapes\\Wizardry\\CoralReefCape.json"
+  },
+  {
+    "uuid": "380a8a73-0f14-4747-b7b3-07febc968706",
+    "response": "Persona\\CreatorCapes\\Wizardry\\DesertDuskCape.json"
+  },
+  {
+    "uuid": "992ee3eb-d073-4953-9e1e-879aec1b6154",
+    "response": "Persona\\CreatorCapes\\Wizardry\\EmberVolcanoCape.json"
+  },
+  {
+    "uuid": "957395fa-f898-4c31-a3b3-8717eef69586",
+    "response": "Persona\\CreatorCapes\\Wizardry\\GlowShroomCape.json"
+  },
+  {
+    "uuid": "59bf18b7-17c1-4b6d-94fd-8bec303a06fc",
+    "response": "Persona\\CreatorCapes\\Wizardry\\JellyfishCape.json"
+  },
+  {
+    "uuid": "b78b4eff-698a-4e45-b8a9-218b0b38e23c",
+    "response": "Persona\\CreatorCapes\\Wizardry\\LighthouseCape.json"
+  },
+  {
+    "uuid": "4a9dd3db-cb76-4907-b31e-ebd3b7acb603",
+    "response": "Persona\\CreatorCapes\\Wizardry\\MilkyWayCape.json"
+  },
+  {
+    "uuid": "829d2a65-bbb4-49c3-9d94-e9a13082c529",
+    "response": "Persona\\CreatorCapes\\Wizardry\\NorthernLightsCape.json"
+  },
+  {
+    "uuid": "6f17bb3a-f634-4e88-9213-acb4bd6e4bca",
+    "response": "Persona\\CreatorCapes\\Wizardry\\OceanWaveCape.json"
+  },
+  {
+    "uuid": "4aa119f4-b89b-4df7-be02-500b1f71e115",
+    "response": "Persona\\CreatorCapes\\Wizardry\\SnowyPeakCape.json"
+  },
+  {
+    "uuid": "6f42d39e-c982-4e4f-b1aa-5a7062dda07f",
+    "response": "Persona\\CreatorCapes\\Wizardry\\ToriiGateCape.json"
+  },
+  {
+    "uuid": "8003b504-d210-45cc-9123-c7492936f035",
+    "response": "Persona\\CreatorCapes\\Wizardry\\WisteriaCape.json"
+  },
+  {
+    "uuid": "ffaa6c40-77d1-4321-b678-a9d925ff719b",
+    "response": "Persona\\CreatorCapes\\Wizardry\\WizardryBedrockCosmosCape.json"
+  },
+  {
     "uuid": "09f9b23e-8d9c-4ff5-8c11-9c5d3f405df0",
     "response": "Persona\\SkinPackCapes\\EnderDragon_cape.json"
-  },
-  {
-    "uuid": "630b51f3-19ea-46cd-9b8b-6c9e69457ccc",
-    "response": "Persona\\SkinPackCapes\\RedRobedFigure_cape.json"
-  },
-  {
-    "uuid": "df15593e-30c2-470f-8559-afc6aebd3dd0",
-    "response": "Persona\\SkinPackCapes\\WhiteRobedFigure_cape.json"
   },
   {
     "uuid": "b4a07965-1cb3-48b3-930a-2f03579fef4a",
@@ -938,6 +1050,14 @@
   {
     "uuid": "444b313f-e84d-4598-b68f-897aca55b51f",
     "response": "Persona\\SkinPackCapes\\Vulture_cape.json"
+  },
+  {
+    "uuid": "630b51f3-19ea-46cd-9b8b-6c9e69457ccc",
+    "response": "Persona\\SkinPackCapes\\RedRobedFigure_cape.json"
+  },
+  {
+    "uuid": "df15593e-30c2-470f-8559-afc6aebd3dd0",
+    "response": "Persona\\SkinPackCapes\\WhiteRobedFigure_cape.json"
   },
   {
     "uuid": "b3011c06-6997-4ece-9d4f-5044d4308d73",
@@ -1262,6 +1382,10 @@
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_AlleisSkinPack.json"
   },
   {
+    "uuid": "8713ccc6-b61f-4d3a-9719-02b4c670967d",
+    "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_AlleisSlopPack.json"
+  },
+  {
     "uuid": "ee2e819d-323d-4245-b2a5-b679ae961402",
     "response": "SkinPacks\\Creators\\Alleis_Elis\\Binary_VariousGirls.json"
   },
@@ -1312,6 +1436,14 @@
   {
     "uuid": "0b18e5e0-9b6f-452b-9e89-1d3a9f6f95be",
     "response": "SkinPacks\\Creators\\Exports\\Binary_EMC8.json"
+  },
+  {
+    "uuid": "fc4de45c-9d1c-4909-87be-6e3366a857ba",
+    "response": "SkinPacks\\Creators\\Exports\\Binary_EMC9.json"
+  },
+  {
+    "uuid": "43132398-078d-4a7f-b6b9-5ae469f1e727",
+    "response": "SkinPacks\\Creators\\Mono\\Binary_CasualKnightsSkinPack.json"
   },
   {
     "uuid": "74694ab4-178f-4c60-a0dd-96ec4627390e",

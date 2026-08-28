@@ -2,8 +2,10 @@
   "result": {
     "id": "74694ab4-178f-4c60-a0dd-96ec4627390e",
     "pageId": "ItemDetail_74694ab4-178f-4c60-a0dd-96ec4627390e",
-    "addToRecentlyViewed": true,
+    "addToRecentlyViewed": false,
     "pageName": "ItemDetail For 'SRG's Voxel Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
     "layout": [
       {
         "sectionName": "rows",
@@ -28,8 +30,7 @@
                       "indent": 0,
                       "buttonWidth": 0,
                       "color": [],
-                      "offerControlIdType": "None",
-                      "outlineColor": []
+                      "offerControlIdType": "None"
                     },
                     "replacements": []
                   },
@@ -38,34 +39,6 @@
                 "isVisible": true,
                 "type": "topBarMinecoinComp",
                 "$type": "TopBarMinecoinComponent"
-              },
-              {
-                "linksToInfo": {
-                  "linksTo": "Search_SearchHome",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "screenTitle": {
-                    "value": "store.search.title",
-                    "style": {
-                      "highlightColor": [],
-                      "alignment": "Left",
-                      "textColor": [],
-                      "font": "MinecraftTen",
-                      "showBackground": false,
-                      "showOutline": false,
-                      "indent": 0,
-                      "buttonWidth": 0,
-                      "color": [],
-                      "offerControlIdType": "None",
-                      "outlineColor": []
-                    },
-                    "replacements": []
-                  },
-                  "navigateInPlace": false
-                },
-                "isVisible": true,
-                "type": "topBarSearchComp",
-                "$type": "TopBarSearchComponent"
               },
               {
                 "linksToInfo": {
@@ -130,8 +103,8 @@
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_thumbnail.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_thumbnail.jpg?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_Update1_thumbnail.jpg?width=800&height=450"
                   },
                   "price": {
                     "listPrice": -1,
@@ -157,7 +130,7 @@
                     "navigateInPlace": false
                   },
                   "statistics": {
-                    "skins": 74,
+                    "skins": 85,
                     "worlds": 0,
                     "textures": 0,
                     "behaviors": 0,
@@ -170,7 +143,7 @@
                     {
                       "type": "skinpack",
                       "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
-                      "version": "1.3.0"
+                      "version": "1.3.1"
                     }
                   ],
                   "contents": [],
@@ -197,150 +170,216 @@
                 },
                 "type": "purchaseInfoComp",
                 "$type": "PurchaseInfoComponent"
-              }
-            ]
-          },
-          {
-            "controlId": "ItemDescription",
-            "components": [
-              {
-                "headerText": "store.mashup.description",
-                "text": {
-                  "value": "store.mashup.description",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
-                  },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
               },
               {
-                "description": "Pixel art comes to life in this skin pack, with over 70 voxelated characters available to choose from!",
-                "type": "itemDescriptionComp",
-                "$type": "ItemDescriptionComponent"
-              }
-            ],
-            "telemetryId": "store.mashup.description"
-          },
-          {
-            "controlId": "ImageGallery",
-            "components": [
-              {
-                "images": [
+                "tabs": [
                   {
-                    "type": "Unknown",
-                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery1.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery1.jpg?width=800&height=450"
+                    "tabButtonName": {
+                      "value": "About",
+                      "style": {
+                        "highlightColor": [],
+                        "alignment": "Center",
+                        "textColor": [0.3, 0.3, 0.3],
+                        "font": "default",
+                        "showBackground": false,
+                        "showOutline": false,
+                        "indent": 0.0,
+                        "buttonWidth": 0.0,
+                        "color": [],
+                        "offerControlIdType": "None",
+                        "outlineColor": []
+                      },
+                      "replacements": []
+                    },
+                    "rows": [
+                      {
+                        "controlId": "ItemDescription",
+                        "components": [
+                          {
+                            "headerText": "store.mashup.description",
+                            "text": {
+                              "value": "store.mashup.description",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None"
+                              },
+                              "replacements": []
+                            },
+                            "type": "headerComp",
+                            "$type": "HeaderComponent"
+                          },
+                          {
+                            "description": "Pixel art comes to life in this skin pack, with over 80 voxelated characters available to choose from!",
+                            "type": "itemDescriptionComp",
+                            "$type": "ItemDescriptionComponent"
+                          }
+                        ]
+                      },
+                      {
+                        "controlId": "ImageGallery",
+                        "components": [
+                          {
+                            "images": [
+                              {
+                                "type": "Unknown",
+                                "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery1.jpg",
+                                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery1.jpg?width=800&height=450"
+                              },
+                              {
+                                "type": "Unknown",
+                                "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery2.jpg",
+                                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery2.jpg?width=800&height=450"
+                              },
+                              {
+                                "type": "Unknown",
+                                "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery3.jpg",
+                                "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery3.jpg?width=800&height=450"
+                              }
+                            ],
+                            "type": "imageGalleryComp",
+                            "$type": "ImageGalleryComponent"
+                          },
+                          {
+                            "headerText": "Take a tour!",
+                            "text": {
+                              "value": "Take a tour!",
+                              "style": {
+                    "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [
+                                  1.0,
+                                  1.0,
+                                  1.0
+                                ],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "headerComp",
+                            "$type": "HeaderComponent"
+                          }
+                        ],
+                        "telemetryId": "Take a tour!"
+                      },
+                      {
+                        "controlId": "SkinPreview",
+                        "components": [
+                          {
+                            "binary": {
+                              "url": "https://cdn.bedrock-cosmos.app/uss/d3fab/SRGsVoxelSkinPack.zip"
+                            },
+                            "packIdentity": {
+                              "type": "skinpack",
+                              "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
+                              "version": "1.3.1"
+                            },
+                            "type": "skinViewerComp",
+                            "$type": "SkinViewerComponent"
+                          },
+                          {
+                            "headerText": "SRG's Voxel Skin Pack: %s",
+                            "text": {
+                              "value": "SRG's Voxel Skin Pack: %s",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None"
+                              },
+                              "replacements": []
+                            },
+                            "type": "headerComp",
+                            "$type": "HeaderComponent"
+                          }
+                        ]
+                      }
+                    ],
+                    "type": "navigationTabEntryComp",
+                    "$type": "NavigationTabEntryComponent"
                   },
                   {
-                    "type": "Unknown",
-                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery2.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery2.jpg?width=800&height=450"
-                  },
-                  {
-                    "type": "Unknown",
-                    "url": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery3.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/SRGsVoxelSkinPack_gallery3.jpg?width=800&height=450"
+                    "tabButtonName": {
+                      "value": "Changelog",
+                      "style": {
+                        "highlightColor": [],
+                        "alignment": "Center",
+                        "textColor": [0.3, 0.3, 0.3],
+                        "font": "default",
+                        "showBackground": false,
+                        "showOutline": false,
+                        "indent": 0.0,
+                        "buttonWidth": 0.0,
+                        "color": [],
+                        "offerControlIdType": "None",
+                        "outlineColor": []
+                      },
+                      "replacements": []
+                    },
+                    "rows": [
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "1.3.1:\n- Added Sans (Bedrock Cosmos Exclusive Skin)\n- Added Lancer\n- Added Flowery\n- Added Aqua\n- Added KawKaw\n- Added Maraschino\n- Added Fuji\n- Added The Batter\n- Added Piku\n\n1.3.0:\n- Initial Bedrock Cosmos Pack Version Released",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      }
+                    ],
+                    "type": "navigationTabEntryComp",
+                    "$type": "NavigationTabEntryComponent"
                   }
                 ],
-                "type": "imageGalleryComp",
-                "$type": "ImageGalleryComponent"
-              },
-              {
-                "headerText": "Take a tour!",
-                "text": {
-                  "value": "Take a tour!",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [
-                      1.0,
-                      1.0,
-                      1.0
-                    ],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0.0,
-                    "buttonWidth": 0.0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
-                  },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
-              }
-            ],
-            "telemetryId": "Take a tour!"
-          },
-          {
-            "controlId": "SkinPreview",
-            "components": [
-              {
-                "binary": {
-                  "url": "https://cdn.bedrock-cosmos.app/uss/d3fab/SRGsVoxelSkinPack.zip"
-                },
-                "packIdentity": {
-                  "type": "skinpack",
-                  "uuid": "d3fabdf1-3e91-4903-ac95-db2b2d752f8e",
-                  "version": "1.3.0"
-                },
-                "type": "skinViewerComp",
-                "$type": "SkinViewerComponent"
-              },
-              {
-                "headerText": "SRG's Voxel Skin Pack: %s",
-                "text": {
-                  "value": "SRG's Voxel Skin Pack: %s",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
-                  },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
+                "initialTabName": "About",
+                "type": "navigationTabComp",
+                "$type": "NavigationTabComponent"
               }
             ]
           }
-        ]
+        ],
+        "type": "navigationTabEntryComp",
+        "$type": "NavigationTabEntryComponent"
       },
-      {
-        "sectionName": "navigation",
-        "rows": []
-      }
-    ],
-    "pageRefresh": false,
-    "sidebarLayoutType": "Marketplace"
+      { "sectionName": "navigation", "rows": [] }
+    ]
   }
 }

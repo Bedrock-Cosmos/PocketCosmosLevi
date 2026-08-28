@@ -242,6 +242,50 @@
                     }
                   },
                   {
+                    "id": "505ae060-ec73-4d88-84b1-74de9b7c898f",
+                    "contentType": "PersonaDurable",
+                    "title": "Block Of Emerald Cape",
+                    "creatorName": "Liefubledo",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/BlockOfEmeraldCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/BlockOfEmeraldCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "69ecf7fa-c883-4fe1-aa17-e165239e786b",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:15:45Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "43ad7ce2-3c38-4174-9104-b7c95e242c5a",
                     "contentType": "PersonaDurable",
                     "title": "Block Of Gold Cape",
@@ -638,6 +682,50 @@
                     }
                   },
                   {
+                    "id": "9f3a002b-b223-4647-9aa7-846ce7f5ffa4",
+                    "contentType": "PersonaDurable",
+                    "title": "Emerald Cape",
+                    "creatorName": "JakeMCPE",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/EmeraldCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/EmeraldCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "46d73d7b-08ac-4ad1-9df7-c1961b782366",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:16:22Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "8228887d-30bb-44b8-978a-22fc464ff037",
                     "contentType": "PersonaDurable",
                     "title": "Enchanting Table Cape",
@@ -756,6 +844,50 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "a36ea909-8876-46a8-bddb-c4116e63c9e6",
+                    "contentType": "PersonaDurable",
+                    "title": "Fire Cape",
+                    "creatorName": "Spyynz",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/FireCape1.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/FireCape1.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "e884dba6-c396-4149-9856-734dcf0e14c6",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:42:40Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -932,6 +1064,50 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f4073563-8096-49a3-b590-9d1bc77a20c7",
+                    "contentType": "PersonaDurable",
+                    "title": "Guardian Cape",
+                    "creatorName": "Unknown",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/GuardianCape2.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/GuardianCape2.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "08d3b4bb-88ce-44c2-a52d-668baa386ba8",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:43:00Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
@@ -1210,6 +1386,50 @@
                     }
                   },
                   {
+                    "id": "86dcf5d2-6a31-4a78-a0fb-53d5f798f641",
+                    "contentType": "PersonaDurable",
+                    "title": "Oak Door Cape",
+                    "creatorName": "Liefubledo",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/OakDoorCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/OakDoorCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "96de2ab0-1ed2-47d0-9dab-6be1bd01d93d",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:18:02Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "b01a36e6-6426-4585-8eba-6024bea40820",
                     "contentType": "PersonaDurable",
                     "title": "Omniarchive Cape",
@@ -1430,6 +1650,94 @@
                     }
                   },
                   {
+                    "id": "27076531-21e4-4f5a-9e2e-0c6047edb317",
+                    "contentType": "PersonaDurable",
+                    "title": "Poke Ball Cape",
+                    "creatorName": "Avalanche_Ali",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/PokeBallCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/PokeBallCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "fb2f936c-c0c5-44c9-867b-a5b7d9d2f33d",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T22:10:28Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "c313e412-c582-4e9a-bd9d-aee981565a72",
+                    "contentType": "PersonaDurable",
+                    "title": "Potato Cape",
+                    "creatorName": "JakeMCPE",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/PotatoCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/PotatoCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "12d6d5b9-b982-4a03-8275-d08fbd393f8f",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:20:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
                     "id": "449308f3-1f33-4b92-ae94-f7fb198e2c01",
                     "contentType": "PersonaDurable",
                     "title": "Pumpkin Cape",
@@ -1460,6 +1768,138 @@
                       }
                     ],
                     "startDate": "2025-10-25T12:00:00Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f8a54840-f633-4597-abdd-41f6c9a86f37",
+                    "contentType": "PersonaDurable",
+                    "title": "Slime Cape",
+                    "creatorName": "MinecraftCapes",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/SlimeCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/SlimeCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "47545ffd-4714-4750-83ae-f03963f828ca",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-04-27T11:37:42Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "007b46cc-421c-4ee3-8c7a-a2b63b8582e8",
+                    "contentType": "PersonaDurable",
+                    "title": "Soul Fire Cape",
+                    "creatorName": "Spyynz",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/SoulFireCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/SoulFireCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "1c16efba-4fce-4ecb-8091-d2ce9589782f",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:20:55Z",
+                    "namedLinksToInfoMap": {
+                      "dr.persona_creator_page": {
+                        "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",
+                        "linkType": "external",
+                        "displayType": "store_layout.character_creator_screen",
+                        "screenTitle": {
+                          "value": "Custom Capes",
+                          "replacements": []
+                        },
+                        "navigateInPlace": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "dabf1c6d-e561-4dc4-bafd-636e8a6c4e95",
+                    "contentType": "PersonaDurable",
+                    "title": "Space Invaders Cape",
+                    "creatorName": "Avalanche_Ali",
+                    "thumbnail": {
+                      "tag": "Thumbnail",
+                      "type": "Thumbnail",
+                      "url": "https://capes.bedrock-cosmos.app/icons/SpaceInvadersCape.png",
+                      "urlWithResolution": "https://capes.bedrock-cosmos.app/icons/SpaceInvadersCape.png"
+                    },
+                    "price": {
+                      "listPrice": 0,
+                      "realmsInfo": {
+                        "inRealmsPlus": false
+                      },
+                      "currencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                      "virtualCurrencyType": "Minecoin"
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "common",
+                    "ownership": "Purchased",
+                    "packType": "Persona",
+                    "packIdentity": [
+                      {
+                        "type": "persona_piece",
+                        "uuid": "10a3fc26-1f70-4c45-8297-363647d9e5fa",
+                        "version": "1.0.0"
+                      }
+                    ],
+                    "startDate": "2026-08-18T21:21:22Z",
                     "namedLinksToInfoMap": {
                       "dr.persona_creator_page": {
                         "linksTo": "PersonaCreatorPage_master_player_account!BedrockCosmos",

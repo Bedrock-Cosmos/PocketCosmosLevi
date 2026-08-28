@@ -2,8 +2,10 @@
   "result": {
     "id": "b1026ea3-1c85-492d-aa01-21a1d51829fe",
     "pageId": "ItemDetail_b1026ea3-1c85-492d-aa01-21a1d51829fe",
-    "addToRecentlyViewed": true,
+    "addToRecentlyViewed": false,
     "pageName": "ItemDetail For 'Alleis Skin Pack'",
+    "pageRefresh": false,
+    "sidebarLayoutType": "Marketplace",
     "layout": [
       {
         "sectionName": "rows",
@@ -28,8 +30,7 @@
                       "indent": 0,
                       "buttonWidth": 0,
                       "color": [],
-                      "offerControlIdType": "None",
-                      "outlineColor": []
+                      "offerControlIdType": "None"
                     },
                     "replacements": []
                   },
@@ -38,34 +39,6 @@
                 "isVisible": true,
                 "type": "topBarMinecoinComp",
                 "$type": "TopBarMinecoinComponent"
-              },
-              {
-                "linksToInfo": {
-                  "linksTo": "Search_SearchHome",
-                  "linkType": "pageId",
-                  "displayType": "store_layout.store_data_driven_screen",
-                  "screenTitle": {
-                    "value": "store.search.title",
-                    "style": {
-                      "highlightColor": [],
-                      "alignment": "Left",
-                      "textColor": [],
-                      "font": "MinecraftTen",
-                      "showBackground": false,
-                      "showOutline": false,
-                      "indent": 0,
-                      "buttonWidth": 0,
-                      "color": [],
-                      "offerControlIdType": "None",
-                      "outlineColor": []
-                    },
-                    "replacements": []
-                  },
-                  "navigateInPlace": false
-                },
-                "isVisible": true,
-                "type": "topBarSearchComp",
-                "$type": "TopBarSearchComponent"
               },
               {
                 "linksToInfo": {
@@ -130,8 +103,8 @@
                   "thumbnail": {
                     "tag": "Thumbnail",
                     "type": "Thumbnail",
-                    "url": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_thumbnail.jpg",
-                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_thumbnail.jpg?width=800&height=450"
+                    "url": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_Update1_thumbnail.jpg",
+                    "urlWithResolution": "https://bedrock-cosmos.app/thumbnails/AlleisSkinPack_Update1_thumbnail.jpg?width=800&height=450"
                   },
                   "price": {
                     "listPrice": -1,
@@ -157,7 +130,7 @@
                     "navigateInPlace": false
                   },
                   "statistics": {
-                    "skins": 168,
+                    "skins": 184,
                     "worlds": 0,
                     "textures": 0,
                     "behaviors": 0,
@@ -170,7 +143,7 @@
                     {
                       "type": "skinpack",
                       "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
-                      "version": "1.3.5"
+                      "version": "1.3.8"
                     }
                   ],
                   "contents": [],
@@ -197,97 +170,163 @@
                 },
                 "type": "purchaseInfoComp",
                 "$type": "PurchaseInfoComponent"
-              }
-            ]
-          },
-          {
-            "controlId": "ItemDescription",
-            "components": [
-              {
-                "headerText": "store.mashup.description",
-                "text": {
-                  "value": "store.mashup.description",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
-                    ],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
-                  },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
               },
               {
-                "description": "Customize your character with over 150 skins from various franchises, like Super Mario, Super Smash Bros., Minecraft Legends, and more!\n\nSkins with YELLOW names work on some featured servers, like The Hive.\nOther skins use fully-custom models and likely will not work on featured servers.",
-                "type": "itemDescriptionComp",
-                "$type": "ItemDescriptionComponent"
-              }
-            ],
-            "telemetryId": "store.mashup.description"
-          },
-          {
-            "controlId": "SkinPreview",
-            "components": [
-              {
-                "binary": {
-                  "url": "https://cdn.bedrock-cosmos.app/uss/4c783/AlleisSkinPack.zip"
-                },
-                "packIdentity": {
-                  "type": "skinpack",
-                  "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
-                  "version": "1.3.5"
-                },
-                "type": "skinViewerComp",
-                "$type": "SkinViewerComponent"
-              },
-              {
-                "headerText": "Alleis Skin Pack: %s",
-                "text": {
-                  "value": "Alleis Skin Pack: %s",
-                  "style": {
-                    "highlightColor": [],
-                    "alignment": "Left",
-                    "textColor": [
-                      1,
-                      1,
-                      1
+                "tabs": [
+                  {
+                    "tabButtonName": {
+                      "value": "About",
+                      "style": {
+                        "highlightColor": [],
+                        "alignment": "Center",
+                        "textColor": [0.3, 0.3, 0.3],
+                        "font": "default",
+                        "showBackground": false,
+                        "showOutline": false,
+                        "indent": 0.0,
+                        "buttonWidth": 0.0,
+                        "color": [],
+                        "offerControlIdType": "None",
+                        "outlineColor": []
+                      },
+                      "replacements": []
+                    },
+                    "rows": [
+                      {
+                        "controlId": "ItemDescription",
+                        "components": [
+                          {
+                            "headerText": "store.mashup.description",
+                            "text": {
+                              "value": "store.mashup.description",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None"
+                              },
+                              "replacements": []
+                            },
+                            "type": "headerComp",
+                            "$type": "HeaderComponent"
+                          },
+                          {
+                            "description": "Customize your character with over 150 skins from various franchises, like Super Mario, Super Smash Bros., Minecraft Legends, and more!\n\nSkins with YELLOW names work on some featured servers, like The Hive.\nOther skins use fully-custom models and likely will not work on featured servers.",
+                            "type": "itemDescriptionComp",
+                            "$type": "ItemDescriptionComponent"
+                          }
+                        ]
+                      },
+                      {
+                        "controlId": "SkinPreview",
+                        "components": [
+                          {
+                            "binary": {
+                              "url": "https://cdn.bedrock-cosmos.app/uss/4c783/AlleisSkinPack.zip"
+                            },
+                            "packIdentity": {
+                              "type": "skinpack",
+                              "uuid": "4c7836bf-ea15-46ec-9868-33fe9b455631",
+                              "version": "1.3.8"
+                            },
+                            "type": "skinViewerComp",
+                            "$type": "SkinViewerComponent"
+                          },
+                          {
+                            "headerText": "Alleis Skin Pack: %s",
+                            "text": {
+                              "value": "Alleis Skin Pack: %s",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None"
+                              },
+                              "replacements": []
+                            },
+                            "type": "headerComp",
+                            "$type": "HeaderComponent"
+                          }
+                        ]
+                      }
                     ],
-                    "font": "default",
-                    "showBackground": false,
-                    "showOutline": false,
-                    "indent": 0,
-                    "buttonWidth": 0,
-                    "color": [],
-                    "offerControlIdType": "None",
-                    "outlineColor": []
+                    "type": "navigationTabEntryComp",
+                    "$type": "NavigationTabEntryComponent"
                   },
-                  "replacements": []
-                },
-                "type": "headerComp",
-                "$type": "HeaderComponent"
+                  {
+                    "tabButtonName": {
+                      "value": "Changelog",
+                      "style": {
+                        "highlightColor": [],
+                        "alignment": "Center",
+                        "textColor": [0.3, 0.3, 0.3],
+                        "font": "default",
+                        "showBackground": false,
+                        "showOutline": false,
+                        "indent": 0.0,
+                        "buttonWidth": 0.0,
+                        "color": [],
+                        "offerControlIdType": "None",
+                        "outlineColor": []
+                      },
+                      "replacements": []
+                    },
+                    "rows": [
+                      {
+                        "controlId": "TextRow",
+                        "components": [
+                          {
+                            "text": {
+                              "value": "1.3.8:\n- Added Kasane Teto\n- Added Link\n- Added Mima\n- Added Nattowan\n- Added Shine Sprite\n- Added Cosmic Spirit\n\n1.3.7:\n- Added Verity (Monster)\n- Added Verity (Face)\n- Added That Thing\n- Added Mario Sackboy\n- Added Purple Cosmic Clone\n- Added Red Cosmic Clone\n\n1.3.6:\n- Added 12 New Skins\n- Updated 2 Skin Textures\n\n1.3.5:\n- Initial Bedrock Cosmos Pack Version Released",
+                              "style": {
+                                "highlightColor": [],
+                                "alignment": "Left",
+                                "textColor": [1.0, 1.0, 1.0],
+                                "font": "default",
+                                "showBackground": false,
+                                "showOutline": false,
+                                "indent": 0.0,
+                                "buttonWidth": 0.0,
+                                "color": [],
+                                "offerControlIdType": "None",
+                                "outlineColor": []
+                              },
+                              "replacements": []
+                            },
+                            "type": "textComponent",
+                            "$type": "TextComponent"
+                          }
+                        ],
+                        "telemetryId": ""
+                      }
+                    ],
+                    "type": "navigationTabEntryComp",
+                    "$type": "NavigationTabEntryComponent"
+                  }
+                ],
+                "initialTabName": "About",
+                "type": "navigationTabComp",
+                "$type": "NavigationTabComponent"
               }
             ]
           }
-        ]
+        ],
+        "type": "navigationTabEntryComp",
+        "$type": "NavigationTabEntryComponent"
       },
-      {
-        "sectionName": "navigation",
-        "rows": []
-      }
-    ],
-    "pageRefresh": false,
-    "sidebarLayoutType": "Marketplace"
+      { "sectionName": "navigation", "rows": [] }
+    ]
   }
 }

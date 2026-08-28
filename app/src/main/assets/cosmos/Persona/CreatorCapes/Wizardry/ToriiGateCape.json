@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "Item": {
+      "Id": "6f42d39e-c982-4e4f-b1aa-5a7062dda07f",
+      "Contents": [
+        {
+          "Id": "bf7170e7-2037-4630-84e6-00e8850489d1",
+          "Url": "https://capes.bedrock-cosmos.app/zips/CreatorCapes/Wizardry/ToriiGateCape.zip",
+          "MaxClientVersion": "65535.65535.65535",
+          "MinClientVersion": "1.16.0",
+          "Type": "personabinary"
+        }
+      ],
+      "DisplayProperties": {
+        "creatorName": "Wizardry",
+        "originalCreatorId": "9926cc22-2eb0-4bd4-a39d-76c8082a1c58",
+        "purchasable": true,
+        "packIdentity": [
+          {
+            "type": "persona_piece",
+            "uuid": "3fb96d37-4413-48fb-a9a3-84c7170378fa",
+            "version": "1.0.0"
+          }
+        ]
+      }
+    }
+  }
+}
