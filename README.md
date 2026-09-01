@@ -1,32 +1,24 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/78095377?s=200&v=4" alt="LeviLauncher Logo" width="120" height="120" />
-  # LeviLauncher (Unlocked Edition)
-  <p align="center">
-    <strong>A high-performance, modular, and lightweight Android launcher for Minecraft: Bedrock Edition (MCBE).</strong>
-  </p>
-  [![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=PocketCosmos%20Levi&fontSize=70&animation=fadeIn&fontColor=ffffff)](https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked)
-  <!-- BADGES -->
-  <p align="center">
-    <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked/releases">
-      <img src="https://img.shields.io/github/v/release/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=for-the-badge&color=7289da&logo=github" alt="GitHub Release" />
-    </a>
-    <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=for-the-badge&color=43b581" alt="License" />
-    </a>
-    <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked/stargazers">
-      <img src="https://img.shields.io/github/stars/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=for-the-badge&color=faa61a&logo=github" alt="Stars" />
-    </a>
-    <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked/network/members">
-      <img src="https://img.shields.io/github/forks/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=for-the-badge&color=f04747&logo=github" alt="Forks" />
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/github/repo-size/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=flat-square&logo=github&color=blue" alt="Repo Size" />
-    <img src="https://img.shields.io/github/last-commit/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=flat-square&logo=git&color=orange" alt="Last Commit" />
-    <img src="https://img.shields.io/github/issues/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=flat-square&logo=github&color=red" alt="Issues" />
-    <img src="https://img.shields.io/badge/Android-9.0%2B-green?style=flat-square&logo=android" alt="Android Version" />
-  </p>
-  <sub>Built for power users, developers, and Minecraft Bedrock enthusiasts.</sub>
+  <img src="https://avatars.githubusercontent.com/u/78095377?s=200&v=4" width="100" height="100" alt="Logo" />
+  <h1>LeviLauncher (Unlocked Edition)</h1>
+  <p><strong>A high-performance, modular, and lightweight Android launcher for Minecraft: Bedrock Edition (MCBE).</strong></p>
+  <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=PocketCosmos%20Levi&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked/releases">
+    <img src="https://img.shields.io/github/v/tag/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=for-the-badge&color=7289da&logo=github&label=RELEASE" alt="Release" />
+  </a>
+  <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=for-the-badge&color=43b581" alt="License" />
+  </a>
+  <a href="https://github.com/khoadangkim2014-arch/PocketCosmosLevi-Unlocked/stargazers">
+    <img src="https://img.shields.io/github/stars/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=for-the-badge&color=faa61a&logo=github" alt="Stars" />
+  </a>
+  <br /><br />
+  <img src="https://img.shields.io/github/repo-size/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=flat-square&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/khoadangkim2014-arch/PocketCosmosLevi-Unlocked?style=flat-square&logo=git&color=orange" />
+  <img src="https://img.shields.io/badge/Android-9.0%2B-green?style=flat-square&logo=android" />
 </div>
 ---
 ## ⚡ Overview
@@ -50,15 +42,6 @@
 - **Target OS:** Android 9.0+ (API 28+)
 - **Architecture:** ARM64 (`arm64-v8a`)
 - **Build System:** Gradle with GitHub Actions CI/CD Integration
----
-## 📊 Repository Stats
-<div align="center">
-
-| **Activity Overview** | **Repository Metrics** |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoadangkim2014-arch&repo=PocketCosmosLevi-Unlocked&theme=dark&show_icons=true" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoadangkim2014-arch&theme=dark" width="400"/> |
-
-</div>
 ---
 ## 📋 System Requirements
 
