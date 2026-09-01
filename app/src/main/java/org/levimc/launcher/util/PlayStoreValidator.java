@@ -7,10 +7,12 @@ public class PlayStoreValidator {
     private static final String MINECRAFT_PACKAGE_NAME = "com.mojang.minecraftpe";
     private static final String PLAY_STORE_INSTALLER = "com.android.vending";
 
+    // Trả về true luôn để BỎ QUA kiểm tra Play Store -> Không bao giờ bị hiện popup đó nữa
     public static boolean isMinecraftFromPlayStore(Context context) {
-        return isMinecraftInstalled(context);
+        return true;
     }
 
+    // Vẫn giữ lại kiểm tra xem trong máy có cài Minecraft chưa
     public static boolean isMinecraftInstalled(Context context) {
         try {
             PackageManager packageManager = context.getPackageManager();
@@ -21,7 +23,8 @@ public class PlayStoreValidator {
         }
     }
 
+    // Bypass xác thực bản quyền
     public static boolean isLicenseVerified(Context context) {
-        return isMinecraftInstalled(context);
+        return true;
     }
 }
