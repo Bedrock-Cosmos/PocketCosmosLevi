@@ -60,7 +60,7 @@ jobs:
           JSON
 
       - name: Setup Java JDK
-        uses: actions/setup-java@v4
+        uses: actions/setup-java@v5
         with:
           java-version: "21"
           distribution: temurin
@@ -78,8 +78,6 @@ jobs:
         uses: xmake-io/github-action-setup-xmake@v1
         with:
           xmake-version: "2.9.9"
-          actions-cache-folder: ".xmake-cache"
-          actions-cache-key: "ubuntulinux-ci"
 
       - name: Setup Android NDK
         uses: nttld/setup-ndk@v1
@@ -99,19 +97,19 @@ jobs:
         run: ./gradlew assembleDebug assembleBeta assembleRelease
 
       - name: Upload Debug APK
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@v4
         with:
           name: PocketCosmosLevi-debug-apk
           path: app/build/outputs/apk/debug/*.apk
 
       - name: Upload Unsigned Release APK
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@v4
         with:
           name: PocketCosmosLevi-release-unsigned-apk
           path: app/build/outputs/apk/release/*-unsigned.apk
 
       - name: Upload Beta APK
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@v4
         with:
           name: PocketCosmosLevi-beta-apk
           path: app/build/outputs/apk/beta/*.apk
@@ -140,7 +138,7 @@ jobs:
 
       - name: Upload Signed APK Artifact
         if: startsWith(github.ref, 'refs/tags/')
-        uses: actions/upload-artifact@v4.6.2
+        uses: actions/upload-artifact@v4
         with:
           name: PocketCosmosLevi-${{ github.ref_name }}-release.apk
           path: PocketCosmosLevi-${{ github.ref_name }}-release.apk
