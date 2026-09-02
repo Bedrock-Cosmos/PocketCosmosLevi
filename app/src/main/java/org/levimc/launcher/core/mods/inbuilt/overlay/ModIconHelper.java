@@ -17,7 +17,6 @@ public class ModIconHelper {
             case ModIds.SNAPLOOK -> R.drawable.ic_snaplook_normal;
             case ModIds.VIRTUAL_CURSOR -> R.drawable.ic_virtual_cursor;
             case ModIds.GYRO -> R.drawable.ic_gyro_normal;
-            case ModIds.HTTP_INTERCEPTOR -> R.drawable.ic_cosmos;
             case ModIds.POJAV_CONTROLS -> R.drawable.ic_pojav_controls;
             case ModIds.MORE_BUTTONS -> R.drawable.ic_more_buttons_normal;
             case ModIds.HOTBAR_SLOT -> R.drawable.ic_hotbar_slot;

@@ -19,6 +19,7 @@ public class InbuiltModManager {
     private static final String KEY_NOTIFICATIONS_ENABLED = "notifications_enabled";
     private static final String KEY_MOD_MENU_OPACITY = "mod_menu_opacity";
     private static final String KEY_MOD_MENU_BUTTON_OPACITY = "mod_menu_button_opacity";
+    private static final String KEY_MOD_MENU_COMPACT = "mod_menu_compact";
     private static final String KEY_PAUSE_MENU_ONLY = "pause_menu_only";
     private static final String KEY_FAVORITE_MOD_KEYS = "favorite_mod_keys";
     private static final String KEY_INBUILT_MOD_ENABLED_PREFIX = "inbuilt_mod_enabled_";
@@ -46,8 +47,6 @@ public class InbuiltModManager {
     private static final int DEFAULT_CURSOR_SENSITIVITY = 120;
     private static final int DEFAULT_GYRO_SENSITIVITY = 100;
     private static final int DEFAULT_GYRO_DEADZONE = 5;
-    private static final String KEY_COSMOS = "cosmos";
-    private static final String KEY_NEWS_COSMOS = "cosmos_news";
 
     private static volatile InbuiltModManager instance;
     private final SharedPreferences prefs;
@@ -74,16 +73,6 @@ public class InbuiltModManager {
             }
         }
         return instance;
-    }
-
-    public boolean isCosmosEnabled(){
-        return prefs.getBoolean(KEY_COSMOS, true);
-    }
-
-    public boolean isNewsEnabled() { return prefs.getBoolean(KEY_NEWS_COSMOS, true); }
-
-    public void setNews(boolean enabled) {
-        prefs.edit().putBoolean(KEY_NEWS_COSMOS, enabled).apply();
     }
 
     public int getAutoSprintKeybind() {
@@ -128,7 +117,7 @@ public class InbuiltModManager {
     }
 
     public boolean isModMenuEnabled() {
-        return prefs.getBoolean(KEY_MOD_MENU_ENABLED, true);
+        return prefs.getBoolean(KEY_MOD_MENU_ENABLED, false);
     }
 
     public void setModMenuEnabled(boolean enabled) {
@@ -157,6 +146,14 @@ public class InbuiltModManager {
 
     public void setModMenuButtonOpacity(int opacity) {
         prefs.edit().putInt(KEY_MOD_MENU_BUTTON_OPACITY, Math.max(0, Math.min(100, opacity))).apply();
+    }
+
+    public boolean isModMenuCompact() {
+        return prefs.getBoolean(KEY_MOD_MENU_COMPACT, false);
+    }
+
+    public void setModMenuCompact(boolean compact) {
+        prefs.edit().putBoolean(KEY_MOD_MENU_COMPACT, compact).apply();
     }
 
     public boolean isPauseMenuOnly() {

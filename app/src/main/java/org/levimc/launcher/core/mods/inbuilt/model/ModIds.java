@@ -16,7 +16,6 @@ public final class ModIds {
     public static final String MORE_BUTTONS = "more_buttons";
     public static final String HOTBAR_SLOT = "hotbar_slot";
     public static final String MOD_MENU = "mod_menu";
-    public static final String HTTP_INTERCEPTOR = "http_interceptor";
 
     private ModIds() {}
 }

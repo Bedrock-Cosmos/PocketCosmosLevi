@@ -53,6 +53,7 @@ import org.levimc.launcher.ui.views.MainViewModelFactory;
 import org.levimc.launcher.util.ApkImportManager;
 import org.levimc.launcher.util.GithubReleaseUpdater;
 import org.levimc.launcher.util.LanguageManager;
+import org.levimc.launcher.util.InstanceShortcutManager;
 import org.levimc.launcher.util.LauncherStorage;
 import org.levimc.launcher.util.PermissionsHandler;
 import org.levimc.launcher.util.PersonalizationManager;
@@ -95,8 +96,6 @@ import okhttp3.OkHttpClient;
 
  import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.ACTION_MAIN_ACTIVITY_FIRST_DRAWN;
  import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.EXTRA_CLOSE_RESTART_ACTIVITY_ON_FIRST_DRAW;
-
-import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
 
  public class MainActivity extends BaseActivity {
     private ActivityMainBinding binding;
@@ -169,8 +168,9 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
         closeLauncherRestartAfterFirstDraw();
         setupNavBar();
         setupManagersAndHandlers();
-        new GithubReleaseUpdater(this, "Bedrock-Cosmos", "PocketCosmosLevi", permissionResultLauncher).checkUpdateOnLaunch();
-        new CosmosResponsesGit(this).checkUpdateOnLaunch();
+        if (!isInstanceShortcutIntent()) {
+            new GithubReleaseUpdater(this, "LiteLDev", "LeviLaunchroid", permissionResultLauncher).checkUpdateOnLaunch();
+        }
         showEulaIfNeeded();
         setupOnBackPressedCallback();
 
@@ -580,21 +580,67 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
     private void onVersionManagerReady() {
         if (versionManager == null || binding == null) return;
         fileHandler = new FileHandler(this, viewModel, versionManager);
-        setTextMinecraftVersion();
-        updateViewModelVersion();
-        repairNeededVersions();
         binding.launchButton.setEnabled(true);
-        handleVersionDependentIntent();
+        if (!handleInstanceShortcutLaunch()) {
+            setTextMinecraftVersion();
+            updateViewModelVersion();
+            repairNeededVersions();
+            handleVersionDependentIntent();
+        }
         refreshContentCounts();
     }
 
     private void handleVersionDependentIntent() {
         if (versionManager == null || fileHandler == null) return;
+        if (handleInstanceShortcutLaunch()) return;
         if (!forwardIncomingMinecraftResourceToRunningGame()) {
             checkResourcepack();
             handleIncomingFiles();
         }
         handleMinecraftUriLaunch();
+    }
+
+    private boolean handleInstanceShortcutLaunch() {
+        Intent intent = getIntent();
+        if (intent == null || !InstanceShortcutManager.ACTION_LAUNCH_INSTANCE.equals(intent.getAction())) {
+            return false;
+        }
+
+        String type = intent.getStringExtra(InstanceShortcutManager.EXTRA_INSTANCE_TYPE);
+        String key = intent.getStringExtra(InstanceShortcutManager.EXTRA_INSTANCE_KEY);
+        intent.setAction(null);
+        intent.removeExtra(InstanceShortcutManager.EXTRA_INSTANCE_TYPE);
+        intent.removeExtra(InstanceShortcutManager.EXTRA_INSTANCE_KEY);
+        setIntent(intent);
+
+        GameVersion target = findShortcutVersion(type, key);
+        if (target == null) {
+            Toast.makeText(this, R.string.instance_shortcut_missing, Toast.LENGTH_LONG).show();
+            return true;
+        }
+
+        versionManager.selectVersion(target);
+        setTextMinecraftVersion();
+        updateViewModelVersion();
+        if (viewModel != null) viewModel.refreshMods();
+        binding.getRoot().post(this::performActualLaunch);
+        return true;
+    }
+
+    private GameVersion findShortcutVersion(String type, String key) {
+        if (key == null || key.isEmpty()) return null;
+        if (InstanceShortcutManager.TYPE_INSTALLED.equals(type)) {
+            for (GameVersion candidate : versionManager.getInstalledVersions()) {
+                if (key.equals(candidate.packageName)) return candidate;
+            }
+            return null;
+        }
+        if (InstanceShortcutManager.TYPE_CUSTOM.equals(type)) {
+            for (GameVersion candidate : versionManager.getCustomVersions()) {
+                if (key.equals(candidate.directoryName)) return candidate;
+            }
+        }
+        return null;
     }
 
     private void initModsSection() {
@@ -727,11 +773,20 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
     private void showPostEulaFlow() {
         SharedPreferences prefs = getSharedPreferences("LauncherPrefs", MODE_PRIVATE);
         if (!prefs.getBoolean("eula_accepted", false) || postEulaFlowRunning) return;
+        if (isInstanceShortcutIntent()) {
+            showStorageMigrationPromptIfNeeded();
+            return;
+        }
         postEulaFlowRunning = true;
         ChangelogManager.showIfNeeded(this, () -> {
             postEulaFlowRunning = false;
             showStorageMigrationPromptIfNeeded();
         });
+    }
+
+    private boolean isInstanceShortcutIntent() {
+        Intent intent = getIntent();
+        return intent != null && InstanceShortcutManager.ACTION_LAUNCH_INSTANCE.equals(intent.getAction());
     }
 
     private void startStorageMigrationService() {
@@ -1109,12 +1164,11 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
         startActivity(intent);
     }
 
-     private void initMiscellaneousSection() {
-         binding.miscCurseforgeRow.setOnClickListener(v -> startActivity(new Intent(this, CurseForgeActivity.class)));
-         binding.miscCosmosRow.setOnClickListener(v -> startActivity(new Intent(this, CosmosActivity.class)));
-         binding.miscAccountsRow.setOnClickListener(v -> startActivity(new Intent(this, AccountsActivity.class)));
-         binding.miscQuickLaunchRow.setOnClickListener(v -> startActivity(new Intent(this, QuickLaunchActivity.class)));
-     }
+    private void initMiscellaneousSection() {
+        binding.miscCurseforgeRow.setOnClickListener(v -> startActivity(new Intent(this, CurseForgeActivity.class)));
+        binding.miscAccountsRow.setOnClickListener(v -> startActivity(new Intent(this, AccountsActivity.class)));
+        binding.miscQuickLaunchRow.setOnClickListener(v -> startActivity(new Intent(this, QuickLaunchActivity.class)));
+    }
 
     private void openModsFullscreen() {
         Intent intent = new Intent(this, ModsFullscreenActivity.class);

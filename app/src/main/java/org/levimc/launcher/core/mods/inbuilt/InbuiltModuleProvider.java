@@ -79,9 +79,6 @@ public final class InbuiltModuleProvider {
         mods.add(create(activity, manager, overlayManager, ModIds.GYRO,
                 R.string.inbuilt_mod_gyro, R.string.inbuilt_mod_gyro_desc,
                 groupName));
-        mods.add(create(activity, manager, overlayManager, ModIds.HTTP_INTERCEPTOR,
-                R.string.inbuilt_mod_http_interceptor, R.string.inbuilt_mod_http_interceptor_desc,
-                groupName));
         mods.add(create(activity, manager, overlayManager, ModIds.POJAV_CONTROLS,
                 R.string.inbuilt_mod_pojav_controls, R.string.inbuilt_mod_pojav_controls_desc,
                 groupName));
@@ -136,7 +133,7 @@ public final class InbuiltModuleProvider {
                 configs.add(config(CFG_OVERLAY_OPACITY,
                         context.getString(R.string.mod_config_overlay_opacity_percent),
                         UnifiedMod.ConfigType.SLIDER_INT,
-                        "100", "10", "100",
+                        "100", "0", "100",
                         String.valueOf(manager.getOverlayOpacity(modId))));
             }
             configs.add(config(CFG_OVERLAY_LOCK,
@@ -173,7 +170,7 @@ public final class InbuiltModuleProvider {
                 configs.add(config(hotbarSlotConfigKey(slot, CFG_HOTBAR_SLOT_OPACITY),
                         context.getString(R.string.mod_config_hotbar_slot_opacity, slot),
                         UnifiedMod.ConfigType.SLIDER_INT,
-                        "100", "10", "100",
+                        "100", "0", "100",
                         String.valueOf(manager.getOverlayOpacity(overlayKey)), enabledKey));
             }
         }

@@ -252,6 +252,16 @@ Migration must complete before LeviLauncher can continue.</string>
     <string name="instance_clear_icon">Clear</string>
     <string name="instance_icon_hint">Will be saved as LargeLogo.png under the version folder. Click the icon to change.</string>
     <string name="instance_isolation_desc">Isolate game data for this instance. Other instances will not be affected.</string>
+    <string name="instance_shortcut_title">Home Screen Shortcut</string>
+    <string name="instance_shortcut_desc">Name and icon changes save automatically. Tap Add Shortcut to create or update the home screen shortcut.</string>
+    <string name="instance_shortcut_name">Shortcut Name</string>
+    <string name="instance_shortcut_icon">Shortcut Icon</string>
+    <string name="instance_shortcut_choose_icon">Choose Icon</string>
+    <string name="instance_shortcut_default_icon">Use Default</string>
+    <string name="instance_shortcut_add_button">Add Shortcut</string>
+    <string name="instance_settings_auto_save_failed">Could not save this instance setting.</string>
+    <string name="instance_shortcut_not_supported">Your home screen launcher does not support pinned shortcuts.</string>
+    <string name="instance_shortcut_missing">This Minecraft instance is no longer available.</string>
     <string name="instance_danger_zone">Danger Zone</string>
     <string name="instance_danger_zone_desc">These actions affect the instance registration or local files. Double-check before continuing.</string>
     <string name="instance_delete_desc">Permanently deletes this instance from your device, including worlds, configs, and installed content.</string>
@@ -703,6 +713,8 @@ Migration must complete before LeviLauncher can continue.</string>
     <string name="mod_menu_notifications_desc">Show notification when enabling mods</string>
     <string name="mod_menu_opacity">Mod Menu Opacity</string>
     <string name="mod_menu_button_opacity">Mod Menu Button Opacity</string>
+    <string name="mod_menu_compact">Compact Mod Menu</string>
+    <string name="mod_menu_compact_desc">Use a smaller menu with a dense module list and compact filters</string>
     <string name="mod_menu_version">v1.0</string>
     <string name="mod_menu_enabled">Mod Menu enabled</string>
     <string name="mod_menu_disabled">Mod Menu disabled</string>
@@ -1012,11 +1024,4 @@ Migration must complete before LeviLauncher can continue.</string>
     <string name="news_unread_description">Launcher news, %1$d unread</string>
     <string name="news_notification_channel">Launcher news</string>
     <string name="news_notification_channel_description">New LeviLauncher announcements and important notices</string>
-    <!-- Cosmos related -->
-    <string name="inbuilt_mod_http_interceptor" translatable="false">Cosmos injector</string>
-    <string name="inbuilt_mod_http_interceptor_desc" translatable="false">Intercept HTTP requests and inject items</string>
-    <string name="cosmos" translatable="false">Cosmos</string>
-    <string name="cosmos_version" translatable="false">\u0020%s</string>
-    <string name="mc_version" translatable="false">Minecraft v26.10+</string>
-
 </resources>
