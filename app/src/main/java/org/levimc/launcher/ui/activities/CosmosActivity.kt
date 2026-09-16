@@ -43,31 +43,51 @@ class CosmosActivity : BaseActivity() {
             Toast.makeText(this, "News Disabled: $isChecked", Toast.LENGTH_SHORT).show()
         }
 
+        val git = org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit(this)
+
+        addButtonItem("Check Update") {
+            Toast.makeText(this, "Checking for Cosmos responses update...", Toast.LENGTH_SHORT).show()
+            git.forceUpdate {
+                runOnUiThread {
+                    updateChangelogUI(git)
+                    val tagName = git.tagName
+                    val msg = if (!tagName.isNullOrEmpty()) {
+                        "Cosmos responses up-to-date ($tagName)!"
+                    } else {
+                        "Cosmos responses up-to-date!"
+                    }
+                    Toast.makeText(this, msg, Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
+
         addButtonItem("Reset News Data") {
             resetNewsData()
         }
 
-        val changelogTv = findViewById<TextView>(R.id.tv_cosmos_changelog)
-        if (changelogTv != null) {
-            val git = org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit(this)
-            val changelogText = git.changelog
-            if (changelogText.isNullOrEmpty()) {
-                changelogTv.text = "No changelog available."
-            } else {
-                val formattedText = changelogText
-                    .replace("\r\n", "<br/>")
-                    .replace("\n", "<br/>")
-                    .replace(Regex("\\*\\*(.*?)\\*\\*"), "<b>$1</b>")
+        updateChangelogUI(git)
+    }
 
-                changelogTv.text = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {
-                    Html.fromHtml(formattedText, Html.FROM_HTML_MODE_COMPACT)
-                } else {
-                    @Suppress("DEPRECATION")
-                    Html.fromHtml(formattedText)
-                }
+    private fun updateChangelogUI(git: org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit) {
+        val changelogTv = findViewById<TextView>(R.id.tv_cosmos_changelog) ?: return
+        val changelogText = git.changelog
+        if (changelogText.isNullOrEmpty()) {
+            changelogTv.text = "No changelog available."
+        } else {
+            val formattedText = changelogText
+                .replace("\r\n", "<br/>")
+                .replace("\n", "<br/>")
+                .replace(Regex("\\*\\*(.*?)\\*\\*"), "<b>$1</b>")
+
+            changelogTv.text = if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.N) {
+                Html.fromHtml(formattedText, Html.FROM_HTML_MODE_COMPACT)
+            } else {
+                @Suppress("DEPRECATION")
+                Html.fromHtml(formattedText)
             }
         }
     }
+
 
     private fun resetNewsData() {
         val customJsonsDir = File(filesDir, "customJsons")
