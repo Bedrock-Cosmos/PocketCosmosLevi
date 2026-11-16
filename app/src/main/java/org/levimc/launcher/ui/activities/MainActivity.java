@@ -53,8 +53,6 @@ import org.levimc.launcher.util.InstanceShortcutManager;
 import org.levimc.launcher.util.InstanceIcons;
 import org.levimc.launcher.util.LauncherStorage;
 import org.levimc.launcher.util.StorageAccess;
-import org.levimc.launcher.util.InstanceShortcutManager;
-import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
 import org.levimc.launcher.util.PermissionsHandler;
 import org.levimc.launcher.util.PersonalizationManager;
 import org.levimc.launcher.util.ResourcepackHandler;
@@ -78,19 +76,9 @@ import android.view.ViewTreeObserver;
 
 import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.ACTION_MAIN_ACTIVITY_FIRST_DRAWN;
 import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.EXTRA_CLOSE_RESTART_ACTIVITY_ON_FIRST_DRAW;
-
- import org.levimc.launcher.core.auth.MsftAccountStore;
- import org.levimc.launcher.core.auth.MsftAuthManager;
- import org.levimc.launcher.ui.dialogs.LoadingDialog;
- import org.levimc.launcher.util.AccountTextUtils;
- import org.levimc.launcher.util.DialogUtils;
-
- import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.ACTION_MAIN_ACTIVITY_FIRST_DRAWN;
- import static org.levimc.launcher.core.minecraft.MinecraftProcessRestarterKt.EXTRA_CLOSE_RESTART_ACTIVITY_ON_FIRST_DRAW;
-
 import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
 
- public class MainActivity extends BaseActivity {
+public class MainActivity extends BaseActivity {
     private ActivityMainBinding binding;
     private MinecraftLauncher minecraftLauncher;
     private LanguageManager languageManager;
@@ -164,25 +152,25 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
         });
     }
 
-     private void setupOnBackPressedCallback() {
-         onBackPressedCallback = new OnBackPressedCallback(true) {
-             @Override
-             public void handleOnBackPressed() {
-                 org.levimc.launcher.ui.dialogs.CustomAlertDialog exitDialog = new org.levimc.launcher.ui.dialogs.CustomAlertDialog(MainActivity.this);
-                 exitDialog.setTitleText(getString(org.levimc.launcher.R.string.dialog_title_exit_app))
-                         .setIconResource(org.levimc.launcher.R.drawable.ic_dialog_exit)
-                         .setMessage(getString(org.levimc.launcher.R.string.dialog_message_exit_app))
-                         .setPositiveButton(getString(org.levimc.launcher.R.string.dialog_positive_exit), v -> {
-                             exitDialog.dismissImmediately();
-                             finishAffinity();
-                         })
-                         .setNegativeButton(getString(org.levimc.launcher.R.string.dialog_negative_cancel), null)
-                         .show();
-             }
-         };
+    private void setupOnBackPressedCallback() {
+        onBackPressedCallback = new OnBackPressedCallback(true) {
+            @Override
+            public void handleOnBackPressed() {
+                org.levimc.launcher.ui.dialogs.CustomAlertDialog exitDialog = new org.levimc.launcher.ui.dialogs.CustomAlertDialog(MainActivity.this);
+                exitDialog.setTitleText(getString(org.levimc.launcher.R.string.dialog_title_exit_app))
+                        .setIconResource(org.levimc.launcher.R.drawable.ic_dialog_exit)
+                        .setMessage(getString(org.levimc.launcher.R.string.dialog_message_exit_app))
+                        .setPositiveButton(getString(org.levimc.launcher.R.string.dialog_positive_exit), v -> {
+                            exitDialog.dismissImmediately();
+                            finishAffinity();
+                        })
+                        .setNegativeButton(getString(org.levimc.launcher.R.string.dialog_negative_cancel), null)
+                        .show();
+            }
+        };
 
-         getOnBackPressedDispatcher().addCallback(this, onBackPressedCallback);
-     }
+        getOnBackPressedDispatcher().addCallback(this, onBackPressedCallback);
+    }
 
     private void setupManagersAndHandlers() {
         languageManager = new LanguageManager(this);
@@ -522,6 +510,7 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
     }
 
     private void initMiscellaneousSection() {
+        binding.miscCosmosRow.setOnClickListener(v -> startActivity(new Intent(this, CosmosActivity.class)));
         binding.miscCurseforgeRow.setOnClickListener(v -> startActivity(new Intent(this, CurseForgeActivity.class)));
         binding.miscPkgRow.setOnClickListener(v -> startActivity(org.levimc.launcher.ui.packages.PackagesActivity.intent(
                 this, versionManager != null ? versionManager.getSelectedVersion() : null, null)));
@@ -583,12 +572,6 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
         intent.putExtra("version", currentVersion);
         startActivity(intent);
     }
-     private void initMiscellaneousSection() {
-         binding.miscCurseforgeRow.setOnClickListener(v -> startActivity(new Intent(this, CurseForgeActivity.class)));
-         binding.miscCosmosRow.setOnClickListener(v -> startActivity(new Intent(this, CosmosActivity.class)));
-         binding.miscAccountsRow.setOnClickListener(v -> startActivity(new Intent(this, AccountsActivity.class)));
-         binding.miscQuickLaunchRow.setOnClickListener(v -> startActivity(new Intent(this, QuickLaunchActivity.class)));
-     }
 
     private void openModsFullscreen() {
         Intent intent = new Intent(this, ModsFullscreenActivity.class);
@@ -675,7 +658,7 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
         return launchIntent;
     }
 
-     private void showVersionSelectDialog() {
+    private void showVersionSelectDialog() {
         if (!isVersionManagerReady()) return;
 
         List<GameVersion> allVersions = new ArrayList<>();
@@ -849,7 +832,7 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
         startActivity(intent);
     }
 
-     public void setTextMinecraftVersion() {
+    public void setTextMinecraftVersion() {
         if (binding == null) return;
         if (versionManager == null) {
             binding.textMinecraftVersion.setText(getString(R.string.not_found_version));
@@ -994,4 +977,4 @@ import org.levimc.launcher.core.mods.inbuilt.cosmos.CosmosResponsesGit;
         findViewById(R.id.nav_tab_launch).setOnClickListener(v -> {});
     }
 
- }
+}
